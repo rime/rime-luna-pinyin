@@ -68,7 +68,7 @@ speller:
 translator:
   dictionary: luna_pinyin
   preedit_format:
-   - xform/([nl])v/$1ü/
+    - xform/([nl])v/$1ü/
 
 reverse_lookup:
   dictionary: cangjie5
