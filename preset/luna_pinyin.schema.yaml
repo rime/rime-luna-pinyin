@@ -9,7 +9,8 @@ schema:
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    Pinyin input schema for Rime, inspired by these great works:
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
       * CC-CEDICT
       * Android open source project
       * Chewing - 新酷音
