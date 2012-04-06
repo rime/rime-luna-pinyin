@@ -5,7 +5,7 @@
 schema:
   schema_id: luna_pinyin
   name: 朙月拼音
-  version: "0.9.9"
+  version: "0.9.10"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -59,6 +59,7 @@ speller:
     - abbrev/^([zcs]h).+$/$1/
     - derive/^([nl])ve$/$1ue/
     - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
     - derive/ui$/uei/
     - derive/iu$/iou/
     - derive/([aeiou])ng$/$1gn/
