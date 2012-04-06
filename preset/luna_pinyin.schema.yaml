@@ -63,7 +63,7 @@ speller:
     - derive/ui$/uei/
     - derive/iu$/iou/
     - derive/([aeiou])ng$/$1gn/
-    - derive/o(u|ng)$/o/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
     - derive/ong$/on/
     - derive/ao$/oa/
     - derive/([iu])a(o|ng?)$/a$1$2/
