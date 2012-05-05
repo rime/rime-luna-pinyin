@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.9.9"
+version: "0.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19227,6 +19227,7 @@ use_preset_vocabulary: true
 般	bo	0%
 般	pan	0%
 般地	ban de
+般若	bo re
 舭	bi
 舯	zhong
 舰	jian
