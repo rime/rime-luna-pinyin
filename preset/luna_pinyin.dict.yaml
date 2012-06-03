@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.10"
+version: "0.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -21614,7 +21614,6 @@ use_preset_vocabulary: true
 褹	nie
 褹	yi
 褺	die
-褻	bao
 褻	xie
 褼	qian
 褼	xian
