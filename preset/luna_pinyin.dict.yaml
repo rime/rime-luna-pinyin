@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.11"
+version: "0.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2913,8 +2913,10 @@ use_preset_vocabulary: true
 卟	ji
 占	zhan
 占卜	zhan bu
-卡	ka	99.78%
-卡	qia	0.22%
+卡	ka	95%
+卡	qia	5%
+卡子	qia zi
+卡住	qia zhu
 卢	lu
 卣	you
 卤	lu	100%
@@ -3603,6 +3605,7 @@ use_preset_vocabulary: true
 哦喲	o yo
 哧	chi
 哨	shao
+哨卡	shao qia
 哩	li
 哪	na	98.99%
 哪	ne	0.88%
@@ -26085,6 +26088,7 @@ use_preset_vocabulary: true
 闚	kui
 闛	tang
 關	guan
+關卡	guan qia
 闝	piao
 闞	han	2.27%
 闞	kan	97.73%
@@ -27738,6 +27742,7 @@ use_preset_vocabulary: true
 髬	pi
 髭	zi
 髮	fa
+髮卡	fa qia
 髯	ran
 髰	ti
 髱	pao
