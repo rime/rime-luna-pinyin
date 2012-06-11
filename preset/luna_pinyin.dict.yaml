@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12"
+version: "0.12.20120611"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9063,8 +9063,9 @@ use_preset_vocabulary: true
 揠	ya
 握	wo
 揢	ke
-揣	chuai
-揣	chuan
+揣	chuai	100%
+揣	chuan	0%
+揣度	chuai duo
 揤	ji
 揤	jie
 揥	ti
@@ -23365,9 +23366,9 @@ use_preset_vocabulary: true
 踚	lun
 踛	lu
 踜	leng
-踝	guo
-踝	hua
-踝	huai
+踝	guo	0%
+踝	hua	0%
+踝	huai	100%
 踞	ju
 踟	chi
 踠	wan
