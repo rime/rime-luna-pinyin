@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120611"
+version: "0.12.20120612"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3164,6 +3164,7 @@ use_preset_vocabulary: true
 古都	gu du
 句	gou	0%
 句	ju	100%
+句讀	ju dou
 另	ling
 另行	ling xing
 叧	guo
