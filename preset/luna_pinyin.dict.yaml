@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120612"
+version: "0.12.20120617"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -838,6 +838,7 @@ use_preset_vocabulary: true
 丆	xx
 万	mo	0.02%
 万	wan	99.98%
+万俟	mo qi
 丈	zhang
 三	sa	0%
 三	san	100%
@@ -6208,6 +6209,7 @@ use_preset_vocabulary: true
 專長	zhuan chang
 尉	wei	96.39%
 尉	yu	3.61%
+尉遲	yu chi
 尊	zun
 尊重	zun zhong
 尊重網上	zun zhong wang shang
