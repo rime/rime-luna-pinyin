@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120617"
+version: "0.12.20120618"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15372,6 +15372,7 @@ use_preset_vocabulary: true
 登陸	deng lu
 登陸器	deng lu qi
 發	fa
+發人深省	fa ren shen xing
 發源地	fa yuan di
 發生什麼	fa sheng shen me
 發生率	fa sheng lv
@@ -15597,6 +15598,7 @@ use_preset_vocabulary: true
 省	xing	0.12%
 省得	sheng de
 省長	sheng zhang
+省親	xing qin
 眂	shi
 眃	yun
 眄	mian
