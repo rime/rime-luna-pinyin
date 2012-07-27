@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120711"
+version: "0.12.20120727"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10213,6 +10213,7 @@ use_preset_vocabulary: true
 會	gui	0%
 會	hui	99.98%
 會	kuai	0.02%
+會稽	kuai ji
 會計	kuai ji
 會計報表	kuai ji bao biao
 會計學	kuai ji xue
