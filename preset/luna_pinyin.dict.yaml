@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120727"
+version: "0.12.20120819"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -16386,6 +16386,7 @@ use_preset_vocabulary: true
 神	shen
 神似	shen si
 神州行	shen zhou xing
+神出鬼沒	shen chu gui mo
 祟	sui
 祠	ci
 祡	chai
