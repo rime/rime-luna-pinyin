@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120819"
+version: "0.12.20120830"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15920,6 +15920,7 @@ use_preset_vocabulary: true
 矣	yi
 矤	shen
 知	zhi
+知了	zhi liao
 知覺	zhi jue
 矦	hou
 矧	shen
