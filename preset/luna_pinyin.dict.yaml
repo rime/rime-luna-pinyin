@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120830"
+version: "0.12.20120928"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10628,8 +10628,8 @@ use_preset_vocabulary: true
 栟	bing
 栟	ping
 栠	ren
-校	jiao	1.91%
-校	xiao	98.09%
+校	jiao	25%
+校	xiao	100%
 校對	jiao dui
 校正	jiao zheng
 校準	jiao zhun
