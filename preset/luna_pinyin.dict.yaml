@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20120928"
+version: "0.12.20121015"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2004,6 +2004,7 @@ use_preset_vocabulary: true
 僓	tui
 僔	zun
 僕	pu
+僕射	pu ye
 僖	xi
 僗	lao
 僘	chang
