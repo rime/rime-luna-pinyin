@@ -26,7 +26,7 @@
 
 ---
 name: luna_pinyin
-version: "0.12.20121015"
+version: "2012.11.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7565,6 +7565,8 @@ use_preset_vocabulary: true
 心得體會	xin de ti hui
 心率	xin lv
 心肌梗塞	xin ji geng se
+心廣體胖	xin guang ti pan
+心寬體胖	xin kuan ti pan
 忄	xin
 必	bi
 忆	yi
@@ -19908,8 +19910,11 @@ use_preset_vocabulary: true
 葆	bao
 葇	rou
 葈	xi
-葉	ye
+葉	ye	100%
+葉	she	0%
 葉一茜	ye yi qian
+葉公好龍	she gong hao long
+葉公好龍	ye gong hao long
 葊	an
 葋	qu
 葌	jian
