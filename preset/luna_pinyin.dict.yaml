@@ -25,7 +25,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.01.17"
+version: "2013.01.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6605,6 +6605,7 @@ use_preset_vocabulary: true
 崲	huang
 崳	yu
 崴	wei
+崴	wai
 崵	dang
 崵	yang
 崶	feng
