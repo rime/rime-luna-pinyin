@@ -25,7 +25,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.01.26"
+version: "2013.01.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1874,6 +1874,7 @@ use_preset_vocabulary: true
 偰	qi
 偰	xie
 偱	xun
+偲	cai
 偲	sai
 偲	si
 偳	duan
