@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin
   name: 朙月拼音
-  version: "0.13"
+  version: "0.14"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -71,7 +71,9 @@ speller:
 translator:
   dictionary: luna_pinyin
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 reverse_lookup:
   dictionary: cangjie5
