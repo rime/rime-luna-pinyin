@@ -25,7 +25,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.02.15"
+version: "2013.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -29272,3 +29272,5 @@ use_preset_vocabulary: true
 𪘁	ta
 㞞	song
 𪨊	song
+㞎	ba
+㞎	pa
