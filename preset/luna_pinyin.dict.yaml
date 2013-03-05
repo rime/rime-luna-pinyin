@@ -25,7 +25,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.02.23"
+version: "2013.03.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4674,7 +4674,8 @@ use_preset_vocabulary: true
 垶	xing
 垷	xian
 垸	huan
-垸	wan
+垸	yuan
+垸	wan	0%
 垹	bang
 垺	fu
 垺	pei
