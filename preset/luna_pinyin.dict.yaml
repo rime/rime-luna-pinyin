@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.03.08"
+version: "2013.03.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10885,6 +10885,7 @@ use_preset_vocabulary: true
 涉	she
 涊	nian
 涋	tu
+涌	chong	0%
 涌	yong
 涍	xiao
 涎	xian
