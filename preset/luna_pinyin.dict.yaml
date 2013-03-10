@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.03.09"
+version: "2013.03.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10033,7 +10033,7 @@ use_preset_vocabulary: true
 櫘	hui
 櫙	ou
 櫚	lv
-櫛	jie
+櫛	jie	0%
 櫛	zhi
 櫜	gao
 櫝	du
@@ -30449,7 +30449,6 @@ use_preset_vocabulary: true
 不染纖塵	bu ran xian chen
 不樂	bu le
 不樂觀	bu le guan
-不櫛進士	bu jie jin shi
 不止不行	bu zhi bu xing
 不殺	bu shai
 不毛之地	bu mao zhi di
@@ -31265,7 +31264,6 @@ use_preset_vocabulary: true
 來牟	lai mou
 來龍去脈	lai long qu mo
 例行公事	li xing gong shi
-侍巾櫛	shi jin jie
 侍從	shi zong
 侗劇	dong ju
 侗族	dong zu
@@ -33747,7 +33745,6 @@ use_preset_vocabulary: true
 埤雅	pi ya
 埤頭鄉	pi tou xiang
 埳軻	kan ke
-執巾櫛	zhi jin jie
 執法不阿	zhi fa bu e
 執行機關	zhi xing ji guan
 培塿	pou lou
@@ -35213,7 +35210,6 @@ use_preset_vocabulary: true
 巽他羣島	xun ta qun dao
 巽令	xun ling
 巽言	xun yan
-巾櫛	jin jie
 巾車	jin ju
 市地重劃	shi di chong hua
 市場占有率	shi chang zhan you lv
@@ -38846,16 +38842,6 @@ use_preset_vocabulary: true
 檻車	jian ju
 櫂歌	zhao ge
 櫓棹	lu zhao
-櫛垢爬癢	jie gou pa yang
-櫛工	jie gong
-櫛櫛	jie jie
-櫛次鱗比	jie ci lin bi
-櫛比	jie bi
-櫛比鱗差	jie bi lin ci
-櫛比鱗次	jie bi lin ci
-櫛沐	jie mu
-櫛風沐雨	jie feng mu yu
-櫛髮工	jie fa gong
 欃槍	chan cheng
 欄柵	lan zha
 欄楯	lan shun
@@ -39251,7 +39237,6 @@ use_preset_vocabulary: true
 沉重少言	chen zhong shao yan
 沉陷	chen xian
 沏油	qu you
-沐雨櫛風	mu yu jie feng
 沒下	mo xia
 沒不煞	mo bu sha
 沒世	mo shi
@@ -40389,7 +40374,6 @@ use_preset_vocabulary: true
 爪角	zhao jiao
 爪蹄類	zhao ti lei
 爬山調	pa shan diao
-爬櫛	pa jie
 爬行動物	pa xing dong wu
 爭似	zheng si
 爭四角	zheng si jiao
@@ -41300,7 +41284,6 @@ use_preset_vocabulary: true
 盤薄	pan bo
 盤詰	pan jie
 盤踅	pan xue
-盥櫛	guan jie
 盥漱	guan sou
 盥濯	guan zhuo
 盥耳山棲	guan er shan qi
@@ -42054,7 +42037,6 @@ use_preset_vocabulary: true
 篠驂	xiao can
 篤行	du xing
 篤麼	du mo
-篦櫛	bi jie
 簉室	zao shi
 簉弄	zao nong
 簌地	su di
@@ -45277,7 +45259,6 @@ use_preset_vocabulary: true
 豚拍	tun po
 豚柵	tun zha
 象傳	xiang zhuan
-象櫛	xiang jie
 象瑱	xiang tian
 象笏	xiang hu
 象車	xiang ju
@@ -47866,7 +47847,6 @@ use_preset_vocabulary: true
 風急雨驟	feng ji yu zou
 風掣雷行	feng che lei xing
 風檐寸晷	feng yan cun gui
-風櫛雨沐	feng jie yu mu
 風波平地	feng bo ping di
 風流倜儻	feng liu ti tang
 風流蘊藉	feng liu yun jie
@@ -48319,7 +48299,6 @@ use_preset_vocabulary: true
 鱉懆	bie cao
 鱖豚	gui tun
 鱖魚	gui yu
-鱗次櫛比	lin ci jie bi
 鱗鋏星鐔	lin jia xing tan
 鱣堂	shan tang
 鱣舍	shan she
