@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.03.13"
+version: "2013.03.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5218,6 +5218,7 @@ use_preset_vocabulary: true
 宬	cheng
 宭	qun
 宮	gong
+宮商角徵羽	gong shang jue zhi yu
 宯	xiao
 宰	zai
 宱	zha
