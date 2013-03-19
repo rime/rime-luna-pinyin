@@ -880,7 +880,7 @@ use_preset_vocabulary: true
 临	lin
 丵	zhuo
 丶	dian	79.67%
-丶	zhu	4.4%
+丶	zhu	4.40%
 丷	ba
 丷	xx
 丸	wan
@@ -982,8 +982,8 @@ use_preset_vocabulary: true
 亃	lin
 亄	yi
 亅	jue
-了	le	98.9%
-了	liao	1.1%
+了	le	98.90%
+了	liao	1.10%
 亇	ge
 予	yu
 争	zheng
@@ -1062,8 +1062,8 @@ use_preset_vocabulary: true
 亾	wu
 亿	yi
 什	she	0%
-什	shen	84.2%
-什	shi	15.8%
+什	shen	84.20%
+什	shi	15.80%
 仁	ren
 仂	le
 仂	li
@@ -1092,8 +1092,8 @@ use_preset_vocabulary: true
 仑	lun
 仒	xx
 仓	cang
-仔	zai	55.4%
-仔	zi	44.6%
+仔	zai	55.40%
+仔	zi	44.60%
 仕	shi
 他	ta	100%
 他	tuo	0%
@@ -1364,7 +1364,7 @@ use_preset_vocabulary: true
 価	jia
 侢	dai
 侣	lv
-侥	jiao	56.9%
+侥	jiao	56.90%
 侦	zhen
 侧	ce	99.69%
 侧	zhai	0.18%
@@ -1749,8 +1749,8 @@ use_preset_vocabulary: true
 僣	jian
 僣	tie
 僤	dan
-僥	jiao	56.9%
-僥	yao	44.1%
+僥	jiao	56.90%
+僥	yao	44.10%
 僦	jiu
 僧	seng	100%
 僧	zeng	0%
@@ -1922,8 +1922,8 @@ use_preset_vocabulary: true
 兪	yu	100%
 八	ba
 公	gong
-六	liu	99.9%
-六	lu	0.1%
+六	liu	99.90%
+六	lu	0.10%
 兮	xi
 兰	lan
 共	gong
@@ -2170,8 +2170,8 @@ use_preset_vocabulary: true
 則	ze
 剈	yuan
 剉	cuo
-削	xiao	72.3%
-削	xue	27.7%
+削	xiao	72.30%
+削	xue	27.70%
 剋	ke
 剌	la
 前	qian
@@ -2298,8 +2298,8 @@ use_preset_vocabulary: true
 劯	zhu
 劰	miao
 励	li
-劲	jin	78.8%
-劲	jing	21.2%
+劲	jin	78.80%
+劲	jing	21.20%
 劳	lao
 労	lao
 劵	juan
@@ -2316,8 +2316,8 @@ use_preset_vocabulary: true
 劾	he
 势	shi
 勀	ke
-勁	jin	78.8%
-勁	jing	21.2%
+勁	jin	78.80%
+勁	jing	21.20%
 勂	gao
 勂	hao
 勃	bo
@@ -2336,8 +2336,8 @@ use_preset_vocabulary: true
 勏	pou
 勐	meng
 勑	chi
-勒	le	96.2%
-勒	lei	3.8%
+勒	le	96.20%
+勒	lei	3.80%
 勓	jie
 勓	kai
 勔	mian
@@ -2494,7 +2494,7 @@ use_preset_vocabulary: true
 卒	zu	98.12%
 卓	zhuo
 協	xie
-单	chan	0.1%
+单	chan	0.10%
 单	dan	99.52%
 单	shan	0.38%
 卖	mai
@@ -3314,7 +3314,7 @@ use_preset_vocabulary: true
 喬	jiao	0%
 喬	qiao	100%
 喭	yan
-單	chan	0.1%
+單	chan	0.10%
 單	dan	99.52%
 單	shan	0.38%
 喯	fen
@@ -3480,8 +3480,8 @@ use_preset_vocabulary: true
 嘯	xiao
 嘰	ji
 嘱	zhu
-嘲	chao	99.3%
-嘲	zhao	0.7%
+嘲	chao	99.30%
+嘲	zhao	0.70%
 嘳	gui
 嘳	kui
 嘴	zui
@@ -3800,8 +3800,8 @@ use_preset_vocabulary: true
 圮	si
 圮	yi
 圯	yi
-地	de	25.6%
-地	di	74.4%
+地	de	25.60%
+地	di	74.40%
 圱	qian
 圲	qian
 圳	chou	0%
@@ -3987,8 +3987,8 @@ use_preset_vocabulary: true
 埉	jia
 埊	de
 埊	di
-埋	mai	99.8%
-埋	man	0.2%
+埋	mai	99.80%
+埋	man	0.20%
 埌	lang
 埍	juan
 城	cheng
@@ -4425,7 +4425,7 @@ use_preset_vocabulary: true
 夶	pi
 夷	yi
 夸	kua
-夹	jia	99.7%
+夹	jia	99.70%
 夺	duo
 夼	chuan
 夼	kuang
@@ -4451,8 +4451,8 @@ use_preset_vocabulary: true
 奏	zou
 奐	huan
 契	qi	93.95%
-契	qie	0.3%
-契	xie	0.3%
+契	qie	0.30%
+契	xie	0.30%
 奒	kai
 奓	chi
 奓	she
@@ -5898,7 +5898,7 @@ use_preset_vocabulary: true
 巨	ju
 巩	gong
 巫	wu
-差	cha	98.1%
+差	cha	98.10%
 差	chai	1.63%
 差	ci	0.27%
 差	cuo	0%
@@ -7549,8 +7549,8 @@ use_preset_vocabulary: true
 拼	pin
 拽	ye	0.18%
 拽	zhuai	99.82%
-拾	she	0.1%
-拾	shi	99.9%
+拾	she	0.10%
+拾	shi	99.90%
 拿	na
 挀	bo
 持	chi
@@ -7591,7 +7591,7 @@ use_preset_vocabulary: true
 挛	lian
 挛	luan
 挛	lvan
-挝	zhua	74.7%
+挝	zhua	74.70%
 挞	ta
 挟	jia
 挟	xia
@@ -7616,9 +7616,9 @@ use_preset_vocabulary: true
 挱	sa
 挱	sha
 挱	suo
-挲	sa	12.5%
-挲	sha	12.5%
-挲	suo	87.5%
+挲	sa	12.50%
+挲	sha	12.50%
+挲	suo	87.50%
 挳	jing
 挳	keng
 挴	mei
@@ -8027,8 +8027,8 @@ use_preset_vocabulary: true
 摦	hua
 摧	cui
 摨	nai
-摩	ma	0.1%
-摩	mo	99.9%
+摩	ma	0.10%
+摩	mo	99.90%
 摪	jiang
 摪	qiang
 摫	gui
@@ -8134,9 +8134,9 @@ use_preset_vocabulary: true
 撫	wu	0%
 撬	qiao
 播	bo
-撮	cuo	99.9%
+撮	cuo	99.90%
 撮	zui	0%
-撮	zuo	0.1%
+撮	zuo	0.10%
 撯	zhuo
 撰	zhuan
 撱	tuo
@@ -8381,8 +8381,8 @@ use_preset_vocabulary: true
 敯	hun
 敯	min
 数	cu	0%
-数	shu	99.5%
-数	shuo	0.5%
+数	shu	99.50%
+数	shuo	0.50%
 数	su	0%
 敱	ai
 敱	zhu
@@ -8394,8 +8394,8 @@ use_preset_vocabulary: true
 敶	zhen
 敷	fu
 數	cu	0%
-數	shu	99.5%
-數	shuo	0.5%
+數	shu	99.50%
+數	shuo	0.50%
 數	su	0%
 敹	liao
 敺	ou
@@ -8861,8 +8861,8 @@ use_preset_vocabulary: true
 曲	qu
 曳	ye
 曳	yi
-更	geng	99.9%
-更	jing	0.1%
+更	geng	99.90%
+更	jing	0.10%
 曵	ye
 曵	yi
 曶	hu
@@ -9140,8 +9140,8 @@ use_preset_vocabulary: true
 柚	you	100%
 柚	zhu	0%
 柛	shen
-柜	gui	99.3%
-柜	ju	0.7%
+柜	gui	99.30%
+柜	ju	0.70%
 柝	chi
 柝	tuo
 柞	ze
@@ -9210,8 +9210,8 @@ use_preset_vocabulary: true
 栔	qi
 栕	chen
 栕	zhen
-栖	qi	64.8%
-栖	xi	35.2%
+栖	qi	64.80%
+栖	xi	35.20%
 栗	li
 栘	chi
 栘	yi
@@ -9467,8 +9467,8 @@ use_preset_vocabulary: true
 棯	ren
 棰	chui
 棱	leng
-棲	qi	64.8%
-棲	xi	35.2%
+棲	qi	64.80%
+棲	xi	35.20%
 棳	zhuo
 棴	fu
 棵	ke
@@ -10292,8 +10292,8 @@ use_preset_vocabulary: true
 殴	qu
 段	duan
 殶	zhu
-殷	yan	0.2%
-殷	yin	99.8%
+殷	yan	0.20%
+殷	yin	99.80%
 殸	keng
 殸	qing
 殸	sheng
@@ -10644,8 +10644,8 @@ use_preset_vocabulary: true
 泇	jia
 泈	zhong
 泉	quan
-泊	bo	87.4%
-泊	po	12.6%
+泊	bo	87.40%
+泊	po	12.60%
 泋	hui
 泌	bi	0%
 泌	mi	100%
@@ -11448,8 +11448,8 @@ use_preset_vocabulary: true
 潣	min
 潤	run
 潥	su
-潦	lao	12.5%
-潦	liao	87.5%
+潦	lao	12.50%
+潦	liao	87.50%
 潧	zeng
 潧	zhen
 潨	cong
@@ -12143,8 +12143,8 @@ use_preset_vocabulary: true
 熜	zong
 熝	lu
 熞	jian
-熟	shou	12.2%
-熟	shu	87.8%
+熟	shou	12.20%
+熟	shu	87.80%
 熠	yi
 熡	lou
 熢	feng
@@ -13757,8 +13757,8 @@ use_preset_vocabulary: true
 盘	pan
 盙	fu
 盚	qiu
-盛	cheng	5.2%
-盛	sheng	94.8%
+盛	cheng	5.20%
+盛	sheng	94.80%
 盜	dao
 盝	lu
 盞	zhan
@@ -14801,8 +14801,8 @@ use_preset_vocabulary: true
 稺	zhi
 稻	dao
 稼	jia
-稽	ji	96.1%
-稽	qi	3.9%
+稽	ji	96.10%
+稽	qi	3.90%
 稾	gao
 稿	gao
 穀	gu
@@ -15575,8 +15575,8 @@ use_preset_vocabulary: true
 糸	mi
 糸	si
 糺	jiu
-系	ji	0.3%
-系	xi	99.7%
+系	ji	0.30%
+系	xi	99.70%
 糼	gong
 糽	ding
 糽	zheng
@@ -16033,8 +16033,8 @@ use_preset_vocabulary: true
 繨	da
 繩	sheng
 繪	hui
-繫	ji	0.3%
-繫	xi	99.7%
+繫	ji	0.30%
+繫	xi	99.70%
 繬	se
 繭	jian
 繮	gang
@@ -16909,7 +16909,7 @@ use_preset_vocabulary: true
 腋	yi
 腌	a	40%
 腌	ang	40%
-腌	yan	22.6%
+腌	yan	22.60%
 腍	nian
 腍	ren
 腎	shen
@@ -17264,7 +17264,7 @@ use_preset_vocabulary: true
 良	liang
 艰	jian
 艱	jian
-色	se	99.9%
+色	se	99.90%
 色	shai	0.09%
 色	she	0.01%
 艳	yan
@@ -17407,8 +17407,8 @@ use_preset_vocabulary: true
 苣	ju
 苤	pi
 苤	pie
-若	re	0.1%
-若	ruo	99.9%
+若	re	0.10%
+若	ruo	99.90%
 苦	ku
 苧	zhu
 苨	ni
@@ -17812,7 +17812,7 @@ use_preset_vocabulary: true
 落	la	1.06%
 落	lao	0.44%
 落	le	0%
-落	luo	98.5%
+落	luo	98.50%
 萾	ying
 萿	gua
 萿	huo
@@ -18519,7 +18519,7 @@ use_preset_vocabulary: true
 虻	meng
 虼	ge
 虽	sui
-虾	xia	95.7%
+虾	xia	95.70%
 虿	chai
 蚀	shi
 蚁	yi
@@ -18651,8 +18651,8 @@ use_preset_vocabulary: true
 蛢	ping
 蛣	ji
 蛣	jie
-蛤	ge	1.2%
-蛤	ha	98.8%
+蛤	ge	1.20%
+蛤	ha	98.80%
 蛥	she
 蛦	ti
 蛦	yi
@@ -18817,8 +18817,8 @@ use_preset_vocabulary: true
 蝤	qiu
 蝥	mao
 蝥	mou
-蝦	ha	4.3%
-蝦	xia	95.7%
+蝦	ha	4.30%
+蝦	xia	95.70%
 蝧	ying
 蝨	shi
 蝩	chong
@@ -21165,7 +21165,7 @@ use_preset_vocabulary: true
 車	che	99.99%
 車	ju	0.01%
 軋	ga	22.32%
-軋	ya	27.9%
+軋	ya	27.90%
 軋	zha	49.79%
 軌	gui
 軍	jun
@@ -21355,7 +21355,7 @@ use_preset_vocabulary: true
 车	che	99.99%
 车	ju	0.01%
 轧	ga	22.32%
-轧	ya	27.9%
+轧	ya	27.90%
 轧	zha	49.79%
 轨	gui
 轩	xuan
@@ -22826,8 +22826,8 @@ use_preset_vocabulary: true
 鐷	ye
 鐸	duo
 鐹	guo
-鐺	cheng	1.9%
-鐺	dang	98.1%
+鐺	cheng	1.90%
+鐺	dang	98.10%
 鐻	ju
 鐼	fen
 鐽	bi
@@ -22889,8 +22889,8 @@ use_preset_vocabulary: true
 鑮	bo
 鑯	jian
 鑯	qian
-鑰	yao	91.4%
-鑰	yue	8.6%
+鑰	yao	91.40%
+鑰	yue	8.60%
 鑱	chan
 鑲	xiang
 鑳	jian
@@ -22941,8 +22941,8 @@ use_preset_vocabulary: true
 钢	gang
 钣	ban
 钤	qian
-钥	yao	91.4%
-钥	yue	8.6%
+钥	yao	91.40%
+钥	yue	8.60%
 钦	qin
 钧	jun
 钨	wu
@@ -22993,8 +22993,8 @@ use_preset_vocabulary: true
 铖	cheng
 铗	jia
 铙	nao
-铛	cheng	1.9%
-铛	dang	98.1%
+铛	cheng	1.90%
+铛	dang	98.10%
 铜	tong
 铝	lv
 铟	yin
@@ -25621,7 +25621,6 @@ use_preset_vocabulary: true
 鷮	jiao
 鷯	liao
 鷰	yan
-鷰	yan
 鷱	gao
 鷲	jiu
 鷳	xian
@@ -26137,11 +26136,7 @@ use_preset_vocabulary: true
 龤	xie
 龤	yue
 龥	yu
-蘭	lan
-盧	lu
-老	lao
 不	bu
-練	lian
 識	shi
 兀	wu
 嗀	huo
@@ -26287,130 +26282,86 @@ use_preset_vocabulary: true
 𪨊	song
 一個勁	yi ge jin
 一剎那	yi cha na
-一剎那	yi cha na
-一地	yi di
 一地	yi di
 一宿	yi xiu
-一宿	yi xiu
-一席之地	yi xi zhi di
 一席之地	yi xi zhi di
 一意孤行	yi yi gu xing
-一意孤行	yi yi gu xing
-一技之長	yi ji zhi chang
 一技之長	yi ji zhi chang
 一抹	yi mo
-一抹	yi mo
 一朝	yi zhao
-一朝	yi zhao
-一朝一夕	yi zhao yi xi
 一朝一夕	yi zhao yi xi
 一模一樣	yi mo yi yang
 一模一樣	yi mu yi yang
-一模一樣	yi mo yi yang
 一氣呵成	yi qi he cheng
-一氣呵成	yi qi he cheng
-一番	yi fan
 一番	yi fan
 一番話	yi fan hua
 一聲不吭	yi sheng bu keng
 一覺	yi jiao
 一言一行	yi yan yi xing
-一言一行	yi yan yi xing
-一針見血	yi zhen jian xie
 一針見血	yi zhen jian xie
 一長	yi chang
-万俟	mo qi
 万俟	mo qi
 三人行	san ren xing
 三地	san di
 三番	san fan
 三角	san jiao
-三角	san jiao
-三角形	san jiao xing
 三角形	san jiao xing
 三角洲	san jiao zhou
-三角洲	san jiao zhou
-三重	san chong
 三重	san chong
 上不了	shang bu liao
 上地	shang di
 上海地區	shang hai di qu
 下不了	xia bu liao
 下行	xia xing
-下行	xia xing
 下調	xia tiao
 下載地址	xia zai di zhi
 下頜	xia he
 不了	bu le
 不了	bu liao
-不了	bu liao
 不了了	bu liao le
 不了了之	bu liao liao zhi
-不了了之	bu liao liao zhi
 不亦樂乎	bu yi le hu
-不亦樂乎	bu yi le hu
-不似	bu si
 不似	bu si
 不便宜	bu pian yi
 不便宜	bu bian yi
-不便宜	bu pian yi
 不同地區	bu tong di qu
 不堪重負	bu kan zhong fu
 不容樂觀	bu rong le guan
 不對勁	bu dui jin
-不對勁	bu dui jin
 不快樂	bu kuai le
 不曾	bu ceng
-不曾	bu ceng
 不熟	bu shu
-不熟	bu shu
-不着	bu zhao
 不着	bu zhao
 不着	bu zhuo
 不睡覺	bu shui jiao
 不知不覺	bu zhi bu jue
-不知不覺	bu zhi bu jue
-不算什麼	bu suan shen me
 不算什麼	bu suan shen me
 不行	bu xing
-不行	bu xing
-不覺	bu jue
 不覺	bu jue
 不調	bu tiao
 不賺	bu zhuan
 不還	bu huan
-不還	bu huan
 不重	bu zhong
-不重	bu zhong
-不露	bu lu
 不露	bu lu
 世界各地	shi jie ge di
 世界銀行	shi jie yin hang
-世界銀行	shi jie yin hang
 世行	shi hang
 並行	bing xing
-並行	bing xing
-並重	bing zhong
 並重	bing zhong
 中信銀行	zhong xin yin hang
 中國內地	zhong guo nei di
 中國大陸	zhong guo da lu
-中國大陸	zhong guo da lu
 中國重汽	zhong guo zhong qi
-中國銀行	zhong guo yin hang
 中國銀行	zhong guo yin hang
 中央空調	zhong yang kong tiao
 中央銀行	zhong yang yin hang
-中央銀行	zhong yang yin hang
 中東地區	zhong dong di qu
 中的	zhong de
-中的	zhong di
 中的	zhong di
 中秋快樂	zhong qiu kuai le
 中籤率	zhong qian lv
 中資銀行	zhong zi yin hang
 中部地區	zhong bu di qu
-中都	zhong du
 中都	zhong du
 中長期	zhong chang qi
 中長線	zhong chang xian
@@ -26424,56 +26375,36 @@ use_preset_vocabulary: true
 之重	zhi zhong
 之長	zhi chang
 也曾	ye ceng
-也曾	ye ceng
-也行	ye xing
 也行	ye xing
 乾坤	qian kun
-乾坤	qian kun
-乾隆	qian long
 乾隆	qian long
 亂彈	luan tan
-亂彈	luan tan
-了不起	liao bu qi
 了不起	liao bu qi
 了得	liao de
-了得	liao de
 了斷	liao duan
-了斷	liao duan
-了結	liao jie
 了結	liao jie
 五一長假	wu yi chang jia
-五行	wu xing
 五行	wu xing
 五角場	wu jiao chang
 五角大樓	wu jiao da lou
 五體投地	wu ti tou di
-五體投地	wu ti tou di
 些什麼	xie shen me
 亞太地區	ya tai di qu
-亞太地區	ya tai di qu
-交差	jiao chai
 交差	jiao chai
 交行	jiao hang
 交通銀行	jiao tong yin hang
 交響樂	jiao xiang yue
-交響樂	jiao xiang yue
-交響樂團	jiao xiang yue tuan
 交響樂團	jiao xiang yue tuan
 享樂	xiang le
-享樂	xiang le
-京都	jing du
 京都	jing du
 人是誰	ren shi shui
 人民銀行	ren min yin hang
 人畜	ren chu
-人畜	ren chu
 人行	ren hang
-人行道	ren xing dao
 人行道	ren xing dao
 什葉派	shi ye pai
 什麼	shen me
 什麼	she me
-什麼	shen me
 什麼事情	shen me shi qing
 什麼人	shen me ren
 什麼作用	shen me zuo yong
@@ -26507,60 +26438,39 @@ use_preset_vocabulary: true
 什麼關係	shen me guan xi
 什麼顏色	shen me yan se
 仇人	chou ren
-仇人	chou ren
-仇家	chou jia
 仇家	chou jia
 仇恨	chou hen
-仇恨	chou hen
 仇視	chou shi
-仇視	chou shi
-今朝	jin zhao
 今朝	jin zhao
 仔仔	zai zai
-仔細	zi xi
 仔細	zi xi
 仔細看	zi xi kan
 仔細閱讀	zi xi yue du
 他們倆	ta men lia
-他們倆	ta men lia
 任何地方	ren he di fang
 任重道遠	ren zhong dao yuan
-任重道遠	ren zhong dao yuan
-伎倆	ji liang
 伎倆	ji liang
 休閒娛樂	xiu xian yu le
-伯伯	bo bo
 伯伯	bo bo
 伯明翰	bo ming han
 伯格	bo ge
 伯樂	bo le
-伯樂	bo le
-伯母	bo mu
 伯母	bo mu
 伯爵	bo jue
 伯父	bo fu
-伯父	bo fu
-伸長	shen chang
 伸長	shen chang
 伺服器	si fu qi
 伺機	si ji
-伺機	si ji
-似乎	si hu
 似乎	si hu
 似地	shi de
 似是	si shi
 似是而非	si shi er fei
-似是而非	si shi er fei
-似曾相識	si ceng xiang shi
 似曾相識	si ceng xiang shi
 似有	si you
 似水	si shui
 似火	si huo
 伽利略	jia li lve
-伽利略	jia li lve
 低調	di diao
-低調	di diao
-住宿	zhu su
 住宿	zhu su
 住宿費	zhu su fei
 佔便宜	zhan pian yi
@@ -26570,108 +26480,72 @@ use_preset_vocabulary: true
 佔用率	zhan yong lv
 何地	he di
 何曾	he ceng
-何曾	he ceng
 何炅	he jiong
 你哦	ni o
 你快樂	ni kuai le
 使勁	shi jin
-使勁	shi jin
 使用率	shi yong lv
-使用率	shi yong lv
-來勁	lai jin
 來勁	lai jin
 來參加	lai can jia
 例行	li xing
-例行	li xing
 供給	gong gei
-供給	gong ji
 供給	gong ji
 依法行政	yi fa xing zheng
 侵權行爲	qin quan xing wei
-侵權行爲	qin quan xing wei
 便便	bian bian
-便便	pian pian
 便便	pian pian
 便宜	pian yi
 便宜	bian yi
-便宜	pian yi
 便宜貨	pian yi huo
-便宜貨	pian yi huo
-保重	bao zhong
 保重	bao zhong
 信息披露	xin xi pi lu
 信樂團	xin yue tuan
 修行	xiu xing
-修行	xiu xing
 修長	xiu chang
-修長	xiu chang
-俱樂部	ju le bu
 俱樂部	ju le bu
 倆人	lia ren
 個人行爲	ge ren xing wei
 倒地	dao di
-倒地	dao di
-倔強	jue jiang
 倔強	jue jiang
 借宿	jie su
-借宿	jie su
-偏重	pian zhong
 偏重	pian zhong
 做不了	zuo bu liao
 做什麼	zuo shen me
 停泊	ting bo
-停泊	ting bo
 健康快樂	jian kang kuai le
 健康成長	jian kang cheng zhang
 側重	ce zhong
-側重	ce zhong
 側重點	ce zhong dian
 偷着樂	tou zhe le
-傳記	zhuan ji
 傳記	zhuan ji
 傳輸速率	chuan shu su lv
 債務重組	zhai wu chong zu
 僅供參考	jin gong can kao
 僕射	pu ye
-僕射	pu ye
-僥倖	jiao xing
 僥倖	jiao xing
 價格便宜	jia ge pian yi
 償還	chang huan
-償還	chang huan
-儲藏	chu cang
 儲藏	chu cang
 元朝	yuan chao
-元朝	yuan chao
 兄長	xiong zhang
-兄長	xiong zhang
-先行	xian xing
 先行	xian xing
 先行者	xian xing zhe
 光大銀行	guang da yin hang
 克羅地亞	ke luo di ya
 免不了	mian bu liao
-免不了	mian bu liao
-內參	nei can
 內參	nei can
 內地	nei di
-內地	nei di
-內陸	nei lu
 內陸	nei lu
 全國各地	quan guo ge di
 全角	quan jiao
 全軍覆沒	quan jun fu mo
-全軍覆沒	quan jun fu mo
-全長	quan chang
 全長	quan chang
 全面推行	quan mian tui xing
 兩地	liang di
 兩行	liang hang
 八角	ba jiao
-八角	ba jiao
 公仔	gong zai
 公安局長	gong an ju zhang
-公衆參與	gong zhong can yu
 公衆參與	gong zhong can yu
 公鑰	gong yao
 公開發行	gong kai fa xing
@@ -26680,39 +26554,27 @@ use_preset_vocabulary: true
 其他行業	qi ta hang ye
 再行	zai xing
 冰天雪地	bing tian xue di
-冰天雪地	bing tian xue di
-冷藏	leng cang
 冷藏	leng cang
 冷軋	leng zha
 凝重	ning zhong
-凝重	ning zhong
 出不了	chu bu liao
-出人頭地	chu ren tou di
 出人頭地	chu ren tou di
 出什麼	chu shen me
 出差	chu chai
-出差	chu chai
-出沒	chu mo
 出沒	chu mo
 出版發行	chu ban fa xing
 出生地	chu sheng di
 出血	chu xie
 出血	chu xue
-出血	chu xie
 出行	chu xing
-出行	chu xing
-分行	fen hang
 分行	fen hang
 分辨率	fen bian lv
 分辨率爲	fen bian lv wei
 切削	qie xiao
-切削	qie xiao
 切實可行	qie shi ke xing
-列傳	lie zhuan
 列傳	lie zhuan
 利潤增長	li run zeng zhang
 利潤率	li run lv
-利率	li lv
 利率	li lv
 利用效率	li yong xiao lv
 利用率	li yong lv
@@ -26720,96 +26582,65 @@ use_preset_vocabulary: true
 到底是誰	dao di shi shui
 到底誰	dao di shui
 刻薄	ke bo
-刻薄	ke bo
 削弱	xue ruo
-削弱	xue ruo
-削減	xue jian
 削減	xue jian
 前傳	qian zhuan
 前行	qian xing
-前行	qian xing
 剎車	sha che
-剎車	sha che
-剎那	cha na
 剎那	cha na
 剎那間	cha na jian
 剝削	bo xue
-剝削	bo xue
-功不可沒	gong bu ke mo
 功不可沒	gong bu ke mo
 功率	gong lv
-功率	gong lv
-加重	jia zhong
 加重	jia zhong
 加長	jia chang
 助長	zhu zhang
-助長	zhu zhang
 勁兒	jin er
-勁旅	jing lv
 勁旅	jing lv
 勁舞	jin wu
 勁舞團	jin wu tuan
 勁頭	jin tou
-勁頭	jin tou
 勁鬆	jin song
-動彈	dong tan
 動彈	dong tan
 動感地帶	dong gan di dai
 勝地	sheng di
-勝地	sheng di
 勝率	sheng lv
 勢在必行	shi zai bi xing
-勢在必行	shi zai bi xing
-勻稱	yun chen
 勻稱	yun chen
 勻稱	yun cheng
-化纖	hua xian
 化纖	hua xian
 北京地區	bei jing di qu
 北京銀行	bei jing yin hang
 北朝鮮	bei chao xian
-匯率	hui lv
 匯率	hui lv
 匯豐銀行	hui feng yin hang
 區長	qu zhang
 十分重要	shi fen zhong yao
 升學率	sheng xue lv
 午覺	wu jiao
-午覺	wu jiao
 半角	ban jiao
 協會會長	xie hui hui zhang
-協調	xie tiao
 協調	xie tiao
 協調性	xie tiao xing
 協調機制	xie tiao ji zhi
 協調發展	xie tiao fa zhan
 南北朝	nan bei chao
-南北朝	nan bei chao
-南朝	nan chao
 南朝	nan chao
 南水北調	nan shui bei diao
 南無	na mo
 南無	nan wu
-南無	na mo
 南都	nan du
-南都	nan du
-占卜	zhan bu
 占卜	zhan bu
 卡住	qia zhu
 卡子	qia zi
-卡子	qia zi
-厚重	hou zhong
 厚重	hou zhong
 原地	yuan di
 原子彈	yuan zi dan
-原子彈	yuan zi dan
 原產地	yuan chan di
-厭惡	yan wu
 厭惡	yan wu
 去呢	qu ni
 去角質	qu jiao zhi
 參保	can bao
-參加	can jia
 參加	can jia
 參加工作	can jia gong zuo
 參加會議	can jia hui yi
@@ -26818,78 +26649,51 @@ use_preset_vocabulary: true
 參加高考	can jia gao kao
 參合	can he
 參展	can zhan
-參展	can zhan
 參展企業	can zhan qi ye
 參展商	can zhan shang
 參差	cen ci
-參差	cen ci
-參差不齊	cen ci bu qi
 參差不齊	cen ci bu qi
 參戰	can zhan
-參戰	can zhan
 參拜	can bai
-參拜	can bai
-參政	can zheng
 參政	can zheng
 參政議政	can zheng yi zheng
-參數	can shu
 參數	can shu
 參會	can hui
 參演	can yan
 參照	can zhao
-參照	can zhao
 參看	can kan
-參看	can kan
-參考	can kao
 參考	can kao
 參考價格	can kao jia ge
 參考文獻	can kao wen xian
 參考書	can kao shu
-參考書	can kao shu
 參考資料	can kao zi liao
 參股	can gu
 參與	can yu
-參與	can yu
 參與者	can yu zhe
 參見	can jian
-參見	can jian
-參觀	can guan
 參觀	can guan
 參觀者	can guan zhe
 參評	can ping
 參謀	can mou
-參謀	can mou
 參謀長	can mou zhang
 參議員	can yi yuan
 參議院	can yi yuan
-參議院	can yi yuan
-參賽	can sai
 參賽	can sai
 參賽者	can sai zhe
 參賽選手	can sai xuan shou
 參軍	can jun
-參軍	can jun
-參選	can xuan
 參選	can xuan
 參閱	can yue
-參閱	can yue
 反彈	fan tan
-反彈	fan tan
-反省	fan xing
 反省	fan xing
 受不了	shou bu le
 受不了	shou bu liao
-受不了	shou bu liao
 口腔潰瘍	kou qiang kui yang
-古典音樂	gu dian yin yue
 古典音樂	gu dian yin yue
 古天樂	gu tian le
 古惑仔	gu huo zai
 古都	gu du
-古都	gu du
 句讀	ju dou
-句讀	ju dou
-另行	ling xing
 另行	ling xing
 只覺	zhi jue
 只覺得	zhi jue de
@@ -26897,10 +26701,7 @@ use_preset_vocabulary: true
 可口可樂	ke kou ke le
 可執行	ke zhi xing
 可惡	ke wu
-可惡	ke wu
 可樂	ke le
-可樂	ke le
-可行	ke xing
 可行	ke xing
 可行性	ke xing xing
 可調	ke tiao
@@ -26908,84 +26709,54 @@ use_preset_vocabulary: true
 右下角	you xia jiao
 司司長	si si zhang
 司法行政	si fa xing zheng
-司法行政	si fa xing zheng
 司長	si zhang
-司長	si zhang
-吃不了	chi bu liao
 吃不了	chi bu liao
 吃什麼	chi shen me
 吃喝玩樂	chi he wan le
-吃喝玩樂	chi he wan le
 各地	ge di
-各行各業	ge hang ge ye
 各行各業	ge hang ge ye
 合格率	he ge lv
 同時進行	tong shi jin xing
-同樂	tong le
 同樂	tong le
 同比增長	tong bi zeng zhang
 同行業	tong hang ye
 吐血	tu xie
 吐血	tu xue
-吐血	tu xie
-吐露	tu lu
 吐露	tu lu
 吐魯番	tu lu fan
-吐魯番	tu lu fan
-吞沒	tun mo
 吞沒	tun mo
 吭聲	keng sheng
-吭聲	keng sheng
-吱吱	zhi zhi
 吱吱	zhi zhi
 吱聲	zhi sheng
-吱聲	zhi sheng
 吶喊	na han
-吶喊	na han
-呢喃	ni nan
 呢喃	ni nan
 周邊地區	zhou bian di qu
 周長	zhou chang
 呱呱	gua gua
 呱呱	wa wa
 味覺	wei jue
-味覺	wei jue
-呵呵	he he
 呵呵	he he
 呵呵呵	he he he
 呵斥	he chi
-呵斥	he chi
 呵護	he hu
-呵護	he hu
-命中率	ming zhong lv
 命中率	ming zhong lv
 命令行	ming ling hang
-咀嚼	ju jue
 咀嚼	ju jue
 和誰	he shui
 咔嚓	ka cha
 咖啡	ka fei
-咖啡	ka fei
 咖啡因	ka fei yin
-咖啡因	ka fei yin
-咖啡店	ka fei dian
 咖啡店	ka fei dian
 咖啡廳	ka fei ting
-咖啡色	ka fei se
 咖啡色	ka fei se
 咖啡館	ka fei guan
 咖喱	ga li
 咯咯	ge ge
-咯咯	ge ge
 咱們	za men
-咱們	zan men
 咱們	zan men
 咳咳	ke ke
 咳嗽	ke sou
-咳嗽	ke sou
 咽喉	yan hou
-咽喉	yan hou
-品行	pin xing
 品行	pin xing
 哇塞	wa sai
 哦哦	e e
@@ -26999,10 +26770,7 @@ use_preset_vocabulary: true
 哪吒	ne zha
 哪吒	nuo zha
 哽咽	geng ye
-哽咽	geng ye
 唐伯虎	tang bo hu
-唐伯虎	tang bo hu
-唐朝	tang chao
 唐朝	tang chao
 唔好	wu hao
 唔知	wu zhi
@@ -27010,46 +26778,30 @@ use_preset_vocabulary: true
 商廈	shang sha
 商業地產	shang ye di chan
 商業銀行	shang ye yin hang
-商業銀行	shang ye yin hang
 商行	shang hang
-商行	shang hang
-問卷調查	wen juan diao cha
 問卷調查	wen juan diao cha
 喀什	ka shi
 喀嚓	ka cha
 喀嚓	ka ca
 喔喔	wo wo
 喔喔	o o
-喔喔	wo wo
-喜怒哀樂	xi nu ai le
 喜怒哀樂	xi nu ai le
 喜樂	xi le
 喜歡什麼	xi huan shen me
 喜聞樂見	xi wen le jian
-喜聞樂見	xi wen le jian
 喝咖啡	he ka fei
 單于	chan yu
-單于	chan yu
-單薄	dan bo
 單薄	dan bo
 單行	dan xing
-單行	dan xing
 單調	dan diao
-單調	dan diao
-嗅覺	xiu jue
 嗅覺	xiu jue
 嗯啊	en a
 嗯嗯	en en
 嘴角	zui jiao
-嘴角	zui jiao
-器樂	qi yue
 器樂	qi yue
 器重	qi zhong
-器重	qi zhong
-噱頭	xue tou
 噱頭	xue tou
 嚴格執行	yan ge zhi xing
-嚴重	yan zhong
 嚴重	yan zhong
 嚴重影響	yan zhong ying xiang
 嚴重後果	yan zhong hou guo
@@ -27058,9 +26810,7 @@ use_preset_vocabulary: true
 四角	si jiao
 回報率	hui bao lv
 因地制宜	yin di zhi yi
-因地制宜	yin di zhi yi
 因扎吉	yin zha ji
-囤積	tun ji
 囤積	tun ji
 困難重重	kun nan chong chong
 固定利率	gu ding li lv
@@ -27071,14 +26821,10 @@ use_preset_vocabulary: true
 國有銀行	guo you yin hang
 國防部長	guo fang bu zhang
 圍剿	wei jiao
-圍剿	wei jiao
-園地	yuan di
 園地	yuan di
 園長	yuan zhang
 圓角	yuan jiao
 團長	tuan zhang
-團長	tuan zhang
-土地	tu di
 土地	tu di
 土地供應	tu di gong ying
 土地儲備	tu di chu bei
@@ -27088,111 +26834,68 @@ use_preset_vocabulary: true
 土地承包	tu di cheng bao
 土地管理	tu di guan li
 土地資源	tu di zi yuan
-土地資源	tu di zi yuan
 土地開發	tu di kai fa
 土地面積	tu di mian ji
 土生土長	tu sheng tu zhang
-土生土長	tu sheng tu zhang
-在行	zai hang
 在行	zai hang
 地上	di shang
-地上	di shang
-地下	di xia
-地下	di xia
 地下	di xia
 地下城	di xia cheng
 地下室	di xia shi
-地下室	di xia shi
-地下水	di xia shui
 地下水	di xia shui
 地中海	di zhong hai
-地中海	di zhong hai
 地主	di zhu
-地主	di zhu
-地位	di wei
 地位	di wei
 地做	de zuo
 地價	di jia
-地價	di jia
 地兒	di er
 地勢	di shi
-地勢	di shi
-地區	di qu
 地區	di qu
 地區性	di qu xing
 地名	di ming
 地圖	di tu
-地圖	di tu
 地地道道	di di dao dao
-地址	di zhi
 地址	di zhi
 地址欄	di zhi lan
 地域	di yu
-地域	di yu
-地基	di ji
 地基	di ji
 地塊	di kuai
 地層	di ceng
-地層	di ceng
 地市	di shi
 地帶	di dai
-地帶	di dai
-地平線	di ping xian
 地平線	di ping xian
 地府	di fu
-地府	di fu
-地形	di xing
 地形	di xing
 地攤	di tan
-地攤	di tan
-地方	di fang
-地方	di fang
 地方	di fang
 地方性	di fang xing
-地方政府	di fang zheng fu
 地方政府	di fang zheng fu
 地方特色	di fang te se
 地方經濟	di fang jing ji
 地方財政	di fang cai zheng
 地暖	di nuan
 地板	di ban
-地板	di ban
-地標	di biao
 地標	di biao
 地步	di bu
-地步	di bu
-地段	di duan
 地段	di duan
 地殼	di qiao
 地殼	di ke
 地毯	di tan
-地毯	di tan
 地漏	di lou
 地熱	di re
-地熱	di re
-地獄	di yu
 地獄	di yu
 地獄火	di yu huo
 地球	di qiu
-地球	di qiu
 地球人	di qiu ren
 地理	di li
-地理	di li
-地理位置	di li wei zhi
 地理位置	di li wei zhi
 地理環境	di li huan jing
-地理環境	di li huan jing
 地瓜	di gua
-地瓜	di gua
-地產	di chan
 地產	di chan
 地產商	di chan shang
 地產股	di chan gu
 地皮	di pi
-地皮	di pi
 地盤	di pan
-地盤	di pan
-地磚	di zhuan
 地磚	di zhuan
 地稅	di shui
 地稅局	di shui ju
@@ -27200,50 +26903,31 @@ use_preset_vocabulary: true
 地精	di jing
 地級市	di ji shi
 地緣	di yuan
-地緣	di yuan
 地聽	de ting
 地處	di chu
-地表	di biao
 地表	di biao
 地被	di bei
 地裏	di li
 地貌	di mao
-地貌	di mao
-地質	di zhi
 地質	di zhi
 地質災害	di zhi zai hai
 地走	de zou
 地道	di dao
-地道	di dao
-地道	di dao
 地鋪	di pu
-地鋪	di pu
-地鐵	di tie
 地鐵	di tie
 地鐵站	di tie zhan
 地雷	di lei
-地雷	di lei
-地震	di zhen
 地震	di zhen
 地震局	di zhen ju
 地面	di mian
-地面	di mian
-地頭	di tou
 地頭	di tou
 地點	di dian
-地點	di dian
-坦率	tan shuai
 坦率	tan shuai
 埋怨	mai yuan
 埋怨	man yuan
-埋怨	man yuan
-埋沒	mai mo
 埋沒	mai mo
 埋藏	mai cang
-埋藏	mai cang
 執着	zhi zhuo
-執着	zhi zhuo
-執行	zhi xing
 執行	zhi xing
 執行力	zhi xing li
 執行情況	zhi xing qing kuang
@@ -27252,37 +26936,26 @@ use_preset_vocabulary: true
 執行過程	zhi xing guo cheng
 培訓基地	pei xun ji di
 基地	ji di
-基地	ji di
 基地建設	ji di jian she
 基準利率	ji zhun li lv
 基調	ji diao
-基調	ji diao
-報仇	bao chou
 報仇	bao chou
 報名參加	bao ming can jia
 場地	chang di
-場地	chang di
-塗抹	tu mo
 塗抹	tu mo
 塞到	sai dao
 塞外	sai wai
-塞外	sai wai
-塞滿	sai man
 塞滿	sai man
 塞爾	sai er
 塞班	sai ban
 塞給	sai gei
 塞維利亞	sai wei li ya
 塞車	sai che
-塞車	sai che
 塞進	sai jin
 塞黑	sai hei
 境地	jing di
-境地	jing di
-墓地	mu di
 墓地	mu di
 增殖	zeng zhi
-增長	zeng zhang
 增長	zeng zhang
 增長幅度	zeng zhang fu du
 增長方式	zeng zhang fang shi
@@ -27293,11 +26966,8 @@ use_preset_vocabulary: true
 外交部長	wai jiao bu zhang
 外傳	wai chuan
 外傳	wai zhuan
-外傳	wai zhuan
-外地	wai di
 外地	wai di
 外地人	wai di ren
-外行	wai hang
 外行	wai hang
 外資銀行	wai zi yin hang
 外長	wai zhang
@@ -27311,66 +26981,42 @@ use_preset_vocabulary: true
 夜行	ye xing
 夢露	meng lu
 大不了	da bu liao
-大不了	da bu liao
-大伯	da bo
 大伯	da bo
 大功率	da gong lv
 大地	da di
-大地	da di
 大地震	da di zhen
-大夫	da fu
-大夫	dai fu
 大夫	da fu
 大夫	dai fu
 大學校長	da xue xiao zhang
 大幅增長	da fu zeng zhang
 大行其道	da xing qi dao
-大行其道	da xing qi dao
 大賺	da zhuan
 大都市	da du shi
 大長今	da chang jin
 大陸	da lu
-大陸	da lu
 大陸人	da lu ren
 大隊長	da dui zhang
 天南地北	tian nan di bei
-天南地北	tian nan di bei
-天地	tian di
 天地	tian di
 天地間	tian di jian
-天地間	tian di jian
 天朝	tian chao
-天朝	tian chao
-天涯海角	tian ya hai jiao
 天涯海角	tian ya hai jiao
 天盛	tian sheng
 天經地義	tian jing di yi
-天經地義	tian jing di yi
-天翻地覆	tian fan di fu
 天翻地覆	tian fan di fu
 天行	tian xing
-天行	tian xing
 天長地久	tian chang di jiu
-天長地久	tian chang di jiu
-天馬行空	tian ma xing kong
 天馬行空	tian ma xing kong
 太行	tai hang
 太行山	tai hang shan
-太行山	tai hang shan
-太重	tai zhong
 太重	tai zhong
 太長	tai chang
 央行	yang hang
 失地	shi di
-失地	shi di
 失地農民	shi di nong min
 失業率	shi ye lv
-失業率	shi ye lv
-奇數	ji shu
 奇數	ji shu
 奉行	feng xing
-奉行	feng xing
-奧地利	ao di li
 奧地利	ao di li
 女生宿舍	nv sheng su she
 好哦	hao o
@@ -27382,10 +27028,8 @@ use_preset_vocabulary: true
 委員長	wei yuan zhang
 威盛	wei sheng
 娛樂	yu le
-娛樂	yu le
 娛樂八卦	yu le ba gua
 娛樂圈	yu le quan
-娛樂場所	yu le chang suo
 娛樂場所	yu le chang suo
 娛樂性	yu le xing
 娛樂新聞	yu le xin wen
@@ -27394,12 +27038,8 @@ use_preset_vocabulary: true
 娛樂界	yu le jie
 娛樂節目	yu le jie mu
 婀娜	e nuo
-婀娜	e nuo
-嫻熟	xian shu
 嫻熟	xian shu
 子彈	zi dan
-子彈	zi dan
-字裏行間	zi li hang jian
 字裏行間	zi li hang jian
 存款利率	cun kuan li lv
 學什麼	xue shen me
@@ -27407,75 +27047,48 @@ use_preset_vocabulary: true
 學生宿舍	xue sheng su she
 學生進行	xue sheng jin xing
 學長	xue zhang
-學長	xue zhang
 學院院長	xue yuan yuan zhang
 宅基地	zhai ji di
 安居樂業	an ju le ye
-安居樂業	an ju le ye
 安樂	an le
-安樂	an le
-安樂死	an le si
 安樂死	an le si
 安陸	an lu
 宏觀調控	hong guan tiao kong
 宣傳部長	xuan chuan bu zhang
 家樂福	jia le fu
 家畜	jia chu
-家畜	jia chu
-家長	jia zhang
 家長	jia zhang
 容積率	rong ji lv
-容積率	rong ji lv
 宿主	su zhu
-宿主	su zhu
-宿命	su ming
 宿命	su ming
 宿州	su zhou
-宿舍	su she
 宿舍	su she
 宿舍樓	su she lou
 宿遷	su qian
 寄宿	ji su
-寄宿	ji su
 察覺	cha jue
-察覺	cha jue
-實地	shi di
 實地	shi di
 實木地板	shi mu di ban
 實行	shi xing
-實行	shi xing
 實際行動	shi ji xing dong
 寶地	bao di
-寶地	bao di
-寶藏	bao zang
 寶藏	bao zang
 專長	zhuan chang
-專長	zhuan chang
 尉遲	yu chi
-尉遲	yu chi
-尊重	zun zhong
 尊重	zun zhong
 尊重網上	zun zhong wang shang
 對稱	dui chen
 對稱	dui cheng
-對稱	dui chen
-對稱	dui cheng
 對誰	dui shui
 導彈	dao dan
-導彈	dao dan
-小地方	xiao di fang
 小地方	xiao di fang
 小布什	xiao bu shi
 小行星	xiao xing xing
-小行星	xiao xing xing
 小調	xiao diao
-小調	xiao diao
-少不了	shao bu liao
 少不了	shao bu liao
 就曾	jiu ceng
 就業率	jiu ye lv
 就行	jiu xing
-尼泊爾	ni bo er
 尼泊爾	ni bo er
 局副局長	ju fu ju zhang
 局局長	ju ju zhang
@@ -27483,21 +27096,14 @@ use_preset_vocabulary: true
 局長	ju zhang
 居住地	ju zhu di
 展露	zhan lu
-展露	zhan lu
-履行	lv xing
 履行	lv xing
 履行職責	lv xing zhi ze
 屬地	shu di
-屬地	shu di
-山地	shan di
 山地	shan di
 山楂	shan zha
-山楂	shan zha
-崩潰	beng kui
 崩潰	beng kui
 嶄露頭角	zhan lu tou jiao
 嶄露頭角	zhan lu tou jue
-州長	zhou zhang
 州長	zhou zhang
 巡航導彈	xun hang dao dan
 工作地點	gong zuo di dian
@@ -27505,72 +27111,48 @@ use_preset_vocabulary: true
 工作重點	gong zuo zhong dian
 工商銀行	gong shang yin hang
 工地	gong di
-工地	gong di
 工業用地	gong ye yong di
 工行	gong hang
 左上角	zuo shang jiao
 左下角	zuo xia jiao
 差事	chai shi
 差事	cha shi
-差事	chai shi
-差勁	cha jin
 差勁	cha jin
 差旅	chai lv
-差旅費	chai lv fei
 差旅費	chai lv fei
 巴塞羅那	ba sai luo na
 市場行情	shi chang hang qing
 市場調查	shi chang diao cha
-市場調查	shi chang diao cha
 市場調研	shi chang diao yan
 市盈率	shi ying lv
-市長	shi zhang
 市長	shi zhang
 布什	bu shi
 布什總統	bu shi zong tong
 師長	shi zhang
-師長	shi zhang
 常熟	chang shu
 平地	ping di
-平地	ping di
 平行	ping xing
-平行	ping xing
-平行線	ping xing xian
 平行線	ping xing xian
 年均增長	nian jun zeng zhang
 年長	nian zhang
-年長	nian zhang
-幸災樂禍	xing zai le huo
 幸災樂禍	xing zai le huo
 幹什麼	gan shen me
-幹什麼	gan shen me
-幹勁	gan jin
 幹勁	gan jin
 幻覺	huan jue
-幻覺	huan jue
-幾番	ji fan
 幾番	ji fan
 幾行	ji hang
 底蘊	di yun
-底蘊	di yun
 店長	dian zhang
-店長	dian zhang
-康樂	kang le
 康樂	kang le
 廈大	xia da
 廈華	xia hua
 廈門	xia men
 廈門大學	xia men da xue
 廈門市	xia men shi
-廈門市	xia men shi
-廠長	chang zhang
 廠長	chang zhang
 廣角	guang jiao
 廳長	ting zhang
-廳長	ting zhang
 延長	yan chang
-延長	yan chang
-延長線	yan chang xian
 延長線	yan chang xian
 建築工地	jian zhu gong di
 建行	jian hang
@@ -27579,46 +27161,28 @@ use_preset_vocabulary: true
 張朝陽	zhang chao yang
 張柏芝	zhang bai zhi
 強制執行	qiang zhi zhi xing
-強制執行	qiang zhi zhi xing
-強盛	qiang sheng
 強盛	qiang sheng
 強行	qiang xing
-強行	qiang xing
-強調	qiang diao
 強調	qiang diao
 彈出	tan chu
 彈出一個	tan chu yi ge
 彈出來	tan chu lai
 彈出窗口	tan chu chuang kou
 彈力	tan li
-彈力	tan li
-彈劾	tan he
 彈劾	tan he
 彈奏	tan zou
-彈奏	tan zou
-彈性	tan xing
 彈性	tan xing
 彈指	tan zhi
-彈指	tan zhi
-彈琴	tan qin
 彈琴	tan qin
 彈簧	tan huang
-彈簧	tan huang
-彈藥	dan yao
 彈藥	dan yao
 彈跳	tan tiao
-彈跳	tan tiao
-彈道	dan dao
 彈道	dan dao
 彈道導彈	dan dao dao dan
 彈鋼琴	tan gang qin
 彈頭	dan tou
-彈頭	dan tou
-形似	xing si
 形似	xing si
 彷彿	fang fu
-彷彿	fang fu
-彷徨	pang huang
 彷徨	pang huang
 很嚴重	hen yan zhong
 很快樂	hen kuai le
@@ -27629,9 +27193,6 @@ use_preset_vocabulary: true
 很長	hen chang
 很長時間	hen chang shi jian
 得不償失	de bu chang shi
-得不償失	de bu chang shi
-得了	de le
-得了	de liao
 得了	de le
 得了	de liao
 得先	dei xian
@@ -27639,73 +27200,47 @@ use_preset_vocabulary: true
 得去	dei qu
 得有	dei you
 徘徊	pai huai
-徘徊	pai huai
-復仇	fu chou
 復仇	fu chou
 復辟	fu bi
-復辟	fu bi
-微薄	wei bo
 微薄	wei bo
 微調	wei tiao
 徵地	zheng di
 德行	de xing
-德行	de xing
-德高望重	de gao wang zhong
 德高望重	de gao wang zhong
 心地	xin di
-心地	xin di
 心寬體胖	xin kuan ti pan
-心寬體胖	xin kuan ti pan
-心廣體胖	xin guang ti pan
 心廣體胖	xin guang ti pan
 心率	xin lv
 心肌梗塞	xin ji geng se
-心肌梗塞	xin ji geng se
-忍辱負重	ren ru fu zhong
 忍辱負重	ren ru fu zhong
 忘不了	wang bu liao
 快快樂樂	kuai kuai le le
 快樂	kuai le
-快樂	kuai le
 快速增長	kuai su zeng zhang
 怎麼着	zen me zhao
 怎麼着	zen me zhe
-怎麼着	zen me zhe
 怕什麼	pa shen me
 性行爲	xing xing wei
-性行爲	xing xing wei
-恐嚇	kong he
 恐嚇	kong he
 恩仇	en chou
 恰似	qia si
-恰似	qia si
-悠長	you chang
 悠長	you chang
 情仇	qing chou
 情感天地	qing gan tian di
 情節嚴重	qing jie yan zhong
 情調	qing diao
-情調	qing diao
-惡行	e xing
 惡行	e xing
 想什麼	xiang shen me
 意味深長	yi wei shen chang
-意味深長	yi wei shen chang
-感覺	gan jue
 感覺	gan jue
 感覺不到	gan jue bu dao
 感覺真好	gan jue zhen hao
 慎重	shen zhong
-慎重	shen zhong
 慘重	can zhong
-慘重	can zhong
-慰藉	wei jie
 慰藉	wei jie
 憎惡	zeng wu
 憎惡	zeng e
-憎惡	zeng wu
 憑什麼	ping shen me
-懂行	dong hang
 懂行	dong hang
 懶覺	lan jiao
 成不了	cheng bu liao
@@ -27713,30 +27248,21 @@ use_preset_vocabulary: true
 成活率	cheng huo lv
 成熟度	cheng shu du
 成熟期	cheng shu qi
-成熟期	cheng shu qi
-成行	cheng xing
 成行	cheng xing
 成都	cheng du
 成都人	cheng du ren
 成都市	cheng du shi
-成都市	cheng du shi
-成長	cheng zhang
 成長	cheng zhang
 成長性	cheng zhang xing
 成長過程	cheng zhang guo cheng
-我倆	wo lia
 我倆	wo lia
 我們倆	wo men lia
 我是誰	wo shi shui
 我曾	wo ceng
 我行	wo hang
 我行我素	wo xing wo su
-我行我素	wo xing wo su
-戰地	zhan di
 戰地	zhan di
 房地	fang di
-房地	fang di
-房地產	fang di chan
 房地產	fang di chan
 房地產商	fang di chan shang
 房地產業	fang di chan ye
@@ -27744,10 +27270,8 @@ use_preset_vocabulary: true
 所所長	suo suo chang
 手剎	shou sha
 手榴彈	shou liu dan
-手榴彈	shou liu dan
 才行	cai xing
 扎卡維	zha ka wei
-扎堆	zha dui
 扎堆	zha dui
 扎西	zha xi
 扎進	zha jin
@@ -27757,110 +27281,73 @@ use_preset_vocabulary: true
 找着	zhao zhao
 找誰	zhao shui
 承重	cheng zhong
-承重	cheng zhong
 技術參數	ji shu can shu
 投行	tou hang
 投資銀行	tou zi yin hang
 投降	tou xiang
-投降	tou xiang
 抗美援朝	kang mei yuan chao
 折價率	zhe jia lv
-披露	pi lu
 披露	pi lu
 抹上	mo shang
 抹了	mo le
 抹去	mo qu
-抹去	mo qu
-抹殺	mo sha
 抹殺	mo sha
 抹黑	mo hei
-抹黑	mo hei
-抽樣調查	chou yang diao cha
 抽樣調查	chou yang diao cha
 抽調	chou diao
-抽調	chou diao
-拉長	la chang
 拉長	la chang
 拍賣行	pai mai hang
 拐角	guai jiao
-拐角	guai jiao
 拖地	tuo di
-拖地	tuo di
-拖沓	tuo ta
 拖沓	tuo ta
 招商銀行	zhao shang yin hang
 招行	zhao hang
 拿什麼	na shen me
 持續增長	chi xu zeng zhang
 捉迷藏	zhuo mi cang
-捉迷藏	zhuo mi cang
-捲土重來	juan tu chong lai
 捲土重來	juan tu chong lai
 掃地	sao di
-掃地	sao di
-排行	pai hang
 排行	pai hang
 排行榜	pai hang bang
-排行榜	pai hang bang
 排長	pai zhang
-排長	pai zhang
-掙扎	zheng zha
 掙扎	zheng zha
 採取行動	cai qu xing dong
 接地	jie di
-接地	jie di
 推行	tui xing
-推行	tui xing
-掩藏	yan cang
 掩藏	yan cang
 提前還貸	ti qian huan dai
-提防	di fang
 提防	di fang
 提防	ti fang
 提高效率	ti gao xiao lv
 換手率	huan shou lv
 換行	huan hang
 揣度	chuai duo
-揣度	chuai duo
-揭露	jie lu
 揭露	jie lu
 援藏	yuan zang
 搖滾樂	yao gun yue
-搖滾樂	yao gun yue
 搞什麼	gao shen me
 搪塞	tang se
-搪塞	tang se
 擅長	shan chang
-擅長	shan chang
-擊潰	ji kui
 擊潰	ji kui
 攤薄	tan bo
-攪和	jiao huo
 攪和	jiao huo
 支持率	zhi chi lv
 支行	zhi hang
 收入增長	shou ru zeng zhang
 收益率	shou yi lv
 收藏	shou cang
-收藏	shou cang
 收藏價值	shou cang jia zhi
 收藏品	shou cang pin
 收藏夾	shou cang jia
 收藏者	shou cang zhe
 收視率	shou shi lv
-收視率	shou shi lv
 改不了	gai bu liao
 改行	gai hang
-改行	gai hang
 放行	fang xing
-放行	fang xing
-效率	xiao lv
 效率	xiao lv
 效率高	xiao lv gao
 敬重	jing zhong
-敬重	jing zhong
 文化底蘊	wen hua di yun
-新大陸	xin da lu
 新大陸	xin da lu
 新年快樂	xin nian kuai le
 新浪娛樂	xin lang yu le
@@ -27868,22 +27355,15 @@ use_preset_vocabulary: true
 新股發行	xin gu fa xing
 斷臂	duan bei
 施行	shi xing
-施行	shi xing
-旅行	lv xing
 旅行	lv xing
 旅行團	lv xing tuan
-旅行團	lv xing tuan
-旅行社	lv xing she
 旅行社	lv xing she
 旅行者	lv xing zhe
 旅遊勝地	lv you sheng di
 旋渦	xuan wo
 族長	zu zhang
-族長	zu zhang
-旺盛	wang sheng
 旺盛	wang sheng
 旺角	wang jiao
-昌盛	chang sheng
 昌盛	chang sheng
 是誰在	shi shui zai
 時曾	shi ceng
@@ -27892,25 +27372,19 @@ use_preset_vocabulary: true
 時間長	shi jian chang
 晚上睡覺	wan shang shui jiao
 普及率	pu ji lv
-普及率	pu ji lv
 暖和	nuan he
 暖和	nuan huo
-暖和	nuan huo
-暗地	an di
 暗地	an di
 暗地裏	an di li
 暗藏	an cang
-暗藏	an cang
 暫行規定	zan xing gui ding
 暫行辦法	zan xing ban fa
-暴行	bao xing
 暴行	bao xing
 暴行	pu xing
 暴露	bao lu
 暴露	pu lu
 暴露出	bao lu chu
 曝出	bao chu
-曲調	qu diao
 曲調	qu diao
 更重	geng zhong
 更重要	geng zhong yao
@@ -27920,10 +27394,8 @@ use_preset_vocabulary: true
 曾向	ceng xiang
 曾因	ceng yin
 曾國藩	zeng guo fan
-曾國藩	zeng guo fan
 曾在	ceng zai
 曾對	ceng dui
-曾幾何時	ceng ji he shi
 曾幾何時	ceng ji he shi
 曾志偉	zeng zhi wei
 曾想	ceng xiang
@@ -27933,7 +27405,6 @@ use_preset_vocabulary: true
 曾有	ceng you
 曾爲	ceng wei
 曾獲	ceng huo
-曾經	ceng jing
 曾經	ceng jing
 曾經擁有	ceng jing yong you
 曾經的	ceng jing de
@@ -27953,25 +27424,18 @@ use_preset_vocabulary: true
 會稽	kuai ji
 會稽	gui ji
 會計	kuai ji
-會計	kuai ji
 會計報表	kuai ji bao biao
 會計學	kuai ji xue
-會計學	kuai ji xue
-會計師	kuai ji shi
 會計師	kuai ji shi
 會計準則	kuai ji zhun ze
 會計覈算	kuai ji he suan
 會長	hui zhang
-會長	hui zhang
 有什	you shen
 有仇	you chou
-有勁	you jin
 有勁	you jin
 有多長	you duo chang
 有感覺	you gan jue
 有朝一日	you zhao yi ri
-有朝一日	you zhao yi ri
-有的放矢	you di fang shi
 有的放矢	you di fang shi
 有誰知道	you shui zhi dao
 服務行業	fu wu hang ye
@@ -27979,675 +27443,424 @@ use_preset_vocabulary: true
 朝下	chao xia
 朝中	chao zhong
 朝代	chao dai
-朝代	chao dai
 朝南	chao nan
 朝向	chao xiang
-朝向	chao xiang
-朝夕	zhao xi
 朝夕	zhao xi
 朝夕相處	zhao xi xiang chu
 朝天	chao tian
-朝天	chao tian
-朝廷	chao ting
 朝廷	chao ting
 朝拜	chao bai
-朝拜	chao bai
-朝暉	zhao hui
 朝暉	zhao hui
 朝核問題	chao he wen ti
 朝氣	zhao qi
-朝氣	zhao qi
 朝着	chao zhe
 朝聖	chao sheng
-朝聖	chao sheng
-朝野	chao ye
 朝野	chao ye
 朝陽區	chao yang qu
 朝霞	zhao xia
-朝霞	zhao xia
-朝鮮半島	chao xian ban dao
 朝鮮半島	chao xian ban dao
 朝鮮戰爭	chao xian zhan zheng
 朝鮮族	chao xian zu
-朝鮮族	chao xian zu
 木地板	mu di ban
 未曾	wei ceng
-未曾	wei ceng
-未雨綢繆	wei yu chou mou
 未雨綢繆	wei yu chou mou
 本地	ben di
-本地	ben di
-本地人	ben di ren
 本地人	ben di ren
 本地化	ben di hua
 本地區	ben di qu
 本地網	ben di wang
 本地連接	ben di lian jie
 本行	ben hang
-本行	ben hang
 朴樹	pu shu
 李宗盛	li zong sheng
 李昌鎬	li chang hao
 李長春	li chang chun
-村長	cun zhang
 村長	cun zhang
 東北地區	dong bei di qu
 東莞	dong guan
 東莞市	dong guan shi
 東部地區	dong bu di qu
 林地	lin di
-林地	lin di
-枸杞	gou qi
 枸杞	gou qi
 枸杞子	gou qi zi
-枸杞子	gou qi zi
 柏拉圖	bo la tu
-柏拉圖	bo la tu
-柏林	bo lin
 柏林	bo lin
 柏芝	bai zhi
 某地	mou di
 柑桔	gan ju
-柑桔	gan ju
-柬埔寨	jian pu zhai
 柬埔寨	jian pu zhai
 柵欄	zha lan
-柵欄	zha lan
-校對	jiao dui
 校對	jiao dui
 校正	jiao zheng
-校正	jiao zheng
 校準	jiao zhun
-校準	jiao zhun
-校長	xiao zhang
 校長	xiao zhang
 校驗	jiao yan
 核彈	he dan
 根據地	gen ju di
-根據地	gen ju di
 格柵	ge shan
-格調	ge diao
 格調	ge diao
 桔子	ju zi
 梁山伯	liang shan bo
-梁山伯	liang shan bo
 梁朝偉	liang chao wei
 棱角	leng jiao
-棱角	leng jiao
 棲息	qi xi
-棲息	qi xi
-棲息地	qi xi di
 棲息地	qi xi di
 業績增長	ye ji zeng zhang
 極地	ji di
-極地	ji di
-極樂	ji le
 極樂	ji le
 極爲重要	ji wei zhong yao
 概率	gai lv
-概率	gai lv
-樂事	le shi
 樂事	le shi
 樂呵呵	le he he
-樂呵呵	le he he
-樂器	yue qi
 樂器	yue qi
 樂園	le yuan
-樂園	le yuan
-樂團	yue tuan
 樂團	yue tuan
 樂在其中	le zai qi zhong
-樂在其中	le zai qi zhong
-樂壇	yue tan
 樂壇	yue tan
 樂天	le tian
-樂天	le tian
-樂子	le zi
 樂子	le zi
 樂山	le shan
 樂得	le de
-樂得	le de
-樂意	le yi
 樂意	le yi
 樂手	yue shou
 樂於	le yu
 樂曲	yue qu
-樂曲	yue qu
 樂樂	le le
-樂此不疲	le ci bu pi
 樂此不疲	le ci bu pi
 樂清	yue qing
 樂章	yue zhang
-樂章	yue zhang
 樂網	le wang
 樂觀	le guan
-樂觀	le guan
-樂譜	yue pu
 樂譜	yue pu
 樂購	le gou
 樂趣	le qu
-樂趣	le qu
 樂迷	yue mi
-樂迷	yue mi
-樂隊	yue dui
 樂隊	yue dui
 樂風	le feng
 樊於期	fan wu qi
-樊於期	fan wu qi
-標的	biao di
 標的	biao di
 標識	biao shi
 標識	biao zhi
-標識	biao zhi
 模具	mo ju
 模具	mu ju
-模具	mo ju
 模板	mo ban
 模板	mu ban
-模板	mo ban
 模樣	mo yang
-模樣	mu yang
 模樣	mu yang
 機械行業	ji xie hang ye
 機率	ji lv
-機率	ji lv
 機長	ji zhang
-機長	ji zhang
-橫行	heng xing
 橫行	heng xing
 檢察長	jian cha zhang
 權重	quan zhong
 歐陸	ou lu
 歡天喜地	huan tian xi di
-歡天喜地	huan tian xi di
-歡樂	huan le
 歡樂	huan le
 歡樂谷	huan le gu
-止咳	zhi ke
 止咳	zhi ke
 正在進行	zheng zai jin xing
 正在運行	zheng zai yun xing
 正常運行	zheng chang yun xing
 此地	ci di
-此地	ci di
 此番	ci fan
 此行	ci xing
 步行	bu xing
-步行	bu xing
 步行街	bu xing jie
-步調	bu diao
 步調	bu diao
 武林外傳	wu lin wai zhuan
 歸宿	gui su
-歸宿	gui su
 歸屬地	gui shu di
 歸還	gui huan
-歸還	gui huan
-死亡率	si wang lv
 死亡率	si wang lv
 死地	si di
-死地	si di
-死心塌地	si xin ta di
 死心塌地	si xin ta di
 死角	si jiao
-死角	si jiao
 殖民	zhi min
-殖民	zhi min
-殖民地	zhi min di
 殖民地	zhi min di
 殼牌	qiao pai
 每行	mei hang
 比率	bi lv
-比率	bi lv
 比誰	bi shui
 比重	bi zhong
-比重	bi zhong
 毛利率	mao li lv
-民意調查	min yi diao cha
 民意調查	min yi diao cha
 民族地區	min zu di qu
 民樂	min yue
 民生銀行	min sheng yin hang
 民調	min diao
 氣喘吁吁	qi chuan xu xu
-氣喘吁吁	qi chuan xu xu
 水源地	shui yuan di
 水滸	shui hu
 水滸傳	shui hu zhuan
-水滸傳	shui hu zhuan
 水產養殖	shui chan yang zhi
-水產養殖	shui chan yang zhi
-永樂	yong le
 永樂	yong le
 汽車行業	qi che hang ye
 沉沒	chen mo
-沉沒	chen mo
 沉着	chen zhuo
-沉着	chen zhuo
-沉重	chen zhong
 沉重	chen zhong
 沐浴露	mu yu lu
 沒什麼	mei shen me
-沒什麼	mei shen me
-沒勁	mei jin
 沒勁	mei jin
 沒感覺	mei gan jue
-沒收	mo shou
 沒收	mo shou
 沒有什麼	mei you shen me
 沒有感覺	mei you gan jue
 沒落	mo luo
-沒落	mo luo
 沙地	sha di
 沿海地區	yan hai di qu
-泊位	bo wei
 泊位	bo wei
 泌陽	bi yang
 泛珠三角	fan zhu san jiao
 波長	bo chang
-波長	bo chang
-注重	zhu zhong
 注重	zhu zhong
 津津樂道	jin jin le dao
-津津樂道	jin jin le dao
 活塞	huo sai
-活塞	huo sai
-流氓	liu mang
 流氓	liu mang
 流氓軟件	liu mang ruan jian
 流行	liu xing
-流行	liu xing
 流行性	liu xing xing
 流行歌曲	liu xing ge qu
-流行歌曲	liu xing ge qu
-流行病學	liu xing bing xue
 流行病學	liu xing bing xue
 流行趨勢	liu xing qu shi
 流行音樂	liu xing yin yue
 流露	liu lu
-流露	liu lu
 流露出	liu lu chu
 浦發銀行	pu fa yin hang
 海地	hai di
-海地	hai di
-海角	hai jiao
 海角	hai jiao
 淡泊	dan bo
-淡泊	dan bo
-淡薄	dan bo
 淡薄	dan bo
 深惡痛絕	shen wu tong jue
-深惡痛絕	shen wu tong jue
-深藏	shen cang
 深藏	shen cang
 深重	shen zhong
-深重	shen zhong
-淹沒	yan mo
 淹沒	yan mo
 淺薄	qian bo
-淺薄	qian bo
-渦輪	wo lun
 渦輪	wo lun
 港行	gang hang
 湯匙	tang chi
-湯匙	tang chi
-源遠流長	yuan yuan liu chang
 源遠流長	yuan yuan liu chang
 準備金率	zhun bei jin lv
 準確率	zhun que lv
 溼地	shi di
-溼地	shi di
 滌綸	di lun
 滑行	hua xing
-滑行	hua xing
-滿地	man di
 滿地	man di
 漂泊	piao bo
-漂泊	piao bo
-漢朝	han chao
 漢朝	han chao
 漩渦	xuan wo
-漩渦	xuan wo
-漫無目的	man wu mu di
 漫無目的	man wu mu di
 漫長	man chang
-漫長	man chang
-漯河	luo he
 漯河	luo he
 漸行	jian xing
 潘瑋柏	pan wei bo
 潛藏	qian cang
-潛藏	qian cang
-潛行	qian xing
 潛行	qian xing
 潰爛	kui lan
-潰爛	kui lan
-潰瘍	kui yang
 潰瘍	kui yang
 澄海	cheng hai
 濃重	nong zhong
-濃重	nong zhong
 火花塞	huo hua sai
 炮彈	pao dan
-炮彈	pao dan
-炸彈	zha dan
 炸彈	zha dan
 烹調	peng tiao
-烹調	peng tiao
-無地自容	wu di zi rong
 無地自容	wu di zi rong
 煤炭行業	mei tan hang ye
 煮熟	zhu shu
 熟了	shu le
 熟人	shu ren
-熟人	shu ren
 熟女	shu nv
 熟悉	shu xi
-熟悉	shu xi
-熟睡	shu shui
 熟睡	shu shui
 熟知	shu zhi
-熟知	shu zhi
-熟練	shu lian
 熟練	shu lian
 熟練掌握	shu lian zhang wo
 熟識	shu shi
-熟識	shu shi
 熟透	shu tou
-熟食	shu shi
 熟食	shu shi
 熱火朝天	re huo chao tian
 熱軋	re zha
 營地	ying di
-營地	ying di
 營長	ying zhang
 爬行	pa xing
-爬行	pa xing
 爲什	wei shen
-爲什麼	wei shen me
 爲什麼	wei shen me
 爲樂	wei le
 爲誰	wei shui
 爲重	wei zhong
 爵士樂	jue shi yue
-爵士樂	jue shi yue
-牆角	qiang jiao
 牆角	qiang jiao
 牙齦	ya yin
-牙齦	ya yin
-牛角	niu jiao
 牛角	niu jiao
 牟利	mou li
-牟利	mou li
-牲畜	sheng chu
 牲畜	sheng chu
 特地	te di
-特地	te di
-特立獨行	te li du xing
 特立獨行	te li du xing
 特長	te chang
-特長	te chang
-犯不着	fan bu zhao
 犯不着	fan bu zhao
 犯罪行爲	fan zui xing wei
 狗仔	gou zi
 狗仔隊	gou zai dui
 狹長	xia chang
-狹長	xia chang
 猛地	meng de
 獨行	du xing
-獨行	du xing
-獨行	du xing
-玄奘	xuan zang
 玄奘	xuan zang
 率低	lv di
 率先	shuai xian
-率先	shuai xian
-率性	shuai xing
 率性	shuai xing
 率爲	lv wei
 率真	shuai zhen
-率真	shuai zhen
 率達	shuai da
 率隊	shuai dui
-率隊	shuai dui
-率領	shuai ling
 率領	shuai ling
 率高	lv gao
 王朝	wang chao
-王朝	wang chao
 玩什麼	wan shen me
 玩樂	wan le
-玩樂	wan le
 珍藏	zhen cang
-珍藏	zhen cang
-珍重	zhen zhong
 珍重	zhen zhong
 珠三角	zhu san jiao
-班長	ban zhang
 班長	ban zhang
 現代都市	xian dai du shi
 現在流行	xian zai liu xing
 現行	xian xing
-現行	xian xing
-理事長	li shi zhang
 理事長	li shi zhang
 瑜伽	yu jia
-瑜伽	yu jia
-甘露	gan lu
 甘露	gan lu
 生日快樂	sheng ri kuai le
 生殖	sheng zhi
-生殖	sheng zhi
 生殖健康	sheng zhi jian kang
-生殖器	sheng zhi qi
 生殖器	sheng zhi qi
 生產基地	sheng chan ji di
 生產效率	sheng chan xiao lv
 生產率	sheng chan lv
 生還	sheng huan
-生還	sheng huan
-生長	sheng zhang
 生長	sheng zhang
 生長因子	sheng zhang yin zi
 生長發育	sheng zhang fa yu
 產地	chan di
-產地	chan di
 產業基地	chan ye ji di
 用不了	yong bu liao
 用不着	yong bu zhao
-用不着	yong bu zhao
 用什麼	yong shen me
-用地	yong di
 用地	yong di
 用得着	yong de zhao
 用武之地	yong wu zhi di
-用武之地	yong wu zhi di
-田地	tian di
 田地	tian di
 由誰	you shui
 男女主角	nan nv zhu jue
 畜牧	xu mu
-畜牧	xu mu
-畜牧業	xu mu ye
 畜牧業	xu mu ye
 畜牧獸醫	xu mu shou yi
 畜牲	chu sheng
-畜牲	chu sheng
-畜生	chu sheng
 畜生	chu sheng
 畜產品	xu chan pin
 畜禽	chu qin
 番禺	pan yu
 番禺區	pan yu qu
 番茄	fan qie
-番茄	fan qie
 番茄花園	fan qie hua yuan
 番茄醬	fan qie jiang
-番茄醬	fan qie jiang
-番薯	fan shu
 番薯	fan shu
 番話	fan hua
 異地	yi di
-異地	yi di
-當地	dang di
 當地	dang di
 當地人	dang di ren
 當地政府	dang di zheng fu
 當地時間	dang di shi jian
 疑似	yi si
-疑似	yi si
-病重	bing zhong
 病重	bing zhong
 瘧疾	nve ji
-瘧疾	nve ji
-登陸	deng lu
 登陸	deng lu
 登陸器	deng lu qi
 發人深省	fa ren shen xing
-發人深省	fa ren shen xing
-發源地	fa yuan di
 發源地	fa yuan di
 發生什麼	fa sheng shen me
 發生率	fa sheng lv
-發生率	fa sheng lv
 發生重大	fa sheng zhong da
 發病率	fa bing lv
-發病率	fa bing lv
-發行人	fa xing ren
 發行人	fa xing ren
 發行價	fa xing jia
 發行價格	fa xing jia ge
 發行股票	fa xing gu piao
 發行量	fa xing liang
 發覺	fa jue
-發覺	fa jue
 發達地區	fa da di qu
 白蘭地	bai lan di
-白蘭地	bai lan di
 白露	bai lu
-白露	bai lu
-百事可樂	bai shi ke le
 百事可樂	bai shi ke le
 百盛	bai sheng
 的士	di shi
-的士	di shi
-的確	di que
 的確	di que
 皇朝	huang chao
-皇朝	huang chao
-盆地	pen di
 盆地	pen di
 盛世	sheng shi
-盛世	sheng shi
-盛事	sheng shi
 盛事	sheng shi
 盛傳	sheng chuan
-盛傳	sheng chuan
-盛典	sheng dian
 盛典	sheng dian
 盛名	sheng ming
-盛名	sheng ming
-盛唐	sheng tang
 盛唐	sheng tang
 盛夏	sheng xia
-盛夏	sheng xia
-盛大	sheng da
 盛大	sheng da
 盛宴	sheng yan
-盛宴	sheng yan
-盛情	sheng qing
 盛情	sheng qing
 盛會	sheng hui
-盛會	sheng hui
-盛況	sheng kuang
 盛況	sheng kuang
 盛產	sheng chan
-盛產	sheng chan
-盛行	sheng xing
 盛行	sheng xing
 盛裝	sheng zhuang
-盛裝	sheng zhuang
 盛讚	sheng zan
-盛讚	sheng zan
-盛開	sheng kai
 盛開	sheng kai
 目地	mu de
 目的	mu di
-目的	mu di
 目的性	mu di xing
 直截了當	zhi jie liao dang
-直截了當	zhi jie liao dang
-直率	zhi shuai
 直率	zhi shuai
 直行	zhi xing
-直行	zhi xing
-直覺	zhi jue
 直覺	zhi jue
 直角	zhi jiao
-直角	zhi jiao
-相似	xiang si
 相似	xiang si
 相似之處	xiang si zhi chu
 相似性	xiang si xing
 相稱	xiang chen
 相稱	xiang cheng
-相稱	xiang cheng
-相稱	xiang cheng
-省得	sheng de
 省得	sheng de
 省得	xing de
 省親	xing qin
-省親	xing qin
-省長	sheng zhang
 省長	sheng zhang
 看什麼	kan shen me
 看似	kan si
 看誰	kan shui
 看重	kan zhong
-看重	kan zhong
 眼熟	yan shu
-眼熟	yan shu
-眼角	yan jiao
 眼角	yan jiao
 着兒	zhao er
-着力	zhuo li
 着力	zhuo li
 着力點	zhuo li dian
 着勁兒	zhe jin er
 着呢	zhe ne
 着實	zhuo shi
-着實	zhuo shi
-着急	zhao ji
 着急	zhao ji
 着急起來	zhao ji qi lai
 着志	zhuo zhi
 着想	zhao xiang
 着想	zhuo xiang
-着想	zhao xiang
 着手	zhao shou
 着手	zhuo shou
-着手	zhuo shou
 着涼	zhao liang
-着涼	zhao liang
-着火	zhao huo
 着火	zhao huo
 着眼	zhuo yan
 着眼	zhao yan
 着眼於	zhuo yan yu
 着眼於	zhao yan yu
 着色	zhuo se
-着色	zhuo se
 着色法	zhuo se fa
 着落	zhao luo
 着落	zhuo luo
 着裝	zhuo zhuang
 着迷	zhao mi
-着迷	zhao mi
 着迷於	zhao mi yu
 着邊	zhuo bian
 着邊兒	zhuo bian er
-着重	zhuo zhong
 着重	zhuo zhong
 着重指出	zhuo zhong zhi chu
 着重於	zhuo zhong yu
@@ -28655,88 +27868,59 @@ use_preset_vocabulary: true
 着重點	zhuo zhong dian
 着陸	zhao lu
 着陸	zhuo lu
-着陸	zhuo lu
 着陸場	zhao lu chang
 着陸點	zhao lu dian
 着陸場	zhuo lu chang
 着陸點	zhuo lu dian
 睡不着	shui bu zhao
-睡不着	shui bu zhao
 睡午覺	shui wu jiao
-睡懶覺	shui lan jiao
 睡懶覺	shui lan jiao
 睡着	shui zhao
 睡着	shui zhe
-睡着	shui zhao
 睡覺前	shui jiao qian
 知了	zhi liao
-知了	zhi liao
 知覺	zhi jue
-知覺	zhi jue
-碳纖維	tan xian wei
 碳纖維	tan xian wei
 碼率	ma lv
 示範基地	shi fan ji di
 社會地位	she hui di wei
-社會地位	she hui di wei
-社長	she zhang
 社長	she zhang
 祕書長	mi shu zhang
-祕書長	mi shu zhang
-祕魯	bi lu
 祕魯	bi lu
 神似	shen si
-神似	shen si
-神出鬼沒	shen chu gui mo
 神出鬼沒	shen chu gui mo
 神州行	shen zhou xing
 祭城	zha cheng
 科長	ke zhang
-科長	ke zhang
-秦朝	qin chao
 秦朝	qin chao
 秦檜	qin hui
 秦檜	qin kuai
 稀薄	xi bo
-稀薄	xi bo
-稅率	shui lv
 稅率	shui lv
 程序運行	cheng xu yun xing
-種地	zhong di
 種地	zhong di
 稱職	chen zhi
 稱職	cheng zhi
 稱重	cheng zhong
 積攢	ji zan
-積攢	ji zan
 積极參加	ji ji can jia
 積极參與	ji ji can yu
 穩重	wen zhong
-穩重	wen zhong
 空地	kong di
-空地	kong di
-空調	kong tiao
 空調	kong tiao
 空調維修	kong tiao wei xiu
 穿什麼	chuan shen me
 穿着	chuan zhe
 穿着	chuan zhuo
-穿着	chuan zhuo
 穿行	chuan xing
 突出重點	tu chu zhong dian
 突然覺得	tu ran jue de
 窪地	wa di
-窪地	wa di
-站長	zhan zhang
 站長	zhan zhang
 笑呵呵	xiao he he
-笑呵呵	xiao he he
-笨重	ben zhong
 笨重	ben zhong
 第一行	di yi hang
 等地	deng di
-等地	deng di
-算什麼	suan shen me
 算什麼	suan shen me
 管不了	guan bu liao
 節日快樂	jie ri kuai le
@@ -28747,202 +27931,131 @@ use_preset_vocabulary: true
 粘性	nian xing
 粘液	nian ye
 粘稠	nian chou
-粘稠	nian chou
 粘膜	nian mo
 系統還原	xi tong huan yuan
 紅地毯	hong di tan
 納什	na shi
 紛至沓來	fen zhi ta lai
-紛至沓來	fen zhi ta lai
-紮實	zha shi
 紮實	zha shi
 紮實推進	zha shi tui jin
 紮根	zha gen
 紮紮實實	zha zha shi shi
-細長	xi chang
 細長	xi chang
 絃樂	xian yue
 組組長	zu zu zhang
 組織協調	zu zhi xie tiao
 組織部長	zu zhi bu zhang
 組長	zu zhang
-組長	zu zhang
 結構調整	jie gou tiao zheng
-絕地	jue di
 絕地	jue di
 給予	gei yu
 給予	ji yu
-給予	ji yu
 給付	gei fu
 給付	ji fu
-給付	ji fu
 給與	gei yu
-給與	ji yu
 給與	ji yu
 給誰	gei shui
 經濟增長	jing ji zeng zhang
 經濟運行	jing ji yun xing
 經營行爲	jing ying xing wei
 綠地	lv di
-綠地	lv di
 網上銀行	wang shang yin hang
 網站地址	wang zhan di zhi
 網賺	wang zhuan
 縣長	xian zhang
-縣長	xian zhang
 總得	zong dei
-總得	zong dei
-總行	zong hang
 總行	zong hang
 總覺	zong jue
 總長	zong chang
 繁塔	bo ta
 繁殖	fan zhi
-繁殖	fan zhi
-繁盛	fan sheng
 繁盛	fan sheng
 繁重	fan zhong
-繁重	fan zhong
-繞行	rao xing
 繞行	rao xing
 繫好	ji hao
 繫鞋帶	ji xie dai
 纖細	xian xi
-纖細	xian xi
 纖維	xian wei
-纖維	xian wei
-纖維素	xian wei su
 纖維素	xian wei su
 纖纖	qian qian
 纖纖	xian xian
 纖體	xian ti
-罪行	zui xing
 罪行	zui xing
 置地	zhi di
 羅伯特	luo bo te
 美的	mei de
 美的	mei di
 翅膀	chi bang
-翅膀	chi bang
-翻天覆地	fan tian fu di
 翻天覆地	fan tian fu di
 翻番	fan fan
-翻番	fan fan
 老伯	lao bo
-老伯	lao bo
-老地方	lao di fang
 老地方	lao di fang
 老撾	lao wo
 老撾	lao zhua
 而行	er xing
 耕地	geng di
-耕地	geng di
-耳塞	er sai
 耳塞	er sai
 耳熟	er shu
-耳熟	er shu
 耳熟能詳	er shu neng xiang
-耳熟能詳	er shu neng xiang
-聖地	sheng di
 聖地	sheng di
 聖誕快樂	sheng dan kuai le
 聚集地	ju ji di
 聯調	lian tiao
 聲樂	sheng yue
-聲樂	sheng yue
-聽覺	ting jue
 聽覺	ting jue
 聽音樂	ting yin yue
 肩膀	jian bang
-肩膀	jian bang
-胃潰瘍	wei kui yang
 胃潰瘍	wei kui yang
 背景音樂	bei jing yin yue
-背景音樂	bei jing yin yue
-胸脯	xiong pu
 胸脯	xiong pu
 能做什麼	neng zuo shen me
 能賺	neng zhuan
 腔調	qiang diao
-腔調	qiang diao
-腳踏實地	jiao ta shi di
 腳踏實地	jiao ta shi di
 腹地	fu di
-腹地	fu di
-膀子	bang zi
 膀子	bang zi
 膀胱	pang guang
-膀胱	pang guang
-臂膀	bi bang
 臂膀	bi bang
 臥虎藏龍	wo hu cang long
-臥虎藏龍	wo hu cang long
 臨行	lin xing
-臨行	lin xing
-自傳	zi zhuan
 自傳	zi zhuan
 自動運行	zi dong yun xing
 自娛自樂	zi yu zi le
 自曝	zi bao
 自由行	zi you xing
 自省	zi xing
-自省	zi xing
-自給自足	zi ji zi zu
 自給自足	zi ji zi zu
 自行	zi xing
-自行	zi xing
 自行車	zi xing che
-自行車	zi xing che
-自覺	zi jue
 自覺	zi jue
 自覺性	zi jue xing
 自覺遵守	zi jue zun shou
 自重	zi zhong
-自重	zi zhong
 至關重要	zhi guan zhong yao
-臺灣地區	tai wan di qu
 臺灣地區	tai wan di qu
 臺長	tai zhang
 興業銀行	xing ye yin hang
 興盛	xing sheng
-興盛	xing sheng
-舉行	ju xing
 舉行	ju xing
 舉足輕重	ju zu qing zhong
-舉足輕重	ju zu qing zhong
 舉重	ju zhong
-舉重	ju zhong
-航行	hang xing
 航行	hang xing
 般地	ban de
 般若	bo re
-般若	bo re
-船長	chuan zhang
 船長	chuan zhang
 色調	se diao
-色調	se diao
-芥末	jie mo
 芥末	jie mo
 花旗銀行	hua qi yin hang
 花都	hua du
-花都	hua du
-花露水	hua lu shui
 花露水	hua lu shui
 茁壯成長	zhuo zhuang cheng zhang
 茂盛	mao sheng
-茂盛	mao sheng
-茄子	qie zi
 茄子	qie zi
 茅廁	mao ci
 茅廁	mao si
-茅廁	mao si
-草地	cao di
 草地	cao di
 草率	cao shuai
-草率	cao shuai
 荒地	huang di
-荒地	huang di
-莊重	zhuang zhong
 莊重	zhuang zhong
 莘莊	xin zhuang
 莫扎特	mo zha te
@@ -28952,50 +28065,35 @@ use_preset_vocabulary: true
 華夏銀行	hua xia yin hang
 華東地區	hua dong di qu
 華盛頓	hua sheng dun
-華盛頓	hua sheng dun
-落下	la xia
-落下	luo xia
 落下	la xia
 落下	luo xia
 落地	luo di
 落地	lao di
-落地	luo di
 落汗	lao han
 葉一茜	ye yi qian
 葉公好龍	she gong hao long
 葉公好龍	ye gong hao long
-葉公好龍	she gong hao long
-董事長	dong shi zhang
 董事長	dong shi zhang
 董事長兼	dong shi zhang jian
 蒸熟	zheng shu
 蔓延	man yan
-蔓延	man yan
-蕁麻疹	xun ma zhen
 蕁麻疹	xun ma zhen
 蕃茄	fan qie
-薄弱	bo ruo
 薄弱	bo ruo
 薄弱環節	bo ruo huan jie
 薄熙來	bo xi lai
 薄膜	bo mo
-薄膜	bo mo
-薄荷	bo he
 薄荷	bo he
 薄薄的	bao bao de
 藍調	lan diao
-藍調	lan diao
 藏人	zang ren
 藏傳佛教	zang chuan fo jiao
-藏匿	cang ni
 藏匿	cang ni
 藏區	zang qu
 藏品	cang pin
 藏在	cang zai
 藏寶	cang bao
 藏族	zang zu
-藏族	zang zu
-藏書	cang shu
 藏書	cang shu
 藏有	cang you
 藏民	zang min
@@ -29004,59 +28102,36 @@ use_preset_vocabulary: true
 藏羚羊	zang ling yang
 藏起來	cang qi lai
 藏身	cang shen
-藏身	cang shen
 蘇泊爾	su bo er
 蘊含	yun han
-蘊含	yun han
 蘊涵	yun han
-蘊涵	yun han
-蘊藏	yun cang
 蘊藏	yun cang
 處處長	chu chu zhang
 處長	chu zhang
-處長	chu zhang
-號角	hao jiao
 號角	hao jiao
 蚌埠	beng bu
 行不行	xing bu xing
 行不通	xing bu tong
-行不通	xing bu tong
 行之	xing zhi
 行之有效	xing zhi you xiao
-行之有效	xing zhi you xiao
-行人	xing ren
 行人	xing ren
 行使	xing shi
-行使	xing shi
-行使	xing shi
-行兇	xing xiong
 行兇	xing xiong
 行刑	xing xing
-行刑	xing xing
 行列	hang lie
-行列	hang lie
-行動	xing dong
 行動	xing dong
 行動計劃	xing dong ji hua
 行善	xing shan
-行善	xing shan
 行嗎	xing ma
 行囊	xing nang
-行囊	xing nang
 行宮	xing gong
-行宮	xing gong
-行家	hang jia
 行家	hang jia
 行屍走肉	xing shi zou rou
 行徑	xing jing
-行徑	xing jing
 行情	hang qing
-行情	hang qing
-行政	xing zheng
 行政	xing zheng
 行政主管	xing zheng zhu guan
 行政事業	xing zheng shi ye
-行政區	xing zheng qu
 行政區	xing zheng qu
 行政區劃	xing zheng qu hua
 行政區域	xing zheng qu yu
@@ -29064,33 +28139,24 @@ use_preset_vocabulary: true
 行政審批	xing zheng shen pi
 行政村	xing zheng cun
 行政機關	xing zheng ji guan
-行政機關	xing zheng ji guan
 行政權力	xing zheng quan li
-行政法	xing zheng fa
 行政法	xing zheng fa
 行政法規	xing zheng fa gui
 行政管理	xing zheng guan li
-行政處分	xing zheng chu fen
 行政處分	xing zheng chu fen
 行政處罰	xing zheng chu fa
 行政行爲	xing zheng xing wei
 行政複議	xing zheng fu yi
 行政許可	xing zheng xu ke
 行政訴訟	xing zheng su song
-行政訴訟	xing zheng su song
 行政部	xing zheng bu
 行政部門	xing zheng bu men
 行政長官	xing zheng zhang guan
 行數	hang shu
 行文	xing wen
-行文	xing wen
-行星	xing xing
 行星	xing xing
 行會	hang hui
-行會	hang hui
 行李	xing li
-行李	xing li
-行李箱	xing li xiang
 行李箱	xing li xiang
 行業協會	hang ye xie hui
 行業標準	hang ye biao zhun
@@ -29100,72 +28166,44 @@ use_preset_vocabulary: true
 行業資訊	hang ye zi xun
 行業龍頭	hang ye long tou
 行權	xing quan
-行權	xing quan
-行爲	xing wei
 行爲	xing wei
 行爲人	xing wei ren
 行爲準則	xing wei zhun ze
 行爲藝術	xing wei yi shu
-行爲藝術	xing wei yi shu
 行爲規範	xing wei gui fan
 行當	hang dang
-行當	hang dang
-行禮	xing li
 行禮	xing li
 行程	xing cheng
-行程	xing cheng
-行者	xing zhe
 行者	xing zhe
 行至	xing zhi
 行規	hang gui
-行規	hang gui
-行賄	xing hui
 行賄	xing hui
 行走	xing zou
-行走	xing zou
-行蹤	xing zong
 行蹤	xing zong
 行車	xing che
-行車	xing che
-行軍	xing jun
 行軍	xing jun
 行進	xing jin
-行進	xing jin
 行醫	xing yi
-行醫	xing yi
-行銷	xing xiao
 行銷	xing xiao
 行長	hang zhang
 行雲流水	xing yun liu shui
-行雲流水	xing yun liu shui
-行駛	xing shi
 行駛	xing shi
 行駛證	xing shi zheng
 行騙	xing pian
-行騙	xing pian
-街角	jie jiao
 街角	jie jiao
 衝勁	chong jin
-衝勁	chong jin
-衣着	yi zhuo
 衣着	yi zhuo
 衣角	yi jiao
 衣食住行	yi shi zhu xing
-衣食住行	yi shi zhu xing
 表率	biao shuai
-表率	biao shuai
-表露	biao lu
 表露	biao lu
 被執行人	bei zhi xing ren
 補給	bu gei
 補給	bu ji
-補給	bu ji
-裸露	luo lu
 裸露	luo lu
 褪色	tui se
 褪色	tui shai
 褪色	tun se
-西伯利亞	xi bo li ya
 西伯利亞	xi bo li ya
 西北地區	xi bei di qu
 西南地區	xi nan di qu
@@ -29174,66 +28212,44 @@ use_preset_vocabulary: true
 西部地區	xi bu di qu
 要做什麼	yao zuo shen me
 要塞	yao sai
-要塞	yao sai
 覆蓋率	fu gai lv
 見地	jian di
-見地	jian di
-視覺	shi jue
 視覺	shi jue
 視覺效果	shi jue xiao guo
 視覺衝擊	shi jue chong ji
 視角	shi jiao
-視角	shi jiao
 覺察	jue cha
-覺察	jue cha
-覺得	jue de
 覺得	jue de
 覺得很	jue de hen
 覺得自己	jue de zi ji
-覺悟	jue wu
 覺悟	jue wu
 覺的	jue de
 覺着	jue zhe
 覺覺	jiao jiao
 覺醒	jue xing
-覺醒	jue xing
-角度	jiao du
 角度	jiao du
 角度看	jiao du kan
 角球	jiao qiu
-角球	jiao qiu
-角膜	jiao mo
 角膜	jiao mo
 角落裏	jiao luo li
 角質	jiao zhi
 角質層	jiao zhi ceng
-角質層	jiao zhi ceng
-觸覺	chu jue
 觸覺	chu jue
 觸角	chu jiao
-觸角	chu jiao
 言行	yan xing
-言行	yan xing
-討價還價	tao jia huan jia
 討價還價	tao jia huan jia
 訓練基地	xun lian ji di
 記仇	ji chou
-記仇	ji chou
 設身處地	she shen chu di
-設身處地	she shen chu di
-試行	shi xing
 試行	shi xing
 試運行	shi yun xing
 該地區	gai di qu
 該行	gai hang
 語調	yu diao
-語調	yu diao
-語重心長	yu zhong xin chang
 語重心長	yu zhong xin chang
 說明什麼	shuo ming shen me
 說服	shui fu
 說服	shuo fu
-說服	shui fu
 誰不	shui bu
 誰也不	shui ye bu
 誰先	shui xian
@@ -29252,49 +28268,30 @@ use_preset_vocabulary: true
 誰還	shui hai
 誰都會	shui dou hui
 調任	diao ren
-調任	diao ren
 調休	tiao xiu
 調低	tiao di
-調低	tiao di
 調侃	tiao kan
-調侃	tiao kan
-調價	tiao jia
 調價	tiao jia
 調入	diao ru
 調出	diao chu
 調劑	tiao ji
-調劑	tiao ji
-調動	diao dong
 調動	diao dong
 調勻	tiao yun
-調勻	tiao yun
-調味	tiao wei
 調味	tiao wei
 調味品	tiao wei pin
-調味品	tiao wei pin
 調味料	tiao wei liao
-調味料	tiao wei liao
-調和	tiao he
 調和	tiao he
 調好	tiao hao
 調子	diao zi
-調子	diao zi
 調度	diao du
-調度	diao du
-調情	tiao qing
 調情	tiao qing
 調成	tiao cheng
 調戲	tiao xi
-調戲	tiao xi
 調控	tiao kong
 調換	diao huan
-調換	diao huan
 調教	tiao jiao
-調教	tiao jiao
-調整	tiao zheng
 調整	tiao zheng
 調料	tiao liao
-調查	diao cha
 調查	diao cha
 調查取證	diao cha qu zheng
 調查問卷	diao cha wen juan
@@ -29304,71 +28301,46 @@ use_preset_vocabulary: true
 調查組	diao cha zu
 調查結果	diao cha jie guo
 調查表	diao cha biao
-調查表	diao cha biao
 調查顯示	diao cha xian shi
 調水	diao shui
 調溫	tiao wen
 調理	tiao li
-調理	tiao li
 調用	diao yong
-調用	diao yong
-調皮	tiao pi
 調皮	tiao pi
 調研	diao yan
 調研報告	diao yan bao gao
 調研組	diao yan zu
 調節	tiao jie
-調節	tiao jie
 調至	tiao zhi
 調處	tiao chu
-調處	tiao chu
 調製	tiao zhi
-調製	tiao zhi
-調解	tiao jie
 調解	tiao jie
 調試	tiao shi
-調調	diao diao
 調調	diao diao
 調調	tiao tiao
 調速	tiao su
 調集	diao ji
-調集	diao ji
 調離	diao li
 調頭	diao tou
-調頭	diao tou
-調頭	diao tou
-調頻	tiao pin
 調頻	tiao pin
 調養	tiao yang
-調養	tiao yang
-調高	tiao gao
 調高	tiao gao
 請參考	qing can kao
 請參閱	qing can yue
 請自行	qing zi xing
 論調	lun diao
-論調	lun diao
-謝天謝地	xie tian xie di
 謝天謝地	xie tian xie di
 謝長廷	xie chang ting
 警覺	jing jue
-警覺	jing jue
 警長	jing zhang
 議長	yi zhang
-議長	yi zhang
-護士長	hu shi zhang
 護士長	hu shi zhang
 變長	bian chang
 豆角	dou jiao
-豆角	dou jiao
-豐盛	feng sheng
 豐盛	feng sheng
 豬圈	zhu juan
-豬圈	zhu juan
-貌似	mao si
 貌似	mao si
 負增長	fu zeng zhang
-負重	fu zhong
 負重	fu zhong
 財政部長	cai zheng bu zhang
 財會	cai kuai
@@ -29377,76 +28349,50 @@ use_preset_vocabulary: true
 貧困地區	pin kun di qu
 貫徹執行	guan che zhi xing
 貯藏	zhu cang
-貯藏	zhu cang
-貴重	gui zhong
 貴重	gui zhong
 買什麼	mai shen me
 貸款利率	dai kuan li lv
 費勁	fei jin
-費勁	fei jin
-費率	fei lv
 費率	fei lv
 資產重組	zi chan chong zu
 賠率	pei lv
 質地	zhi di
-質地	zhi di
 賺了	zhuan le
 賺到	zhuan dao
-賺取	zhuan qu
 賺取	zhuan qu
 賺大錢	zhuan da qian
 賺得	zhuan de
 賺點	zhuan dian
 起勁	qi jin
-起勁	qi jin
 起重機	qi zhong ji
-起重機	qi zhong ji
-超重	chao zhong
 超重	chao zhong
 超長	chao chang
 越長	yue chang
 跟誰	gen shui
 跨地區	kua di qu
 跨行	kua hang
-跨行	kua hang
 跪地	gui di
 踐行	jian xing
 身着	shen zhuo
 身體力行	shen ti li xing
-身體力行	shen ti li xing
-躲藏	duo cang
 躲藏	duo cang
 車行	che hang
-車行	che hang
-軍事基地	jun shi ji di
 軍事基地	jun shi ji di
 軍事行動	jun shi xing dong
-軍事行動	jun shi xing dong
-軍長	jun zhang
 軍長	jun zhang
 軟肋	ruan lei
-較勁	jiao jin
 較勁	jiao jin
 較重	jiao zhong
 較長	jiao chang
 載重	zai zhong
-載重	zai zhong
-輕率	qing shuai
 輕率	qing shuai
 輕薄	qing bo
-輕薄	qing bo
-輕重	qing zhong
 輕重	qing zhong
 輕音樂	qing yin yue
-輕音樂	qing yin yue
-輪番	lun fan
 輪番	lun fan
 輸出功率	shu chu gong lv
 輾轉	zhan zhuan
-輾轉	zhan zhuan
 轉行	zhuan hang
-轉行	zhuan hang
-轉角	zhuan jiao
 轉角	zhuan jiao
 辦公地點	ban gong di dian
 農家樂	nong jia le
@@ -29454,41 +28400,28 @@ use_preset_vocabulary: true
 農業銀行	nong ye yin hang
 農行	nong hang
 近似	jin si
-近似	jin si
 返還	fan huan
 退耕還林	tui geng huan lin
 退還	tui huan
-退還	tui huan
-送行	song xing
 送行	song xing
 逆行	ni xing
-逆行	ni xing
 透露	tou lu
-透露	tou lu
-逗樂	dou le
 逗樂	dou le
 這倆	zhe lia
 這個地方	zhe ge di fang
 這是什麼	zhe shi shen me
 這番	zhe fan
-這番	zhe fan
 這種感覺	zhe zhong gan jue
 這行	zhe hang
 通信行業	tong xin hang ye
 通行	tong xing
-通行	tong xing
 通行證	tong xing zheng
-通行證	tong xing zheng
-通行費	tong xing fei
 通行費	tong xing fei
 通過率	tong guo lv
 速率	su lv
-速率	su lv
-連長	lian zhang
 連長	lian zhang
 進不了	jin bu liao
 進藏	jin zang
-進行	jin xing
 進行	jin xing
 進行交易	jin xing jiao yi
 進行交流	jin xing jiao liu
@@ -29497,58 +28430,40 @@ use_preset_vocabulary: true
 進行分析	jin xing fen xi
 進行到底	jin xing dao di
 進行曲	jin xing qu
-進行曲	jin xing qu
 進行檢查	jin xing jian cha
 進行比較	jin xing bi jiao
 進行研究	jin xing yan jiu
 進行調整	jin xing tiao zheng
 進行調查	jin xing diao cha
 遊樂	you le
-遊樂	you le
 遊樂園	you le yuan
 遊樂場	you le chang
-遊樂場	you le chang
-遊行	you xing
 遊行	you xing
 遊說	you shui
-遊說	you shui
-運行	yun xing
 運行	yun xing
 運行情況	yun xing qing kuang
 運行機制	yun xing ji zhi
 運行速度	yun xing su du
 遍地	bian di
-遍地	bian di
-遍地開花	bian di kai hua
 遍地開花	bian di kai hua
 過不了	guo bu liao
-過重	guo zhong
 過重	guo zhong
 過長	guo chang
 道行	dao heng
 道行	dao hang
 道長	dao zhang
-道長	dao zhang
 違法行爲	wei fa xing wei
 違規行爲	wei gui xing wei
 遠行	yuan xing
-遠行	yuan xing
-遷都	qian du
 遷都	qian du
 還你	huan ni
 還債	huan zhai
-還債	huan zhai
-還價	huan jia
 還價	huan jia
 還原	huan yuan
-還原	huan yuan
 還手	huan shou
-還手	huan shou
-還擊	huan ji
 還擊	huan ji
 還有	hai you
 還有	huan you
-還有	hai you
 還有什麼	hai you shen me
 還有誰	hai you shui
 還款	huan kuan
@@ -29558,14 +28473,12 @@ use_preset_vocabulary: true
 還行	hai xing
 還貸	huan dai
 還錢	huan qian
-還錢	huan qian
 邊角	bian jiao
 那位	na wei
 那位	nei wei
 那個地方	na ge di fang
 那天	na tian
 那天	nei tian
-那天	na tian
 那家	na jia
 那家	nei jia
 那張	na zhang
@@ -29584,53 +28497,38 @@ use_preset_vocabulary: true
 部分地區	bu fen di qu
 部部長	bu bu zhang
 部長	bu zhang
-部長	bu zhang
 郵件地址	you jian di zhi
 郵箱地址	you xiang di zhi
 都城	du cheng
-都城	du cheng
-都市	du shi
 都市	du shi
 都市報	du shi bao
 都是	dou shi
 都有	dou you
 都江堰	du jiang yan
-都江堰	du jiang yan
 都江堰市	du jiang yan shi
-都督	du du
 都督	du du
 都行	dou xing
 都要	dou yao
 都靈	du ling
 鄉長	xiang zhang
-鄉長	xiang zhang
-鄭重	zheng zhong
 鄭重	zheng zhong
 鄭重聲明	zheng zhong sheng ming
 酋長	qiu zhang
-酋長	qiu zhang
 配樂	pei yue
-配樂	pei yue
-酷似	ku si
 酷似	ku si
 醫藥行業	yi yao hang ye
 釋迦牟尼	shi jia mou ni
-釋迦牟尼	shi jia mou ni
 重中之重	zhong zhong zhi zhong
-重任	zhong ren
 重任	zhong ren
 重估	chong gu
 重來	chong lai
-重修	chong xiu
 重修	chong xiu
 重倉	zhong cang
 重倉股	zhong cang gu
 重做	chong zuo
 重出江湖	chong chu jiang hu
 重力	zhong li
-重力	zhong li
 重卡	zhong ka
-重合	chong he
 重合	chong he
 重命名	chong ming ming
 重啓	chong qi
@@ -29638,10 +28536,8 @@ use_preset_vocabulary: true
 重回	chong hui
 重在	zhong zai
 重型	zhong xing
-重型	zhong xing
 重塑	chong su
 重壓	zhong ya
-重大	zhong da
 重大	zhong da
 重大事件	zhong da shi jian
 重大事項	zhong da shi xiang
@@ -29655,30 +28551,19 @@ use_preset_vocabulary: true
 重寫	chong xie
 重工	zhong gong
 重工業	zhong gong ye
-重工業	zhong gong ye
 重度	zhong du
-重建	chong jian
 重建	chong jian
 重復建設	chong fu jian she
 重心	zhong xin
-重心	zhong xin
-重慶	chong qing
 重慶	chong qing
 重慶市	chong qing shi
-重慶市	chong qing shi
-重拍	chong pai
 重拍	chong pai
 重拳	zhong quan
 重拾	chong shi
 重振	chong zhen
-重振	chong zhen
-重播	chong bo
 重播	chong bo
 重擔	zhong dan
-重擔	zhong dan
 重整	chong zheng
-重整	chong zheng
-重新	chong xin
 重新	chong xin
 重新啓動	chong xin qi dong
 重新回到	chong xin hui dao
@@ -29689,31 +28574,22 @@ use_preset_vocabulary: true
 重構	chong gou
 重溫	chong wen
 重演	chong yan
-重演	chong yan
 重災區	zhong zai qu
 重物	zhong wu
 重獎	zhong jiang
 重現	chong xian
-重現	chong xian
-重生	chong sheng
 重生	chong sheng
 重申	chong shen
-重申	chong shen
 重疊	chong die
-重疊	chong die
-重病	zhong bing
 重病	zhong bing
 重症	zhong zheng
 重發	chong fa
 重磅	zhong bang
 重組	chong zu
-重組	chong zu
 重置	chong zhi
 重裝系統	chong zhuang xi tong
 重複	chong fu
-重複	chong fu
 重複性	chong fu xing
-重要	zhong yao
 重要	zhong yao
 重要任務	zhong yao ren wu
 重要作用	zhong yao zuo yong
@@ -29724,43 +28600,29 @@ use_preset_vocabulary: true
 重要地位	zhong yao di wei
 重要思想	zhong yao si xiang
 重要性	zhong yao xing
-重要性	zhong yao xing
 重要意義	zhong yao yi yi
 重要標誌	zhong yao biao zhi
 重要舉措	zhong yao ju cuo
 重要講話	zhong yao jiang hua
 重要途徑	zhong yao tu jing
 重視	zhong shi
-重視	zhong shi
 重試	chong shi
 重蹈	chong dao
 重載	chong zai
 重返	chong fan
-重返	chong fan
-重逢	chong feng
 重逢	chong feng
 重重	chong chong
 重重	zhong zhong
-重重	chong chong
 重重地	zhong zhong de
 重量	zhong liang
-重量	zhong liang
-重量級	zhong liang ji
 重量級	zhong liang ji
 重金	zhong jin
-重金	zhong jin
 重金屬	zhong jin shu
-重金屬	zhong jin shu
-重鎮	zhong zhen
 重鎮	zhong zhen
 重開	chong kai
 重陽	chong yang
-重陽	chong yang
-重陽節	chong yang jie
 重陽節	chong yang jie
 重頭戲	zhong tou xi
-重頭戲	zhong tou xi
-重點	zhong dian
 重點	zhong dian
 重點中學	zhong dian zhong xue
 重點企業	zhong dian qi ye
@@ -29771,10 +28633,8 @@ use_preset_vocabulary: true
 重點項目	zhong dian xiang mu
 重點領域	zhong dian ling yu
 量力而行	liang li er xing
-量力而行	liang li er xing
 金地	jin di
 金融行業	jin rong hang ye
-銀行	yin hang
 銀行	yin hang
 銀行卡	yin hang ka
 銀行存款	yin hang cun kuan
@@ -29782,27 +28642,19 @@ use_preset_vocabulary: true
 銀行業	yin hang ye
 銀行股	yin hang gu
 銀行貸款	yin hang dai kuan
-銀行貸款	yin hang dai kuan
 銀行賬戶	yin hang zhang hu
 銀行間	yin hang jian
 鋪天蓋地	pu tian gai di
-鋪天蓋地	pu tian gai di
 鋼鐵行業	gang tie hang ye
 錯覺	cuo jue
-錯覺	cuo jue
-鎮長	zhen zhang
 鎮長	zhen zhang
 鏈接地址	lian jie di zhi
 鐵三角	tie san jiao
-鐵三角	tie san jiao
-鑰匙	yao shi
 鑰匙	yao shi
 長三角	chang san jiao
 長不大	zhang bu da
 長久	chang jiu
-長久	chang jiu
 長今	chang jin
-長假	chang jia
 長假	chang jia
 長傳	chang chuan
 長出	zhang chu
@@ -29811,65 +28663,44 @@ use_preset_vocabulary: true
 長劍	chang jian
 長勢	zhang shi
 長嘆	chang tan
-長嘆	chang tan
 長在	zhang zai
 長城	chang cheng
-長城	chang cheng
 長壽	chang shou
-長壽	chang shou
-長夜	chang ye
 長夜	chang ye
 長天	chang tian
 長孫	zhang sun
-長孫	zhang sun
-長安	chang an
 長安	chang an
 長安福特	chang an fu te
 長安街	chang an jie
-長官	zhang guan
 長官	zhang guan
 長寧	chang ning
 長寧區	chang ning qu
 長寬	chang kuan
 長尾	chang wei
 長工	chang gong
-長工	chang gong
-長年	chang nian
 長年	chang nian
 長度	chang du
-長度	chang du
 長廊	chang lang
-長廊	chang lang
-長征	chang zheng
 長征	chang zheng
 長得	zhang de
-長成	zhang cheng
 長成	zhang cheng
 長效	chang xiao
 長效機制	chang xiao ji zhi
 長方形	chang fang xing
-長方形	chang fang xing
 長於	chang yu
 長春	chang chun
 長春市	chang chun shi
-長春市	chang chun shi
 長時間	chang shi jian
-長期	chang qi
 長期	chang qi
 長期以來	chang qi yi lai
 長期使用	chang qi shi yong
 長期性	chang qi xing
 長期投資	chang qi tou zi
-長期投資	chang qi tou zi
 長條	chang tiao
 長椅	chang yi
 長槍	chang qiang
-長槍	chang qiang
-長樂	chang le
 長樂	chang le
 長此以往	chang ci yi wang
-長此以往	chang ci yi wang
-長江	chang jiang
 長江	chang jiang
 長江大橋	chang jiang da qiao
 長江流域	chang jiang liu yu
@@ -29877,67 +28708,43 @@ use_preset_vocabulary: true
 長江電力	chang jiang dian li
 長沙	chang sha
 長沙市	chang sha shi
-長沙市	chang sha shi
-長河	chang he
 長河	chang he
 長治	chang zhi
 長滿	zhang man
 長焦	chang jiao
 長生	chang sheng
-長生	chang sheng
 長白山	chang bai shan
-長白山	chang bai shan
-長相	zhang xiang
 長相	zhang xiang
 長矛	chang mao
 長短	chang duan
-長短	chang duan
-長空	chang kong
 長空	chang kong
 長策	chang ce
-長策	chang ce
-長篇	chang pian
 長篇	chang pian
 長篇大論	chang pian da lun
-長篇大論	chang pian da lun
-長篇小說	chang pian xiao shuo
 長篇小說	chang pian xiao shuo
 長約	chang yue
 長線	chang xian
-長線	chang xian
 長老	zhang lao
-長老	zhang lao
-長者	zhang zhe
 長者	zhang zhe
 長肉	zhang rou
 長胖	zhang pang
 長腿	chang tui
 長興	chang xing
 長處	chang chu
-長處	chang chu
 長虹	chang hong
-長虹	chang hong
-長袍	chang pao
 長袍	chang pao
 長袖	chang xiu
 長裙	chang qun
 長褲	chang ku
 長見識	zhang jian shi
 長足	chang zu
-長足	chang zu
-長跑	chang pao
 長跑	chang pao
 長距離	chang ju li
 長輩	zhang bei
-長輩	zhang bei
-長途	chang tu
 長途	chang tu
 長途電話	chang tu dian hua
-長途電話	chang tu dian hua
-長進	zhang jin
 長進	zhang jin
 長達	chang da
-長遠	chang yuan
 長遠	chang yuan
 長長	chang chang
 長長的	chang chang de
@@ -29945,108 +28752,69 @@ use_preset_vocabulary: true
 長隊	chang dui
 長電	chang dian
 長青	chang qing
-長青	chang qing
 長頭髮	chang tou fa
 長頸鹿	chang jing lu
-長頸鹿	chang jing lu
-長風	chang feng
 長風	chang feng
 長高	zhang gao
 長髮	chang fa
 長龍	chang long
-長龍	chang long
 門檻	men kan
-門檻	men kan
-閉塞	bi se
 閉塞	bi se
 開什麼	kai shen me
 開戶行	kai hu hang
-開行	kai xing
 開行	kai xing
 閔行	min hang
 閔行區	min hang qu
 關卡	guan qia
 關卡	guan ka
 阿彌陀佛	e mi tuo fo
-阿彌陀佛	e mi tuo fo
-阿拉伯	a la bo
 阿拉伯	a la bo
 阿拉伯人	a la bo ren
 附着	fu zhuo
-附着	fu zhuo
 院副院長	yuan fu yuan zhang
 院長	yuan zhang
-院長	yuan zhang
-陣地	zhen di
 陣地	zhen di
 陸上	lu shang
-陸地	lu di
 陸地	lu di
 陸家嘴	lu jia zui
 陸毅	lu yi
 陸游	lu you
-陸游	lu you
 陸濤	lu tao
 陸續	lu xu
-陸續	lu xu
-陸路	lu lu
 陸路	lu lu
 陸軍	lu jun
-陸軍	lu jun
 陸陸續續	lu lu xu xu
-陸陸續續	lu lu xu xu
-隆重	long zhong
 隆重	long zhong
 隆重推出	long zhong tui chu
 隆重舉行	long zhong ju xing
 隊長	dui zhang
-隊長	dui zhang
-隨地	sui di
 隨地	sui di
 隨時隨地	sui shi sui di
-隨時隨地	sui shi sui di
-隨行	sui xing
 隨行	sui xing
 隱藏	yin cang
-隱藏	yin cang
-集散地	ji san di
 集散地	ji san di
 集體土地	ji ti tu di
 雙重	shuang chong
-雙重	shuang chong
 雞肋	ji lei
 離地	li di
-離地	li di
-雨露	yu lu
 雨露	yu lu
 雪佛蘭	xue fu lan
 雪地	xue di
-雪地	xue di
-雪茄	xue jia
 雪茄	xue jia
 電信行業	dian xin hang ye
 電力行業	dian li hang ye
 電子地圖	dian zi di tu
 需要什麼	xu yao shen me
 露天	lu tian
-露天	lu tian
-露宿	lu su
 露宿	lu su
 露水	lu shui
-露水	lu shui
-露營	lu ying
 露營	lu ying
 露珠	lu zhu
-露珠	lu zhu
 露臉	lou lian
-露臉	lou lian
-露臺	lu tai
 露臺	lu tai
 露露	lu lu
 露餡	lou xian
 露骨	lu gu
-露骨	lu gu
-露點	lu dian
 露點	lu dian
 青藏	qing zang
 青藏鐵路	qing zang tie lu
@@ -30055,87 +28823,54 @@ use_preset_vocabulary: true
 非常重要	fei chang zhong yao
 非常重視	fei chang zhong shi
 非得	fei dei
-非得	fei dei
 面朝	mian chao
-面熟	mian shu
 面熟	mian shu
 面的	mian di
 面露	mian lu
 韋伯	wei bo
-韋伯	wei bo
-音樂	yin yue
 音樂	yin yue
 音樂人	yin yue ren
 音樂劇	yin yue ju
-音樂劇	yin yue ju
 音樂學院	yin yue xue yuan
 音樂家	yin yue jia
-音樂家	yin yue jia
-音樂廳	yin yue ting
 音樂廳	yin yue ting
 音樂手機	yin yue shou ji
 音樂播放	yin yue bo fang
 音樂會	yin yue hui
-音樂會	yin yue hui
 音樂盒	yin yue he
-音樂盒	yin yue he
-音樂節	yin yue jie
 音樂節	yin yue jie
 音樂風格	yin yue feng ge
 音調	yin diao
-音調	yin diao
 順利進行	shun li jin xing
 領地	ling di
-領地	ling di
-頻率	pin lv
 頻率	pin lv
 類似	lei si
-類似	lei si
-顯露	xian lu
 顯露	xian lu
 風行	feng xing
-風行	feng xing
-飛彈	fei dan
 飛彈	fei dan
 飛行	fei xing
-飛行	fei xing
-飛行員	fei xing yuan
 飛行員	fei xing yuan
 飛行器	fei xing qi
-飛行器	fei xing qi
-食宿	shi su
 食宿	shi su
 養殖	yang zhi
-養殖	yang zhi
-養殖場	yang zhi chang
 養殖場	yang zhi chang
 養殖戶	yang zhi hu
 養殖業	yang zhi ye
 餘地	yu di
-餘地	yu di
 館藏	guan cang
 館長	guan zhang
-館長	guan zhang
-首都	shou du
 首都	shou du
 首都機場	shou du ji chang
 首長	shou zhang
-首長	shou zhang
-香檳	xiang bin
 香檳	xiang bin
 馬良行	ma liang xing
 駐地	zhu di
-駐地	zhu di
-駐紮	zhu zha
 駐紮	zhu zha
 騎自行車	qi zi xing che
 騎行	qi xing
 驚天動地	jing tian dong di
-驚天動地	jing tian dong di
-體重	ti zhong
 體重	ti zhong
 高分辨率	gao fen bian lv
-高地	gao di
 高地	gao di
 高增長	gao zeng zhang
 高度重視	gao du zhong shi
@@ -30146,7 +28881,6 @@ use_preset_vocabulary: true
 鬥地主	dou di zhu
 黃埔	huang pu
 點擊率	dian ji lv
-鼎盛	ding sheng
 鼎盛	ding sheng
 㓦劃	bo hua
 㔩葉	e ye
@@ -32261,7 +30995,6 @@ use_preset_vocabulary: true
 勦襲	chao xi
 勦說	chao shuo
 勦除	jiao chu
-勵行	li xing
 勵行	li xing
 勸善黜惡	quan shan chu e
 勸降	quan xiang
@@ -34746,7 +33479,6 @@ use_preset_vocabulary: true
 宿墨	su mo
 宿夕	su xi
 宿好	su hao
-宿好	su hao
 宿妝	su zhuang
 宿學	su xue
 宿學舊儒	su xue jiu ru
@@ -34868,7 +33600,6 @@ use_preset_vocabulary: true
 將伯	qiang bo
 將伯之助	qiang bo zhi zhu
 將兵長史	jiang bing zhang shi
-將將	jiang jiang
 將將	jiang jiang
 將將	qiang qiang
 將弁	jiang bian
@@ -35462,7 +34193,6 @@ use_preset_vocabulary: true
 弦外之意	xian wai zhi yi
 弦外之音	xian wai zhi yin
 弦子	xian zi
-弦子	xian zi
 弦心距	xian xin ju
 弦月	xian yue
 弦柱	xian zhu
@@ -35702,7 +34432,6 @@ use_preset_vocabulary: true
 徼亭	jiao ting
 徼外	jiao wai
 徼巡	jiao xun
-徼幸	jiao xing
 徼幸	jiao xing
 徼循	jiao xun
 徼福	yao fu
@@ -36594,7 +35323,6 @@ use_preset_vocabulary: true
 抹鎗	mo qiang
 抹零	mo ling
 抹面	mo mian
-抹頭	mo tou
 抹頭	mo tou
 抹額	mo e
 抹颩	mo diu
@@ -38943,7 +37671,6 @@ use_preset_vocabulary: true
 正覺	zheng jue
 正身率下	zheng shen shuai xia
 正鵠	zheng gu
-正鵠	zheng gu
 此仆彼起	ci pu bi qi
 此地無銀三百兩	ci di wu yin san bai liang
 步兵學校	bu bing xue xiao
@@ -39404,7 +38131,6 @@ use_preset_vocabulary: true
 油藏	you cang
 油行	you hang
 治行	zhi xing
-治行	zhi xing
 沽泊	gu bo
 沾便宜	zhan pian yi
 沾洽	zhan xia
@@ -39836,7 +38562,6 @@ use_preset_vocabulary: true
 渾不似	hun bu si
 渾似	hun si
 渾渾	gun gun
-渾渾	hun hun
 渾渾	hun hun
 渾然不覺	hun ran bu jue
 湃湃	pai pai
@@ -40473,7 +39198,6 @@ use_preset_vocabulary: true
 犀角	xi jiao
 犁地	li di
 犄角	ji jiao
-犄角	ji jiao
 犄角之勢	ji jiao zhi shi
 犖犖	luo luo
 犖犖大者	luo luo da zhe
@@ -40551,7 +39275,6 @@ use_preset_vocabulary: true
 猗猗靡靡	yi yi mi mi
 猗萎	yi wei
 猗靡	yi mi
-猗頓	yi dun
 猗頓	yi dun
 猛個勁	meng ge jin
 猛勁	meng jin
@@ -41201,7 +39924,6 @@ use_preset_vocabulary: true
 的留的立	di liu di li
 的當	di dang
 的的	di di
-的的	di di
 的的喀喀湖	di di ka ka hu
 的皪	di li
 的盧	di lu
@@ -41412,7 +40134,6 @@ use_preset_vocabulary: true
 着惱	zhuo nao
 着意	zhuo yi
 着慌	zhao huang
-着手	zhuo shou
 着手於	zhuo shou yu
 着手回春	zhuo shou hui chun
 着手成春	zhuo shou cheng chun
@@ -43136,7 +41857,6 @@ use_preset_vocabulary: true
 舛誤	chuan wu
 舛逆	chuan ni
 舛錯	chuan cuo
-舛錯	chuan cuo
 舛雜	chuan za
 舛馳	chuan chi
 舛駁	chuan bo
@@ -44381,7 +43101,6 @@ use_preset_vocabulary: true
 行爲能力	xing wei neng li
 行爲藝術者	xing wei yi shu zhe
 行狀	xing zhuang
-行狀	xing zhuang
 行獵	xing lie
 行疾如飛	xing ji ru fei
 行百里者半於九十	xing bai li zhe ban yu jiu shi
@@ -44426,7 +43145,6 @@ use_preset_vocabulary: true
 行號	hang hao
 行號巷哭	hang hao xiang ku
 行虧名缺	xing kui ming que
-行行	hang hang
 行行	hang hang
 行行	xing xing
 行行出狀元	hang hang chu zhuang yuan
@@ -45660,7 +44378,6 @@ use_preset_vocabulary: true
 蹌捍	qiang han
 蹌踉	qiang liang
 蹌蹌	qiang qiang
-蹌蹌	qiang qiang
 蹌蹌踉踉	qiang qiang liang liang
 蹐地跼天	ji di ju tian
 蹓躂	liu da
@@ -45795,7 +44512,6 @@ use_preset_vocabulary: true
 軟體銀行	ruan ti yin hang
 軥車	qu che
 軷涉	ba she
-軸子	zhou zi
 軸子	zhou zi
 軸心	zhou xin
 軸心國	zhou xin guo
@@ -46198,7 +44914,6 @@ use_preset_vocabulary: true
 邦伯	bang bo
 邦畿	bang ji
 邪呼	ye hu
-邪行	xie xing
 邪行	xie xing
 邪許	ye hu
 邱壑	qiu huo
@@ -47023,7 +45738,6 @@ use_preset_vocabulary: true
 長舌婦	chang she fu
 長舌頭	chang she tou
 長處搯	chang chu tao
-長號	chang hao
 長號	chang hao
 長蟲	chang chong
 長行	chang xing
@@ -48175,7 +46889,6 @@ use_preset_vocabulary: true
 骨董行	gu dong hang
 骨血	gu xie
 骨都	gu du
-骨都	gu du
 骨都都	gu du du
 骨顫肉驚	gu zhan rou jing
 骰子	tou zi
@@ -48578,7 +47291,6 @@ use_preset_vocabulary: true
 黏着力	nian zhuo li
 黑人音樂	hei ren yin yue
 黑天摸地	hei tian mo di
-黑婁婁	hei lou lou
 黑婁婁	hei lou lou
 黑暗大陸	hei an da lu
 黑白混淆	hei bai hun yao
