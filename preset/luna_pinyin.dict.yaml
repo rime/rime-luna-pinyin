@@ -28610,13 +28610,18 @@ use_preset_vocabulary: true
 眼熟	yan shu
 眼角	yan jiao
 眼角	yan jiao
+着兒	zhao er
 着力	zhuo li
 着力	zhuo li
 着力點	zhuo li dian
+着勁兒	zhe jin er
+着呢	zhe ne
 着實	zhuo shi
 着實	zhuo shi
 着急	zhao ji
 着急	zhao ji
+着急起來	zhao ji qi lai
+着志	zhuo zhi
 着想	zhao xiang
 着想	zhuo xiang
 着想	zhao xiang
@@ -28629,18 +28634,32 @@ use_preset_vocabulary: true
 着火	zhao huo
 着眼	zhuo yan
 着眼	zhao yan
+着眼於	zhuo yan yu
+着眼於	zhao yan yu
 着色	zhuo se
 着色	zhuo se
+着色法	zhuo se fa
 着落	zhao luo
 着落	zhuo luo
 着裝	zhuo zhuang
 着迷	zhao mi
 着迷	zhao mi
+着迷於	zhao mi yu
+着邊	zhuo bian
+着邊兒	zhuo bian er
 着重	zhuo zhong
 着重	zhuo zhong
+着重指出	zhuo zhong zhi chu
+着重於	zhuo zhong yu
+着重號	zhuo zhong hao
+着重點	zhuo zhong dian
 着陸	zhao lu
 着陸	zhuo lu
 着陸	zhuo lu
+着陸場	zhao lu chang
+着陸點	zhao lu dian
+着陸場	zhuo lu chang
+着陸點	zhuo lu dian
 睡不着	shui bu zhao
 睡不着	shui bu zhao
 睡午覺	shui wu jiao
@@ -32669,7 +32688,7 @@ use_preset_vocabulary: true
 合浦還珠	he pu huan zhu
 合窆	he bian
 合纖	he xian
-合著	he zhe
+合著	he zhu
 吉丁疙疸	ji ding ge da
 吉凶未卜	ji xiong wei bu
 吉卜賽人	ji bu sai ren
@@ -41385,6 +41404,7 @@ use_preset_vocabulary: true
 着即	zhuo ji
 着地	zhuo de
 着地	zhuo di
+着地點	zhuo di dian
 着地還錢	zhuo di huan qian
 着墨	zhuo mo
 着己	zhuo ji
@@ -41392,6 +41412,8 @@ use_preset_vocabulary: true
 着惱	zhuo nao
 着意	zhuo yi
 着慌	zhao huang
+着手	zhuo shou
+着手於	zhuo shou yu
 着手回春	zhuo shou hui chun
 着手成春	zhuo shou cheng chun
 着手腳	zhao shou jiao
@@ -41399,6 +41421,7 @@ use_preset_vocabulary: true
 着數	zhao shu
 着數	zhuo shu
 着棋	zhuo qi
+着法	zhao fa
 着水	zhuo shui
 着火點	zhao huo dian
 着然	zhuo ran
@@ -43481,7 +43504,6 @@ use_preset_vocabulary: true
 著作郎	zhu zuo lang
 著作鄰接權	zhu zuo lin jie quan
 著名	zhu ming
-著志	zhuo zhi
 著書	zhu shu
 著書立說	zhu shu li shuo
 著稱	zhu cheng
