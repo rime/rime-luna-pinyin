@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.03.21"
+version: "2013.03.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -37737,7 +37737,7 @@ use_preset_vocabulary: true
 無感地震	wu gan di zhen
 無斁	wu yi
 無殼蝸牛	wu ke gua niu
-無煙囱工業	wu yan cong gong ye
+無煙囪工業	wu yan cong gong ye
 無用武之地	wu yong wu zhi di
 無痛分娩	wu tong fen mian
 無的放矢	wu di fang shi
@@ -37766,7 +37766,7 @@ use_preset_vocabulary: true
 焯著	zhuo zhu
 煎聒	jian gua
 煒燁	wei ye
-煙囱	yan cong
+煙囪	yan cong
 煙嵐雲岫	yan lan yun xiu
 煙幕彈	yan mu dan
 煙花簿	yan hua bu
