@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.03.21"
+version: "2013.04.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -12061,7 +12061,7 @@ use_preset_vocabulary: true
 煔	tian
 煕	xi
 煖	nuan
-煖	xuan
+煖	xuan	0.1%
 煗	nuan
 煗	xuan
 煘	chan
@@ -26299,6 +26299,7 @@ use_preset_vocabulary: true
 䰐鬖	lan san
 䰰䰰	ru ru
 一不拗衆	yi bu niu zhong
+一丘一壑	yi qiu yi he
 一丘一壑	yi qiu yi huo
 一丘之貉	yi qiu zhi he
 一乾二淨	yi gan er jing
@@ -26343,6 +26344,7 @@ use_preset_vocabulary: true
 一捻	yi nian
 一捻紅	yi nian hong
 一摑一掌血	yi guo yi zhang xie
+一摑一掌血	yi guo yi zhang xue
 一攪果	yi jiao guo
 一敗塗地	yi bai tu di
 一晌	yi shang
@@ -26358,6 +26360,7 @@ use_preset_vocabulary: true
 一模一樣	yi mo yi yang
 一模一樣	yi mu yi yang
 一樹百穫	yi shu bo huo
+一死了之	yi si liao zhi
 一氣呵成	yi qi he cheng
 一滅行	yi mie xing
 一無所長	yi wu suo chang
@@ -26389,8 +26392,10 @@ use_preset_vocabulary: true
 一筆抹煞	yi bi mo sha
 一箭之仇	yi jian zhi chou
 一箭之地	yi jian zhi di
+一簞食	yi dan si
 一聲不吭	yi sheng bu keng
 一腳地	yi jiao di
+一葉扁舟	yi ye pian zhou
 一行三昧	yi hang san mei
 一行人	yi xing ren
 一行作吏	yi xing zuo li
@@ -26408,10 +26413,12 @@ use_preset_vocabulary: true
 一躍而起	yi yue er qi
 一較長短	yi jiao chang duan
 一轍	yi che
+一轍	yi zhe
 一還一報	yi huan yi bao
 一酬一酢	yi chou yi zuo
 一釐一毫	yi li yi hao
 一針見血	yi zhen jian xie
+一針見血	yi zhen jian xue
 一錢不落虛空地	yi qian bu luo xu kong di
 一鍬掘個井	yi qiao jue ge jing
 一長	yi chang
@@ -26425,6 +26432,8 @@ use_preset_vocabulary: true
 一頭撞倒南牆	yi tou zhuang dao nan qiang
 一頭撞死	yi tou zhuang si
 一飯三吐哺	yi fan san tu bu
+一鱗半爪	yi lin ban zhao
+一鱗半爪	yi lin ban zhua
 一麾出守	yi hui chu shou
 一點露	yi dian lu
 丁丁	zheng zheng
@@ -26435,6 +26444,7 @@ use_preset_vocabulary: true
 七十二地煞	qi shi er di sha
 七十二行	qi shi er hang
 七孔流血	qi kong liu xie
+七孔流血	qi kong liu xue
 七弦琴	qi xian qin
 七跌八撞	qi die ba zhuang
 七返九還	qi fan jiu huan
@@ -26517,6 +26527,7 @@ use_preset_vocabulary: true
 三重門	san chong men
 三長兩短	san chang liang duan
 三長齋月	san chang zhai yue
+三閭大夫	san lv dai fu
 三面角	san mian jiao
 三風十愆	san feng shi qian
 上不了	shang bu liao
@@ -26597,10 +26608,12 @@ use_preset_vocabulary: true
 不傳之祕	bu chuan zhi mi
 不入調	bu ru diao
 不共天地	bu gong tian di
+不分主從	bu fen zhu cong
 不分主從	bu fen zhu zong
 不卜可知	bu bu ke zhi
 不可與共樂	bu ke yu gong le
 不同地區	bu tong di qu
+不吝賜教	bu lin ci jiao
 不吝賜教	bu lin si jiao
 不吭氣	bu keng qi
 不唧𠺕	bu ji liu
@@ -26630,6 +26643,7 @@ use_preset_vocabulary: true
 不得勁	bu de jin
 不得地	bu de di
 不忒	bu te
+不忘溝壑	bu wang gou he
 不忘溝壑	bu wang gou huo
 不快樂	bu kuai le
 不怯氣	bu que qi
@@ -26647,6 +26661,7 @@ use_preset_vocabulary: true
 不明飛行體	bu ming fei xing ti
 不是了處	bu shi liao chu
 不是湯着就抹着	bu shi tang zhao jiu mo zhao
+不更事	bu geng shi
 不更事	bu jing shi
 不曾	bu ceng
 不朝	bu chao
@@ -26692,6 +26707,10 @@ use_preset_vocabulary: true
 不着親	bu zhuo qin
 不着調	bu zhuo diao
 不着邊際	bu zhuo bian ji
+不着陸	bu zhao lu
+不着陸	bu zhuo lu
+不着陸飛行	bu zhao lu fei xing
+不着陸飛行	bu zhuo lu fei xing
 不睡覺	bu shui jiao
 不瞅不睬	bu chou bu cai
 不瞑	bu ming
@@ -26774,10 +26793,13 @@ use_preset_vocabulary: true
 世界地球日	shi jie di qiu ri
 世界銀行	shi jie yin hang
 世行	shi hang
+丘壑	qiu he
 丘壑	qiu huo
 丟三落四	diu san la si
 丟丟抹抹	diu diu mo mo
 丟入爪哇國裏	diu ru zhao wa guo li
+丟入爪哇國裏	diu ru zhua wa guo li
+丟卒保車	diu zu bao ju
 丟抹	diu mo
 並肩而行	bing jian er xing
 並行	bing xing
@@ -26838,16 +26860,22 @@ use_preset_vocabulary: true
 丹參	dan shen
 丹墀	dan chi
 丹心碧血	dan xin bi xie
+丹心碧血	dan xin bi xue
 丹楹刻桷	dan ying ke jue
 丹荑	dan ti
 丹葩	dan pa
 丹雘	dan huo
 主和弦	zhu he xian
 主導地位	zhu dao di wei
+主從	zhu cong
 主從	zhu zong
+主從式架構	zhu cong shi jia gou
 主從式架構	zhu zong shi jia gou
+主從式資料庫	zhu cong shi zi liao ku
 主從式資料庫	zhu zong shi zi liao ku
+主從架構	zhu cong jia gou
 主從架構	zhu zong jia gou
+主從架構資訊網路	zhu cong jia gou zi xun wang lu
 主從架構資訊網路	zhu zong jia gou zi xun wang lu
 主文譎諫	zhu wen jue jian
 主治大夫	zhu zhi dai fu
@@ -26904,6 +26932,7 @@ use_preset_vocabulary: true
 九重葛	jiu chong ge
 九重霄	jiu chong xiao
 乞乞縮縮	qi qi su su
+乞乞縮縮	qi qi suo suo
 乞留玎琅	qi liu ding lang
 乞降	qi xiang
 也不攬那磁器傢伙	bu lan na ci qi jia huo
@@ -27093,14 +27122,18 @@ use_preset_vocabulary: true
 了收	liao shou
 了斷	liao duan
 了案	liao an
+了此殘生	liao ci can sheng
 了決	liao jue
 了清	liao qing
 了無	liao wu
+了無掛礙	liao wu gua ai
 了無新意	liao wu xin yi
 了無牽掛	liao wu qian gua
 了無生機	liao wu sheng ji
 了無生趣	liao wu sheng qu
+了無痕跡	liao wu hen ji
 了無罣礙	liao wu gua ai
+了無長進	liao wu zhang jin
 了然	liao ran
 了然不惑	liao ran bu huo
 了畢	liao bi
@@ -27110,6 +27143,7 @@ use_preset_vocabulary: true
 了結	liao jie
 了落	liao luo
 了解	liao jie
+了解情況	liao jie qing kuang
 了訖	liao qi
 了話	liao hua
 了語	liao yu
@@ -27176,6 +27210,7 @@ use_preset_vocabulary: true
 五角大廈	wu jiao da xia
 五角大樓	wu jiao da lou
 五言長城	wu yan chang cheng
+五車	wu che
 五車	wu ju
 五辟	wu bi
 五體投地	wu ti tou di
@@ -27184,7 +27219,7 @@ use_preset_vocabulary: true
 井幹	jing han
 井榦	jing han
 井渫不食	jing xie bu shi
-井蛙醯鷄	jing wa xi ji
+井蛙醯雞	jing wa xi ji
 亙古	gen gu
 亙古亙今	gen gu gen jin
 亙古未有	gen gu wei you
@@ -27197,7 +27232,9 @@ use_preset_vocabulary: true
 亞硫酐	ya liu gan
 亡是公	wu shi gong
 亡血家	wang xie jia
+亡血家	wang xue jia
 交差	jiao chai
+交差了事	jiao chai liao shi
 交情乃見	jiao qing nai xian
 交惡	jiao wu
 交行	jiao hang
@@ -27206,6 +27243,7 @@ use_preset_vocabulary: true
 交通壅塞	jiao tong yong se
 交通銀行	jiao tong yin hang
 交還	jiao huan
+交還給	jiao huan gei
 交響樂	jiao xiang yue
 交響樂團	jiao xiang yue tuan
 享樂	xiang le
@@ -27235,6 +27273,7 @@ use_preset_vocabulary: true
 人工繁殖	ren gong fan zhi
 人工蝸牛	ren gong gua niu
 人工血液	ren gong xie ye
+人工血液	ren gong xue ye
 人工養殖	ren gong yang zhi
 人心似鐵	ren xin si tie
 人怕落囤	ren pa luo dun
@@ -27372,6 +27411,7 @@ use_preset_vocabulary: true
 以血償血	yi xue chang xue
 以規爲瑱	yi gui wei tian
 以還	yi huan
+以鄰爲壑	yi lin wei he
 以鄰爲壑	yi lin wei huo
 仰事俯畜	yang shi fu xu
 仰天長歎	yang tian chang tan
@@ -27391,7 +27431,9 @@ use_preset_vocabulary: true
 仿行	fang xing
 企業行銷	qi ye xing xiao
 伈伈睍睍	xin xin xian xian
+伊麗莎白一世	yi li sha bai yi shi
 伊麗莎白一世	yi li sha bo yi shi
+伊麗莎白時代	yi li sha bai shi dai
 伊麗莎白時代	yi li sha bo shi dai
 伍伯	wu bo
 伍員	wu yun
@@ -27555,7 +27597,9 @@ use_preset_vocabulary: true
 低徊	di hui
 低徊不已	di hui bu yi
 低血壓	di xie ya
+低血壓	di xue ya
 低血糖	di xie tang
+低血糖	di xue tang
 低調	di diao
 低頻率	di pin lv
 住宿	zhu su
@@ -27576,6 +27620,7 @@ use_preset_vocabulary: true
 佗佗	tuo tuo
 余余	xu xu
 余吾鎮	xu wu zhen
+余車	yu che
 余車	yu ju
 佚樂	yi le
 佛剎	fo cha
@@ -27624,15 +27669,19 @@ use_preset_vocabulary: true
 來日方長	lai ri fang chang
 來日正長	lai ri zheng chang
 來牟	lai mou
+來龍去脈	lai long qu mai
 來龍去脈	lai long qu mo
 例行	li xing
 例行公事	li xing gong shi
+侍從	shi cong
 侍從	shi zong
+侍從長	shi cong zhang
 侗劇	dong ju
 侗族	dong zu
 侗語	dong yu
 供給	gong gei
 供給	gong ji
+供給制	gong ji zhi
 供需失調	gong xu shi tiao
 依棲	yi qi
 依法行政	yi fa xing zheng
@@ -27670,7 +27719,9 @@ use_preset_vocabulary: true
 便溺	bian niao
 便益不失當家	pian yi bu shi dang jia
 便祕	bian bi
+便祕	bian mi
 便血	bian xie
+便血	bian xue
 便言	pian yan
 便辟	pian pi
 係風捕景	xi feng bu ying
@@ -27714,6 +27765,7 @@ use_preset_vocabulary: true
 信號彈	xin hao dan
 信行	xin xing
 信馬游韁	xin ma you jiang
+修正液	xiu zheng ye
 修正液	xiu zheng yi
 修濬	xiu jun
 修省	xiu xing
@@ -27738,6 +27790,7 @@ use_preset_vocabulary: true
 俾斯麥	bi si mai
 俾晝作夜	bi zhou zuo ye
 俾爾遐福	bi er xia fu
+倅車	cui che
 倅車	cui ju
 倆人	lia ren
 倉卒	cang cu
@@ -27834,7 +27887,9 @@ use_preset_vocabulary: true
 側重	ce zhong
 側重點	ce zhong dian
 偵伺	zhen si
+偵緝	zhen ji
 偵緝	zhen qi
+偵緝隊	zhen ji dui
 偵緝隊	zhen qi dui
 偵騎	zhen ji
 偷偷抹抹	tou tou mo mo
@@ -27842,8 +27897,8 @@ use_preset_vocabulary: true
 偷着樂	tou zhe le
 偷着浮生半日閒	tou zhao fu sheng ban ri xian
 偷薄	tou bo
+偷雞不着蝕把米	tou ji bu zhao shi ba mi
 偷饞抹嘴	tou chan mo zui
-偷鷄不着蝕把米	tou ji bu zhao shi ba mi
 傀偉	gui wei
 傀儡	kui lei
 傀儡家庭	kui lei jia ting
@@ -27856,10 +27911,12 @@ use_preset_vocabulary: true
 傍偟	pang huang
 傍妻	pang qi
 傍尊	pang zun
+傍徨	pang huang
 傍排	pang pai
 傍晌	bang shang
 傍牌	pang pai
 傍生	pang sheng
+傍系	pang xi
 傍若無人	pang ruo wu ren
 傍薄	pang bo
 傍觀	pang guan
@@ -27872,6 +27929,7 @@ use_preset_vocabulary: true
 傑克遜	jie ke sun
 傑弗遜	jie fu sun
 傔卒	qian zu
+傔從	qian cong
 傔從	qian zong
 傖俗	cang su
 傖儜	cang ning
@@ -27892,6 +27950,7 @@ use_preset_vocabulary: true
 傳記文學	zhuan ji wen xue
 傳贊	zhuan zan
 傳踏	zhuan ta
+傳車	zhuan che
 傳車	zhuan ju
 傳輸速率	chuan shu su lv
 傳重	chuan zhong
@@ -27933,6 +27992,7 @@ use_preset_vocabulary: true
 僕僮成羣	pu tong cheng qun
 僕射	pu ye
 僕射姑	pu ye gu
+僕從	pu cong
 僕從	pu zong
 僗什子	lao shi zi
 僝僽	chan zhou
@@ -27961,6 +28021,7 @@ use_preset_vocabulary: true
 僵仆	jiang pu
 價格便宜	jia ge pian yi
 僻地	pi di
+儀從	yi cong
 儀從	yi zong
 儃佪	chan hui
 儃儃	tan tan
@@ -27987,6 +28048,7 @@ use_preset_vocabulary: true
 優婆塞	you po se
 優旃	you zhan
 優樂	you le
+優洽	you qia
 優洽	you xia
 優角	you jiao
 優酪乳	you luo ru
@@ -28007,6 +28069,7 @@ use_preset_vocabulary: true
 兀的不	wu di bu
 兀臬	wu nie
 兀誰	wu shei
+允洽	yun qia
 允洽	yun xia
 元惡大憝	yuan e da dui
 元朝	yuan chao
@@ -28016,6 +28079,7 @@ use_preset_vocabulary: true
 充內行	chong nei hang
 充塞	chong se
 充血	chong xie
+充血	chong xue
 充行家	chong hang jia
 充詘	chong qu
 兇相畢露	xiong xiang bi lu
@@ -28033,6 +28097,8 @@ use_preset_vocabulary: true
 先行者	xian xing zhe
 先覺	xian jue
 先覺先知	xian jue xian zhi
+先降	xian jiang
+先降	xian xiang
 先零	xian lian
 先零	xian ling
 光了了	guang liao liao
@@ -28067,6 +28133,7 @@ use_preset_vocabulary: true
 免不了	mian bu liao
 免參	mian can
 免疫血清	mian yi xie qing
+免疫血清	mian yi xue qing
 免黜	mian chu
 兒女情長	er nv qing chang
 兒女英雄傳	er nv ying xiong zhuan
@@ -28092,6 +28159,7 @@ use_preset_vocabulary: true
 入覲	ru jin
 內傳	nei zhuan
 內出血	nei chu xie
+內出血	nei chu xue
 內參	nei can
 內地	nei di
 內地稅	nei di shui
@@ -28104,6 +28172,7 @@ use_preset_vocabulary: true
 內省	nei sheng
 內省	nei xing
 內省不疚	nei xing bu jiu
+內省法	nei xing fa
 內蘊	nei yun
 內行人	nei hang ren
 內行看門道	nei hang kan men dao
@@ -28121,6 +28190,7 @@ use_preset_vocabulary: true
 全武行	quan wu hang
 全盛	quan sheng
 全血輸血	quan xie shu xie
+全血輸血	quan xue shu xue
 全角	quan jiao
 全軍覆沒	quan jun fu mo
 全長	quan chang
@@ -28188,12 +28258,14 @@ use_preset_vocabulary: true
 公安局長	gong an ju zhang
 公差	gong cha
 公差	gong chai
+公差費	gong chai fei
 公帑	gong tang
 公廨	gong xie
 公弦	gong xian
 公文旅行	gong wen lv xing
 公有土地	gong you tu di
 公朝	gong chao
+公正不阿	gong zheng bu e
 公母倆	gong mu lia
 公用事業費率	gong yong shi ye fei lv
 公用費率	gong yong fei lv
@@ -28234,6 +28306,8 @@ use_preset_vocabulary: true
 共泄	gong xie
 共襄盛舉	gong xiang sheng ju
 共軛角	gong e jiao
+共降	gong jiang
+共降	gong xiang
 兵強將盛	bing qiang jiang sheng
 兵械	bing xie
 兵行詭道	bing xing gui dao
@@ -28241,6 +28315,7 @@ use_preset_vocabulary: true
 其他地區	qi ta di qu
 其他地方	qi ta di fang
 其他行業	qi ta hang ye
+其從如雲	qi cong ru yun
 其從如雲	qi zong ru yun
 其樂不窮	qi le bu qiong
 其樂無比	qi le wu bi
@@ -28280,6 +28355,7 @@ use_preset_vocabulary: true
 冪䍦	mi li
 冬溫夏凊	dong wen xia jing
 冬藏	dong cang
+冰壑	bing he
 冰壑	bing huo
 冰天雪地	bing tian xue di
 冰山一角	bing shan yi jiao
@@ -28297,6 +28373,7 @@ use_preset_vocabulary: true
 冷地裏	leng di li
 冷手撾不着熱饅首	leng shou zhua bu zhao re man shou
 冷水養殖	leng shui yang zhi
+冷煖自知	leng nuan zi zhi
 冷肩膀	leng jian bang
 冷藏	leng cang
 冷藏倉庫	leng cang cang ku
@@ -28307,7 +28384,9 @@ use_preset_vocabulary: true
 冷藏車	leng cang che
 冷藏間	leng cang jian
 冷血	leng xie
+冷血	leng xue
 冷血動物	leng xie dong wu
+冷血動物	leng xue dong wu
 冷覺	leng jue
 冷軋	leng zha
 冷軋鋼板	leng ya gang ban
@@ -28320,8 +28399,11 @@ use_preset_vocabulary: true
 凝咽	ning ye
 凝睇	ning di
 凝血因子	ning xie yin zi
+凝血因子	ning xue yin zi
 凝血現象	ning xie xian xiang
+凝血現象	ning xue xian xiang
 凝血障礙	ning xie zhang ai
+凝血障礙	ning xue zhang ai
 凝重	ning zhong
 凝霰	ning xian
 凱樂	kai yue
@@ -28350,6 +28432,7 @@ use_preset_vocabulary: true
 出差費	chu chai fei
 出榜	chu bang
 出沒	chu mo
+出沒不定	chu mo bu ding
 出沒無常	chu mo wu chang
 出火炕	chu huo keng
 出版發行	chu ban fa xing
@@ -28363,6 +28446,7 @@ use_preset_vocabulary: true
 出血	chu xie
 出血	chu xue
 出血筒子	chu xie tong zi
+出血筒子	chu xue tong zi
 出行	chu xing
 出言不遜	chu yan bu xun
 出醜狼藉	chu chou lang ji
@@ -28370,10 +28454,12 @@ use_preset_vocabulary: true
 出頭露面	chu tou lou mian
 函授學校	han shou xue xiao
 刀刀見血	dao dao jian xie
+刀刀見血	dao dao jian xue
 刀削冰	dao xiao bing
 刀削麪	dao xiao mian
 刀割針扎	dao ge zhen zha
 刀口上舔血	dao kou shang tian xie
+刀口上舔血	dao kou shang tian xue
 刀杖器械	dao zhang qi xie
 刀械	dao xie
 刀耕火耨	dao geng huo nou
@@ -28382,6 +28468,7 @@ use_preset_vocabulary: true
 刀鎗劍戟	dao qiang jian ji
 刀鎗無眼	dao qiang wu yan
 刀頭舔血	dao tou tian xie
+刀頭舔血	dao tou tian xue
 刁天厥地	diao tian jue di
 刁天撅地	diao tian jue di
 刁天決地	diao tian jue di
@@ -28390,12 +28477,17 @@ use_preset_vocabulary: true
 分娩	fen mian
 分攜	fen xi
 分星擘兩	fen xing bo liang
+分枝	fen qi
+分枝	fen zhi
 分株繁殖	fen zhu fan zhi
 分水隄	fen shui ti
 分淺緣慳	fen qian yuan qian
 分淺緣薄	fen qian yuan bo
 分畦	fen qi
 分薄緣慳	fen bo yuan qian
+分蘗	fen nie
+分蘗期	fen nie qi
+分蘗節	fen nie jie
 分行	fen hang
 分行布白	fen hang bu bai
 分裂生殖	fen lie sheng zhi
@@ -28434,6 +28526,9 @@ use_preset_vocabulary: true
 別頦腮	bie ke sai
 刨冰	bao bing
 刨冰機	bao bing ji
+刨刀	bao dao
+刨子	bao zi
+刨花	bao hua
 刨花水	bao hua shui
 利口捷給	li kou jie ji
 利弊參半	li bi can ban
@@ -28461,6 +28556,7 @@ use_preset_vocabulary: true
 制禮作樂	zhi li zuo yue
 刷括	shua gua
 刺參	ci shen
+刺客列傳	ci ke lie zhuan
 刺柏	ci bo
 刺柑	ci gan
 刺着	ci zhao
@@ -28520,9 +28616,13 @@ use_preset_vocabulary: true
 前番	qian fan
 前程似錦	qian cheng si jin
 前行	qian xing
+前車之鑑	qian che zhi jian
 前車之鑑	qian ju zhi jian
+前車之鑒	qian che zhi jian
 前車之鑒	qian ju zhi jian
+前車可鑒	qian che ke jian
 前車可鑒	qian ju ke jian
+前車覆	qian che fu
 前車覆	qian ju fu
 前途似錦	qian tu si jin
 前途未卜	qian tu wei bu
@@ -28595,6 +28695,7 @@ use_preset_vocabulary: true
 副睪丸	fu gao wan
 副角	fu jue
 副議長	fu yi zhang
+副車	fu che
 副車	fu ju
 副都市中心	fu du shi zhong xin
 割地	ge di
@@ -28703,6 +28804,7 @@ use_preset_vocabulary: true
 勒緊褲帶	lei jin ku dai
 勒里勒得	lei li lei de
 勒馬懸崖	le ma xuan yai
+動不了	dong bu liao
 動中窾要	dong zhong kuan yao
 動人心弦	dong ren xin xian
 動勁	dong jin
@@ -28713,7 +28815,9 @@ use_preset_vocabulary: true
 動感地帶	dong gan di dai
 動撣	dong dan
 動物纖維	dong wu xian wei
+動脈血	dong mai xue
 動脈輸血	dong mai shu xie
+動脈輸血	dong mai shu xue
 勗率	xu shuai
 勝似	sheng si
 勝地	sheng di
@@ -28772,6 +28876,7 @@ use_preset_vocabulary: true
 北美草原地帶	bei mei cao yuan di dai
 北角	bei jiao
 北轍南轅	bei che nan yuan
+北轍南轅	bei zhe nan yuan
 北部地方	bei bu di fang
 北門鎖鑰	bei men suo yao
 匙大碗小之事	chi da wan xiao zhi shi
@@ -28819,11 +28924,15 @@ use_preset_vocabulary: true
 千仇萬恨	qian chou wan hen
 千刀萬剮	qian dao wan gua
 千夫長	qian fu zhang
+千山萬壑	qian shan wan he
 千山萬壑	qian shan wan huo
 千岐萬轍	qian qi wan che
+千岐萬轍	qian qi wan zhe
+千巖萬壑	qian yan wan he
 千巖萬壑	qian yan wan huo
 千年田地八百主	qian nian tian di ba bai zhu
 千石	qian dan
+千里之堤	qian li zhi di
 千里之堤	qian li zhi ti
 千里之行	qian li zhi xing
 千里搭長棚	qian li da chang peng
@@ -28861,6 +28970,7 @@ use_preset_vocabulary: true
 卓躒	zhuo luo
 協定稅率	xie ding shui lv
 協會會長	xie hui hui zhang
+協緝	xie ji
 協緝	xie qi
 協調	xie tiao
 協調性	xie tiao xing
@@ -28888,6 +28998,7 @@ use_preset_vocabulary: true
 南蠻鴃舌	nan man jue she
 南行	nan xing
 南轅北轍	nan yuan bei che
+南轅北轍	nan yuan bei zhe
 南部地方	nan bu di fang
 南都	nan du
 南面百城	nan mian bo cheng
@@ -28899,6 +29010,7 @@ use_preset_vocabulary: true
 博聞強識	bo wen qiang zhi
 博聞彊志	bo wen qiang zhi
 博聞彊記	bo wen qiang ji
+博覽五車	bo lan wu che
 博覽五車	bo lan wu ju
 卜人	bu ren
 卜兒	bu er
@@ -29028,6 +29140,7 @@ use_preset_vocabulary: true
 參展商	can zhan shang
 參差	cen ci
 參差不齊	cen ci bu qi
+參差錯落	cen ci cuo luo
 參度	can duo
 參悟	can wu
 參戰	can zhan
@@ -29104,6 +29217,7 @@ use_preset_vocabulary: true
 反本還原	fan ben huan yuan
 反目成仇	fan mu cheng chou
 反省	fan xing
+反省起來	fan xing qi lai
 反經行權	fan jing xing quan
 反老還童	fan lao huan tong
 反詰	fan jie
@@ -29116,13 +29230,17 @@ use_preset_vocabulary: true
 取樂	qu le
 取給	qu ji
 取長補短	qu chang bu duan
+取青媲白	qu qing pi bai
 取青媲白	qu qing pi bo
 受不了	shou bu le
 受不了	shou bu liao
+受得了	shou de liao
 受禪	shou shan
 受聘	shou pin
 受賂	shou lu
 受降	shou xiang
+受降儀式	shou xiang yi shi
+受降典禮	shou xiang dian li
 受降城	shou xiang cheng
 叢箐	cong jing
 叢篠	cong xiao
@@ -29185,6 +29303,7 @@ use_preset_vocabulary: true
 叨陪	tao pei
 叨餂	tao tian
 叩人心弦	kou ren xin xian
+只借不還	zhi jie bu huan
 只覺	zhi jue
 只覺得	zhi jue de
 只重衣衫不重人	zhi zhong yi shan bu zhong ren
@@ -29202,8 +29321,11 @@ use_preset_vocabulary: true
 可口可樂	ke kou ke le
 可執行	ke zhi xing
 可塑性	ke su xing
+可少不了	ke shao bu liao
 可惡	ke wu
 可樂	ke le
+可沒	ke mei
+可沒	ke mo
 可磣	ke chen
 可耕地	ke geng di
 可行	ke xing
@@ -29235,6 +29357,7 @@ use_preset_vocabulary: true
 吁噓	xu xu
 吁氣	xu qi
 吃不了	chi bu liao
+吃不了兜着走	chi bu liao dou zhe zou
 吃乾醋	chi gan cu
 吃什麼	chi shen me
 吃勁	chi jin
@@ -29243,6 +29366,7 @@ use_preset_vocabulary: true
 吃地面	chi di mian
 吃子	ji zi
 吃幾碗乾飯	chi ji wan gan fan
+吃得了	chi de liao
 吃虧就是占便宜	chi kui jiu shi zhan pian yi
 吃裏扒外	chi li pa wai
 吃角子老虎	chi jiao zi lao hu
@@ -29372,6 +29496,7 @@ use_preset_vocabulary: true
 含垢藏疾	han gou cang ji
 含情脈脈	han qing mo mo
 含括	han gua
+含括	han kuo
 含漱劑	han shu ji
 含着骨頭露着肉	han zhe gu tou lou zhe rou
 含笑入地	han xiao ru di
@@ -29380,7 +29505,9 @@ use_preset_vocabulary: true
 含蓼問疾	han liao wen ji
 含蘊	han yun
 含血噀人	han xie xun ren
+含血噀人	han xue xun ren
 含血噴人	han xie pen ren
+含血噴人	han xue pen ren
 听听	yin yin
 吭哧	keng chi
 吭氣	keng qi
@@ -29395,6 +29522,7 @@ use_preset_vocabulary: true
 吱聲	zhi sheng
 吳大澂	wu da cheng
 吳昌碩	wu chang shi
+吳昌碩	wu chang shuo
 吳澄	wu cheng
 吳都	wu du
 吶吶	na na
@@ -29403,8 +29531,11 @@ use_preset_vocabulary: true
 吸吮	xi shun
 吸菸	xi yan
 吸血蛭	xi xie zhi
+吸血蛭	xi xue zhi
 吸血蟲	xi xie chong
+吸血蟲	xi xue chong
 吸血鬼	xi xie gui
+吸血鬼	xi xue gui
 吸風飲露	xi feng yin lu
 吹奏樂器	chui zou yue qi
 吹彈	chui tan
@@ -29416,10 +29547,11 @@ use_preset_vocabulary: true
 呀豁	xia huo
 呂宋菸	lv song yan
 呃喔	e o
-呆似木鷄	dai si mu ji
+呆似木雞	dai si mu ji
 呆呆地	dai dai de
 呆打頦	dai da hai
 呈露	cheng lu
+告假還鄉	gao jia huan xiang
 告劄	gao zha
 告朔	gu shuo
 告朔餼羊	gu shuo xi yang
@@ -29461,7 +29593,7 @@ use_preset_vocabulary: true
 味同嚼蠟	wei tong jue la
 味噌	wei ceng
 味噌湯	wei ceng tang
-味如鷄肋	wei ru ji le
+味如雞肋	wei ru ji le
 味覺	wei jue
 味覺器	wei jue qi
 呴呴	xu xu
@@ -29566,10 +29698,14 @@ use_preset_vocabulary: true
 咯吱咯喳	ge zhi ge zha
 咯咯	ge ge
 咯咯作響	ge ge zuo xiang
+咯咯叫	ge ge jiao
+咯咯笑	ge ge xiao
+咯咯聲	ge ge sheng
 咯噔	ge deng
 咯噠	ge da
 咯噹	ge dang
 咯血	ka xie
+咯血	ka xue
 咯血	luo xue
 咱們	za men
 咱們	zan men
@@ -29584,6 +29720,7 @@ use_preset_vocabulary: true
 咳聲打氣	hai sheng da qi
 咳聲歎氣	hai sheng tan qi
 咳血	ka xie
+咳血	ka xue
 咻咻	xiu xiu
 咽刀子	yan dao zi
 咽哺	yan bu
@@ -29653,9 +29790,9 @@ use_preset_vocabulary: true
 哺坊	bu fang
 哺育	bu yu
 哺育袋	bu yu dai
+哺雞	bu ji
 哺食	bu shi
 哺養	bu yang
-哺鷄	bu ji
 哺鷇	bu kou
 哽咽	geng ye
 哽哽咽咽	geng geng ye ye
@@ -29730,6 +29867,7 @@ use_preset_vocabulary: true
 問長問短	wen chang wen duan
 啑喋	sha zha
 啑血	jie xue
+啓白	qi bai
 啓白	qi bo
 啓蟄	qi zhi
 啓行	qi xing
@@ -29765,6 +29903,7 @@ use_preset_vocabulary: true
 喀爾巴阡山脈	ka er ba qian shan mai
 喀爾文教派	ka er wen jiao pai
 喀血	ke xie
+喀血	ke xue
 喀麥隆	ka mai long
 喀麥隆共和國	ka mai long gong he guo
 喁喁	yong yong
@@ -29804,6 +29943,7 @@ use_preset_vocabulary: true
 喜怒哀樂	xi nu ai le
 喜樂	xi le
 喜歡什麼	xi huan shen me
+喜洽	xi qia
 喜洽	xi xia
 喜聞樂見	xi wen le jian
 喜躍	xi yue
@@ -29917,11 +30057,13 @@ use_preset_vocabulary: true
 嘔喻	xu yu
 嘔嘔	xu xu
 嘕嘕	xian xian
+嘖嘖稱奇	ze ze cheng qi
 嘗鼎一臠	chang ding yi luan
 嘚啵	de bo
 嘬嘬	chuai chuai
 嘬嚃	chuai ta
 嘬炙	chuai zhi
+嘲哳	zhao zha
 嘲啾	chao jiu
 嘲謔	chao nve
 嘴上抹石灰	zui shang mo shi hui
@@ -29984,9 +30126,11 @@ use_preset_vocabulary: true
 嚄嚄	huo huo
 嚅囁	ru nie
 嚆矢	hao shi
+嚇不了	xia bu liao
 嚇嚇	he he
 嚇詐	he zha
 嚇阻	he zu
+嚇阻力量	he zu li liang
 嚌喳	ji cha
 嚎天動地	hao tian dong di
 嚎天喊地	hao tian han di
@@ -30002,6 +30146,7 @@ use_preset_vocabulary: true
 嚴重性	yan zhong xing
 嚴重者	yan zhong zhe
 嚴靚	yan jing
+嚼不了	jiao bu liao
 嚼咬人	jiao yao ren
 嚼墨噴紙	jue mo pen zhi
 嚼子	jiao zi
@@ -30032,6 +30177,7 @@ use_preset_vocabulary: true
 囂風	xiao feng
 囂鬧	xiao nao
 囊括	nang gua
+囊括	nang kuo
 囚攮的	qiu nang de
 四不拗六	si bu ao liu
 四加行	si jia xing
@@ -30167,6 +30313,7 @@ use_preset_vocabulary: true
 土地開發	tu di kai fa
 土地面積	tu di mian ji
 土坯	tu pi
+土堤	tu di
 土堤	tu ti
 土生土長	tu sheng tu zhang
 土番	tu fan
@@ -30184,6 +30331,7 @@ use_preset_vocabulary: true
 在朝	zai chao
 在莒	zai ju
 在行	zai hang
+圩堤	yu di
 圩堤	yu ti
 圩子	yu zi
 圩田	yu tian
@@ -30233,6 +30381,7 @@ use_preset_vocabulary: true
 地不載	di bu zai
 地中海	di zhong hai
 地中海型貧血	di zhong hai xing pin xie
+地中海型貧血	di zhong hai xing pin xue
 地主	di zhu
 地主之誼	di zhu zhi yi
 地主國	di zhu guo
@@ -30538,6 +30687,7 @@ use_preset_vocabulary: true
 垓極	gai ji
 垝垣	gui yuan
 垸子	huan zi
+埂堤	geng di
 埂堤	geng ti
 埃及阿拉伯共和國	ai ji a la bo gong he guo
 埋冤	man yuan
@@ -30545,6 +30695,7 @@ use_preset_vocabulary: true
 埋怨	mai yuan
 埋怨	man yuan
 埋沒	mai mo
+埋沒人才	mai mo ren cai
 埋藏	mai cang
 城子崖遺跡	cheng zi yai yi ji
 城隅	cheng yu
@@ -30560,6 +30711,7 @@ use_preset_vocabulary: true
 埳軻	kan ke
 執法不阿	zhi fa bu e
 執着	zhi zhuo
+執着性	zhi zhuo xing
 執行	zhi xing
 執行力	zhi xing li
 執行情況	zhi xing qing kuang
@@ -30590,10 +30742,15 @@ use_preset_vocabulary: true
 堆貯	dui zhu
 堋的	peng di
 堡砦	bao zhai
+堤壩	di ba
 堤壩	ti ba
+堤封	di feng
 堤封	ti feng
+堤岸	di an
 堤岸	ti an
+堤岸市	di an shi
 堤岸市	ti an shi
+堤防	di fang
 堤防	ti fang
 堰塞湖	yan se hu
 報仇	bao chou
@@ -30676,6 +30833,7 @@ use_preset_vocabulary: true
 填塞	tian se
 填海新生地	tian hai xin sheng di
 填海造地	tian hai zao di
+填溝壑	tian gou he
 填溝壑	tian gou huo
 填街塞巷	tian jie se xiang
 填還	tian huan
@@ -30710,7 +30868,9 @@ use_preset_vocabulary: true
 壁宿	bi xiu
 壅塞	yong se
 壎箎相和	xun chi xiang he
+壑谷	he gu
 壑谷	huo gu
+壓着	ya zhao
 壓蔓	ya man
 壓覺	ya jue
 壓角章	ya jiao zhang
@@ -30722,6 +30882,7 @@ use_preset_vocabulary: true
 壞坯子	huai pei zi
 壞疽	huai ju
 壞血病	huai xie bing
+壞血病	huai xue bing
 壟斷行業	long duan hang ye
 壤地	rang di
 壯猷	zhuang you
@@ -30746,6 +30907,7 @@ use_preset_vocabulary: true
 外傳	wai chuan
 外傳	wai zhuan
 外出血	wai chu xie
+外出血	wai chu xue
 外匯匯率	wai hui hui lv
 外匯銀行	wai hui yin hang
 外地	wai di
@@ -30821,6 +30983,7 @@ use_preset_vocabulary: true
 大伯子	da bai zi
 大似	da si
 大出血	da chu xie
+大出血	da chu xue
 大剛來	dai gang lai
 大剛喒	dai gang zan
 大功率	da gong lv
@@ -30842,6 +31005,7 @@ use_preset_vocabulary: true
 大地重生	da di chong sheng
 大地震	da di zhen
 大埤湖	da pi hu
+大壑	da he
 大壑	da huo
 大夫	da fu
 大夫	dai fu
@@ -30870,9 +31034,11 @@ use_preset_vocabulary: true
 大慟	da tong
 大憝	da dui
 大括弧	da gua hu
+大括弧	da kuo hu
 大排行	da pai hang
 大排長龍	da pai chang long
 大換血	da huan xie
+大換血	da huan xue
 大擺褶子	da bai xue zi
 大故	da gu
 大故	dai gu
@@ -30903,6 +31069,7 @@ use_preset_vocabulary: true
 大耋	da die
 大肆抨擊	da si peng ji
 大腦出血性中風	da nao chu xie xing zhong feng
+大腦出血性中風	da nao chu xue xing zhong feng
 大腹便便	da fu pian pian
 大腹賈	da fu gu
 大臠	da luan
@@ -31015,6 +31182,7 @@ use_preset_vocabulary: true
 天大地大	tian da di da
 天奇地怪	tian qi di guai
 天姥山	tian mu shan
+天官賜福	tian guan ci fu
 天官賜福	tian guan si fu
 天寒地凍	tian han di dong
 天崩地塌	tian beng di ta
@@ -31120,6 +31288,7 @@ use_preset_vocabulary: true
 失業率	shi ye lv
 失着	shi zhao
 失血	shi xie
+失血	shi xue
 失賊	shi ze
 失重	shi zhong
 失陷	shi xian
@@ -31130,6 +31299,7 @@ use_preset_vocabulary: true
 夾和	jia huo
 夾彩塑	jia cai su
 夾心餅乾	jia xin bing gan
+夾着尾巴	jia zhe wei ba
 夾角	jia jiao
 奄欻	yan hu
 奇偶	ji ou
@@ -31142,6 +31312,7 @@ use_preset_vocabulary: true
 奇葩異卉	qi pa yi hui
 奇譎	qi jue
 奇贏	ji ying
+奇蹄	ji ti
 奇蹄目	ji ti mu
 奇零	ji ling
 奉公不阿	feng gong bu e
@@ -31206,6 +31377,7 @@ use_preset_vocabulary: true
 奶酪	nai luo
 奸宄	jian gui
 奸慝	jian te
+好不了	hao bu liao
 好了歌	hao liao ge
 好事多慳	hao shi duo qian
 好事天慳	hao shi tian qian
@@ -31236,6 +31408,7 @@ use_preset_vocabulary: true
 如何進行	ru he jin xing
 如來藏	ru lai zang
 如出一轍	ru chu yi che
+如出一轍	ru chu yi zhe
 如壎如箎	ru xun ru chi
 如夢似幻	ru meng si huan
 如夢初覺	ru meng chu jue
@@ -31267,11 +31440,13 @@ use_preset_vocabulary: true
 妄自菲薄	wang zi fei bo
 妊娠	ren shen
 妊娠毒血症	ren shen du xie zheng
+妊娠毒血症	ren shen du xue zheng
 妊娠紋	ren shen wen
 妖妖調調	yao yao diao diao
 妖嬈	yao rao
 妖調	yao diao
 妝儇	zhuang xuan
+妥洽	tuo qia
 妥洽	tuo xia
 妯娌	zhou li
 妲己	da ji
@@ -31416,6 +31591,7 @@ use_preset_vocabulary: true
 嬤嬤	ma ma
 嬤嬤媽	ma ma ma
 嬤嬤爹	ma ma die
+嬪從	pin cong
 嬪從	pin zong
 嬭媼	nai ao
 嬰兒死亡率	ying er si wang lv
@@ -31484,6 +31660,7 @@ use_preset_vocabulary: true
 孳蔓	zi man
 學什麼	xue shen me
 學如逆水行舟	xue ru ni shui xing zhou
+學富五車	xue fu wu che
 學富五車	xue fu wu ju
 學校	xue xiao
 學校教育	xue xiao jiao yu
@@ -31569,6 +31746,7 @@ use_preset_vocabulary: true
 安樂椅	an le yi
 安樂死	an le si
 安樂窩	an le wo
+安步當車	an bu dang che
 安步當車	an bu dang ju
 安泊	an bo
 安營紮寨	an ying zha zhai
@@ -31587,7 +31765,9 @@ use_preset_vocabulary: true
 完了	wan le
 完了	wan liao
 宏儒碩學	hong ru shi xue
+宏儒碩學	hong ru shuo xue
 宏碩	hong shi
+宏碩	hong shuo
 宏觀調控	hong guan tiao kong
 宏都拉斯	hong du la si
 宏都拉斯共和國	hong du la si gong he guo
@@ -31628,6 +31808,7 @@ use_preset_vocabulary: true
 宮掖	gong ye
 宮本武藏	gong ben wu zang
 宮調	gong diao
+宮車晏駕	gong che yan jia
 宮車晏駕	gong ju yan jia
 宴媟	yan xie
 宴樂	yan le
@@ -31652,12 +31833,13 @@ use_preset_vocabulary: true
 家長	jia zhang
 家長制	jia zhang zhi
 家長裏短	jia chang li duan
-家鷄野鶩	jia ji ye wu
+家雞野鶩	jia ji ye wu
 容俟	rong si
 容積率	rong ji lv
 容臭	rong xiu
 容足地	rong zu di
 容身之地	rong shen zhi di
+容車	rong che
 容車	rong ju
 容長臉	rong chang lian
 宿世	su shi
@@ -31726,6 +31908,8 @@ use_preset_vocabulary: true
 寄宿	ji su
 寄宿學校	ji su xue xiao
 寄宿生	ji su sheng
+寄還	ji huan
+寄還給	ji huan gei
 密地	mi di
 密斯忒	mi si te
 密點地圖	mi dian di tu
@@ -31793,6 +31977,7 @@ use_preset_vocabulary: true
 寸長尺技	cun chang chi ji
 寸長尺短	cun chang chi duan
 寸隙	cun xi
+封侯賜爵	feng hou ci jue
 封侯賜爵	feng hou si jue
 封地	feng di
 封殖	feng zhi
@@ -31804,6 +31989,7 @@ use_preset_vocabulary: true
 封貯	feng zhu
 射干	ye gan
 射沓	she ta
+射鵰英雄傳	she diao ying xiong zhuan
 將伯	qiang bo
 將伯之助	qiang bo zhi zhu
 將兵長史	jiang bing zhang shi
@@ -31891,6 +32077,7 @@ use_preset_vocabulary: true
 小隙沉舟	xiao xi chen zhou
 小馬乍行嫌路窄	xiao ma zha xing xian lu zhai
 少不了	shao bu liao
+少不更事	shao bu geng shi
 少不更事	shao bu jing shi
 少吃無着	shao chi wu zhuo
 少女嫩婦	shao nv nen fu
@@ -31939,12 +32126,19 @@ use_preset_vocabulary: true
 居不重茵	ju bu chong yin
 居中調停	ju zhong tiao ting
 居住地	ju zhu di
+屈強	qu jiang
+屈膝投降	qu xi tou xiang
+屋脊爪	wu ji zhao
+屋脊爪	wu ji zhua
 屍山血海	shi shan xie hai
+屍山血海	shi shan xue hai
 屎蚵蜋	shi ke lang
 屏居	bing ju
 屏息	bing xi
+屏息以待	bing xi yi dai
 屏息凝氣	bing xi ning qi
 屏息凝視	bing xi ning shi
+屏息靜觀	bing xi jing guan
 屏斥	bing chi
 屏棄	bing qi
 屏氣	bing qi
@@ -32031,6 +32225,7 @@ use_preset_vocabulary: true
 山搖地動	shan yao di dong
 山旮旯子	shan ga la zi
 山有樞	shan you shu
+山查	shan zha
 山棲谷飲	shan qi gu yin
 山楂	shan zha
 山楂糕	shan zha gao
@@ -32062,6 +32257,7 @@ use_preset_vocabulary: true
 峭薄	qiao bo
 峴山碑	xian shan bei
 峻崖	jun yai
+峻阪鹽車	jun ban yan che
 峻阪鹽車	jun ban yan ju
 崆峒山	kong tong shan
 崇崖	chong yai
@@ -32126,6 +32322,7 @@ use_preset_vocabulary: true
 州伯	zhou bo
 州長	zhou zhang
 巡弋飛彈	xun yi fei dan
+巡緝	xun ji
 巡緝	xun qi
 巡航導彈	xun hang dao dan
 巡行	xun xing
@@ -32149,12 +32346,15 @@ use_preset_vocabulary: true
 左傳	zuo zhuan
 左右支絀	zuo you zhi chu
 左支右絀	zuo zhi you chu
+左氏傳	zuo shi zhuan
 左纛	zuo dao
 左舷	zuo xian
 左行	zuo xing
+巨壑	ju he
 巨壑	ju huo
 巨擘	ju bo
 巨著	ju zhu
+巨賈	ju gu
 巫覡	wu xi
 差之毫釐	cha zhi hao li
 差事	cha shi
@@ -32163,8 +32363,10 @@ use_preset_vocabulary: true
 差人	chai ren
 差以毫釐	cha yi hao li
 差以豪釐	cha yi hao li
+差任	chai ren
 差使	chai shi
 差勁	cha jin
+差動滑輪	cha dong gu lun
 差半車麥秸	cha ban che mai jie
 差品	ci pin
 差委	chai wei
@@ -32180,6 +32382,7 @@ use_preset_vocabulary: true
 差池	cha chi
 差池	ci chi
 差法	chai fa
+差派	chai pai
 差發	chai fa
 差票	chai piao
 差等	ci deng
@@ -32215,6 +32418,7 @@ use_preset_vocabulary: true
 巽他羣島	xun ta qun dao
 巽令	xun ling
 巽言	xun yan
+巾車	jin che
 巾車	jin ju
 市地重劃	shi di chong hua
 市場占有率	shi chang zhan you lv
@@ -32223,6 +32427,7 @@ use_preset_vocabulary: true
 市場調研	shi chang diao yan
 市朝	shi chao
 市盈率	shi ying lv
+市賈	shi gu
 市鑰	shi yao
 市長	shi zhang
 布什	bu shi
@@ -32242,7 +32447,9 @@ use_preset_vocabulary: true
 帑項	tang xiang
 帕德嫩神廟	pa de nen shen miao
 帖括	tie gua
+帖括	tie kuo
 帖括業	tie gua ye
+帖括業	tie kuo ye
 帗舞	fu wu
 帝國大廈	di guo da xia
 帝都	di du
@@ -32383,6 +32590,7 @@ use_preset_vocabulary: true
 康乃馨	kang nai xin
 康樂	kang le
 康樂活動	kang le huo dong
+康白度	kang bai du
 康白度	kang bo du
 康阜	kang fu
 庸行	yong xing
@@ -32397,6 +32605,7 @@ use_preset_vocabulary: true
 廈門	xia men
 廈門大學	xia men da xue
 廈門市	xia men shi
+廉白	lian bai
 廉白	lian bo
 廉纖	lian xian
 廉隅	lian yu
@@ -32418,10 +32627,13 @@ use_preset_vocabulary: true
 廣廈萬間	guang xia wan jian
 廣播歌仔戲	guang bo ge zi xi
 廣東住血吸蟲	guang dong zhu xie xi chong
+廣東住血吸蟲	guang dong zhu xue xi chong
 廣欬	guang kai
 廣畤	guang zhi
 廣盛	guang sheng
+廣緝	guang ji
 廣緝	guang qi
+廣緝文書	guang ji wen shu
 廣緝文書	guang qi wen shu
 廣行善事	guang xing shan shi
 廣袤	guang mao
@@ -32444,6 +32656,7 @@ use_preset_vocabulary: true
 延長記號	yan chang ji hao
 延長賽	yan chang sai
 建地	jian di
+建白	jian bai
 建白	jian bo
 建築工地	jian zhu gong di
 建蔽率	jian bi lv
@@ -32511,6 +32724,7 @@ use_preset_vocabulary: true
 張柏芝	zhang bai zhi
 張榜	zhang bang
 張牙舞爪	zhang ya wu zhao
+張牙舞爪	zhang ya wu zhua
 張羅殆盡	zhang luo dai jin
 張著	zhang zhu
 張角	zhang jue
@@ -32531,6 +32745,7 @@ use_preset_vocabulary: true
 強記洽聞	qiang ji qia wen
 強記洽聞	qiang ji xia wen
 強調	qiang diao
+強還原劑	qiang huan yuan ji
 強顏	jiang yan
 強顏	qiang yan
 強龍不壓地頭蛇	qiang long bu ya di tou she
@@ -32538,6 +32753,7 @@ use_preset_vocabulary: true
 弸弓	peng gong
 彀率	gou lv
 彆強	bie jiang
+彆拗	bie niu
 彈丸	dan wan
 彈丸之地	dan wan zhi di
 彈冠	tan guan
@@ -32657,6 +32873,7 @@ use_preset_vocabulary: true
 役畜	yi chu
 彼長我消	bi zhang wo xiao
 往還	wang huan
+往還於	wang huan yu
 征勦	zheng jiao
 待不了	dai bu liao
 待價藏珠	dai jia cang zhu
@@ -32676,22 +32893,32 @@ use_preset_vocabulary: true
 徊翔	huai xiang
 律藏	lv zang
 後不着店	hou bu zhao dian
+後傳	hou zhuan
 後半晌	hou ban shang
 後天失調	hou tian shi tiao
+後掠角	hou lve jiao
 後晌	hou shang
 後知後覺	hou zhi hou jue
 後腦杓	hou nao shao
 後臺老闆	hou tai lao ban
 後藏	hou zang
 後覺	hou jue
+後車戒	hou che jie
 後車戒	hou ju jie
 後重	hou zhong
 徐行	xu xing
 徐鉉	xu xuan
 徑行	jing xing
 徒步旅行	tu bu lv xing
+徒步當車	tu bu dang che
 徒步當車	tu bu dang ju
 徒行	tu xing
+得上	dei shang
+得上來	dei shang lai
+得上去	dei shang qu
+得下	dei xia
+得下來	dei xia lai
+得下去	dei xia qu
 得不償失	de bu chang shi
 得了	de le
 得了	de liao
@@ -32709,6 +32936,7 @@ use_preset_vocabulary: true
 得有	dei you
 得未曾有	de wei ceng you
 得權重任	de quan zhong ren
+得用	dei yong
 得票率	de piao lv
 得雋	de jun
 徘徊	pai huai
@@ -32716,31 +32944,49 @@ use_preset_vocabulary: true
 徙宅忘妻	xi zhe wang qi
 徜徉	chang yang
 從中斡旋	cong zhong wo xuan
+從伯	cong bo
 從伯	zong bo
+從兄	cong xiong
 從兄	zong xiong
+從兄弟	cong xiong di
 從兄弟	zong xiong di
+從刑	cong xing
 從刑	zong xing
+從吏	cong li
 從吏	zong li
+從女	cong nv
 從女	zong nv
+從子	cong zi
 從子	zong zi
+從官	cong guan
 從官	zong guan
+從弟	cong di
 從弟	zong di
+從母	cong mu
 從母	zong mu
+從法	cong fa
 從法	zong fa
+從父	cong fu
 從父	zong fu
+從犯	cong fan
 從犯	zong fan
 從約	zong yue
+從罰	cong fa
 從罰	zong fa
+從者	cong zhe
 從者	zong zhe
 從衡	zong heng
 從諗	cong shen
 從長計議	cong chang ji yi
+御史大夫	yu shi dai fu
 復仇	fu chou
 復仇雪恥	fu chou xue chi
 復子明辟	fu zi ming bi
 復興基地	fu xing ji di
 復蹈其轍	fu dao qi che
+復蹈其轍	fu dao qi zhe
 復蹈前轍	fu dao qian che
+復蹈前轍	fu dao qian zhe
 復辟	fu bi
 循名校實	xun ming jiao shi
 循陔	xun gai
@@ -32752,6 +32998,7 @@ use_preset_vocabulary: true
 微纖	wei xian
 微薄	wei bo
 微血管	wei xie guan
+微血管	wei xue guan
 微行	wei xing
 微調	wei tiao
 徵地	zheng di
@@ -32791,6 +33038,7 @@ use_preset_vocabulary: true
 心律調節器	xin lv tiao jie qi
 心怯	xin que
 心懸兩地	xin xuan liang di
+心旌搖曳	xin jing yao ye
 心旌搖曳	xin jing yao yi
 心潮澎湃	xin chao peng pai
 心焦如火	xin jiao ru fen
@@ -32800,6 +33048,7 @@ use_preset_vocabulary: true
 心肌梗塞	xin ji geng se
 心腹重患	xin fu zhong huan
 心膂爪牙	xin lv zhao ya
+心膂爪牙	xin lv zhua ya
 心膂股肱	xin lv gu gong
 心膽墮地	xin dan duo di
 心臟麻痺	xin zang ma bi
@@ -32814,6 +33063,7 @@ use_preset_vocabulary: true
 必得	bi dei
 必爭之地	bi zheng zhi di
 忉怛	dao da
+忍受得了	ren shou de liao
 忍辱負重	ren ru fu zhong
 忒忒	te te
 忒恁	te ren
@@ -32840,6 +33090,7 @@ use_preset_vocabulary: true
 快樂丸	kuai le wan
 快樂主義	kuai le zhu yi
 快速增長	kuai su zeng zhang
+快騎	kuai ji
 忭懽	bian huan
 忭躍	bian yue
 忸忸怩怩	niu niu ni ni
@@ -32854,12 +33105,17 @@ use_preset_vocabulary: true
 忿戾	fen li
 怊悵	chao chang
 怎地	zen de
+怎的	zen de
+怎行	zen xing
 怎麼得了	zen me de liao
-怎麼搞的	ze me gao de
+怎麼搞的	zen me gao de
 怎麼着	zen me zhao
+怏嚇	yang he
 怏怏不樂	yang yang bu le
+怒濤排壑	nu tao pai he
 怒濤排壑	nu tao pai huo
 怒目攢眉	nu mu cuan mei
+怒臂當車	nu bi dang che
 怒臂當車	nu bi dang ju
 怔住	leng zhu
 怔呵呵	leng he he
@@ -32889,12 +33145,14 @@ use_preset_vocabulary: true
 急管繁絃	ji guan fan xian
 急絃	ji xian
 急聒	ji gua
+急脈緩受	ji mai huan shou
 急脈緩受	ji mo huan shou
 急行軍	ji xing jun
 急驚風撞着慢郎中	ji jing feng zhuang zhao man lang zhong
 急驚風遇着慢郎中	ji jing feng yu zhao man lang zhong
 急驟	ji zou
 性地	xing di
+性知識	xing zhi shi
 性行	xing xing
 性行爲	xing xing wei
 性變態行爲	xing bian tai xing wei
@@ -32918,6 +33176,7 @@ use_preset_vocabulary: true
 怯弱	que ruo
 怯怯	que que
 怯怯喬喬	que que qiao qiao
+怯怯的	qie qie de
 怯怯羞羞	que que xiu xiu
 怯憐戶	que lian hu
 怯懦	que nuo
@@ -32938,6 +33197,8 @@ use_preset_vocabulary: true
 恁麼	ren me
 恇怯	kuang que
 恐嚇	kong he
+恐嚇信	kong he xin
+恐嚇性	kong he xing
 恐嚇罪	kong he zui
 恝置	jia zhi
 恣心所欲	zi xin suo yu
@@ -32962,6 +33223,7 @@ use_preset_vocabulary: true
 恩將仇報	en jiang chou bao
 恩深義重	en shen yi zhong
 恩給制	en ji zhi
+恩賜	en ci
 恩賜	en si
 恩重丘山	en zhong qiu shan
 恩重如山	en zhong ru shan
@@ -33049,7 +33311,9 @@ use_preset_vocabulary: true
 惙怛	chuo da
 惝怳	chang huang
 惝然	chang ran
+惠施五車	hui shi wu che
 惠施五車	hui shi wu ju
+惠賜	hui ci
 惠賜	hui si
 惡之欲其死	wu zhi yu qi si
 惡事行千里	e shi xing qian li
@@ -33057,6 +33321,7 @@ use_preset_vocabulary: true
 惡地	e di
 惡嫌	wu xian
 惡性貧血	e xing pin xie
+惡性貧血	e xing pin xue
 惡惡	wu e
 惡惡從短	wu e cong duan
 惡有	wu you
@@ -33100,6 +33365,7 @@ use_preset_vocabulary: true
 意味深長	yi wei shen chang
 意度	yi du
 意度	yi duo
+意志消沈	yi zhi xiao chen
 意意似似	yi yi si si
 意義深長	yi yi shen chang
 愒日	kai ri
@@ -33182,6 +33448,7 @@ use_preset_vocabulary: true
 慴息	zhe xi
 慶伯利	qing bo li
 慺慺	lou lou
+慾壑難填	yu he nan tian
 慾壑難填	yu huo nan tian
 憁恫	zong dong
 憂喜參半	you xi can ban
@@ -33247,8 +33514,11 @@ use_preset_vocabulary: true
 懸的過高	xuan di guo gao
 懸絲傀儡	xuan si kui lei
 懸薄	xuan bo
+懸車之年	xuan che zhi nian
 懸車之年	xuan ju zhi nian
+懸車告老	xuan che gao lao
 懸車告老	xuan ju gao lao
+懸車致仕	xuan che zhi shi
 懸車致仕	xuan ju zhi shi
 懸針垂露	xuan zhen chui lou
 懼怯	ju que
@@ -33380,11 +33650,12 @@ use_preset_vocabulary: true
 扃關	jiong guan
 扇形角	shan xing jiao
 扇火止沸	shan huo zhi fei
+扈從	hu cong
 扈從	hu zong
 手剎	shou sha
 手寫辨似	shou xie bian si
 手心手背都是肉	shou xin shou bei dou shi rou
-手扒鷄	shou pa ji
+手扒雞	shou pa ji
 手攜手	shou xi shou
 手榜	shou bang
 手榴彈	shou liu dan
@@ -33411,6 +33682,7 @@ use_preset_vocabulary: true
 扎手	zha shou
 扎手舞腳	zha shou wu jiao
 扎括	zha gua
+扎括	zha kuo
 扎掂	zha dian
 扎掙	zha zheng
 扎撒	zha sa
@@ -33496,6 +33768,7 @@ use_preset_vocabulary: true
 打細泊	da xi bo
 打胸廝撞	da xiong si zhuang
 打落牙齒和血吞	da luo ya chi huo xie tun
+打落牙齒和血吞	da luo ya chi huo xue tun
 打虎不着	da hu bu zhao
 打虎還得親兄弟	da hu hai dei qin xiong di
 打調	da tiao
@@ -33537,6 +33810,7 @@ use_preset_vocabulary: true
 扭扭屹屹	niu niu yi yi
 扭轉乾坤	niu zhuan qian kun
 扯扯拽拽	che che ye ye
+扯曳	che ye
 扯曳	che yi
 扱鞋	xi xie
 扳厚	pan hou
@@ -33557,6 +33831,7 @@ use_preset_vocabulary: true
 扺掌而談	zhi zhang er tan
 扼吭	e hang
 扼吭拊背	e hang fu bei
+找不着	zhao bu zhao
 找樂子	zhao le zi
 找着	zhao zhao
 找誰	zhao shui
@@ -33585,6 +33860,7 @@ use_preset_vocabulary: true
 投宿	tou su
 投彈	tou dan
 投手防禦率	tou shou fang yu lv
+投洽	tou qia
 投洽	tou xia
 投行	tou hang
 投賃	tou lin
@@ -33592,14 +33868,21 @@ use_preset_vocabulary: true
 投資銀行	tou zi yin hang
 投醪	tou lao
 投降	tou xiang
+投降主義	tou xiang zhu yi
+投降書	tou xiang shu
 抗凝血劑	kang ning xie ji
+抗凝血劑	kang ning xue ji
 抗毒血清	kang du xie qing
+抗毒血清	kang du xue qing
 抗美援朝	kang mei yuan chao
 抗菌血清	kang jun xie qing
+抗菌血清	kang jun xue qing
 抗血清	kang xie qing
+抗血清	kang xue qing
 抗頡作用	kang xie zuo yong
 折價率	zhe jia lv
 折射角	zhe she jiao
+折戟沈河	zhe ji chen he
 折本	she ben
 折秤	she cheng
 折耗	she hao
@@ -33767,10 +34050,12 @@ use_preset_vocabulary: true
 抽菸	chou yan
 抽薪止沸	chou xin zhi fei
 抽血	chou xie
+抽血	chou xue
 抽調	chou diao
 抽釐	chou li
 拂士	bi shi
 拄笏看山	zhu hu kan shan
+拆屋還地	chai wu huan di
 拆款利率	chai kuan li lv
 拆爛污	chai lan wu
 拆爛污	che lan wu
@@ -33783,6 +34068,7 @@ use_preset_vocabulary: true
 拉伯蘭	la bo lan
 拉卜楞	la bu leng
 拉口子要見血	la kou zi yao jian xie
+拉口子要見血	la kou zi yao jian xue
 拉名糧長	la ming liang zhang
 拉坏	la pei
 拉塞福	la se fu
@@ -33790,6 +34076,7 @@ use_preset_vocabulary: true
 拉弦子	la xian zi
 拉抽屜	la chou ti
 拉斐爾	la fei er
+拉曳	la ye
 拉曳	la yi
 拉沓	la ta
 拉祜族	la hu zu
@@ -33803,6 +34090,7 @@ use_preset_vocabulary: true
 拋屍露骨	pao shi lu gu
 拋聲調嗓	pao sheng diao sang
 拋頭露面	pao tou lu mian
+拌和	ban huo
 拌折	pan zhe
 拍塞	pai se
 拍紙簿	pai zhi bu
@@ -33900,22 +34188,30 @@ use_preset_vocabulary: true
 括刷	gua shua
 括剌剌	gua la la
 括囊	gua nang
+括囊	kuo nang
 括囊守祿	gua nang shou lu
+括囊守祿	kuo nang shou lu
 括囊拱手	gua nang gong shou
+括囊拱手	kuo nang gong shou
 括地皮	gua di pi
 括帖	gua tie
+括帖	kuo tie
 括弧	gua hu
+括弧	kuo hu
 括括叫	gua gua jiao
 括搭	gua da
 括毒	gua du
 括號	gua hao
+括號	kuo hao
 括髮	gua fa
+括髮	kuo fa
 拭目以俟	shi mu yi si
 拱手垂裳	gong shou chui chang
 拱手投降	gong shou tou xiang
 拱手而降	gong shou er xiang
 拳攣	quan lvan
 拴搐豔段	shuan chu yan duan
+拴着	shuan zhe
 拶子	zan zi
 拶指	zan zhi
 拶滿	za man
@@ -33945,6 +34241,8 @@ use_preset_vocabulary: true
 指天畫地	zhi tian hua di
 指天說地	zhi tian shuo di
 指沓	zhi ta
+指爪	zhi zhao
+指爪	zhi zhua
 指瑕造隙	zhi xia zao xi
 指謫	zhi zhe
 指長話短	zhi chang hua duan
@@ -33960,6 +34258,7 @@ use_preset_vocabulary: true
 挨山塞海	ai shan se hai
 挨挨桚桚	ai ai za za
 挨肩擦膀	ai jian ca bang
+挨風緝縫	ai feng ji feng
 挨風緝縫	ai feng qi feng
 振慴	zhen zhe
 振翮	zhen he
@@ -33967,6 +34266,7 @@ use_preset_vocabulary: true
 挺撞	ting zhuang
 挼挲	nuo suo
 挼搓	nuo cuo
+挽救不了	wan jiu bu liao
 挾主行令	xie zhu xing ling
 挾人捉將	xie ren zhuo jiang
 挾冰求溫	xie bing qiu wen
@@ -34010,7 +34310,9 @@ use_preset_vocabulary: true
 捏塑	nie su
 捏弄	nie long
 捐血	juan xie
+捐血	juan xue
 捕捉畋獵	bu zhuo tian lie
+捕緝	bu ji
 捕緝	bu qi
 捧哏	peng gen
 捧檄	peng xi
@@ -34018,10 +34320,12 @@ use_preset_vocabulary: true
 捧鳳凰似的	peng feng huang si de
 捨我其誰	she wo qi shei
 捨短取長	she duan qu chang
+捨車保帥	she ju bao shuai
 捫參歷井	men shen li jing
 捫隙發罅	men xi fa xia
 捭闔	bai he
 捭闔縱橫	bai he zong heng
+捱風緝縫	ai feng ji feng
 捱風緝縫	ai feng qi feng
 捲入漩渦	juan ru xuan wo
 捲土重來	juan tu chong lai
@@ -34104,20 +34408,24 @@ use_preset_vocabulary: true
 掞張	shan zhang
 掞藻	shan zao
 掞藻飛聲	shan zao fei sheng
+掠地	lve di
 掠地攻城	lve di gong cheng
 掠脂斡肉	lve zhi wo rou
+掠食	lve shi
 採取行動	cai qu xing dong
 採摭	cai zhi
 採擷	cai jie
 採行	cai xing
 探囊胠篋	tan nang qu qie
 探本溯源	tan ben su yuan
+探着	tan zhao
 探著	tan zhu
 探親家	tan qing jia
 探騎	tan ji
 掣光	che guang
 掣刀	che dao
 掣後腿	che hou tui
+掣曳	che ye
 掣曳	che yi
 掣籤	che qian
 掣肘	che zhou
@@ -34132,6 +34440,7 @@ use_preset_vocabulary: true
 接地	jie di
 接地線	jie di xian
 接捻子	jie nian zi
+接洽	jie qia
 接洽	jie xia
 接淅而行	jie xi er xing
 控弦	kong xian
@@ -34149,7 +34458,7 @@ use_preset_vocabulary: true
 推遜	tui xun
 推重	tui zhong
 推鉋	tui bao
-掩咯鷄	yan luo ji
+掩咯雞	yan luo ji
 掩沒	yan mo
 掩瑕藏疾	yan xia cang ji
 掩罪藏惡	yan zui cang e
@@ -34208,9 +34517,11 @@ use_preset_vocabulary: true
 換手率	huan shou lv
 換生不如守熟	huan sheng bu ru shou shu
 換血	huan xie
+換血	huan xue
 換行	huan hang
 揠苗助長	ya miao zhu zhang
 握拳透爪	wo quan tou zhao
+握拳透爪	wo quan tou zhua
 握槧懷鉛	wo qian huai qian
 握雨攜雲	wo yu xi yun
 握雲攜雨	wo yun xi yu
@@ -34264,6 +34575,7 @@ use_preset_vocabulary: true
 揲蓍	she shi
 援藏	yuan zang
 揶揄	ye yu
+搆不着	gou bu zhao
 搆陷	gou xian
 搆隙	gou xi
 搊彈詞	chou tan ci
@@ -34284,7 +34596,9 @@ use_preset_vocabulary: true
 搖囝仔歌	yao jian zi ge
 搖擺樂	yao bai yue
 搖旗吶喊	yao qi na han
+搖曳	yao ye
 搖曳	yao yi
+搖曳生姿	yao ye sheng zi
 搖曳生姿	yao yi sheng zi
 搖滾樂	yao gun yue
 搗碓	dao dui
@@ -34509,6 +34823,7 @@ use_preset_vocabulary: true
 擉鱉	chu bie
 擊扑	ji pu
 擊柝	ji tuo
+擊沈	ji chen
 擊潰	ji kui
 擊碎唾壺	ji sui tuo hu
 擊缶	ji fou
@@ -34564,9 +34879,13 @@ use_preset_vocabulary: true
 擿奸發伏	ti jian fa fu
 攀庭檻	pan ting jian
 攀親託熟	pan qin tuo shu
+攀車拒輪	pan che che lun
 攀車拒輪	pan ju ju lun
+攀車臥轍	pan che wo zhe
 攀車臥轍	pan ju wo che
+攀車臥轍	pan ju wo zhe
 攀轅臥轍	pan yuan wo che
+攀轅臥轍	pan yuan wo zhe
 攙和	chan huo
 攙行奪市	chan hang duo shi
 攛掇	cuan duo
@@ -34655,6 +34974,7 @@ use_preset_vocabulary: true
 攮氣	nang qi
 攮糠	nang kang
 支持率	zhi chi lv
+支撐不了	zhi cheng bu liao
 支絀	zhi chu
 支行	zhi hang
 支調	zhi diao
@@ -34678,6 +34998,7 @@ use_preset_vocabulary: true
 改弦易張	gai xian yi zhang
 改弦易調	gai xian yi diao
 改弦易轍	gai xian yi che
+改弦易轍	gai xian yi zhe
 改弦更張	gai xian geng zhang
 改張易調	gai zhang yi diao
 改惡行善	gai e xing shan
@@ -34687,7 +35008,9 @@ use_preset_vocabulary: true
 改行	gai hang
 改行遷善	gai xing qian shan
 改轅易轍	gai yuan yi che
+改轅易轍	gai yuan yi zhe
 改轍	gai che
+改轍	gai zhe
 攻城掠地	gong cheng lve di
 攻城略地	gong cheng lve di
 攻殲	gong jian
@@ -34700,12 +35023,14 @@ use_preset_vocabulary: true
 放尊重	fang zun zhong
 放屏	fang bing
 放恣	fang zi
+放情丘壑	fang qing qiu he
 放情丘壑	fang qing qiu huo
 放榜	fang bang
 放牧地	fang mu di
 放番	fang fan
 放蕩弛縱	fang dang shi zong
 放血	fang xie
+放血	fang xue
 放行	fang xing
 放重	fang zhong
 放長線釣大魚	fang chang xian diao da yu
@@ -34715,18 +35040,23 @@ use_preset_vocabulary: true
 故地	gu di
 故技重施	gu ji chong shi
 故轍	gu che
+故轍	gu zhe
 故都	gu du
 效率	xiao lv
 效率高	xiao lv gao
 敏給	min ji
 救之就要吃人肉	zhi jiu yao chi ren rou
 救火揚沸	jiu huo yang fei
+敕賜	chi ci
 敕賜	chi si
 敖不可長	ao bu ke zhang
 敗棋有勝着	bai qi you sheng zhuo
 敗血性休克	bai xie xing xiu ke
+敗血性休克	bai xue xing xiu ke
 敗血症	bai xie zheng
+敗血症	bai xue zheng
 敗血膿毒症	bai xie nong du zheng
+敗血膿毒症	bai xue nong du zheng
 敗衄	bai nv
 敗行	bai xing
 敗露	bai lu
@@ -34741,6 +35071,7 @@ use_preset_vocabulary: true
 散地	san di
 散樂	san yue
 散血草	san xie cao
+散血草	san xue cao
 散騎常侍	san ji chang shi
 敦槃	dui pan
 敦聘	dun pin
@@ -34776,6 +35107,7 @@ use_preset_vocabulary: true
 斂藏	lian cang
 文化底蘊	wen hua di yun
 文姬入塞	wen ji ru sai
+文攻武嚇	wen gong wu he
 文樂傀儡	wen yue kui lei
 文溯閣	wen su ge
 文蛤	wen ge
@@ -34801,6 +35133,7 @@ use_preset_vocabulary: true
 斗重山齊	dou zhong shan qi
 料度	liao duo
 斜角	xie jiao
+斜角規	xie jiao gui
 斜谷	ye gu
 斜長石	xie chang shi
 斡旋	wo xuan
@@ -34818,6 +35151,7 @@ use_preset_vocabulary: true
 斬衰	zhan cui
 斬馘	zhan guo
 斬馬謖	zhan ma su
+斯堪的納維亞	si kan di na wei ya
 斯堪的那維亞半島	si kan di na wei ya ban dao
 斯多噶學派	si duo ge xue pai
 斯文委地	si wen wei di
@@ -34837,12 +35171,14 @@ use_preset_vocabulary: true
 新罕布什爾州	xin han bu shi er zhou
 新股發行	xin gu fa xing
 新血輪	xin xie lun
+新血輪	xin xue lun
 新靚	xin jing
 斲削	zhuo xue
 斷崖	duan yai
 斷弦	duan xian
 斷爛朝報	duan lan chao bao
 斷臂	duan bei
+斷臂	duan bi
 斷釵重合	duan chai chong he
 斷長續短	duan chang xu duan
 斷長補短	duan chang bu duan
@@ -34869,6 +35205,7 @@ use_preset_vocabulary: true
 旁人短長	pang ren duan chang
 旁午	bang wu
 旁系血親	pang xi xie qin
+旁系血親	pang xi xue qin
 旁薄	pang bo
 旁行	pang xing
 旁行斜上	pang xing xie shang
@@ -34892,6 +35229,7 @@ use_preset_vocabulary: true
 旋渦	xuan wo
 旋轉乾坤	xuan zhuan qian kun
 旋辟	xuan pi
+旌車	jing che
 旌車	jing ju
 旍旗	jing qi
 旍表	jing biao
@@ -34909,6 +35247,7 @@ use_preset_vocabulary: true
 日月參辰	ri yue shen chen
 日月重光	ri yue chong guang
 日朘月削	ri juan yue xue
+日沒	ri mo
 日省月試	ri xing yue shi
 日省月課	ri xing yue ke
 日給	ri ji
@@ -34919,6 +35258,7 @@ use_preset_vocabulary: true
 日角	ri jue
 日角偃月	ri jue yan yue
 日角珠庭	ri jue zhu ting
+日誦五車	ri song wu che
 日誦五車	ri song wu ju
 日近長安遠	ri jin chang an yuan
 日長一線	ri chang yi xian
@@ -34928,10 +35268,12 @@ use_preset_vocabulary: true
 旦暮朝夕	dan mu zhao xi
 旦角	dan jue
 旨酒嘉肴	zhi jiu jia yao
+早借早還	zao jie zao huan
 早參	zao can
 早晌	zao shang
 早朝	zao chao
 早熟兒童	zao shou er tong
+早賜玉音	zao ci yu yin
 早賜玉音	zao si yu yin
 旮旯	ga la
 旱地	han di
@@ -34949,6 +35291,7 @@ use_preset_vocabulary: true
 明德惟馨	ming de wei xin
 明珠彈雀	ming zhu tan que
 明珠生蚌	ming zhu sheng bang
+明白了當	ming bai liao dang
 明盛	ming sheng
 明調	ming diao
 明鎗容易躲	ming qiang rong yi duo
@@ -34956,6 +35299,7 @@ use_preset_vocabulary: true
 昏天暗地	hun tian an di
 昏天黑地	hun tian hei di
 昏定晨省	hun ding chen xing
+昏沈	hun chen
 昏瞀	hun mao
 昏瞶	hun kui
 昏鏡重明	hun jing chong ming
@@ -34969,6 +35313,7 @@ use_preset_vocabulary: true
 易如拾芥	yi ru shi jie
 易簀	yi ze
 易轍	yi che
+易轍	yi zhe
 星宿海	xing xiu hai
 星行	xing xing
 星行夜歸	xing xing ye gui
@@ -34977,6 +35322,7 @@ use_preset_vocabulary: true
 春丕峽	chun pi xia
 春光漏泄	chun guang lou xie
 春回大地	chun hui da di
+春夢了無痕	chun meng liao wu hen
 春榜	chun bang
 春深似海	chun shen si hai
 春盛擔子	chun sheng dan zi
@@ -35051,6 +35397,7 @@ use_preset_vocabulary: true
 晷刻	gui ke
 智圓行方	zhi yuan xing fang
 智慧型大廈	zhi hui xing da xia
+智者樂水	zhi zhe yao shui
 智調	zhi diao
 智顗	zhi yi
 晻世	an shi
@@ -35076,11 +35423,13 @@ use_preset_vocabulary: true
 暗地	an di
 暗地裏	an di li
 暗射地圖	an she di tu
+暗沈沈	an chen chen
 暗澹	an dan
 暗箭明鎗	an jian ming qiang
 暗藏	an cang
 暗藏玄機	an cang xuan ji
 暗行	an hang
+暢洽	chang qia
 暢洽	chang xia
 暢行	chang xing
 暢行無阻	chang xing wu zu
@@ -35122,6 +35471,8 @@ use_preset_vocabulary: true
 暴白	pu bai
 暴腮龍門	pu sai long men
 暴虎馮河	bao hu ping he
+暴虐	bao nve
+暴虐無道	bao nve wu dao
 暴行	bao xing
 暴行	pu xing
 暴醃	pu yan
@@ -35165,20 +35516,33 @@ use_preset_vocabulary: true
 曲調	qu diao
 曲軸	qu zhou
 曲阜縣	qu fu xian
+曳光彈	ye guang dan
 曳光彈	yi guang dan
 曳剌	ye la
+曳尾塗中	ye wei tu zhong
 曳尾塗中	yi wei tu zhong
+曳尾泥塗	ye wei ni tu
 曳尾泥塗	yi wei ni tu
+曳引機	ye yin ji
 曳引機	yi yin ji
+曳引車	ye yin che
 曳引車	yi yin che
+曳曳	ye ye
 曳曳	yi yi
+曳步	ye bu
 曳步	yi bu
+曳白	ye bai
 曳白	yi bai
+曳落河	ye luo he
 曳落河	yi luo he
+曳裾王門	ye ju wang men
 曳裾王門	yi ju wang men
+曳踵	ye zhong
 曳踵	yi zhong
+更事	geng shi
 更事	jing shi
 更弦易轍	geng xian yi che
+更弦易轍	geng xian yi zhe
 更番	geng fan
 更行	geng xing
 更調	geng diao
@@ -35190,9 +35554,11 @@ use_preset_vocabulary: true
 曶鼎	hu ding
 書傳	shu zhuan
 書僮	shu tong
+書富五車	shu fu wu che
 書富五車	shu fu wu ju
 書歸正傳	shu gui zheng zhuan
 書無百日工	shu wu bo ri gong
+書讀五車	shu du wu che
 書讀五車	shu du wu ju
 曹丕	cao pi
 曹劌論戰	cao gui lun zhan
@@ -35254,6 +35620,7 @@ use_preset_vocabulary: true
 最便宜的	zui pian yi de
 最大功率	zui da gong lv
 最流行的	zui liu xing de
+最終目的	zui zhong mu di
 最重	zui zhong
 最重要的	zui zhong yao de
 最長	zui chang
@@ -35267,13 +35634,18 @@ use_preset_vocabulary: true
 會稽之恥	gui ji zhi chi
 會稽山	gui ji shan
 會計	kuai ji
+會計制度	kuai ji zhi du
 會計報表	kuai ji bao biao
 會計學	kuai ji xue
+會計室	kuai ji shi
 會計師	kuai ji shi
 會計年度	kuai ji nian du
 會計法	kuai ji fa
 會計準則	kuai ji zhun ze
+會計簿	kuai ji bu
+會計系	kuai ji xi
 會計覈算	kuai ji he suan
+會計部	kuai ji bu
 會長	hui zhang
 月利率	yue li lv
 月地雲階	yue di yun jie
@@ -35510,11 +35882,13 @@ use_preset_vocabulary: true
 未了公案	wei liao gong an
 未了因	wei liao yin
 未了情	wei liao qing
+未了緣	wei liao yuan
 未卜先知	wei bu xian zhi
 未曾	wei ceng
 未熟兒	wei shu er
 未省	wei xing
 未足輕重	wei zu qing zhong
+未還	wei huan
 未雨綢繆	wei yu chou mou
 末了	mo liao
 末末了	mo mo liao
@@ -35553,6 +35927,7 @@ use_preset_vocabulary: true
 朴實頭	pu shi tou
 朴忠	pu zhong
 朴樹	pu shu
+朴正熙	piao zheng xi
 朴父	pu fu
 朴直	pu zhi
 朴硝	po xiao
@@ -35564,6 +35939,7 @@ use_preset_vocabulary: true
 朴陋	pu lou
 朵頤大嚼	duo yi da jiao
 朹子	qiu zi
+杉材	sha cai
 李下無蹊	li xia wu xi
 李伯陽	li bo yang
 李娃傳	li wa zhuan
@@ -35591,9 +35967,11 @@ use_preset_vocabulary: true
 杪忽	miao hu
 杪秋	miao qiu
 杯杓	bei shao
+杯水車薪	bei shui che xin
 杯水車薪	bei shui ju xin
 杯盤狼藉	bei pan lang ji
 杯筊	bei jiao
+杯蛇鬼車	bei she gui che
 杯蛇鬼車	bei she gui ju
 杯行	bei xing
 東北地區	dong bei di qu
@@ -35653,6 +36031,7 @@ use_preset_vocabulary: true
 枕藉	zhen jie
 林口臺地	lin kou tai di
 林地	lin di
+林壑	lin he
 林壑	lin huo
 林杪	lin miao
 林樂知	lin le zhi
@@ -35675,6 +36054,7 @@ use_preset_vocabulary: true
 枯乾	ku gan
 枯涸	ku he
 枯魚涸轍	ku yu he che
+枯魚涸轍	ku yu he zhe
 枳實	zhi shi
 枳棘	zhi ji
 枳椇	ji ju
@@ -35773,6 +36153,7 @@ use_preset_vocabulary: true
 查果	zha guo
 查梨	zha li
 查沙	zha sha
+查緝	cha ji
 查緝	cha qi
 查裹	zha guo
 查詰	cha jie
@@ -35916,6 +36297,8 @@ use_preset_vocabulary: true
 梵筴	fan jia
 棄如弁髦	qi ru bian mao
 棄械	qi xie
+棄械投降	qi xie tou xiang
+棄甲曳兵	qi jia ye bing
 棄甲曳兵	qi jia yi bing
 棄短取長	qi duan qu chang
 棄車保帥	qi ju bao shuai
@@ -35961,6 +36344,7 @@ use_preset_vocabulary: true
 植物生長素	zhi wu sheng zhang su
 植物纖維	zhi wu xian wei
 椎心泣血	zhui xin qi xie
+椎心泣血	zhui xin qi xue
 椎拍輐斷	zhui pai wan duan
 椎輪大輅	zhui lun da lu
 椑柿	bei shi
@@ -35991,6 +36375,7 @@ use_preset_vocabulary: true
 業畜	ye chu
 業簿	ye bu
 業績增長	ye ji zeng zhang
+楮知白	chu zhi bai
 楮知白	chu zhi bo
 楮鏹	chu qiang
 楯鼻	shun bi
@@ -36001,7 +36386,9 @@ use_preset_vocabulary: true
 極樂鳥	ji le niao
 極爲重要	ji wei zhong yao
 概括	gai gua
+概括	gai kuo
 概括承受	gai gua cheng shou
+概括承受	gai kuo cheng shou
 概率	gai lv
 榆塞	yu sai
 榆瞑豆重	yu mian dou zhong
@@ -36041,6 +36428,7 @@ use_preset_vocabulary: true
 槧本	qian ben
 槭糖漿	cu tang jiang
 槭葉止血草	cu ye zhi xie cao
+槭葉止血草	cu ye zhi xue cao
 槮爽	san shuang
 槽碓	cao dui
 樂不可支	le bu ke zhi
@@ -36171,6 +36559,7 @@ use_preset_vocabulary: true
 樂風	le feng
 樊噲	fan kuai
 樊於期	fan wu qi
+樓車	lou che
 樓車	lou ju
 樗散	shu san
 樗朽之材	shu xiu zhi cai
@@ -36229,6 +36618,7 @@ use_preset_vocabulary: true
 橚矗	su chu
 機事不密禍先行	ji shi bu mi huo xian xing
 機括	ji gua
+機括	ji kuo
 機械	ji xie
 機械化	ji xie hua
 機械化耕作	ji xie hua geng zuo
@@ -36261,6 +36651,7 @@ use_preset_vocabulary: true
 橫行霸道	heng xing ba dao
 橫衝直撞	heng chong zhi zhuang
 橫軸	heng zhou
+檀車	tan che
 檀車	tan ju
 檄召	xi zhao
 檄文	xi wen
@@ -36273,12 +36664,14 @@ use_preset_vocabulary: true
 檠天架海	qing tian jia hai
 檢察長	jian cha zhang
 檢括	jian gua
+檢括	jian kuo
 檢校	jian jiao
 檳城	bin cheng
 檳榔嶼	bin lang yu
 檳榔攤	bin lang tan
 檻檻	jian jian
 檻猿籠鳥	jian yuan long niao
+檻車	jian che
 檻車	jian ju
 櫂歌	zhao ge
 櫓棹	lu zhao
@@ -36290,7 +36683,10 @@ use_preset_vocabulary: true
 權重	quan zhong
 欐佹	li gui
 欑宮	cuan gong
+欠債未還	qian zhai wei huan
 欠債還錢	qian zhai huan qian
+欠帳未還	qian zhang wei huan
+欠錢未還	qian qian wei huan
 次且	zi ju
 次大陸	ci da lu
 次殖民地	ci zhi min di
@@ -36302,10 +36698,14 @@ use_preset_vocabulary: true
 欣生惡死	xin sheng wu si
 欣躍	xin yue
 欬唾成珠	ke tuo cheng zhu
+欲不可從	yu bu ke cong
 欲不可從	yu bu ke zong
+欲壑難填	yu he nan tian
 欲壑難填	yu huo nan tian
+欲壑難飽	yu he nan bao
 欲壑難飽	yu huo nan bao
 欲就還推	yu jiu huan tui
+欲深谿壑	yu shen xi he
 欲深谿壑	yu shen xi huo
 欲語還休	yu yu huan xiu
 欲說還休	yu shuo huan xiu
@@ -36319,6 +36719,7 @@ use_preset_vocabulary: true
 欻拉	chua la
 欽差	qin chai
 欽差大臣	qin chai da chen
+欽賜	qin ci
 欽賜	qin si
 欽遲	qin zhi
 款塞	kuan sai
@@ -36349,16 +36750,22 @@ use_preset_vocabulary: true
 歡樂	huan le
 歡樂谷	huan le gu
 歡欣踊躍	huan xin yong yue
+歡洽	huan qia
 歡洽	huan xia
 歡躍	huan yue
 止咳	zhi ke
 止宿	zhi su
 止泊	zhi bo
 止血	zhi xie
+止血	zhi xue
 止血劑	zhi xie ji
+止血劑	zhi xue ji
 止血帶	zhi xie dai
+止血帶	zhi xue dai
 止血法	zhi xie fa
+止血法	zhi xue fa
 止血點	zhi xie dian
+止血點	zhi xue dian
 正三角形	zheng san jiao xing
 正傳	zheng zhuan
 正在進行	zheng zai jin xing
@@ -36408,7 +36815,7 @@ use_preset_vocabulary: true
 歲豐年稔	sui feng nian ren
 歷史重演	li shi chong yan
 歷朝	li chao
-歷遍	li pian
+歷遍	li bian
 歸宿	gui su
 歸屬地	gui shu di
 歸心似箭	gui xin si jian
@@ -36419,6 +36826,7 @@ use_preset_vocabulary: true
 歸謬法	gui miu fa
 歸遺細君	gui wei xi jun
 歸還	gui huan
+歸還給	gui huan gei
 歸降	gui xiang
 歹徒橫行	dai tu heng xing
 歹路不可行	dai lu bu ke xing
@@ -36446,6 +36854,7 @@ use_preset_vocabulary: true
 死重泰山	si zhong tai shan
 死鰾白纏	si biao bai chan
 歿地	mo di
+殂沒	cu mo
 殃榜	yang bang
 殄滅	tian mie
 殄瘁	tian cui
@@ -36469,6 +36878,7 @@ use_preset_vocabulary: true
 殗殜	ye ye
 殘賊	can ze
 殞沒	yun mo
+殫見洽聞	dan jian qia wen
 殫見洽聞	dan jian xia wen
 殲一警百	jian yi jing bai
 殲擊機	jian ji ji
@@ -36486,13 +36896,16 @@ use_preset_vocabulary: true
 殷紅	yan hong
 殷阜	yin fu
 殺人不見血	sha ren bu jian xie
+殺人不見血	sha ren bu jian xue
 殺人不過頭點地	sha ren bu guo tou dian di
 殺人償命	sha ren chang ming
 殺人如芥	sha ren ru jie
 殺人須見血	sha ren xu jian xie
+殺人須見血	sha ren xu jian xue
 殺出重圍	sha chu chong wei
 殺坯	sha pi
 殺衣縮食	shai yi su shi
+殺衣縮食	shai yi suo shi
 殼牌	qiao pai
 殽舛	yao chuan
 殿屎	dian xi
@@ -36532,9 +36945,11 @@ use_preset_vocabulary: true
 毛廁	mao si
 毛糙	mao cao
 毛細血管	mao xi xie guan
+毛細血管	mao xi xue guan
 毛義捧檄	mao yi peng xi
 毛蚶	mao han
 毛血	mao xie
+毛血	mao xue
 毛重	mao zhong
 毣毣	mao mao
 毫不遜色	hao bu xun se
@@ -36573,6 +36988,7 @@ use_preset_vocabulary: true
 氟碳塑膠	fu tan su jiao
 氣丕丕	qi pi pi
 氣充文見	qi chong wen xian
+氣勢磅礡	qi shi pang bo
 氣勢磅礴	qi shi pang bo
 氣吁吁	qi xu xu
 氣咻咻	qi xiu xiu
@@ -36589,6 +37005,7 @@ use_preset_vocabulary: true
 氣鳴樂器	qi ming yue qi
 氫彈	qing dan
 氮血症	dan xie zheng
+氮血症	dan xue zheng
 氯丁橡膠	lv ding xiang jiao
 氯丹	lv dan
 氯乙烯	lv yi xi
@@ -36618,6 +37035,7 @@ use_preset_vocabulary: true
 水宿風餐	shui su feng can
 水斷陸絕	shui duan lu jue
 水柵	shui zha
+水樣液	shui yang ye
 水樣液	shui yang yi
 水汀	shui ting
 水泄不通	shui xie bu tong
@@ -36666,13 +37084,18 @@ use_preset_vocabulary: true
 求宿	qiu su
 求神問卜	qiu shen wen bu
 求聘	qiu pin
+求降	qiu xiang
 汆丸子湯	cuan wan zi tang
 汆子	cuan zi
 汆湯	cuan tang
+汗洽股慄	han qia gu li
 汗洽股慄	han xia gu li
+汗流洽背	han liu qia bei
 汗流洽背	han liu xia bei
+汗液	han ye
 汗液	han yi
 汗血馬	han xie ma
+汗血馬	han xue ma
 汛地	xun di
 汞溴紅	gong xiu hong
 汞齊	gong ji
@@ -36695,9 +37118,11 @@ use_preset_vocabulary: true
 汪洋自恣	wang yang zi zi
 汪濊	wang wei
 汪踦	wang qi
+汴堤	bian di
 汴堤	bian ti
 汸汸	pang pang
 決了	jue liao
+決堤	jue di
 決堤	jue ti
 決癰潰疽	jue yong kui ju
 決驟	jue zou
@@ -36712,11 +37137,63 @@ use_preset_vocabulary: true
 沇水	yan shui
 沇沇	yan yan
 沇溶	yan rong
+沈下	chen xia
+沈不住氣	chen bu zhu qi
+沈住氣	chen zhu qi
+沈冤	chen yuan
+沈厚	chen hou
+沈吟	chen yin
+沈寂	chen ji
+沈得住氣	chen de zhu qi
+沈思	chen si
+沈思往事	chen si wang shi
+沈悶	chen men
 沈括	shen gua
+沈括	shen kuo
+沈沒	chen mo
+沈浮	chen fu
+沈浸	chen jin
+沈淪	chen lun
+沈溺	chen ni
+沈滯	chen zhi
+沈滯性	chen zhi xing
+沈澱	chen dian
+沈澱出來	chen dian chu lai
+沈澱法	chen dian fa
+沈澱物	chen dian wu
+沈濁	chen zhuo
+沈甸甸	chen dian dian
+沈痛	chen tong
+沈痼	chen gu
+沈痾	chen e
 沈着	chen zhuo
+沈睡	chen shui
+沈睡不醒	chen shui bu xing
+沈砂池	chen sha chi
+沈積	chen ji
+沈積岩	chen ji yan
+沈積石	chen ji shi
+沈筒	chen tong
+沈船	chen chuan
+沈落	chen luo
+沈迷	chen mi
+沈迷不醒	chen mi bu xing
+沈醉	chen zui
+沈重	chen zhong
+沈降	chen jiang
+沈陷	chen xian
+沈靜	chen jing
+沈靜下來	chen jing xia lai
+沈香	chen xiang
+沈鬱	chen yu
+沈魚落雁	chen yu luo yan
+沈默	chen mo
+沈默不語	chen mo bu yu
+沈默寡言	chen mo gua yan
 沉沒	chen mo
 沉痾	chen e
 沉着	chen zhuo
+沉着應戰	chen zhuo ying zhan
 沉着痛快	chen zhuo tong kuai
 沉酣	chen han
 沉重	chen zhong
@@ -36825,7 +37302,7 @@ use_preset_vocabulary: true
 沙地	sha di
 沙烏地阿拉伯	sha wu di a la bo
 沙烏地阿拉伯王國	sha wu di a la bo wang guo
-沙鷄	cha ji
+沙雞	cha ji
 沬血	mei xue
 沮喪	ju sang
 沮壞	ju huai
@@ -36843,6 +37320,7 @@ use_preset_vocabulary: true
 河伯使者	he bo shi zhe
 河伯娶婦	he bo qu fu
 河伯從事	he bo cong shi
+河堤	he di
 河堤	he ti
 河泊所	he bo suo
 河海航行員	he hai hang xing yuan
@@ -36883,6 +37361,7 @@ use_preset_vocabulary: true
 治行	zhi xing
 沽泊	gu bo
 沾便宜	zhan pian yi
+沾洽	zhan qia
 沾洽	zhan xia
 沾粘	zhan nian
 沾裳	zhan chang
@@ -36924,6 +37403,7 @@ use_preset_vocabulary: true
 法定準備率	fa ding zhun bei lv
 法定空地	fa ding kong di
 法定血親	fa ding xie qin
+法定血親	fa ding xue qin
 法家拂士	fa jia bi shi
 法律不溯既往原則	fa lv bu su ji wang yuan ze
 法律行爲	fa lv xing wei
@@ -37002,6 +37482,7 @@ use_preset_vocabulary: true
 洛浦宓妃	luo pu fu fei
 洛陽伽藍記	luo yang qie lan ji
 洞中肯綮	dong zhong ken qing
+洞壑	dong he
 洞壑	dong huo
 洞天福地	dong tian fu di
 津津樂道	jin jin le dao
@@ -37020,13 +37501,16 @@ use_preset_vocabulary: true
 洸洸	huang huang
 洹水	huan shui
 洹洹	huan huan
+活不了	huo bu liao
 活似真的	huo si zhen de
 活地獄	huo di yu
 活塞	huo sai
 活着	huo zhao
 活着	huo zhe
 活血	huo xie
+活血	huo xue
 活血化瘀	huo xie hua yu
+活血化瘀	huo xue hua yu
 活躍	huo yue
 洼地	wa di
 洽商	qia shang
@@ -37105,10 +37589,13 @@ use_preset_vocabulary: true
 浪濤澎湃	lang tao peng pai
 浪蕩乾坤	lang dang qian kun
 浮來暫去	fu lai zhan qu
+浮光掠影	fu guang lve ying
 浮動匯率	fu dong hui lv
 浮厝	fu cuo
 浮名薄利	fu ming bo li
 浮家泛宅	fu jia fan zhe
+浮掠	fu lve
+浮沈	fu chen
 浮沉酒醆	fu chen jiu zhan
 浮皮潦草	fu pi liao cao
 浮薄	fu bo
@@ -37126,6 +37613,7 @@ use_preset_vocabulary: true
 海埔地	hai pu di
 海埔姜	hai pu jiang
 海埔新生地	hai pu xin sheng di
+海堤	hai di
 海堤	hai ti
 海崖	hai yai
 海嶠	hai jiao
@@ -37136,6 +37624,7 @@ use_preset_vocabulary: true
 海沸河翻	hai fei he fan
 海沸波翻	hai fei bo fan
 海洋地質	hai yang di zhi
+海爾波普彗星	hai er bo pu hui xing
 海爾波普彗星	hai er po pu hui xing
 海獺	hai ta
 海蝕崖	hai shi yai
@@ -37152,6 +37641,7 @@ use_preset_vocabulary: true
 海鰌	hai qiu
 海鰓	hai sai
 海鶻	hai hu
+浹洽	jia qia
 浹洽	jia xia
 浹渫	jia xie
 浼人親行	mei ren qin xing
@@ -37159,6 +37649,7 @@ use_preset_vocabulary: true
 消化性潰瘍	xiao hua xing kui yang
 消化液	xiao hua ye
 消折	xiao she
+消沈	xiao chen
 消滅殆盡	xiao mie dai jin
 消長	xiao zhang
 涎尾	xian wei
@@ -37204,15 +37695,22 @@ use_preset_vocabulary: true
 涸漁	he yu
 涸澤而漁	he ze er yu
 涸轍之枯	he che zhi ku
+涸轍之枯	he zhe zhi ku
 涸轍之魚	he che zhi yu
+涸轍之魚	he zhe zhi yu
 涸轍之鮒	he che zhi fu
+涸轍之鮒	he zhe zhi fu
 涸轍枯魚	he che ku yu
+涸轍枯魚	he zhe ku yu
 涸轍窮魚	he che qiong yu
+涸轍窮魚	he zhe qiong yu
 涸轍窮鱗	he che qiong lin
+涸轍窮鱗	he zhe qiong lin
 涸陰	he yin
 涸鮒	he fu
 涸鱗濡沫	he lin ru mo
 涼血	liang xie
+涼血	liang xue
 淆亂	yao luan
 淆惑	yao huo
 淆紊	yao wen
@@ -37244,10 +37742,12 @@ use_preset_vocabulary: true
 淡薄無味	dan bo wu wei
 淤塞	yu se
 淤血	yu xie
+淤血	yu xue
 淤閼	yu e
 淨角	jing jue
 淨賺	jing zhuan
 淨重	jing zhong
+淪沒	lun mo
 淪陷	lun xian
 淪陷區	lun xian qu
 淫媟	yin xie
@@ -37261,10 +37761,14 @@ use_preset_vocabulary: true
 深仇大恨	shen chou da hen
 深厲淺揭	shen li qian qi
 深居九重	shen ju jiu chong
+深惡	shen wu
 深惡痛嫉	shen wu tong ji
 深惡痛絕	shen wu tong jue
 深文巧劾	shen wen qiao he
 深水炸彈	shen shui zha dan
+深沈	shen chen
+深沈不露	shen chen bu lou
+深沈不露	shen chen bu lu
 深淵薄冰	shen yuan bo bing
 深源地震	shen yuan di zhen
 深省	shen xing
@@ -37292,7 +37796,9 @@ use_preset_vocabulary: true
 混混	gun gun
 混混	hun hun
 混血	hun xie
+混血	hun xue
 混血兒	hun xie er
+混血兒	hun xue er
 淹宿	yan su
 淹晷	yan gui
 淹沒	yan mo
@@ -37380,14 +37886,18 @@ use_preset_vocabulary: true
 溜湫	liu jiao
 溜肩膀	liu jian bang
 溜韁	liu jiang
+溝壑	gou he
 溝壑	gou huo
 溞溞	sao sao
 溠水	zha shui
 溢血	yi xie
+溢血	yi xue
+溪壑	xi he
 溪壑	xi huo
 溫尼伯	wen ni bo
 溫嶠	wen jiao
 溫血動物	wen xie dong wu
+溫血動物	wen xue dong wu
 溫覺	wen jue
 溫馨	wen xin
 溯洄	su hui
@@ -37420,6 +37930,7 @@ use_preset_vocabulary: true
 滅此朝食	mie ci zhao shi
 滅沒	mie mo
 滅門血案	mie men xie an
+滅門血案	mie men xue an
 滇劇	dian ju
 滇池	dian chi
 滇池縣	dian chi xian
@@ -37452,10 +37963,12 @@ use_preset_vocabulary: true
 滴羞跌屑	di xiu die xie
 滴羞都蘇	di xiu du su
 滴血	di xie
+滴血	di xue
 滾地球	gun di qiu
 滾瓜爛熟	gun gua lan shu
 滾調	gun diao
 滾車轍的	gun che che de
+滾車轍的	gun che zhe de
 滿地	man di
 滿地撿芝麻	man di jian zhi ma
 滿地荊棘	man di jing ji
@@ -37463,6 +37976,7 @@ use_preset_vocabulary: true
 滿朝	man chao
 滿朝文武	man chao wen wu
 滿腔熱血	man qiang re xie
+滿腔熱血	man qiang re xue
 滿腹經綸	man fu jing lun
 漁陽摻撾	yu yang can zhua
 漂沒	piao mo
@@ -37577,6 +38091,7 @@ use_preset_vocabulary: true
 澒洞	hong tong
 澒溶	hong rong
 澒濛	hong meng
+澗壑	jian he
 澗壑	jian huo
 澠水	sheng shui
 澠池	min chi
@@ -37584,6 +38099,8 @@ use_preset_vocabulary: true
 澠池會	min chi hui
 澠池縣	min chi xian
 澤深恩重	ze shen en zhong
+澤被	ze bei
+澤被	ze pi
 澤陂	ze pi
 澶淵	chan yuan
 澶淵之盟	chan yuan zhi meng
@@ -37621,6 +38138,7 @@ use_preset_vocabulary: true
 濟時行道	ji shi xing dao
 濟濟鏘鏘	ji ji qiang qiang
 濡沫涸轍	ru mo he che
+濡沫涸轍	ru mo he zhe
 濫行	lan xing
 濫調	lan diao
 濬哲	jun zhe
@@ -37687,6 +38205,7 @@ use_preset_vocabulary: true
 炳著	bing zhu
 炳賁	bing bi
 炸彈	zha dan
+烈女傳	lie nv zhuan
 烈火乾柴	lie huo gan chai
 烏來	wu lai xiang
 烏哺	wu bu
@@ -37731,13 +38250,15 @@ use_preset_vocabulary: true
 無地自處	wu di zi chu
 無容身之地	wu rong shen zhi di
 無射	wu yi
+無將大車	wu jiang da che
 無將大車	wu jiang da ju
 無弦琴	wu xian qin
 無性生殖	wu xing sheng zhi
 無感地震	wu gan di zhen
 無斁	wu yi
+無條件投降	wu tiao jian tou xiang
 無殼蝸牛	wu ke gua niu
-無煙囱工業	wu yan cong gong ye
+無煙囪工業	wu yan cong gong ye
 無用武之地	wu yong wu zhi di
 無痛分娩	wu tong fen mian
 無的放矢	wu di fang shi
@@ -37750,6 +38271,7 @@ use_preset_vocabulary: true
 無聲無臭	wu sheng wu xiu
 無脛而行	wu jing er xing
 無血戰爭	wu xie zhan zheng
+無血戰爭	wu xue zhan zheng
 無行	wu xing
 無行止	wu xing zhi
 無行爲能力人	wu xing wei neng li ren
@@ -37766,7 +38288,12 @@ use_preset_vocabulary: true
 焯著	zhuo zhu
 煎聒	jian gua
 煒燁	wei ye
-煙囱	yan cong
+煖和	nuan huo
+煖房	nuan fang
+煖爐	nuan lu
+煖玉	nuan yu
+煖衣飽食	nuan yi bao shi
+煙囪	yan cong
 煙嵐雲岫	yan lan yun xiu
 煙幕彈	yan mu dan
 煙花簿	yan hua bu
@@ -37793,6 +38320,7 @@ use_preset_vocabulary: true
 熇熇	he he
 熊經鴟顧	xiong jing chi gu
 熙朝	xi chao
+熙洽	xi qia
 熙洽	xi xia
 熟了	shu le
 熟事	shu shi
@@ -37855,8 +38383,10 @@ use_preset_vocabulary: true
 熟讀精思	shu du jing si
 熟貨	shu huo
 熟路	shu lu
+熟路輕車	shu lu qing che
 熟路輕車	shu lu qing ju
 熟路輕轍	shu lu qing che
+熟路輕轍	shu lu qing zhe
 熟透	shu tou
 熟銅	shu tong
 熟鐵	shu tie
@@ -37879,8 +38409,11 @@ use_preset_vocabulary: true
 熱泵	re beng
 熱火朝天	re huo chao tian
 熱爪哇	re zhao wa
+熱爪哇	re zhua wa
 熱痙攣	re jing lvan
 熱血	re xie
+熱血	re xue
+熱血沸騰	re xue fei teng
 熱覺	re jue
 熱軋	re zha
 熱門音樂	re men yin yue
@@ -37906,6 +38439,7 @@ use_preset_vocabulary: true
 燕樂半字譜	yan yue ban zi pu
 燕樂考源	yan yue kao yuan
 燕歌行	yan ge xing
+燕語呢喃	yan yu ni nan
 燕雀安知鴻鵠志	yan que an zhi hong hu zhi
 燕雀豈知鴻鵠志	yan que qi zhi hong hu zhi
 營地	ying di
@@ -37923,25 +38457,47 @@ use_preset_vocabulary: true
 爣閬	tang lang
 爨婢	cuan bi
 爪印	zhao yin
+爪印	zhua yin
 爪哇	zhao wa
+爪哇	zhua wa
 爪哇人	zhao wa ren
+爪哇人	zhua wa ren
 爪哇國	zhao wa guo
+爪哇國	zhua wa guo
 爪哇島	zhao wa dao
+爪哇島	zhua wa dao
 爪哇族	zhao wa
+爪哇族	zhua wa
 爪士	zhao shi
+爪士	zhua shi
 爪尋	zhao xun
+爪尋	zhua xun
+爪尖	zhao jian
+爪尖	zhua jian
 爪牙	zhao ya
+爪牙	zhua ya
 爪牙之士	zhao ya zhi shi
+爪牙之士	zhua ya zhi shi
 爪牙之將	zhao ya zhi jiang
+爪牙之將	zhua ya zhi jiang
 爪牙吏	zhao ya li
+爪牙吏	zhua ya li
 爪牙官	zhao ya guan
+爪牙官	zhua ya guan
 爪甲	zhao jia
+爪甲	zhua jia
 爪甲點金	zhao jia dian jin
+爪甲點金	zhua jia dian jin
 爪痕	zhao hen
+爪痕	zhua hen
 爪老	zhao lao
+爪老	zhua lao
 爪袖	zhao xiu
+爪袖	zhua xiu
 爪角	zhao jiao
+爪角	zhua jiao
 爪蹄類	zhao ti lei
+爪蹄類	zhua ti lei
 爬山調	pa shan diao
 爬行	pa xing
 爬行動物	pa xing dong wu
@@ -37969,6 +38525,7 @@ use_preset_vocabulary: true
 父債子還	fu zhai zi huan
 父天母地	fu tian mu di
 父母兩系血統主義	fu mu liang xi xie tong zhu yi
+父母兩系血統主義	fu mu liang xi xue tong zhu yi
 爹地	die di
 爺孃	ye niang
 爻槌	yao chui
@@ -37996,6 +38553,7 @@ use_preset_vocabulary: true
 牛仔布	niu zi bu
 牛仔裝	niu zi zhuang
 牛勁	niu jin
+牛圈	niu juan
 牛山濯濯	niu shan zhuo zhuo
 牛皮癬	niu pi xian
 牛眠地	niu mian di
@@ -38043,9 +38601,11 @@ use_preset_vocabulary: true
 犖犖大者	luo luo da zhe
 犖确	luo que
 犛牛	li niu
+犢車	du che
 犢車	du ju
 犢鼻褌	du bi kun
 犬牙鷹爪	quan ya ying zhao
+犬牙鷹爪	quan ya ying zhua
 犬馬齒殲	quan ma chi jian
 犯不着	fan bu zhao
 犯得着	fan de zhao
@@ -38086,8 +38646,11 @@ use_preset_vocabulary: true
 狗心狗行	gou xin gou xing
 狗改不了吃屎	gou gai bu liao chi shi
 狗血噴臉	gou xie pen lian
+狗血噴臉	gou xue pen lian
 狗血噴頭	gou xie pen tou
+狗血噴頭	gou xue pen tou
 狗血淋頭	gou xie lin tou
+狗血淋頭	gou xue lin tou
 狗行狼心	gou xing lang xin
 狗頭上生角	gou tou shang sheng jiao
 狙伺	ju si
@@ -38240,8 +38803,12 @@ use_preset_vocabulary: true
 玉枝卜壽	yu zhi bu shou
 玉枳	yu zhi
 玉柏	yu bo
+玉液	yu ye
 玉液	yu yi
+玉液瓊漿	yu ye qiong jiang
 玉液瓊漿	yu yi qiong jiang
+玉爪	yu zhao
+玉爪	yu zhua
 玉石混淆	yu shi hun yao
 玉粳	yu geng
 玉纖	yu xian
@@ -38407,7 +38974,7 @@ use_preset_vocabulary: true
 甕牖桑樞	weng you sang shu
 甕牖繩樞	weng you sheng shu
 甕盡杯乾	weng jin bei gan
-甕裏醯鷄	weng li xi ji
+甕裏醯雞	weng li xi ji
 甘之如薺	gan zhi ru ji
 甘地主義	gan di zhu yi
 甘心如薺	gan xin ru ji
@@ -38436,6 +39003,7 @@ use_preset_vocabulary: true
 生有地	sheng you di
 生朝	sheng zhao
 生死簿	sheng si bu
+生死肉骨	sheng si rou gu
 生死肉骨	sheng si ru gu
 生殖	sheng zhi
 生殖健康	sheng zhi jian kang
@@ -38451,6 +39019,7 @@ use_preset_vocabulary: true
 生米煮成熟飯	sheng mi zhu cheng shou fan
 生角	sheng jiao
 生還	sheng huan
+生還者	sheng huan zhe
 生長	sheng zhang
 生長因子	sheng zhang yin zi
 生長期	sheng zhang qi
@@ -38527,11 +39096,14 @@ use_preset_vocabulary: true
 畢業旅行	bi ye lv xing
 畢生之玷	bi sheng zhi dian
 畢逋	bi bu
+略傳	lve zhuan
 略地	lve di
 略地侵城	lve di qin cheng
 略地攻城	lve di gong cheng
 略施薄懲	lve shi bo cheng
 略無參商	lve wu shen shang
+略說	lve shuo
+略讀	lve du
 略遜一籌	lve xun yi chou
 畦丁	xi ding
 畦作	xi zuo
@@ -38607,6 +39179,7 @@ use_preset_vocabulary: true
 異配生殖	yi pei sheng zhi
 異重流	yi zhong liu
 當一天和尚撞一天鐘	dang yi tian he shang zhuang yi tian zhong
+當不了	dang bu liao
 當地	dang di
 當地人	dang di ren
 當地政府	dang di zheng fu
@@ -38699,6 +39272,7 @@ use_preset_vocabulary: true
 痶腳	dian jiao
 痿痹	wei bi
 瘀血	yu xie
+瘀血	yu xue
 瘈狗	ji gou
 瘈瘲	qi zong
 瘋長	feng zhang
@@ -38715,10 +39289,12 @@ use_preset_vocabulary: true
 瘧媒蚊	nve mei wen
 瘧疾	nve ji
 瘧蚊	nve wen
+瘧蟲	nve chong
 瘭疽	biao ju
 瘴癘	zhang li
 癆瘵	lao zhai
 癉瘧	dan nve
+癌症	ai zheng
 癌症	yan zheng
 癩蝦蟆	lai ha ma
 癩蝦蟆想吃天鵝肉	lai ha ma xiang chi tian e rou
@@ -38775,6 +39351,7 @@ use_preset_vocabulary: true
 白不呲咧	bai bu ci lie
 白乾	bai gan
 白了了	bai liao liao
+白公堤	bai gong di
 白公堤	bai gong ti
 白口咀咒	bai kou ju zhou
 白叨光	bai tao guang
@@ -38782,6 +39359,7 @@ use_preset_vocabulary: true
 白嚼蛆	bai jue qu
 白圭之玷	bai gui zhi dian
 白地	bai di
+白堤	bai di
 白堤	bai ti
 白塞木	bai sai mu
 白宮幕僚長	bai gong mu liao zhang
@@ -38790,6 +39368,7 @@ use_preset_vocabulary: true
 白撞	bai zhuang
 白日撞	bai ri zhuang
 白樂天	bai le tian
+白毫之賜	bai hao zhi ci
 白毫之賜	bai hao zhi si
 白泠泠	bai ling ling
 白澒	bai hong
@@ -38797,6 +39376,7 @@ use_preset_vocabulary: true
 白癬	bai xian
 白皙	bai xi
 白眉鴃	bai mei jue
+白舌入地	bai she ru di
 白舌入地	bo she ru di
 白芍	bai shao
 白花八角	bai hua ba jiao
@@ -38808,12 +39388,16 @@ use_preset_vocabulary: true
 白蛇傳	bai she zhuan
 白蛸	bai xiao
 白血球	bai xie qiu
+白血球	bai xue qiu
 白血球過多症	bai xie qiu guo duo zheng
+白血球過多症	bai xue qiu guo duo zheng
 白血病	bai xie bing
+白血病	bai xue bing
 白行簡	bai xing jian
 白袷	bai jia
 白袷衣	bai jia yi
 白費心血	bai fei xin xie
+白費心血	bai fei xin xue
 白醭	bai pu
 白鏹	bai qiang
 白閒	bai jian
@@ -38821,6 +39405,7 @@ use_preset_vocabulary: true
 白駒過隙	bai ju guo xi
 白鵠	bai hu
 白𣎴	bai dun
+百乘	bai sheng
 百乘之家	bai sheng zhi jia
 百了千當	bai liao qian dang
 百事可樂	bai shi ke le
@@ -38861,10 +39446,15 @@ use_preset_vocabulary: true
 的當	di dang
 的的	di di
 的的喀喀湖	di di ka ka hu
+的的確確	di di que que
 的皪	di li
 的盧	di lu
 的知	di zhi
 的確	di que
+的確如此	di que ru ci
+的確是	di que shi
+的確會	di que hui
+的確良	di que liang
 的篤戲	di du xi
 的耗	di hao
 的見	di jian
@@ -38889,16 +39479,20 @@ use_preset_vocabulary: true
 皭然	jiao ran
 皭皭	jiao jiao
 皮下出血	pi xia chu xie
+皮下出血	pi xia chu xue
 皮塑	pi su
 皮嬌肉嫩	pi jiao rou nen
 皮弁	pi bian
 皮破血流	pi po xie liu
+皮破血流	pi po xue liu
 皮重	pi zhong
 盆地	pen di
 盆成括	pen cheng gua
+盆成括	pen cheng kuo
 盆罐都有耳朵	pen guan dou you er duo
 盈尺之地	ying chi zhi di
 盈縮	ying su
+盈縮	ying suo
 益者三樂	yi zhe san yao
 盍簪	he zan
 盎格魯撒克遜人	ang ge lu sa ke sun ren
@@ -38978,6 +39572,7 @@ use_preset_vocabulary: true
 盤古大陸	pan gu da lu
 盤底朝天	pan di chao tian
 盤成括	pan cheng gua
+盤成括	pan cheng kuo
 盤攪	pan jiao
 盤渦	pan wo
 盤薄	pan bo
@@ -39014,6 +39609,7 @@ use_preset_vocabulary: true
 直接了當	zhi jie liao dang
 直效行銷	zhi xiao xing xiao
 直率	zhi shuai
+直着	zhi zhuo
 直節勁氣	zhi jie jing qi
 直行	zhi xing
 直裰	zhi duo
@@ -39058,6 +39654,7 @@ use_preset_vocabulary: true
 省思	xing si
 省悟	xing wu
 省戒	xing jie
+省改	xing gai
 省方觀俗	xing fang guan su
 省方觀民	xing fang guan min
 省會	sheng hui
@@ -39068,6 +39665,7 @@ use_preset_vocabulary: true
 省記	xing ji
 省諭	xing yu
 省識	xing shi
+省過	xing guo
 省長	sheng zhang
 省風	xing feng
 眇覿	miao di
@@ -39081,7 +39679,9 @@ use_preset_vocabulary: true
 看重	kan zhong
 看風行事	kan feng xing shi
 真人不露相	zhen ren bu lou xiang
+真受不了	zhen shou bu liao
 真情流露	zhen qing liu lu
+真溶液	zhen rong ye
 真溶液	zhen rong yi
 真率	zhen shuai
 真空泵	zhen kong beng
@@ -39103,6 +39703,7 @@ use_preset_vocabulary: true
 眼餳耳熱	yan xing er re
 眽眽	mo mo
 着三不着兩	zhao san bu zhao liang
+着上	zhuo shang
 着人	zhuo ren
 着先鞭	zhuo xian bian
 着兒	zhao er
@@ -39215,10 +39816,12 @@ use_preset_vocabulary: true
 睡晌覺	shui shang jiao
 睡着	shui zhao
 睡着	shui zhe
+睡着了	shui zhao le
 睡虎地秦簡	shui hu di qin jian
 睡覺前	shui jiao qian
 睡長覺	shui chang jiao
 督率	du shuai
+督緝	du ji
 督緝	du qi
 睪丸	gao wan
 睪丸未降症	gao wan wei jiang zheng
@@ -39269,6 +39872,7 @@ use_preset_vocabulary: true
 矎矎	xuan xuan
 矛盾	mao dun
 矛盾	mao shun
+矜寡	guan gua
 矜寡孤獨	guan gua gu du
 矜張顯著	jin zhang xian zhu
 矜重	jin zhong
@@ -39359,6 +39963,7 @@ use_preset_vocabulary: true
 破衣拉裳	po yi la chang
 破觚爲圜	po gu wei yuan
 破賺	po zhuan
+破釜沈舟	po fu chen zhou
 破鏡重合	po jing chong he
 破鏡重圓	po jing chong yuan
 破陣樂	po zhen yue
@@ -39399,6 +40004,7 @@ use_preset_vocabulary: true
 磁傾角	ci qing jiao
 磁軸	ci zhou
 磅硠	pang lang
+磅礡	pang bo
 磅礴	pang bo
 磅薄	pang bo
 磈磊	kui lei
@@ -39440,8 +40046,12 @@ use_preset_vocabulary: true
 社稷爲墟	she ji wei xu
 社長	she zhang
 祁奚薦仇	qi xi jian chou
+祇好	zhi hao
 祇是	zhi shi
+祇有	zhi you
 祇洹精舍	qi yuan jing she
+祇管	zhi guan
+祇要	zhi yao
 祓濯	fu zhuo
 祓禊	fu xi
 祓除	fu chu
@@ -39483,6 +40093,7 @@ use_preset_vocabulary: true
 祕魯共和國	bi lu gong he guo
 祖逖	zu ti
 祖鞭先着	zu bian xian zhuo
+祗從	zhi cong
 祗從	zhi zong
 祝嘏	zhu gu
 祝釐	zhu xi
@@ -39499,9 +40110,11 @@ use_preset_vocabulary: true
 神荼鬱壘	shen shu yu lv
 神鬼不覺	shen gui bu jue
 票據行爲	piao ju xing wei
+票騎	piao ji
 祭城	zha cheng
 祭遵布被	zhai zun bu bei
 祿山之爪	lu shan zhi zhao
+祿山之爪	lu shan zhi zhua
 禁制令	jin zhi lin
 禁地	jin di
 禁掖	jin ye
@@ -39510,6 +40123,7 @@ use_preset_vocabulary: true
 禊飲	xi yin
 禋祀	yin si
 禍不單行	huo bu dan xing
+禍從天降	huo cong tian jiang
 禍必重來	huo bi chong lai
 禍生肘腋	huo sheng zhou yi
 禍盈惡稔	huo ying e ren
@@ -39540,6 +40154,7 @@ use_preset_vocabulary: true
 禺中	yu zhong
 禺彊	yu qiang
 禺谷	yu gu
+禽困覆車	qin kun fu che
 禽困覆車	qin kun fu ju
 禽滑釐	qin gu li
 秀出班行	xiu chu ban hang
@@ -39580,6 +40195,7 @@ use_preset_vocabulary: true
 秫秸	shu jie
 移晷	yi gui
 移檄	yi xi
+移液管	yi ye guan
 移液管	yi yi guan
 移調	yi diao
 移調樂器	yi diao yue qi
@@ -39642,6 +40258,7 @@ use_preset_vocabulary: true
 稱意	cheng yi
 稱職	chen zhi
 稱職	cheng zhi
+稱謝	cheng xie
 稱重	cheng zhong
 稱錢	chen qian
 稱錢	cheng qian
@@ -39705,6 +40322,7 @@ use_preset_vocabulary: true
 穿甲彈	chuan jia dan
 穿着	chuan zhe
 穿着	chuan zhuo
+穿着打扮	chuan zhuo da ban
 穿紅着綠	chuan hong zhuo lv
 穿行	chuan xing
 穿鑿	chuan zuo
@@ -39827,8 +40445,12 @@ use_preset_vocabulary: true
 箕畚	ji ben
 算不了	suan bu liao
 算什麼	suan shen me
+算得了	suan de liao
+算得了什麼	suan de liao shen me
 箘簬	jun lu
 管不了	guan bu liao
+管不了那麼多	guan bu liao na me duo
+管不着	guan bu zhao
 管弦	guan xian
 管弦樂	guan xian yue
 管弦樂團	guan xian yue tuan
@@ -39852,6 +40474,7 @@ use_preset_vocabulary: true
 節行瑰奇	jie xing gui qi
 節角	jie jiao
 篇什	pian shi
+築堤	zhu di
 築堤	zhu ti
 篠子	xiao zi
 篠寢	xiao qin
@@ -39869,6 +40492,7 @@ use_preset_vocabulary: true
 簡弛	jian shi
 簡截了當	jian jie liao dang
 簡括	jian gua
+簡括	jian kuo
 簡易包紮法	jian yi bao za fa
 簡朝亮	jian chao liang
 簧樂器	huang yue qi
@@ -39891,6 +40515,7 @@ use_preset_vocabulary: true
 籠侗	long tong
 籠屜	long ti
 籠括	long gua
+籠括	long kuo
 籠鳥檻猿	long niao jian yuan
 籧篨	qu chu
 籧篨戚施	qu chu qi shi
@@ -39937,6 +40562,8 @@ use_preset_vocabulary: true
 精熟	jing shu
 精神缺陷	jing shen que xian
 精血	jing xie
+精血	jing xue
+精貫白日	jing guan bai ri
 精貫白日	jing guan bo ri
 精雕細鏤	jing diao xi lou
 粿粽	guo zong
@@ -39964,6 +40591,7 @@ use_preset_vocabulary: true
 系統還原	xi tong huan yuan
 糾彈	jiu tan
 糾繆繩違	jiu miu sheng wei
+紀傳	ji zhuan
 紀傳體	ji zhuan ti
 紀行	ji xing
 紃屨	xun ju
@@ -39979,7 +40607,9 @@ use_preset_vocabulary: true
 紅線傳	hong xian zhuan
 紅茄苳	hong jia dong
 紅血球	hong xie qiu
+紅血球	hong xue qiu
 紅血球生成素	hong xie qiu sheng cheng su
+紅血球生成素	hong xue qiu sheng cheng su
 紅露酒	hong lu jiu
 紅顏命薄	hong yan ming bo
 紅顏薄命	hong yan bo ming
@@ -40029,6 +40659,8 @@ use_preset_vocabulary: true
 紡縳	fang zhuan
 紡纖	fang xian
 索米長安	suo mi chang an
+索還	suo huan
+索還債款	suo huan zhai kuan
 索隱行怪	suo yin xing guai
 紫塞	zi sai
 紫花地丁	zi hua di ding
@@ -40077,6 +40709,7 @@ use_preset_vocabulary: true
 絕地大反攻	jue di da fan gong
 絕地天通	jue di tian tong
 絕塞	jue sai
+絕壑	jue he
 絕壑	jue huo
 絕對音樂	jue dui yin yue
 絕絃	jue xian
@@ -40090,6 +40723,8 @@ use_preset_vocabulary: true
 絜矩	xie ju
 絜行	jie xing
 絡子	lao zi
+絡頭	lao tou
+絡頭	luo tou
 絣扒	beng ba
 絣扒吊拷	beng ba diao kao
 給予	gei yu
@@ -40109,6 +40744,7 @@ use_preset_vocabulary: true
 絮絮聒聒	xu xu gua gua
 絮聒	xu gua
 統括	tong gua
+統括	tong kuo
 統率	tong shuai
 統計地圖	tong ji di tu
 絲瓜絡	si gua lao
@@ -40120,6 +40756,7 @@ use_preset_vocabulary: true
 絲蓴	si chun
 絺綌	chi xi
 絺纊	chi kuang
+綈袍之賜	ti pao zhi ci
 綈袍之賜	ti pao zhi si
 綑紮	kun za
 經傳	jing zhuan
@@ -40139,11 +40776,13 @@ use_preset_vocabulary: true
 經綸濟世	jing lun ji shi
 經藏	jing zang
 經血	jing xie
+經血	jing xue
 經行吐衄	jing xing tu nv
 經讖	jing chen
 經費支絀	jing fei zhi chu
 綜合銀行	zong he yin hang
 綜括	zong gua
+綜括	zong kuo
 綝纚	lin shi
 綠地	lv di
 綠耳	lu er
@@ -40189,31 +40828,49 @@ use_preset_vocabulary: true
 緙絲	ke si
 線坯子	xian pei zi
 線抽傀儡	xian chou kui lei
+緝事	ji shi
 緝事	qi shi
+緝兇	ji xiong
 緝兇	qi xiong
 緝屨	qi ju
+緝拿	ji na
 緝拿	qi na
+緝捉	ji zhuo
 緝捉	qi zhuo
+緝捕	ji bu
 緝捕	qi bu
+緝毒	ji du
 緝毒	qi du
+緝熙	ji xi
 緝熙	qi xi
+緝獲	ji huo
 緝獲	qi huo
+緝理	ji li
 緝理	qi li
+緝私	ji si
 緝私	qi si
+緝穆	ji mu
 緝穆	qi mu
+緝緝	ji ji
 緝緝	qi qi
+緝聽	ji ting
 緝聽	qi ting
+緝訪	ji fang
 緝訪	qi fang
+緝邊	qi bian
+緝鞋口	qi xie kou
 緣慳分淺	yuan qian fen qian
 緣慳命蹇	yuan qian ming jian
 緣簿	yuan bu
 緣覺	yuan jue
 編削	bian xue
 編氓	bian meng
+編緝	bian ji
 編緝	bian qi
 編著	bian zhu
 編隊飛行	bian dui fei xing
 緩急輕重	huan ji qing zhong
+緩步代車	huan bu dai che
 緩步代車	huan bu dai ju
 緩步徐行	huan bu xu xing
 緩緩而行	huan huan er xing
@@ -40241,24 +40898,41 @@ use_preset_vocabulary: true
 縣長	xian zhang
 縫隙	feng xi
 縮囊	su nang
+縮囊	suo nang
 縮地	su di
+縮地	suo di
 縮地補天	su di bu tian
+縮地補天	suo di bu tian
 縮屋稱貞	su wu cheng zhen
+縮屋稱貞	suo wu cheng zhen
 縮手	su shou
+縮手	suo shou
 縮手旁觀	su shou pang guan
+縮手旁觀	suo shou pang guan
 縮朒	su nv
+縮朒	suo nv
 縮栗	su li
+縮栗	suo li
 縮砂蔤	su sha mi
+縮砂蔤	suo sha mi
 縮縮	su su
+縮縮	suo suo
 縮縮朒朒	su su nv nv
+縮縮朒朒	suo suo nv nv
 縮衣節口	su yi jie kou
+縮衣節口	suo yi jie kou
 縮衣節食	su yi jie shi
+縮衣節食	suo yi jie shi
 縮酒	su jiu
+縮酒	suo jiu
 縮頞	su e
+縮頞	suo e
 縮鼻	su bi
+縮鼻	suo bi
 縰履	shi lv
 縰縰	shi shi
 縱剖面	zong pou mian
+縱壑魚	zong he yu
 縱壑魚	zong huo yu
 縱恣	zong zi
 縱情恣欲	zong qing zi yu
@@ -40271,6 +40945,7 @@ use_preset_vocabulary: true
 總丱	zong guan
 總得	zong dei
 總括	zong gua
+總括	zong kuo
 總行	zong hang
 總覺	zong jue
 總角	zong jue
@@ -40308,8 +40983,13 @@ use_preset_vocabulary: true
 繡閣長春	xiu ge chang chun
 繩愆糾謬	sheng qian jiu miu
 繩樞之士	sheng shu zhi shi
+繫上	ji shang
+繫到	ji dao
 繫好	ji hao
 繫爪	xi zhao
+繫爪	xi zhua
+繫緊	ji jin
+繫繩	ji sheng
 繫鞋帶	ji xie dai
 繫風捕景	xi feng bu ying
 繭纖維	jian xian wei
@@ -40453,10 +41133,13 @@ use_preset_vocabulary: true
 羞怯	xiu que
 羞怯怯	xiu que que
 羞惡	xiu wu
+羞惡之心	xiu wu zhi xin
 羞與噲伍	xiu yu kuai wu
 羞靨	xiu ye
+羣從	qun cong
 羣從	qun zong
 羣蝨處褌中	qun shi chu kun zhong
+羣蟻潰堤	qun yi kui di
 羣蟻潰堤	qun yi kui ti
 羣起攻訐	qun qi gong jie
 羣輕折軸	qun qing zhe zhou
@@ -40467,6 +41150,7 @@ use_preset_vocabulary: true
 義勇兵飛彈	yi yong bing fei dan
 義地	yi di
 義妖傳	yi yao zhuan
+義從	yi cong
 義從	yi zong
 義氣深重	yi qi shen zhong
 義薄雲天	yi bo yun tian
@@ -40526,7 +41210,7 @@ use_preset_vocabulary: true
 翬翟	hui di
 翯翯	he he
 翳薈	yi hui
-翹尾巴	qiao yi ba
+翹尾巴	qiao wei ba
 翻兩番	fan liang fan
 翻地	fan di
 翻天覆地	fan tian fu di
@@ -40563,6 +41247,7 @@ use_preset_vocabulary: true
 老撾	lao wo
 老撾	lao zhua
 老本行	lao ben hang
+老死溝壑	lao si gou he
 老死溝壑	lao si gou huo
 老畜生	lao chu sheng
 老疙瘩	lao ge da
@@ -40590,11 +41275,16 @@ use_preset_vocabulary: true
 者囂	zhe xiao
 者番	zhe fan
 耆儒碩德	qi ru shi de
+耆儒碩德	qi ru shuo de
 耆儒碩望	qi ru shi wang
+耆儒碩望	qi ru shuo wang
 耆儒碩老	qi ru shi lao
+耆儒碩老	qi ru shuo lao
 耆宿	qi su
 耆年碩德	qi nian shi de
+耆年碩德	qi nian shuo de
 耆碩	qi shi
+耆碩	qi shuo
 耆耇	qi gou
 而行	er xing
 耍噱頭	shua xue tou
@@ -40678,6 +41368,7 @@ use_preset_vocabulary: true
 聲絲氣咽	sheng si qi ye
 聲調符號	sheng diao fu hao
 聲跡彰露	sheng ji zhang lu
+聳壑昂霄	song he ang xiao
 聳壑昂霄	song huo ang xiao
 職工學校	zhi gong xue xiao
 職校	zhi xiao
@@ -40713,6 +41404,7 @@ use_preset_vocabulary: true
 肌肉麻痺	ji rou ma bi
 肌覺	ji jue
 肐膊折了往袖子裏藏	ge bo zhe le wang xiu zi li cang
+肐臂	ge bei
 肖似	xiao si
 肘腋	zhou yi
 肘腋之患	zhou yi zhi huan
@@ -40730,6 +41422,7 @@ use_preset_vocabulary: true
 股長	gu zhang
 肥盛	fei sheng
 肥碩	fei shi
+肥碩	fei shuo
 肥遯	fei dun
 肥遯鳴高	fei dun ming gao
 肩膀	jian bang
@@ -40795,6 +41488,7 @@ use_preset_vocabulary: true
 胳臂	ge bi
 胴體	dong ti
 胸廝撞	xiong si zhuang
+胸有丘壑	xiong you qiu he
 胸有丘壑	xiong you qiu huo
 胸無宿物	xiong wu su wu
 胸脯	xiong pu
@@ -40802,17 +41496,21 @@ use_preset_vocabulary: true
 能做什麼	neng zuo shen me
 能樂	neng yue
 能牙利爪	neng ya li zhao
+能牙利爪	neng ya li zhua
 能說不能行	neng shuo bu neng xing
 能賺	neng zhuan
+脅從	xie cong
 脅從	xie zong
 脆快了當	cui kuai liao dang
 脆怯	cui qie
 脆薄	cui bo
 脈脈	mo mo
+脈脈含情	mo mo han qing
 脖頸子	bo geng zi
 脣似抹硃	chun si mo zhu
 脣若抹硃	chun ruo mo zhu
 脩脯	xiu fu
+脫不了	tuo bu liao
 脫帽露頂	tuo mao lu ding
 脫韁之馬	tuo jiang zhi ma
 脫韁馬	tuo jiang ma
@@ -40840,16 +41538,21 @@ use_preset_vocabulary: true
 腡肌	luo ji
 腤䐶	an zan
 腥風血雨	xing feng xie yu
+腥風血雨	xing feng xue yu
 腦中樞	nao zhong shu
 腦出血	nao chu xie
+腦出血	nao chu xue
 腦勺	nao shao
 腦性麻痺	nao xing ma bi
 腦杓子	nao shao zi
 腦栓塞	nao shuan se
 腦液	nao ye
 腦溢血	nao yi xie
+腦溢血	nao yi xue
 腦血管栓塞	nao xie guan shuan se
+腦血管栓塞	nao xue guan shuan se
 腦貧血	nao pin xie
+腦貧血	nao pin xue
 腦鑿子	nao zao zi
 腫噲	zhong kuai
 腳不沾地	jiao bu zhan di
@@ -40868,6 +41571,7 @@ use_preset_vocabulary: true
 腹便便	fu pian pian
 腹地	fu di
 腹枵	fu xiao
+腹笥便便	fu si pian pian
 腼腆	mian tian
 腼腆溫柔	mian tian wen rou
 膀子	bang zi
@@ -40907,7 +41611,9 @@ use_preset_vocabulary: true
 膾不厭細	kuai bu yan xi
 膾炙人口	kuai zhi ren kou
 膿血	nong xie
+膿血	nong xue
 膿血債	nong xie zhai
+膿血債	nong xue zhai
 臂膀	bi bang
 臆度	yi duo
 臉嫩	lian nen
@@ -40931,9 +41637,11 @@ use_preset_vocabulary: true
 臨行	lin xing
 臨難不懾	lin nan bu zhe
 臨難無懾	lin nan wu zhe
+臨風搖曳	lin feng yao ye
 臨風搖曳	lin feng yao yi
 自了	zi liao
 自傳	zi zhuan
+自傳體	zi zhuan ti
 自僝自僽	zi chan zi zhou
 自助旅行	zi zhu lv xing
 自動運行	zi dong yun xing
@@ -40946,6 +41654,7 @@ use_preset_vocabulary: true
 自得其樂	zi de qi le
 自怨自艾	zi yuan zi yi
 自恣	zi zi
+自憐自艾	zi lian zi yi
 自我反省	zi wo fan xing
 自戕	zi qiang
 自曝	zi bao
@@ -40955,16 +41664,20 @@ use_preset_vocabulary: true
 自治行政	zi zhi xing zheng
 自治都市	zi zhi du shi
 自然利率	zi ran li lv
+自然堤	zi ran di
 自然堤	zi ran ti
 自然增加率	zi ran zeng jia lv
 自然率	zi ran lv
 自由稅率	zi you shui lv
 自由行	zi you xing
 自留地	zi liu di
+自白	zi bai
 自白	zi bo
+自白書	zi bai shu
 自白書	zi bo shu
 自省	zi xing
 自給	zi ji
+自給有餘	zi ji you yu
 自給自足	zi ji zi zu
 自繇自在	zi you zi zai
 自行	zi xing
@@ -40976,9 +41689,12 @@ use_preset_vocabulary: true
 自覺形穢	zi jue xing hui
 自覺性	zi jue xing
 自覺遵守	zi jue zun shou
+自賊	zi ze
+自足自給	zi zu zi ji
 自鄶以下	zi kuai yi xia
 自重	zi zhong
 自體輸血	zi ti shu xie
+自體輸血	zi ti shu xue
 臭名昭著	chou ming zhao zhu
 臭味	chou wei
 臭味	xiu wei
@@ -40988,6 +41704,7 @@ use_preset_vocabulary: true
 臭短臊長	chou duan sao chang
 臭覺	xiu jue
 至樂	zhi le
+至死不降	zhi si bu xiang
 至行	zhi xing
 至關重要	zhi guan zhong yao
 致遠任重	zhi yuan ren zhong
@@ -41041,6 +41758,7 @@ use_preset_vocabulary: true
 舐癰吮痔	shi yong shun zhi
 舒伯特	shu bo te
 舒筋活血	shu jin huo xie
+舒筋活血	shu jin huo xue
 舔吮	tian shun
 舔舕	tian tan
 舚破	tian po
@@ -41061,6 +41779,7 @@ use_preset_vocabulary: true
 舞孃	wu niang
 舞樂	wu yue
 舞爪張牙	wu zhao zhang ya
+舞爪張牙	wu zhua zhang ya
 航空學校	hang kong xue xiao
 航行	hang xing
 航行安全書	hang xing an quan shu
@@ -41135,6 +41854,7 @@ use_preset_vocabulary: true
 芭苴	ba ju
 芰荷	ji he
 花卉冷藏處理	hua hui leng cang chu li
+花呢	hua ni
 花天酒地	hua tian jiu di
 花天錦地	hua tian jin di
 花奴羯鼓	hua nu jie gu
@@ -41180,6 +41900,7 @@ use_preset_vocabulary: true
 苟且唐塞	gou qie tang se
 苟安一隅	gou an yi yu
 若出一轍	ruo chu yi che
+若出一轍	ruo chu yi zhe
 若有還無	ruo you huan wu
 若還	ruo huan
 若釋重負	ruo shi zhong fu
@@ -41202,6 +41923,7 @@ use_preset_vocabulary: true
 茁長	zhuo zhang
 茂盛	mao sheng
 茂行	mao xing
+范公堤	fan gong di
 范公堤	fan gong ti
 范曄	fan ye
 范雎	fan ju
@@ -41234,6 +41956,7 @@ use_preset_vocabulary: true
 茶菁	cha jing
 茶行	cha hang
 茹毛飲血	ru mao yin xie
+茹毛飲血	ru mao yin xue
 荀粲熨婦	xun can yun fu
 草偃風行	cao yan feng xing
 草地	cao di
@@ -41319,6 +42042,7 @@ use_preset_vocabulary: true
 菉豆	lv dou
 菉豆眼	lv dou yan
 菌血症	jun xie zheng
+菌血症	jun xue zheng
 菌類培養液	jun lei pei yang ye
 菑畬	zi yu
 菖鮋	chang you
@@ -41342,7 +42066,7 @@ use_preset_vocabulary: true
 華胥調	hua xu diao
 華膴	hua wu
 菱角	ling jiao
-菱角磨作鷄頭	ling jiao mo zuo ji tou
+菱角磨作雞頭	ling jiao mo zuo ji tou
 菲薄	fei bo
 菲食薄衣	fei shi bo yi
 菸屁股	yan pi gu
@@ -41380,7 +42104,9 @@ use_preset_vocabulary: true
 萬剮千刀	wan gua qian dao
 萬古長春	wan gu chang chun
 萬古長青	wan gu chang qing
+萬壑	wan he
 萬壑	wan huo
+萬壑爭流	wan he zheng liu
 萬壑爭流	wan huo zheng liu
 萬目睽睽	wan mu kui kui
 萬箭攢心	wan jian cuan xin
@@ -41429,6 +42155,7 @@ use_preset_vocabulary: true
 落薄	luo bo
 落褒貶	lao bao bian
 落話	la hua
+落跑	lao pao
 落魄	luo tuo
 落魄不羈	luo tuo bu ji
 葉一茜	ye yi qian
@@ -41495,6 +42222,7 @@ use_preset_vocabulary: true
 蒸露	zheng lu
 蒼勁	cang jing
 蒼蠅見血	cang ying jian xie
+蒼蠅見血	cang ying jian xue
 蒼鶻	cang hu
 蓁椒	qin jiao
 蓁荒	zhen huang
@@ -41791,6 +42519,7 @@ use_preset_vocabulary: true
 蘇打餅乾	su da bing gan
 蘇泊爾	su bo er
 蘇轍	su che
+蘇轍	su zhe
 蘇門長嘯	su men chang xiao
 蘇隄	su ti
 蘊含	yun han
@@ -41820,11 +42549,16 @@ use_preset_vocabulary: true
 虎圈	hu juan
 虎榜	hu bang
 虎步龍行	hu bu long xing
+虎爪	hu zhao
+虎爪	hu zhua
 虎爪拳	hu zhao quan
+虎爪拳	hu zhua quan
 虎爪豆	hu zhao dou
+虎爪豆	hu zhua dou
 虎略龍韜	hu lve long tao
 虎諕	hu xia
 虎豹不外其爪	hu bao bu wai qi zhao
+虎豹不外其爪	hu bao bu wai qi zhua
 虎貔	hu pi
 虎賁	hu ben
 虎賁中郎將	hu ben zhong lang jiang
@@ -41889,6 +42623,7 @@ use_preset_vocabulary: true
 蛤蚌	ge beng
 蛤蚧	ge jie
 蛤蜊	ge li
+蛤蜊湯	ge li tang
 蛤蟆	ha ma
 蛤蟆吵坑	ha ma chao keng
 蛤蟆蹲	ha ma dun
@@ -41903,6 +42638,7 @@ use_preset_vocabulary: true
 蜂房不容鵠卵	feng fang bu rong hu luan
 蜂腰削背	feng yao xue bei
 蜃蛤	shen ge
+蜃車	shen che
 蜃車	shen ju
 蜎蜎	yuan yuan
 蜚短流長	fei duan liu chang
@@ -41959,11 +42695,13 @@ use_preset_vocabulary: true
 螃蟹過河	pang xie guo he
 螌蝥	ban mao
 融泄	rong yi
+融洽	rong qia
 融洽	rong xia
 螗蜩	tang tiao
 螞蚍叮腿	ma pi ding tui
 螞蚍蜉	ma pi fu
 螞蝗見血	ma huang jian xie
+螞蝗見血	ma huang jian xue
 螞螂	ma lang
 螟螣	ming teng
 螣蛇	teng she
@@ -42044,46 +42782,74 @@ use_preset_vocabulary: true
 蠼猱	jue nao
 蠼螋	jue sou
 血不歸經	xie bu gui jing
+血不歸經	xue bu gui jing
+血仇	xue chou
 血債	xie zhai
+血債	xue zhai
 血債血還	xie zhai xie huan
+血債血還	xue zhai xue huan
 血光之災	xie guang zhi zai
 血光之災	xue guang zhi zai
 血刃	xie ren
+血刃	xue ren
 血化爲碧	xie hua wei bi
 血化爲碧	xue hua wei bi
 血印	xie yin
+血印	xue yin
 血參	xie shen
+血參	xue shen
 血友病	xie you bing
+血友病	xue you bing
 血口噴人	xie kou pen ren
 血口噴人	xue kou pen ren
 血口子	xie kou zi
+血口子	xue kou zi
 血吸蟲	xie xi chong
+血吸蟲	xue xi chong
 血吸蟲病	xie xi chong bing
+血吸蟲病	xue xi chong bing
 血嗣	xie si
 血嗣	xue si
 血型	xie xing
+血型	xue xing
 血塊	xie kuai
+血塊	xue kuai
 血壓	xie ya
+血壓	xue ya
 血壓計	xie ya ji
+血壓計	xue ya ji
 血小板	xie xiao ban
+血小板	xue xiao ban
 血尿	xie niao
+血尿	xue niao
 血崩	xie beng
+血崩	xue beng
 血庫	xie ku
+血庫	xue ku
 血循環	xie xun huan
+血循環	xue xun huan
 血心	xie xin
+血心	xue xin
 血忱	xie chen
 血忱	xue chen
 血性	xie xing
+血性	xue xing
 血戰	xie zhan
+血戰	xue zhan
 血晶	xie jing
+血晶	xue jing
 血書	xie shu
+血書	xue shu
 血本	xie ben
 血本	xue ben
 血本無歸	xie ben wu gui
 血本無歸	xue ben wu gui
 血栓	xie shuan
+血栓	xue shuan
 血案	xie an
+血案	xue an
 血毛	xie mao
+血毛	xue mao
 血氣	xie qi
 血氣	xue qi
 血氣之勇	xie qi zhi yong
@@ -42095,13 +42861,19 @@ use_preset_vocabulary: true
 血氣方盛	xie qi fang sheng
 血氣方盛	xue qi fang sheng
 血水	xie shui
+血水	xue shui
 血汗	xie han
+血汗	xue han
 血汗錢	xie han qian
+血汗錢	xue han qian
 血污	xie wu
+血污	xue wu
 血污池	xie wu chi
+血污池	xue wu chi
 血泊	xie bo
 血泊	xue bo
 血洗	xie xi
+血洗	xue xi
 血流如注	xie liu ru zhu
 血流如注	xue liu ru zhu
 血流成河	xie liu cheng he
@@ -42111,70 +42883,134 @@ use_preset_vocabulary: true
 血流漂杵	xie liu piao chu
 血流漂杵	xue liu piao chu
 血海	xie hai
+血海	xue hai
 血海屍山	xie hai shi shan
+血海屍山	xue hai shi shan
 血海深仇	xie hai shen chou
+血海深仇	xue hai shen chou
 血液	xie ye
+血液	xue ye
 血液凝固	xie ye ning gu
+血液凝固	xue ye ning gu
 血液循環	xie ye xun huan
+血液循環	xue ye xun huan
 血液檢驗	xie ye jian yan
+血液檢驗	xue ye jian yan
 血淋淋	xie lin lin
+血淋淋	xue lin lin
 血淚	xie lei
+血淚	xue lei
 血清	xie qing
+血清	xue qing
 血清病	xie qing bing
+血清病	xue qing bing
 血清療法	xie qing liao fa
+血清療法	xue qing liao fa
 血滴子	xie di zi
+血滴子	xue di zi
 血漬	xie zi
+血漬	xue zi
 血漿	xie jiang
+血漿	xue jiang
 血漿蛋白	xie jiang dan bai
+血漿蛋白	xue jiang dan bai
 血濃於水	xie nong yu shui
+血濃於水	xue nong yu shui
 血瀝瀝	xie li li
+血瀝瀝	xue li li
 血球	xie qiu
+血球	xue qiu
 血痂	xie jia
+血痂	xue jia
 血癌	xie ai
 血癌	xie yan
+血癌	xue ai
+血癌	xue yan
 血盆	xie pen
+血盆	xue pen
 血盆大口	xie pen da kou
+血盆大口	xue pen da kou
 血盆經	xie pen jing
+血盆經	xue pen jing
 血祭	xie ji
+血祭	xue ji
 血管	xie guan
+血管	xue guan
 血管操	xie guan cao
+血管操	xue guan cao
 血管瘤	xie guan liu
+血管瘤	xue guan liu
 血管硬化	xie guan ying hua
+血管硬化	xue guan ying hua
 血糖	xie tang
+血糖	xue tang
 血糞	xie fen
+血糞	xue fen
 血紅	xie hong
+血紅	xue hong
 血紅素	xie hong su
+血紅素	xue hong su
 血紅蛋白	xie hong dan bai
+血紅蛋白	xue hong dan bai
 血統	xie tong
+血統	xue tong
 血絲	xie si
+血絲	xue si
 血緣	xie yuan
+血緣	xue yuan
 血肉	xie rou
+血肉	xue rou
 血肉之軀	xie rou zhi qu
+血肉之軀	xue rou zhi qu
 血肉模糊	xie rou mo hu
+血肉模糊	xue rou mo hu
 血肉橫飛	xie rou heng fei
+血肉橫飛	xue rou heng fei
 血肉淋漓	xie rou lin li
+血肉淋漓	xue rou lin li
 血肉相連	xie rou xiang lian
+血肉相連	xue rou xiang lian
 血脂升高症	xie zhi sheng gao zheng
+血脂升高症	xue zhi sheng gao zheng
 血脂肪	xie zhi fang
+血脂肪	xue zhi fang
 血脈	xie mai
+血脈	xue mai
 血脈賁張	xie mai ben zhang
+血脈賁張	xue mai ben zhang
 血腥	xie xing
+血腥	xue xing
 血色	xie se
+血色	xue se
+血色素	xue se su
 血花	xie hua
+血花	xue hua
 血荒	xie huang
+血荒	xue huang
 血虛	xie xu
+血虛	xue xu
 血虧	xie kui
+血虧	xue kui
 血衚衕	xie hu tong
+血衚衕	xue hu tong
 血衣	xie yi
+血衣	xue yi
 血親	xie qin
+血親	xue qin
 血親家族	xie qin jia zu
+血親家族	xue qin jia zu
 血誠	xie cheng
 血誠	xue cheng
 血跡	xie ji
+血跡	xue ji
 血跡斑斑	xie ji ban ban
+血跡斑斑	xue ji ban ban
 血路	xie lu
+血路	xue lu
 血量	xie liang
+血量	xue liang
 血雨腥風	xie yu xing feng
+血雨腥風	xue yu xing feng
 血食	xie shi
 血食	xue shi
 血餘	xie yu
@@ -42429,6 +43265,7 @@ use_preset_vocabulary: true
 行爲規範	xing wei gui fan
 行狀	xing zhuang
 行獵	xing lie
+行略	xing lve
 行當	hang dang
 行疾如飛	xing ji ru fei
 行百里者半於九十	xing bai li zhe ban yu jiu shi
@@ -42477,6 +43314,7 @@ use_preset_vocabulary: true
 行號	hang hao
 行號巷哭	hang hao xiang ku
 行虧名缺	xing kui ming que
+行血	xing xue
 行行	hang hang
 行行	xing xing
 行行出狀元	hang hang chu zhuang yuan
@@ -42504,6 +43342,7 @@ use_preset_vocabulary: true
 行蹤飄忽	xing zong piao hu
 行車	xing che
 行車執照	xing che zhi zhao
+行車距離	xing che che li
 行車距離	xing che ju li
 行車速率	xing che su lv
 行軍	xing jun
@@ -42554,6 +43393,7 @@ use_preset_vocabulary: true
 行騙	xing pian
 衒玉賈石	xuan yu gu shi
 街角	jie jiao
+衛從	wei cong
 衛從	wei zong
 衛星都市	wei xing du shi
 衝勁	chong jin
@@ -42563,18 +43403,21 @@ use_preset_vocabulary: true
 衝鋒陷陣	chong feng xian zhen
 衝陷	chong xian
 衡行	heng xing
+衣不曳地	yi bu ye di
 衣不曳地	yi bu yi di
 衣不重帛	yi bu zhong bo
 衣不重采	yi bu zhong cai
 衣冠盛事	yi guan sheng shi
 衣冠禮樂	yi guan li yue
 衣着	yi zhuo
+衣着打扮	yi zhuo da ban
 衣繡夜行	yi xiu ye xing
 衣繡晝行	yi xiu zhou xing
 衣裳	yi shang
 衣裳之會	yi chang zhi hui
 衣裳楚楚	yi chang chu chu
 衣角	yi jiao
+衣車	yi che
 衣車	yi ju
 衣錦夜行	yi jin ye xing
 衣錦還鄉	yi jin huan xiang
@@ -42595,6 +43438,7 @@ use_preset_vocabulary: true
 袜肚	mo du
 袞州八伯	gun zhou ba bo
 袤廣	mao guang
+被上	pi shang
 被執行人	bei zhi xing ren
 被堅執銳	pi jian zhi rui
 被山帶河	bei shan dai he
@@ -42603,12 +43447,15 @@ use_preset_vocabulary: true
 被甲兵	pi jia bing
 被禍	pi huo
 被罪	pi zui
+被肩	pi jian
+被虐待狂	bei nve dai kuang
 被褐	pi he
 被褐懷寶	pi he huai bao
 被褐懷玉	pi he huai yu
 被褐懷珠	pi he huai zhu
 被褐懷金	pi he huai jin
 被褐藏輝	pi he cang hui
+被頭散髮	pi tou san fa
 被髮	pi fa
 被髮佯狂	pi fa yang kuang
 被髮入山	pi fa ru shan
@@ -42640,9 +43487,11 @@ use_preset_vocabulary: true
 補掛朝珠	bu gua chao zhu
 補校	bu xiao
 補氣止血	bu qi zhi xie
+補氣止血	bu qi zhi xue
 補給	bu gei
 補給	bu ji
 補給品	bu ji pin
+補給站	bu ji zhan
 補給線	bu ji xian
 補給證	bu ji zheng
 補習學校	bu xi xue xiao
@@ -42651,6 +43500,7 @@ use_preset_vocabulary: true
 補苴調胹	bu ju tiao er
 補葺	bu qi
 補血	bu xie
+補血	bu xue
 補角	bu jiao
 補還	bu huan
 裝幀	zhuang zheng
@@ -42714,9 +43564,13 @@ use_preset_vocabulary: true
 褚衣	chu yi
 褚遂良	chu sui liang
 褦襶	nai dai
+褪下	tui xia
+褪下	tun xia
 褪前擦後	tun qian ca hou
+褪去	tui qu
 褪去	tun qu
 褪口	tun kou
+褪毛	tui mao
 褪毛	tun mao
 褪膊	tun bo
 褪色	tui se
@@ -42746,6 +43600,7 @@ use_preset_vocabulary: true
 西伯利亞鐵路	xi bo li ya tie lu
 西北地區	xi bei di qu
 西南地區	xi nan di qu
+西堤	xi di
 西堤	xi ti
 西塞羅	xi sai luo
 西山日薄	xi shan ri bo
@@ -42781,6 +43636,7 @@ use_preset_vocabulary: true
 要塞	yao sai
 要怎麼收穫	yao zen mo shou huo
 要挾	yao xie
+要的	yao de
 要絰	yao die
 要角	yao jiao
 要隘	yao ai
@@ -42792,9 +43648,13 @@ use_preset_vocabulary: true
 覆沒	fu mo
 覆蓋率	fu gai lv
 覆車之轍	fu che zhi che
+覆車之轍	fu che zhi zhe
 覆轍	fu che
+覆轍	fu zhe
 覆轍重蹈	fu che chong dao
+覆轍重蹈	fu zhe chong dao
 覆露	fu lu
+見不着	jian bu zhao
 見不長	jian bu zhang
 見世報	xian shi bao
 見在	xian zai
@@ -42802,13 +43662,16 @@ use_preset_vocabulary: true
 見地	jian di
 見彈求鴞	jian dan qiu xiao
 見彈而求鴞炙	jian dan er qiu xiao zhi
+見得着	jian de zhao
 見微知著	jian wei zhi zhu
 見意	xian yi
 見成	xian cheng
 見機行事	jian ji xing shi
+見着	jian zhao
 見糧	xian liang
 見絀	jian chu
 見血封喉	jian xie feng hou
+見血封喉	jian xue feng hou
 見錢	xian qian
 見鐘不打	xian zhong bu da
 規外行動	gui wai xing dong
@@ -42938,6 +43801,7 @@ use_preset_vocabulary: true
 解攜	jie xi
 解析三角法	jie xi san jiao fa
 解池	xie chi
+解決不了	jie jue bu liao
 解縣	xie xian
 解聘	jie pin
 解調器	jie tiao qi
@@ -43015,6 +43879,7 @@ use_preset_vocabulary: true
 許景澄	xu jing cheng
 許行	xu xing
 許許	hu hu
+診脈	zhen mai
 診脈	zhen mo
 詐降	zha xiang
 評傳	ping zhuan
@@ -43074,6 +43939,7 @@ use_preset_vocabulary: true
 誤國殄民	wu guo tian min
 誤打誤撞	wu da wu zhuang
 誤謬	wu miu
+說不了	shuo bu liao
 說什麼也不能	shuo shen me ye bu neng
 說來話長	shuo lai hua chang
 說參請	shuo can qing
@@ -43422,10 +44288,12 @@ use_preset_vocabulary: true
 警角	jing jue
 警長	jing zhang
 譬似閑	pi si xian
+譯傳	yi zhuan
 譯著	yi zhu
 議長	yi zhang
 議長論短	yi chang lun duan
 護士長	hu shi zhang
+護從	hu cong
 護從	hu zong
 譸張	zhou zhang
 譸張爲幻	zhou zhang wei huan
@@ -43455,7 +44323,9 @@ use_preset_vocabulary: true
 讞讞	yan yan
 谷地	gu di
 谷都	gu du
+谿壑	xi he
 谿壑	xi huo
+谿壑無厭	xi he wu yan
 谿壑無厭	xi huo wu yan
 谿子	xi zi
 谿谷	xi gu
@@ -43499,6 +44369,7 @@ use_preset_vocabulary: true
 象傳	xiang zhuan
 象瑱	xiang tian
 象笏	xiang hu
+象車	xiang che
 象車	xiang ju
 豢圉	huan yu
 豢養	huan yang
@@ -43526,6 +44397,7 @@ use_preset_vocabulary: true
 貝錦萋菲	bei jin qi fei
 貝類養殖	bei lei yang zhi
 貞卜文字	zhen bu wen zi
+貞白	zhen bai
 貞白	zhen bo
 負乘致寇	fu sheng zhi kou
 負固不悛	fu gu bu quan
@@ -43552,7 +44424,9 @@ use_preset_vocabulary: true
 貧窶	pin ju
 貧而樂道	pin er le dao
 貧血	pin xie
+貧血	pin xue
 貧血病	pin xie bing
+貧血病	pin xue bing
 貨卜	huo bu
 貨幣供給額	huo bi gong ji e
 貨殖	huo zhi
@@ -43587,6 +44461,7 @@ use_preset_vocabulary: true
 貲簿	zi bu
 貲藏	zi cang
 貳臣傳	er chen zhuan
+貳車	er che
 貳車	er ju
 貴价	gui jie
 貴地	gui di
@@ -43599,6 +44474,7 @@ use_preset_vocabulary: true
 買官鬻爵	mai guan yu jue
 買樂	mai le
 買櫝還珠	mai du huan zhu
+買着	mai zhao
 買金偏撞不着賣金的	mai jin pian zhuang bu zhao mai jin de
 貸款利率	dai kuan li lv
 費勁	fei jin
@@ -43622,6 +44498,7 @@ use_preset_vocabulary: true
 賄賂并行	hui lu bing xing
 賅博	gai bo
 賅括	gai gua
+賅括	gai kuo
 資產重估	zi chan chong gu
 資產重組	zi chan chong zu
 資稟	zi bing
@@ -43643,32 +44520,55 @@ use_preset_vocabulary: true
 賊害	ze hai
 賊虐	ze nve
 賑給	zhen ji
+賜予	ci yu
 賜予	si yu
+賜假	ci jia
 賜假	si jia
+賜光	ci guang
 賜光	si guang
+賜卹	ci xu
 賜卹	si xu
+賜名	ci ming
 賜名	si ming
+賜告	ci gao
 賜告	si gao
+賜姓	ci xing
 賜姓	si xing
+賜宴	ci yan
 賜宴	si yan
+賜履	ci lv
 賜履	si lv
+賜帛	ci bo
 賜帛	si bo
+賜復	ci fu
 賜復	si fu
+賜教	ci jiao
 賜教	si jiao
+賜死	ci si
 賜死	si si
+賜爵	ci jue
 賜爵	si jue
+賜環	ci huan
 賜環	si huan
+賜示	ci shi
 賜示	si shi
+賜福	ci fu
 賜福	si fu
+賜紫	ci zi
 賜紫	si zi
+賜給	ci gei
+賜酺	ci fu
 賜酺	si fu
+賜顧	ci gu
 賜顧	si gu
 賞心樂事	shang xin le shi
+賞賜	shang ci
 賞賜	shang si
 賠償	pei chang
 賠償醫學	pei chang yi xue
 賠率	pei lv
 賢否不明	xian pi bu ming
+賢從	xian cong
 賢從	xian zong
 賣俏行姦	mai qiao xing jian
 賣兒鬻女	mai er yu nv
@@ -43723,19 +44623,23 @@ use_preset_vocabulary: true
 贈賻	zeng fu
 贈遺	zeng wei
 贏縮	ying su
+贏縮	ying suo
 贐行	jin xing
 贓污狼藉	zang wu lang ji
 贗品	yan pin
 贗幣	yan bi
 贗本	yan ben
 贗鼎	yan ding
+赤口白舌	chi kou bai she
 赤口白舌	chi kou bo she
 赤地	chi di
 赤地千里	chi di qian li
 赤墀	chi chi
 赤嵌樓	chi kan lou
 赤血丹心	chi xie dan xin
+赤血丹心	chi xue dan xin
 赤血鹽	chi xie yan
+赤血鹽	chi xue yan
 赤身露體	chi shen lou ti
 赤露	chi lu
 赤鯶公	chi hun gong
@@ -43744,6 +44648,7 @@ use_preset_vocabulary: true
 赫柏定律	he bo ding lv
 赬尾	cheng wei
 赭衣塞路	zhe yi se lu
+走不了	zou bu liao
 走了和尚走不了廟	zou le he shang zou bu liao miao
 走爲上着	zou wei shang zhao
 走百病	zou bo bing
@@ -43755,8 +44660,8 @@ use_preset_vocabulary: true
 起根立地	qi gen li di
 起行	qi xing
 起重機	qi zhong ji
+起雞皮疙瘩	qi ji pi ge da
 起高調	qi gao diao
-起鷄皮疙瘩	qi ji pi ge da
 趁熟	chen shou
 趄趄	ju ju
 超感覺	chao gan jue
@@ -43766,9 +44671,9 @@ use_preset_vocabulary: true
 越王嘗蓼	yue wang chang liao
 越調	yue diao
 越長	yue chang
+越雞難伏鵠卵	yue ji nan fu hu luan
 越鳥南棲	yue niao nan qi
 越鳧楚乙	yue fu chu yi
-越鷄難伏鵠卵	yue ji nan fu hu luan
 趑趄	zi ju
 趑趄不前	zi ju bu qian
 趑趄卻顧	zi ju que gu
@@ -43813,6 +44718,7 @@ use_preset_vocabulary: true
 跑不了	pao bu liao
 跑了和尚跑不了廟	pao le he shang pao bu liao miao
 跑轍	pao che
+跑轍	pao zhe
 跑馬賣解	pao ma mai xie
 跑馬走解	pao ma zou xie
 跕班	tie ban
@@ -43851,6 +44757,7 @@ use_preset_vocabulary: true
 跳踉	tiao liang
 跳躍	tiao yue
 跳躍比賽	tiao yue bi sai
+跴緝	cai ji
 跴緝	cai qi
 跴蹻	cai qiao
 跼天蹐地	ju tian ji di
@@ -43969,6 +44876,7 @@ use_preset_vocabulary: true
 躪藉	lin jie
 身家調查	shen jia diao cha
 身懷六甲	shen huai lu jia
+身段勻稱	shen duan yun chen
 身毒	juan du
 身無擇行	shen wu ze xing
 身無長物	shen wu zhang wu
@@ -43989,24 +44897,34 @@ use_preset_vocabulary: true
 躲藏	duo cang
 躲躲藏藏	duo duo cang cang
 躲迷藏	duo mi cang
+車人	che ren
 車人	ju ren
 車僮	che tong
+車右	che you
 車右	ju you
+車士	che shi
 車士	ju shi
-車如鷄棲馬如狗	che ru ji qi ma ru gou
+車如雞棲馬如狗	che ru ji qi ma ru gou
 車桑仔	che sang zi
+車殆馬煩	che dai ma fan
 車殆馬煩	ju dai ma fan
+車笠之盟	che li zhi meng
 車笠之盟	ju li zhi meng
 車舝	che xia
 車行	che hang
+車裂	che lie
 車裂	ju lie
 車軸	che zhou
 車軸草	che zhou cao
 車轍	che che
+車轍	che zhe
 車轍馬跡	che che ma ji
+車轍馬跡	che zhe ma ji
 車長	che chang
 車馬駢闐	che ma pian tian
+車駕	che jia
 車駕	ju jia
+車騎	che ji
 車騎	ju ji
 軋一腳	ga yi jiao
 軋姘頭	ga pin tou
@@ -44031,6 +44949,7 @@ use_preset_vocabulary: true
 軋頭寸	ga tou cun
 軌外行爲	gui wai xing wei
 軌轍	gui che
+軌轍	gui zhe
 軍事基地	jun shi ji di
 軍事學校	jun shi xue xiao
 軍事行動	jun shi xing dong
@@ -44041,6 +44960,7 @@ use_preset_vocabulary: true
 軍樂隊	jun yue dui
 軍行	jun xing
 軍長	jun zhang
+軍需補給	jun xu bu ji
 軒掖	xuan ye
 軒檻	xuan jian
 軒裳	xuan chang
@@ -44071,7 +44991,9 @@ use_preset_vocabulary: true
 載重	zai zhong
 載重量	zai zhong liang
 輔行	fu xing
+輔車相依	fu che xiang yi
 輔車相依	fu ju xiang yi
+輔車脣齒	fu che chun chi
 輔車脣齒	fu ju chun chi
 輕事重報	qing shi zhong bao
 輕口薄舌	qing kou bo she
@@ -44084,13 +45006,20 @@ use_preset_vocabulary: true
 輕薄	qing bo
 輕薄無知	qing bo wu zhi
 輕薄無行	qing bo wu xing
+輕裝簡從	qing zhuang jian cong
 輕裝簡從	qing zhuang jian zong
 輕財重士	qing cai zhong shi
 輕財重義	qing cai zhong yi
 輕身重義	qing shen zhong yi
+輕車	qing che
 輕車	qing ju
+輕車介士	qing che jie shi
 輕車介士	qing ju jie shi
+輕車熟路	qing che shu lu
 輕車熟路	qing ju shu lu
+輕車簡從	qing che jian cong
+輕車簡從	qing che jian zong
+輕車簡從	qing ju jian cong
 輕車簡從	qing ju jian zong
 輕重	qing zhong
 輕重倒置	qing zhong dao zhi
@@ -44120,6 +45049,7 @@ use_preset_vocabulary: true
 輸着	shu zhe
 輸肝剖膽	shu gan pou dan
 輸血	shu xie
+輸血	shu xue
 輾轉	zhan zhuan
 輾轉不寐	zhan zhuan bu mei
 輾轉反側	zhan zhuan fan ce
@@ -44128,6 +45058,7 @@ use_preset_vocabulary: true
 輿地	yu di
 輿地廣記	yu di guang ji
 輿地志	yu di zhi
+輿從	yu cong
 輿從	yu zong
 輿謣	yu xu
 轄地	xia di
@@ -44135,6 +45066,7 @@ use_preset_vocabulary: true
 轉圜	zhuan huan
 轉彎抹角	zhuan wan mo jiao
 轉捩點	zhuan lie dian
+轉死溝壑	zhuan si gou he
 轉死溝壑	zhuan si gou huo
 轉灣抹角	zhuan wan mo jiao
 轉行	zhuan hang
@@ -44143,12 +45075,19 @@ use_preset_vocabulary: true
 轉軸	zhuan zhou
 轉輾反側	zhuan zhan fan ce
 轉轍	zhuan che
+轉轍	zhuan zhe
 轉轍器	zhuan che qi
+轉轍器	zhuan zhe qi
 轍亂旗靡	che luan qi mi
+轍亂旗靡	zhe luan qi mi
 轍環天下	che huan tian xia
+轍環天下	zhe huan tian xia
 轍跡	che ji
+轍跡	zhe ji
 轍鮒	che fu
+轍鮒	zhe fu
 轍鮒之急	che fu zhi ji
+轍鮒之急	zhe fu zhi ji
 轗軻	kan ke
 轘磔	huan zhe
 轟的	hong di
@@ -44206,6 +45145,7 @@ use_preset_vocabulary: true
 迍邅之世	zhun zhan zhi shi
 迎睇	ying di
 迎阿	ying e
+迎風搖曳	ying feng yao ye
 迎風搖曳	ying feng yao yi
 近似	jin si
 近似值	jin si zhi
@@ -44238,6 +45178,7 @@ use_preset_vocabulary: true
 追本溯源	zhui ben su yuan
 追歡取樂	zhui huan qu le
 追溯	zhui su
+追緝	zhui ji
 追緝	zhui qi
 追蹤躡跡	zhui zong nie ji
 追風躡影	zhui feng nie ying
@@ -44248,8 +45189,12 @@ use_preset_vocabulary: true
 退耕還林	tui geng huan lin
 退藏於密	tui cang yu mi
 退還	tui huan
+退還給	tui huan gei
 送行	song xing
 送還	song huan
+送還到	song huan dao
+送還給	song huan gei
+逃不了	tao bu liao
 逃北	tao bo
 逃瘧	tao nve
 逆水行舟	ni shui xing zhou
@@ -44296,8 +45241,11 @@ use_preset_vocabulary: true
 通天徹地	tong tian che di
 通宿	tong xiu
 通眉長爪	tong mei chang zhua
+通緝	tong ji
 通緝	tong qi
+通緝令	tong ji ling
 通緝令	tong qi ling
+通緝犯	tong ji fan
 通緝犯	tong qi fan
 通行	tong xing
 通行本	tong xing ben
@@ -44377,7 +45325,6 @@ use_preset_vocabulary: true
 運行機制	yun xing ji zhi
 運行速度	yun xing su du
 遍及	bian ji
-遍及	pian ji
 遍地	bian di
 遍地荒旱	bian di huang han
 遍地開花	bian di kai hua
@@ -44435,6 +45382,7 @@ use_preset_vocabulary: true
 遠行	yuan xing
 遣兵調將	qian bing diao jiang
 適孫	di sun
+遮不了	zhe bu liao
 遮天蓋地	zhe tian gai di
 遮沒	zhe mo
 遮藏	zhe cang
@@ -44460,6 +45408,7 @@ use_preset_vocabulary: true
 遺著	yi zhu
 遺行	yi xing
 遼朝	liao chao
+遼東白豕	liao dong bai shi
 遼東白豕	liao dong bo shi
 避地	bi di
 避暑勝地	bi shu sheng di
@@ -44481,22 +45430,33 @@ use_preset_vocabulary: true
 還元返本	huan yuan fan ben
 還券	huan quan
 還原	huan yuan
+還原作用	huan yuan zuo yong
 還原劑	huan yuan ji
 還原反應	huan yuan fan ying
+還原成	huan yuan cheng
+還原法	huan yuan fa
 還原焰	huan yuan yan
+還口	huan kou
 還嘴	huan zui
 還報	huan bao
 還嬰	huan ying
+還師	huan shi
 還席	huan xi
 還帳	huan zhang
+還得	hai dei
 還得快	huan de kuai
+還得起	huan de qi
 還忌	huan ji
 還性	huan xing
+還情	huan qing
 還惺	huan xing
+還我	huan wo
 還我河山	huan wo he shan
 還手	huan shou
 還擊	huan ji
 還政	huan zheng
+還政於民	huan zheng yu min
+還書	huan shu
 還有	hai you
 還有	huan you
 還有什麼	hai you shen me
@@ -44520,9 +45480,11 @@ use_preset_vocabulary: true
 還行	hai xing
 還言	huan yan
 還貸	huan dai
+還賬	huan zhang
 還辟	huan bi
 還都	huan du
 還鄉	huan xiang
+還鄉團	huan xiang tuan
 還錢	huan qian
 還陽	huan yang
 還願	huan yuan
@@ -44581,6 +45543,7 @@ use_preset_vocabulary: true
 邪呼	ye hu
 邪行	xie xing
 邪許	ye hu
+邱壑	qiu he
 邱壑	qiu huo
 邳縣	pei xian
 邳邳	pei pei
@@ -44589,6 +45552,7 @@ use_preset_vocabulary: true
 郃陽縣	ge yang xian
 郊禋	jiao yin
 郎伯	lang bo
+郎潛白髮	lang qian bai fa
 郎潛白髮	lang qian bo fa
 郝隆晒書	hao long shai shu
 郢都	ying du
@@ -44681,8 +45645,11 @@ use_preset_vocabulary: true
 配樂	pei yue
 配給	pei ji
 配給制度	pei ji zhi du
+配給卡	pei ji ka
 配給品	pei ji pin
 配給票	pei ji piao
+配給證	pei ji zheng
+配給量	pei ji liang
 配線系統接地	pei xian xi tong jie di
 酒地花天	jiu di hua tian
 酒渦	jiu wo
@@ -44739,7 +45706,7 @@ use_preset_vocabulary: true
 醇朴	chun pu
 醇醪	chun lao
 醋勁	cu jin
-醋打怎麼酸	cu da ze me suan
+醋打怎麼酸	cu da zen me suan
 醍醐	ti hu
 醍醐灌頂	ti hu guan ding
 醒世姻緣傳	xing shi yin yuan zhuan
@@ -44757,8 +45724,8 @@ use_preset_vocabulary: true
 醯人	xi ren
 醯胺類	xi an lei
 醯醬	xi jiang
-醯鷄	xi ji
-醯鷄甕裏	xi ji weng li
+醯雞	xi ji
+醯雞甕裏	xi ji weng li
 醱酵	po xiao
 醱酵乳	po xiao ru
 醺酣	xun han
@@ -44767,6 +45734,7 @@ use_preset_vocabulary: true
 采地	cai di
 采椽不斲	cai chuan bu zhuo
 采綠	cai lu
+采緝	cai ji
 采緝	cai qi
 采芑	cai qi
 采蘋	cai pin
@@ -44797,6 +45765,7 @@ use_preset_vocabulary: true
 重價	zhong jia
 重元素	zhong yuan su
 重光	chong guang
+重光累洽	chong guang lei qia
 重光累洽	chong guang lei xia
 重兵	zhong bing
 重典	zhong dian
@@ -44928,6 +45897,7 @@ use_preset_vocabulary: true
 重炮手	zhong pao shou
 重然諾	zhong ran nuo
 重熙	chong xi
+重熙累洽	chong xi lei qia
 重熙累洽	chong xi lei xia
 重版	chong ban
 重物	zhong wu
@@ -45023,6 +45993,7 @@ use_preset_vocabulary: true
 重趼	chong jian
 重蹈	chong dao
 重蹈覆轍	chong dao fu che
+重蹈覆轍	chong dao fu zhe
 重身	zhong shen
 重身子	zhong shen zi
 重軒	chong xuan
@@ -45137,6 +46108,7 @@ use_preset_vocabulary: true
 釘齒耙	ding chi pa
 針芥相投	zhen jie xiang tou
 針針見血	zhen zhen jian xie
+針針見血	zhen zhen jian xue
 釣遊舊地	diao you jiu di
 釵腳漏痕	chai jue lou hen
 鈀子拳	ba zi quan
@@ -45164,11 +46136,13 @@ use_preset_vocabulary: true
 鈿頭雲篦	dian tou yun bi
 鉅著	ju zhu
 鉉臺	xuan tai
+鉋冰	bao bing
 鉋凳	bao deng
 鉋刀	bao dao
 鉋削	bao xue
 鉋子	bao zi
 鉋工	bao gong
+鉋成	bao cheng
 鉋牀	bao chuang
 鉋花	bao hua
 鉋花水	bao hua shui
@@ -45181,7 +46155,9 @@ use_preset_vocabulary: true
 鉤摭	gou zhi
 鉤校	gou jiao
 鉤爪	gou zhao
+鉤爪	gou zhua
 鉤爪鋸牙	gou zhao ju ya
+鉤爪鋸牙	gou zhua ju ya
 鉤輈格磔	gou zhou ge zhe
 銀彈	yin dan
 銀揲子	yin she zi
@@ -45241,6 +46217,7 @@ use_preset_vocabulary: true
 鋪長	pu zhang
 鋸屑	ju xie
 鋸牙鉤爪	ju ya gou zhao
+鋸牙鉤爪	ju ya gou zhua
 鋼琴二重奏	gang qin er chong zou
 鋼胚	gang pei
 鋼鐵行業	gang tie hang ye
@@ -45259,6 +46236,7 @@ use_preset_vocabulary: true
 錫伯族	xi bo zu
 錫箔	xi bo
 錫箔紙	xi bo zhi
+錯不了	cuo bu liao
 錯彩鏤金	cuo cai lou jin
 錯繆	cuo miu
 錯置	cu zhi
@@ -45430,6 +46408,7 @@ use_preset_vocabulary: true
 長坂	chang ban
 長坂坡	chang ban po
 長城	chang cheng
+長堤	chang di
 長堤	chang ti
 長壽	chang shou
 長壽麪	chang shou mian
@@ -45459,8 +46438,8 @@ use_preset_vocabulary: true
 長尾巴	zhang wei ba
 長尾猴	chang wei hou
 長尾闊嘴鳥	chang wei kuo zui niao
+長尾雞	chang wei ji
 長尾鮫	chang wei jiao
-長尾鷄	chang wei ji
 長局	chang ju
 長居	chang ju
 長島	chang dao
@@ -45667,6 +46646,7 @@ use_preset_vocabulary: true
 長距離無線電話	chang ju li wu xian dian hua
 長跪	chang gui
 長路	chang lu
+長車	chang che
 長車	chang ju
 長輩	zhang bei
 長轂	chang gu
@@ -45749,10 +46729,13 @@ use_preset_vocabulary: true
 閉目塞聽	bi mu se ting
 閉蟄	bi zhi
 閉門塞竇	bi men se dou
+閉門造車	bi men zao che
 閉門造車	bi men zao ju
+開不了	kai bu liao
 開什麼	kai shen me
 開呵	kai he
 開堂歃血	kai tang sha xie
+開堂歃血	kai tang sha xue
 開天闢地	kai tian pi di
 開小差	kai xiao chai
 開差	kai chai
@@ -45827,6 +46810,7 @@ use_preset_vocabulary: true
 關山迢遞	guan shan tiao di
 關捩子	guan lie zi
 關東都督府	guan dong du du fu
+關白	guan bai
 關白	guan bo
 關稅率	guan shui lv
 關聘	guan pin
@@ -45848,11 +46832,14 @@ use_preset_vocabulary: true
 阨窮	e qiong
 防地	fang di
 防彈衣	fang dan yi
+防沙堤	fang sha di
 防沙堤	fang sha ti
+防波堤	fang bo di
 防波堤	fang bo ti
 防癌	fang ai
 防空飛彈	fang kong fei dan
 阻塞	zu se
+阻止不了	zu zhi bu liao
 阻隘	zu ai
 阽危	dian wei
 阿井	e jing
@@ -45896,6 +46883,7 @@ use_preset_vocabulary: true
 阿毗曇	a pi tian
 阿毗達磨	a pi da mo
 阿獃	a dai
+阿甘正傳	a gan zheng zhuan
 阿私	e si
 阿耨多羅	a nou duo luo
 阿膠	e jiao
@@ -45906,6 +46894,7 @@ use_preset_vocabulary: true
 阿諛	e yu
 阿諛取容	e yu qu rong
 阿諛奉承	e yu feng cheng
+阿諛苟合	e yu gou he
 阿諛趨奉	e yu qu feng
 阿諛逢迎	e yu feng ying
 阿諛順意	e yu shun yi
@@ -45933,6 +46922,7 @@ use_preset_vocabulary: true
 降伏	xiang fu
 降升調	jiang sheng diao
 降妖	xiang yao
+降官	xiang guan
 降將	xiang jiang
 降旗	jiang qi
 降旗	xiang qi
@@ -45941,6 +46931,7 @@ use_preset_vocabulary: true
 降服	xiang fu
 降表	xiang biao
 降調	jiang diao
+降賜	jiang ci
 降附	xiang fu
 降順	xiang shun
 降龍伏虎	xiang long fu hu
@@ -45966,7 +46957,10 @@ use_preset_vocabulary: true
 陰了信的炮𤍤	yin le xin de pao zhang
 陰地	yin di
 陰地植物	yin di zhi wu
+陰差	yin chai
 陰曹地府	yin cao di fu
+陰沈	yin chen
+陰沈沈	yin chen chen
 陰盛陽衰	yin sheng yang shuai
 陰調	yin diao
 陰識	yin zhi
@@ -45975,6 +46969,7 @@ use_preset_vocabulary: true
 陰重	yin zhong
 陰鏗	yin keng
 陰阜	yin fu
+陰陰沈沈	yin yin chen chen
 陰陽五行	yin yang wu xing
 陰陽祕書	yin yang mi shu
 陳伯之	chen bo zhi
@@ -45982,6 +46977,7 @@ use_preset_vocabulary: true
 陳慥	chen zao
 陳摶	chen tuan
 陳摶的兄弟	chen tuan de xiong di
+陳省身	chen xing shen
 陳腔濫調	chen qiang lan diao
 陳蕃	chen fan
 陳蕃一室	chen fan yi shi
@@ -45990,6 +46986,7 @@ use_preset_vocabulary: true
 陶塑	tao su
 陶猗	tao yi
 陶猗之富	tao yi zhi fu
+陶聲洋防癌基金會	tao sheng yang fang ai ji jin hui
 陶聲洋防癌基金會	tao sheng yang fang yan ji jin hui
 陶誕	yao dan
 陷之死地而後生	xian zhi si di er hou sheng
@@ -46113,6 +47110,7 @@ use_preset_vocabulary: true
 隨緣樂助	sui yuan le zhu
 隨行	sui xing
 隨行就市	sui hang jiu shi
+隨風搖曳	sui feng yao ye
 隨風搖曳	sui feng yao yi
 險地	xian di
 險塞	xian se
@@ -46125,11 +47123,13 @@ use_preset_vocabulary: true
 隱介藏形	yin jie cang xing
 隱慝	yin te
 隱括	yin gua
+隱括	yin kuo
 隱沒	yin mo
 隱睪症	yin gao zheng
 隱祕	yin mi
 隱藏	yin cang
 隱血	yin xie
+隱血	yin xue
 隱跡藏名	yin ji cang ming
 隴西行	long xi xing
 雀瞀	que mao
@@ -46186,7 +47186,26 @@ use_preset_vocabulary: true
 雜糅	za rou
 雜膾	za kuai
 雜著	za zhu
+雞尸牛從	ji shi niu cong
+雞尸牛從	ji shi niu zong
+雞棲鳳凰食	ji qi feng huang shi
+雞毛撢子	ji mao dan zi
+雞爪	ji zhao
+雞爪	ji zhua
+雞爪釘	ji zhao ding
+雞爪釘	ji zhua ding
+雞皮疙瘩	ji pi ge da
+雞瞀眼	ji mao yan
+雞肋	ji le
 雞肋	ji lei
+雞肋尊拳	ji le zun quan
+雞肫皮	ji zhun pi
+雞血石	ji xie shi
+雞血石	ji xue shi
+雞鶩	ji wu
+雞鶩爭食	ji wu zheng shi
+雞鹿塞	ji lu sai
+離不了	li bu liao
 離了靛缸	li le dian gang
 離地	li di
 離婁	li lou
@@ -46197,6 +47216,7 @@ use_preset_vocabulary: true
 離披	li pi
 離校	li xiao
 離轍	li che
+離轍	li zhe
 離逖	li ti
 離鄉避井	li xiang bei jing
 難償所願	nan chang suo yuan
@@ -46208,10 +47228,14 @@ use_preset_vocabulary: true
 雪佛蘭	xue fu lan
 雪地	xue di
 雪泥鴻爪	xue ni hong zhao
+雪泥鴻爪	xue ni hong zhua
+雪花遍地	xue hua bian di
 雪茄	xue jia
 雪虐風饕	xue nve feng tao
 雪霰	xue xian
 雲南黃馨	yun nan huang xin
+雲景	yun jing
+雲景	yun ying
 雲液	yun ye
 雲行雨施	yun xing yu shi
 雲譎波詭	yun jue bo gui
@@ -46221,6 +47245,7 @@ use_preset_vocabulary: true
 零稅率	ling shui lv
 雷厲風行	lei li feng xing
 雷射血管成形術	lei she xie guan cheng xing shu
+雷射血管成形術	lei she xue guan cheng xing shu
 雷神進行曲	lei shen jin xing qu
 雷轟電掣	lei hong dian che
 雷霆電雹	lei ting dian bao
@@ -46362,12 +47387,15 @@ use_preset_vocabulary: true
 靚仔	liang zai
 靚女	jing nv
 靚妝	jing zhuang
+靚妹	jing mei
 靚衣	jing yi
 靛油	dian you
 靛藍	dian lan
 靛青	dian qing
 靜脈血	jing mai xie
+靜脈血	jing mai xue
 靜脈血栓症	jing mai xie shuan zheng
+靜脈血栓症	jing mai xue shuan zheng
 靜謐	jing mi
 靜謐無聲	jing mi wu sheng
 非一狐之腋	fei yi hu zhi yi
@@ -46375,18 +47403,23 @@ use_preset_vocabulary: true
 非常重要	fei chang zhong yao
 非常重視	fei chang zhong shi
 非得	fei dei
+非得到	fei de dao
+非得到	fei dei dao
 非法行事	fei fa xing shi
 非法行爲	fei fa xing wei
 非洲出血熱	fei zhou chu xie re
+非洲出血熱	fei zhou chu xue re
 靠行	kao hang
 靡靡之樂	mi mi zhi yue
 面如噀血	mian ru xun xie
+面如噀血	mian ru xun xue
 面如重棗	mian ru zhong zao
 面嫩	mian nen
 面子上的差使	mian zi shang de chai shi
 面朝	mian chao
 面沒羅	mian mo luo
 面無血色	mian wu xie se
+面無血色	mian wu xue se
 面熟	mian shu
 面生不熟	mian sheng bu shu
 面的	mian di
@@ -46411,6 +47444,7 @@ use_preset_vocabulary: true
 靨鈿	ye dian
 靨靨	ye ye
 革舄	ge xi
+革車	ge che
 革車	ge ju
 靴掖	xue ye
 靴靿	xue yao
@@ -46537,8 +47571,11 @@ use_preset_vocabulary: true
 頭癬	tou xian
 頭皮屑	tou pi xie
 頭破血出	tou po xie chu
+頭破血出	tou po xue chu
 頭破血流	tou po xie liu
+頭破血流	tou po xue liu
 頭破血淋	tou po xie lin
+頭破血淋	tou po xue lin
 頭蓬眼瘇	tou peng yan zhong
 頭角崢嶸	tou jiao zheng rong
 頭角嶄然	tou jiao zhan ran
@@ -46550,6 +47587,7 @@ use_preset_vocabulary: true
 頮濯	hui zhuo
 頰嗛	jia qian
 頸血	jing xie
+頸血	jing xue
 頹圮	tui pi
 頻數	pin shuo
 頻率	pin lv
@@ -46576,6 +47614,7 @@ use_preset_vocabulary: true
 類木行星	lei mu xing xing
 顢裏顢頇	man li man han
 顢頇	man han
+顧不了	gu bu liao
 顧慮重重	gu lv chong chong
 顧盻	gu xi
 顧藉	gu jie
@@ -46593,6 +47632,7 @@ use_preset_vocabulary: true
 顯露原形	xian lu yuan xing
 顯露頭角	xian lu tou jiao
 顱蓋內出血	lu gai nei chu xie
+顱蓋內出血	lu gai nei chu xue
 風乾	feng gan
 風什	feng shi
 風伯	feng bo
@@ -46679,9 +47719,11 @@ use_preset_vocabulary: true
 飛遯離俗	fei dun li su
 飛鏃	fei zu
 飛雲掣電	fei yun che dian
+飛騎	fei ji
 飛魚飛彈	fei yu fei dan
 飛鳧	fei fu
 飛鴻雪爪	fei hong xue zhao
+飛鴻雪爪	fei hong xue zhua
 飛鵠	fei hu
 食不下咽	shi bu xia yan
 食不重味	shi bu chong wei
@@ -46770,6 +47812,7 @@ use_preset_vocabulary: true
 饞涎欲垂	chan xian yu chui
 饞涎欲滴	chan xian yu di
 首善之地	shou shan zhi di
+首從	shou cong
 首從	shou zong
 首都	shou du
 首都機場	shou du ji chang
@@ -46790,6 +47833,9 @@ use_preset_vocabulary: true
 馬乾	ma gan
 馬伯六	ma bo liu
 馬伯樂	ma bo le
+馬偕	ma jie
+馬偕紀念醫院	ma jie ji nian yi yuan
+馬偕醫院	ma jie yi yuan
 馬勺	ma shao
 馬厝卡舞曲	ma cuo ka wu qu
 馬圈	ma juan
@@ -46872,9 +47918,11 @@ use_preset_vocabulary: true
 騂騂	xing xing
 騎士	ji shi
 騎士	qi shi
+騎從	ji cong
 騎從	ji zong
 騎自行車	qi zi xing che
 騎行	qi xing
+騙不了	pian bu liao
 騫期	qian qi
 騫污	qian wu
 騫舉	qian ju
@@ -46884,6 +47932,7 @@ use_preset_vocabulary: true
 騰踔	teng zhuo
 騰躍	teng yue
 騰那	teng nuo
+騶從	zou cong
 騶從	zou zong
 騷屑	sao xie
 騾馱子	luo duo zi
@@ -46908,6 +47957,7 @@ use_preset_vocabulary: true
 驍驍	xiao xiao
 驕恣	jiao zi
 驗血	yan xie
+驗血	yan xue
 驚天動地	jing tian dong di
 驚天地	jing tian di
 驚蟄	jing zhe
@@ -46921,6 +47971,7 @@ use_preset_vocabulary: true
 驟雨狂風	zou yu kuang feng
 驢生戟角	lv sheng ji jiao
 驢生笄角	lv sheng ji jiao
+驩洽	huan qia
 驩洽	huan xia
 骨崖崖	gu yai yai
 骨殖	gu zhi
@@ -46928,6 +47979,7 @@ use_preset_vocabulary: true
 骨肉重逢	gu rou chong feng
 骨董行	gu dong hang
 骨血	gu xie
+骨血	gu xue
 骨都	gu du
 骨都都	gu du du
 骨顫肉驚	gu zhan rou jing
@@ -46969,6 +48021,7 @@ use_preset_vocabulary: true
 高度重視	gao du zhong shi
 高悝匿孤	gao kui ni gu
 高才碩學	gao cai shi xue
+高才碩學	gao cai shuo xue
 高效率	gao xiao lv
 高曾規矩	gao zeng gui ju
 高栖	gao xi
@@ -46985,7 +48038,9 @@ use_preset_vocabulary: true
 高義薄雲	gao yi bo yun
 高舉深藏	gao ju shen cang
 高血壓	gao xie ya
+高血壓	gao xue ya
 高血糖症	gao xie tang zheng
+高血糖症	gao xue tang zheng
 高行	gao xing
 高調照片	gao diao zhao pian
 高速增長	gao su zeng zhang
@@ -47019,6 +48074,7 @@ use_preset_vocabulary: true
 鬱壘	yu lv
 鬱燠	yu yu
 鬱血	yu xie
+鬱血	yu xue
 鬱鬱不樂	yu yu bu le
 鬻兒賣女	yu er mai nv
 鬻子	yu zi
@@ -47049,10 +48105,13 @@ use_preset_vocabulary: true
 魑魅	chi mei
 魑魅魍魎	chi mei wang liang
 魔媼	mo ao
+魔爪	mo zhao
+魔爪	mo zhua
 魚伯	yu bo
 魚拓	yu ta
 魚朝恩	yu chao en
 魚樂	yu le
+魚沈雁杳	yu chen yan yao
 魚潰鳥散	yu kui niao san
 魚藏劍	yu cang jian
 魚貫而行	yu guan er xing
@@ -47066,12 +48125,14 @@ use_preset_vocabulary: true
 魯酒薄而邯鄲圍	lu jiu bo er han dan wei
 魴魚赬尾	fang yu cheng wei
 鮒魚困涸轍	fu yu kun he che
+鮒魚困涸轍	fu yu kun he zhe
 鮚埼亭	jie qi ting
 鮭目	gui mu
 鮭菜	xie cai
 鮭魚	gui yu
 鮮嫩	xian nen
 鮮血	xian xie
+鮮血	xian xue
 鰈鶼	die jian
 鰓尾類	sai wei lei
 鰓葉	sai ye
@@ -47092,6 +48153,8 @@ use_preset_vocabulary: true
 鳥人	niao ren
 鳥卜	niao bu
 鳥散魚潰	niao san yu kui
+鳥爪	niao zhao
+鳥爪	niao zhua
 鳥獸行	niao shou xing
 鳥盡弓藏	niao jin gong cang
 鳥瞰	niao kan
@@ -47114,6 +48177,7 @@ use_preset_vocabulary: true
 鳳冠霞帔	feng guan xia pei
 鳳泊鸞飄	feng bo luan piao
 鳳爪	feng zhao
+鳳爪	feng zhua
 鳳舄	feng xi
 鳳還巢	feng huan chao
 鳳鳴朝陽	feng ming zhao yang
@@ -47149,6 +48213,7 @@ use_preset_vocabulary: true
 鴳雀	yan que
 鴻洞	hong tong
 鴻爪	hong zhao
+鴻爪	hong zhua
 鴻猷	hong you
 鴻都	hong du
 鴻鵠	hong hu
@@ -47171,11 +48236,12 @@ use_preset_vocabulary: true
 鵧鷑	ping li
 鵬摶	peng tuan
 鵰心雁爪	diao xin yan zhao
+鵰心雁爪	diao xin yan zhua
 鵷行	yuan hang
 鵷雛	yuan chu
 鵷鷺	yuan lu
 鶗鴃	ti jue
-鶤鷄	yun ji
+鶤雞	yun ji
 鶩舲	wu ling
 鶯飛草長	ying fei cao zhang
 鶯鶯傳	ying ying zhuan
@@ -47194,19 +48260,6 @@ use_preset_vocabulary: true
 鶼鰈	jian die
 鶼鰈情深	jian die qing shen
 鶼鶼	jian jian
-鷄尸牛從	ji shi niu zong
-鷄棲鳳凰食	ji qi feng huang shi
-鷄毛撢子	ji mao dan zi
-鷄爪釘	ji zhao ding
-鷄皮疙瘩	ji pi ge da
-鷄瞀眼	ji mao yan
-鷄肋	ji le
-鷄肋尊拳	ji le zun quan
-鷄肫皮	ji zhun pi
-鷄血石	ji xie shi
-鷄鶩	ji wu
-鷄鶩爭食	ji wu zheng shi
-鷄鹿塞	ji lu sai
 鷇音	kou yin
 鷇食	kou shi
 鷗波	o bo
@@ -47216,7 +48269,9 @@ use_preset_vocabulary: true
 鷸蚌相爭	yu bang xiang zheng
 鷹式飛彈	ying shi fei dan
 鷹爪	ying zhao
+鷹爪	ying zhua
 鷹爪功	ying zhao gong
+鷹爪功	ying zhua gong
 鷹覷鶻望	ying qu hu wang
 鷺翿	lu dao
 鸂鶒	xi chi
@@ -47232,7 +48287,7 @@ use_preset_vocabulary: true
 鹼地	jian di
 鹼酐	jian gan
 鹽分地帶	yan fen di dai
-鹽打怎麼鹹	yan da ze me xian
+鹽打怎麼鹹	yan da zen me xian
 鹽筴	yan ce
 鹽藏品	yan cang pin
 鹽鹼地	yan jian di
@@ -47243,7 +48298,9 @@ use_preset_vocabulary: true
 鹿角	lu jiao
 鹿角畫	lu jiao hua
 鹿角菜	lu jiao cai
+鹿車	lu che
 鹿車	lu ju
+鹿車共挽	lu che gong wan
 鹿車共挽	lu ju gong wan
 麃麃	biao biao
 麇聚	qun ju
@@ -47280,6 +48337,7 @@ use_preset_vocabulary: true
 麻沸	ma fei
 麻沸散	ma fei san
 麻痺	ma bi
+麻痺不了	ma bi bu liao
 麻痺不仁	ma bi bu ren
 麻痺大意	ma bi da yi
 麻秸	ma jie
@@ -47340,12 +48398,15 @@ use_preset_vocabulary: true
 黏着	nian zhuo
 黏着劑	nian zhuo ji
 黏着力	nian zhuo li
+黏着性	nian zhuo xing
 黑人音樂	hei ren yin yue
 黑天摸地	hei tian mo di
 黑婁婁	hei lou lou
 黑暗大陸	hei an da lu
+黑沈沈	hei chen chen
 黑白混淆	hei bai hun yao
 黑魆魆	hei xu xu
+默省	mo xing
 默識	mo zhi
 黜免	chu mian
 黜官	chu guan
@@ -47394,10 +48455,12 @@ use_preset_vocabulary: true
 鼻偃齒露	bi yan chi lu
 鼻凹	bi ao
 鼻凹糖	bi ao tang
+鼻咽癌	bi yan ai
 鼻咽癌	bi yan yan
 鼻咽道	bi yan dao
 鼻塞聲重	bi se sheng zhong
 鼻血	bi xie
+鼻血	bi xue
 鼻衄	bi nv
 鼽嚏	qiu ti
 鼾齁	han hou
@@ -47445,8 +48508,11 @@ use_preset_vocabulary: true
 龍涎香	long xian xiang
 龍無雲而不行	long wu yun er bu xing
 龍爪	long zhao
+龍爪	long zhua
 龍爪書	long zhao shu
+龍爪書	long zhua shu
 龍爪槐	long zhao huai
+龍爪槐	long zhua huai
 龍眼乾	long yan gan
 龍藏	long zang
 龍藏寺碑	long zang si bei
