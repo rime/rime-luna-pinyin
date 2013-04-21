@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin
   name: 朙月拼音
-  version: "0.14"
+  version: "0.15"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -44,6 +44,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@custom_phrase
     - r10n_translator
     - reverse_lookup_translator
   filters:
@@ -74,6 +75,11 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: tabledb
 
 reverse_lookup:
   dictionary: cangjie5
