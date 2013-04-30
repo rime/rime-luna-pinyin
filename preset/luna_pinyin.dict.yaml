@@ -29927,6 +29927,7 @@ use_preset_vocabulary: true
 喋囁	die nie
 喎斜	kuai xie
 喑嗚叱吒	yin wu chi zha
+喑噁叱吒	yin wu chi zha
 喑惡叱吒	yin wu chi zha
 喔呀	o ya
 喔咿	wo yi
@@ -33208,7 +33209,9 @@ use_preset_vocabulary: true
 恣意妄爲	zi yi wang wei
 恣意妄行	zi yi wang xing
 恣睢	ci sui
+恣睢	zi sui
 恣睢無忌	ci sui wu ji
+恣睢無忌	zi sui wu ji
 恣縱	zi zong
 恣肆	zi si
 恣肆無忌	zi si wu ji
@@ -35455,14 +35458,17 @@ use_preset_vocabulary: true
 暮虢朝虞	mu guo zhao yu
 暮雨朝雲	mu yu zhao yun
 暴厲恣睢	bao li ci sui
+暴厲恣睢	bao li zi sui
 暴室	pu shi
 暴屍於市	pu shi yu shi
 暴師	pu shi
 暴恣	bao ci
+暴恣	bao zi
 暴懆	bao cao
 暴戾	bao li
 暴戾之氣	bao li zhi qi
 暴戾恣睢	bao li ci sui
+暴戾恣睢	bao li zi sui
 暴揚	pu yang
 暴桑	pu sang
 暴殄	bao tian
@@ -36962,7 +36968,9 @@ use_preset_vocabulary: true
 毾㲪	ta deng
 毿毿	san san
 氂牛	li niu
+氂牛	mao niu
 氂纓	li ying
+氂纓	mao ying
 氍毹	qu shu
 氍毹	qu yu
 氐羌	di qiang
