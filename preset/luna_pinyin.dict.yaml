@@ -2725,8 +2725,8 @@ use_preset_vocabulary: true
 叵	ju	0%
 叵	po	100%
 叵	pou	0%
-叶	xie	0.05%
-叶	ye	99.95%
+叶	xie
+叶	ye	0.5%
 号	hao
 司	si
 叹	tan	100%
@@ -8770,7 +8770,7 @@ use_preset_vocabulary: true
 暩	ji
 暪	men
 暫	zan
-暫	zhan
+暫	zhan	0%
 暬	nie
 暬	xie
 暭	gao
@@ -14671,8 +14671,8 @@ use_preset_vocabulary: true
 秉	bing
 秊	nian
 秋	qiu
-种	chong	0.06%
-种	zhong	99.94%
+种	chong
+种	zhong	0.5%
 秎	fen
 秏	hao
 秐	yun
@@ -35354,7 +35354,7 @@ use_preset_vocabulary: true
 是長是短	shi chang shi duan
 是非之地	shi fei zhi di
 昳麗	yi li
-時來暫去	shi lai zhan qu
+時來暫去	shi lai zan qu
 時光似箭	shi guang si jian
 時和歲稔	shi he sui ren
 時曾	shi ceng
@@ -35436,19 +35436,19 @@ use_preset_vocabulary: true
 暢洽	chang xia
 暢行	chang xing
 暢行無阻	chang xing wu zu
-暫且	zhan qie
-暫且擱下	zhan qie ge xia
-暫停	zhan ting
-暫別	zhan bie
-暫勞永逸	zhan lao yong yi
-暫星	zhan xing
-暫時	zhan shi
-暫染髮慕絲	zhan ran fa mu si
-暫止	zhan zhi
-暫緩	zhan huan
+暫且	zan qie
+暫且擱下	zan qie ge xia
+暫停	zan ting
+暫別	zan bie
+暫勞永逸	zan lao yong yi
+暫星	zan xing
+暫時	zan shi
+暫染髮慕絲	zan ran fa mu si
+暫止	zan zhi
+暫緩	zan huan
 暫行規定	zan xing gui ding
 暫行辦法	zan xing ban fa
-暫音	zhan yin
+暫音	zan yin
 暮去朝來	mu qu zhao lai
 暮四朝三	mu si zhao san
 暮想朝思	mu xiang zhao si
@@ -35690,7 +35690,7 @@ use_preset_vocabulary: true
 有的放矢	you di fang shi
 有着落	you zhuo luo
 有給職	you ji zhi
-有線電視暫行條例	you xian dian shi zhan xing tiao li
+有線電視暫行條例	you xian dian shi zan xing tiao li
 有行無市	you hang wu shi
 有誰知道	you shui zhi dao
 有賺頭	you zhuan tou
@@ -37596,7 +37596,7 @@ use_preset_vocabulary: true
 浪漫樂派	lang man yue pai
 浪濤澎湃	lang tao peng pai
 浪蕩乾坤	lang dang qian kun
-浮來暫去	fu lai zhan qu
+浮來暫去	fu lai zan qu
 浮光掠影	fu guang lve ying
 浮動匯率	fu dong hui lv
 浮厝	fu cuo
@@ -39910,7 +39910,7 @@ use_preset_vocabulary: true
 矩矱繩尺	ju huo sheng chi
 短不了	duan bu liao
 短嘆長吁	duan tan chang xu
-短暫	duan zhan
+短暫	duan zan
 短絀	duan chu
 短行	duan xing
 短見薄識	duan jian bo shi
