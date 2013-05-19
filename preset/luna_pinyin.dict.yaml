@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.04.05"
+version: "2013.05.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -37719,10 +37719,6 @@ use_preset_vocabulary: true
 涸鱗濡沫	he lin ru mo
 涼血	liang xie
 涼血	liang xue
-淆亂	yao luan
-淆惑	yao huo
-淆紊	yao wen
-淆雜	yao za
 淈泥	gu ni
 淋巴液	lin ba ye
 淌海水似的	tang hai shui si de
@@ -37796,11 +37792,6 @@ use_preset_vocabulary: true
 混嚼舌根	hun jiao she gen
 混夷	kun yi
 混攪	hun jiao
-混淆	hun yao
-混淆不清	hun yao bu qing
-混淆是非	hun yao shi fei
-混淆視聽	hun yao shi ting
-混淆黑白	hun yao hei bai
 混混	gun gun
 混混	hun hun
 混血	hun xie
@@ -38817,7 +38808,6 @@ use_preset_vocabulary: true
 玉液瓊漿	yu yi qiong jiang
 玉爪	yu zhao
 玉爪	yu zhua
-玉石混淆	yu shi hun yao
 玉粳	yu geng
 玉纖	yu xian
 玉色	yu se
@@ -41817,7 +41807,6 @@ use_preset_vocabulary: true
 良弓藏	liang gong cang
 良田美地	liang tian mei di
 良禽擇木而棲	liang qin ze mu er qi
-良莠淆雜	liang you yao za
 良賈深藏若虛	liang gu shen cang ruo xu
 良醞	liang yun
 良醞可戀	liang yun ke lian
@@ -48412,7 +48401,6 @@ use_preset_vocabulary: true
 黑婁婁	hei lou lou
 黑暗大陸	hei an da lu
 黑沈沈	hei chen chen
-黑白混淆	hei bai hun yao
 黑魆魆	hei xu xu
 默省	mo xing
 默識	mo zhi
