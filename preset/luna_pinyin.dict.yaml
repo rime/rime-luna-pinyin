@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.05.19"
+version: "2013.06.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10127,6 +10127,7 @@ use_preset_vocabulary: true
 欯	xi
 欰	xu
 欱	xia
+欱	he
 欲	yu
 欳	kuai
 欳	yu
@@ -28723,7 +28724,6 @@ use_preset_vocabulary: true
 劈拉着腿坐崖頭	pi la zhe tui zuo yai tou
 劈着	pi zhao
 劉長卿	liu zhang qing
-劊子手	kuai zi shou
 劌目鉥心	gui mu shu xin
 劍合珠還	jian he zhu huan
 劍頭一吷	jian tou yi xue
