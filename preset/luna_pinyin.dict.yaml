@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.06.20"
+version: "2013.06.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19791,6 +19791,7 @@ use_preset_vocabulary: true
 試	shi
 詧	cha
 詨	jiao
+詨	xiao
 詩	shi
 詪	hen
 詫	cha
