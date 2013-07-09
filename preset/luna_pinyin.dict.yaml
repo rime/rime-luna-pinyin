@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.06.27"
+version: "2013.07.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19085,8 +19085,8 @@ use_preset_vocabulary: true
 蠾	zhu
 蠿	zha
 蠿	zhuo
-血	xie	4.91%
-血	xue	95.09%
+血	xie	5.91%
+血	xue	94.09%
 衁	huang
 衂	niu
 衂	nv
@@ -27273,8 +27273,6 @@ use_preset_vocabulary: true
 人地生疏	ren di sheng shu
 人地相宜	ren di xiang yi
 人工繁殖	ren gong fan zhi
-人工血液	ren gong xie ye
-人工血液	ren gong xue ye
 人工養殖	ren gong yang zhi
 人心似鐵	ren xin si tie
 人怕落囤	ren pa luo dun
@@ -42758,237 +42756,15 @@ use_preset_vocabulary: true
 血不歸經	xie bu gui jing
 血不歸經	xue bu gui jing
 血仇	xue chou
-血債	xie zhai
-血債	xue zhai
 血債血還	xie zhai xie huan
 血債血還	xue zhai xue huan
-血光之災	xie guang zhi zai
-血光之災	xue guang zhi zai
-血刃	xie ren
-血刃	xue ren
-血化爲碧	xie hua wei bi
-血化爲碧	xue hua wei bi
-血印	xie yin
-血印	xue yin
 血參	xie shen
 血參	xue shen
-血友病	xie you bing
-血友病	xue you bing
-血口噴人	xie kou pen ren
-血口噴人	xue kou pen ren
-血口子	xie kou zi
-血口子	xue kou zi
-血吸蟲	xie xi chong
-血吸蟲	xue xi chong
-血吸蟲病	xie xi chong bing
-血吸蟲病	xue xi chong bing
-血嗣	xie si
-血嗣	xue si
-血型	xie xing
-血型	xue xing
-血塊	xie kuai
-血塊	xue kuai
-血壓	xie ya
-血壓	xue ya
-血壓計	xie ya ji
-血壓計	xue ya ji
-血小板	xie xiao ban
-血小板	xue xiao ban
 血尿	xie niao
 血尿	xue niao
-血崩	xie beng
-血崩	xue beng
-血庫	xie ku
-血庫	xue ku
-血循環	xie xun huan
-血循環	xue xun huan
-血心	xie xin
-血心	xue xin
-血忱	xie chen
-血忱	xue chen
-血性	xie xing
-血性	xue xing
-血戰	xie zhan
-血戰	xue zhan
-血晶	xie jing
-血晶	xue jing
-血書	xie shu
-血書	xue shu
-血本	xie ben
-血本	xue ben
-血本無歸	xie ben wu gui
-血本無歸	xue ben wu gui
-血栓	xie shuan
-血栓	xue shuan
-血案	xie an
-血案	xue an
-血毛	xie mao
-血毛	xue mao
-血氣	xie qi
-血氣	xue qi
-血氣之勇	xie qi zhi yong
-血氣之勇	xue qi zhi yong
-血氣方剛	xie qi fang gang
-血氣方剛	xue qi fang gang
-血氣方壯	xie qi fang zhuang
-血氣方壯	xue qi fang zhuang
-血氣方盛	xie qi fang sheng
-血氣方盛	xue qi fang sheng
-血水	xie shui
-血水	xue shui
-血汗	xie han
-血汗	xue han
-血汗錢	xie han qian
-血汗錢	xue han qian
-血污	xie wu
-血污	xue wu
-血污池	xie wu chi
-血污池	xue wu chi
-血泊	xie bo
-血泊	xue bo
-血洗	xie xi
-血洗	xue xi
-血流如注	xie liu ru zhu
-血流如注	xue liu ru zhu
-血流成河	xie liu cheng he
-血流成河	xue liu cheng he
-血流成渠	xie liu cheng qu
-血流成渠	xue liu cheng qu
-血流漂杵	xie liu piao chu
-血流漂杵	xue liu piao chu
-血海	xie hai
-血海	xue hai
-血海屍山	xie hai shi shan
-血海屍山	xue hai shi shan
-血海深仇	xie hai shen chou
-血海深仇	xue hai shen chou
-血液	xie ye
-血液	xue ye
-血液凝固	xie ye ning gu
-血液凝固	xue ye ning gu
-血液循環	xie ye xun huan
-血液循環	xue ye xun huan
-血液檢驗	xie ye jian yan
-血液檢驗	xue ye jian yan
-血淋淋	xie lin lin
-血淋淋	xue lin lin
-血淚	xie lei
-血淚	xue lei
-血清	xie qing
-血清	xue qing
-血清病	xie qing bing
-血清病	xue qing bing
-血清療法	xie qing liao fa
-血清療法	xue qing liao fa
-血滴子	xie di zi
-血滴子	xue di zi
-血漬	xie zi
-血漬	xue zi
-血漿	xie jiang
-血漿	xue jiang
-血漿蛋白	xie jiang dan bai
-血漿蛋白	xue jiang dan bai
-血濃於水	xie nong yu shui
-血濃於水	xue nong yu shui
-血瀝瀝	xie li li
-血瀝瀝	xue li li
-血球	xie qiu
-血球	xue qiu
-血痂	xie jia
-血痂	xue jia
 血癌	xie ai
 血癌	xie yan
 血癌	xue ai
-血癌	xue yan
-血盆	xie pen
-血盆	xue pen
-血盆大口	xie pen da kou
-血盆大口	xue pen da kou
-血盆經	xie pen jing
-血盆經	xue pen jing
-血祭	xie ji
-血祭	xue ji
-血管	xie guan
-血管	xue guan
-血管操	xie guan cao
-血管操	xue guan cao
-血管瘤	xie guan liu
-血管瘤	xue guan liu
-血管硬化	xie guan ying hua
-血管硬化	xue guan ying hua
-血糖	xie tang
-血糖	xue tang
-血糞	xie fen
-血糞	xue fen
-血紅	xie hong
-血紅	xue hong
-血紅素	xie hong su
-血紅素	xue hong su
-血紅蛋白	xie hong dan bai
-血紅蛋白	xue hong dan bai
-血統	xie tong
-血統	xue tong
-血絲	xie si
-血絲	xue si
-血緣	xie yuan
-血緣	xue yuan
-血肉	xie rou
-血肉	xue rou
-血肉之軀	xie rou zhi qu
-血肉之軀	xue rou zhi qu
-血肉模糊	xie rou mo hu
-血肉模糊	xue rou mo hu
-血肉橫飛	xie rou heng fei
-血肉橫飛	xue rou heng fei
-血肉淋漓	xie rou lin li
-血肉淋漓	xue rou lin li
-血肉相連	xie rou xiang lian
-血肉相連	xue rou xiang lian
-血脂升高症	xie zhi sheng gao zheng
-血脂升高症	xue zhi sheng gao zheng
-血脂肪	xie zhi fang
-血脂肪	xue zhi fang
-血脈	xie mai
-血脈	xue mai
-血脈賁張	xie mai ben zhang
-血脈賁張	xue mai ben zhang
-血腥	xie xing
-血腥	xue xing
-血色	xie se
-血色	xue se
-血色素	xue se su
-血花	xie hua
-血花	xue hua
-血荒	xie huang
-血荒	xue huang
-血虛	xie xu
-血虛	xue xu
-血虧	xie kui
-血虧	xue kui
-血衚衕	xie hu tong
-血衚衕	xue hu tong
-血衣	xie yi
-血衣	xue yi
-血親	xie qin
-血親	xue qin
-血親家族	xie qin jia zu
-血親家族	xue qin jia zu
-血誠	xie cheng
-血誠	xue cheng
-血跡	xie ji
-血跡	xue ji
-血跡斑斑	xie ji ban ban
-血跡斑斑	xue ji ban ban
-血路	xie lu
-血路	xue lu
-血量	xie liang
-血量	xue liang
-血雨腥風	xie yu xing feng
-血雨腥風	xue yu xing feng
-血食	xie shi
-血食	xue shi
-血餘	xie yu
-血餘	xue yu
 衆口難調	zhong kou nan tiao
 衆所熟知	zhong suo shu zhi
 衆毛攢裘	zhong mao cuan qiu
