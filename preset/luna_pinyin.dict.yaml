@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.08.08"
+version: "2013.08.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -42137,6 +42137,7 @@ use_preset_vocabulary: true
 落褒貶	lao bao bian
 落話	la hua
 落跑	lao pao
+落魄	luo po
 落魄	luo tuo
 落魄不羈	luo tuo bu ji
 葉一茜	ye yi qian
