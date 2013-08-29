@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.08.16"
+version: "2013.08.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -22320,6 +22320,7 @@ use_preset_vocabulary: true
 銏	shan
 銐	wu
 銑	xian
+銑	xi
 銒	jian
 銒	xing
 銒	yan
@@ -45939,7 +45940,6 @@ use_preset_vocabulary: true
 銅臭味	tong xiu wei
 銅鈸	tong ba
 銍艾	zhi yi
-銑削	xian xue
 銖兩悉稱	zhu liang xi chen
 銖兩悉稱	zhu liang xi cheng
 銖銖校量	zhu zhu jiao liang
