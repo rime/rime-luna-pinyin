@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.08.29"
+version: "2013.09.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -35860,7 +35860,6 @@ use_preset_vocabulary: true
 木木樗樗	mu mu shu shu
 木楂	mu cha
 木樨	mu xi
-木瓜酵素	mu gua xiao su
 木禺	mu ou
 木管樂器	mu guan yue qi
 木芍藥	mu shao yao
@@ -39326,9 +39325,6 @@ use_preset_vocabulary: true
 發諢子	fa hun zi
 發達地區	fa da di qu
 發還	fa huan
-發酵	fa xiao
-發酵乳	fa xiao ru
-發酵乳酸	fa xiao ru suan
 發隱擿伏	fa yin ti fu
 發露	fa lu
 發顫	fa zhan
@@ -45447,10 +45443,6 @@ use_preset_vocabulary: true
 酪酥	luo su
 酪酸	luo suan
 酬酢	chou zuo
-酵母	xiao mu
-酵母菌	xiao mu jun
-酵素	xiao su
-酵素毒	xiao su du
 酷似	ku si
 酸凝酪	suan ning luo
 酸愴	suan chuang
@@ -45479,8 +45471,6 @@ use_preset_vocabulary: true
 醯醬	xi jiang
 醯雞	xi ji
 醯雞甕裏	xi ji weng li
-醱酵	po xiao
-醱酵乳	po xiao ru
 醺酣	xun han
 釁隙	xin xi
 采光剖璞	cai guang pou pu
