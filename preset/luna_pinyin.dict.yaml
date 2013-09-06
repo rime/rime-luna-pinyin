@@ -26893,7 +26893,9 @@ use_preset_vocabulary: true
 久長	jiu chang
 之地	zhi di
 之樂	zhi le
+之死靡他	zhi si mi ta
 之死靡他	zhi si mi tuo
+之死靡它	zhi si mi ta
 之死靡它	zhi si mi tuo
 之行	zhi xing
 之都	zhi du
@@ -31663,8 +31665,10 @@ use_preset_vocabulary: true
 孿生	luan sheng
 孿生兄弟	luan sheng xiong di
 孿生子	luan sheng zi
-它們	tuo men
+它們	ta men
+它們	tuo men	0%
 它囂	tuo xiao
+它山之石	ta shan zhi shi
 它山之石	tuo shan zhi shi
 宅兆	zhai zhao
 宅兆	zhe zhao
