@@ -257,6 +257,7 @@ use_preset_vocabulary: true
 㣔	cheng
 㣔	zheng
 㣺	xin
+㤅	ai
 㤈	qin
 㤉	qia
 㤋	fen
@@ -5165,8 +5166,8 @@ use_preset_vocabulary: true
 孿	luan
 孿	lvan
 宀	mian
-宁	ning
-宁	zhu
+宁	ning	0%
+宁	zhu	100%
 宂	rong
 它	ta	100%
 它	tuo	0%
@@ -31662,7 +31663,6 @@ use_preset_vocabulary: true
 孿生	luan sheng
 孿生兄弟	luan sheng xiong di
 孿生子	luan sheng zi
-宁立	zhu li
 它們	tuo men
 它囂	tuo xiao
 它山之石	tuo shan zhi shi
@@ -39989,6 +39989,7 @@ use_preset_vocabulary: true
 磅薄	pang bo
 磈磊	kui lei
 磊砢	lei luo
+磑磑	ai ai
 磔刑	zhe xing
 磔磔	zhe zhe
 磕磕撞撞	ke ke zhuang zhuang
