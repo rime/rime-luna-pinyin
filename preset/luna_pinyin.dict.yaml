@@ -33140,7 +33140,6 @@ use_preset_vocabulary: true
 急行軍	ji xing jun
 急驚風撞着慢郎中	ji jing feng zhuang zhao man lang zhong
 急驚風遇着慢郎中	ji jing feng yu zhao man lang zhong
-急驟	ji zou
 性地	xing di
 性知識	xing zhi shi
 性行	xing xing
@@ -35439,6 +35438,7 @@ use_preset_vocabulary: true
 暴露出	bao lu chu
 暴露狂	pu lu kuang
 暴面	pu mian
+暴風驟雨	bao feng zhou yu
 暴風驟雨	bao feng zou yu
 暴骨	pu gu
 暴骨原野	pu gu yuan ye
@@ -36752,7 +36752,6 @@ use_preset_vocabulary: true
 步調	bu diao
 步飛煙傳	bu fei yan zhuan
 步騎	bu ji
-步驟	bu zou
 武城弦歌	wu cheng xian ge
 武弁	wu bian
 武林外傳	wu lin wai zhuan
@@ -37082,7 +37081,6 @@ use_preset_vocabulary: true
 決堤	jue di
 決堤	jue ti
 決癰潰疽	jue yong kui ju
-決驟	jue zou
 汽車租賃	qi che zu lin
 汽車行業	qi che hang ye
 汽輾	qi nian
@@ -38570,7 +38568,6 @@ use_preset_vocabulary: true
 狂且	kuang ju
 狂嗥	kuang hao
 狂恣	kuang zi
-狂風驟雨	kuang feng zou yu
 狄斯奈樂園	di si nai le yuan
 狄斯耐樂園	di si nai le yuan
 狌狌	xing xing
@@ -39200,7 +39197,6 @@ use_preset_vocabulary: true
 疾雷不及塞耳	ji lei bu ji se er
 疾風勁草	ji feng jing cao
 疾風知勁草	ji feng zhi jing cao
-疾風驟雨	ji feng zou yu
 痀僂	ju lou
 痀瘻	ju lv
 痄腮	zha sai
@@ -47341,7 +47337,6 @@ use_preset_vocabulary: true
 風什	feng shi
 風伯	feng bo
 風伯雨師	feng bo yu shi
-風急雨驟	feng ji yu zou
 風掣雷行	feng che lei xing
 風檐寸晷	feng yan cun gui
 風波平地	feng bo ping di
@@ -47374,7 +47369,6 @@ use_preset_vocabulary: true
 風餐水棲	feng can shui qi
 風餐雨宿	feng can yu su
 風餐露宿	feng can lu su
-風馳雨驟	feng chi yu zou
 風馳電掣	feng chi dian che
 風魔九伯	feng mo jiu bo
 颩抹	diu mo
@@ -47389,7 +47383,6 @@ use_preset_vocabulary: true
 飄泊	piao bo
 飄畦	piao xi
 飄薄	piao bo
-飄風驟雨	piao feng zou yu
 飄香屑	piao xiang xie
 飛也似的	fei ye si de
 飛地	fei di
@@ -47582,7 +47575,6 @@ use_preset_vocabulary: true
 馳傳	chi zhuan
 馳檄	chi xi
 馳騁	chi cheng
-馳驟	chi zou
 馴行	xun xing
 駁犖	bo luo
 駁詰	bo jie
@@ -47667,12 +47659,8 @@ use_preset_vocabulary: true
 驚蟄	jing zhe
 驚覺	jing jue
 驚諕	jing xia
-驟然	zou ran
-驟變	zou bian
-驟跌	zou die
+驟降	zhou jiang
 驟降	zou jiang
-驟雨	zou yu
-驟雨狂風	zou yu kuang feng
 驢生戟角	lv sheng ji jiao
 驢生笄角	lv sheng ji jiao
 驩洽	huan qia
@@ -48182,7 +48170,6 @@ use_preset_vocabulary: true
 齊肅	zhai su
 齊莊	zhai zhuang
 齊衰	zi cui
-齊驅並驟	qi qu bing zou
 齋宿	zhai su
 齋長	zhai zhang
 齍盛	zi cheng
