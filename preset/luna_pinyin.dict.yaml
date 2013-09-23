@@ -2918,8 +2918,8 @@ use_preset_vocabulary: true
 命	ming
 呾	da
 呿	qu
-咀	ju	17.95%
-咀	zu	82.05%
+咀	ju	94%
+咀	zui	6%
 咁	gan
 咁	qian
 咂	za
@@ -27718,6 +27718,8 @@ use_preset_vocabulary: true
 便宜話	pian yi hua
 便宜貨	pian yi huo
 便把令來行	bian ba ling lai xing
+便攜	bian xie
+便攜式	bian xie shi
 便液	bian ye
 便溺	bian niao
 便益不失當家	pian yi bu shi dang jia
@@ -28478,7 +28480,6 @@ use_preset_vocabulary: true
 分剖	fen pou
 分天之仇	fen tian zhi chou
 分娩	fen mian
-分攜	fen xi
 分星擘兩	fen xing bo liang
 分枝	fen qi
 分枝	fen zhi
@@ -33139,7 +33140,6 @@ use_preset_vocabulary: true
 急行軍	ji xing jun
 急驚風撞着慢郎中	ji jing feng zhuang zhao man lang zhong
 急驚風遇着慢郎中	ji jing feng yu zhao man lang zhong
-急驟	ji zou
 性地	xing di
 性知識	xing zhi shi
 性行	xing xing
@@ -33647,7 +33647,6 @@ use_preset_vocabulary: true
 手寫辨似	shou xie bian si
 手心手背都是肉	shou xin shou bei dou shi rou
 手扒雞	shou pa ji
-手攜手	shou xi shou
 手榜	shou bang
 手榴彈	shou liu dan
 手癬	shou xian
@@ -33812,7 +33811,6 @@ use_preset_vocabulary: true
 扳談	pan tan
 扶掖	fu ye
 扶正黜邪	fu zheng chu xie
-扶老攜幼	fu lao xi you
 批削	pi xue
 批抹	pi mo
 批行	pi xing
@@ -34478,7 +34476,6 @@ use_preset_vocabulary: true
 提掇	ti duo
 提掖	ti ye
 提撕	ti xi
-提攜	ti xi
 提溜	di liu
 提溜着心	di liu zhe xin
 提省	ti xing
@@ -34514,8 +34511,6 @@ use_preset_vocabulary: true
 握拳透爪	wo quan tou zhao
 握拳透爪	wo quan tou zhua
 握槧懷鉛	wo qian huai qian
-握雨攜雲	wo yu xi yun
-握雲攜雨	wo yun xi yu
 握髮吐哺	wo fa tu bu
 揣度	chuai duo
 揩乾	kai gan
@@ -34880,26 +34875,7 @@ use_preset_vocabulary: true
 攙和	chan huo
 攙行奪市	chan hang duo shi
 攛掇	cuan duo
-攜家帶眷	xi jia dai juan
-攜帶	xi dai
-攜帶式衛星通信系統	xi dai shi wei xing tong xin xi tong
-攜幼扶老	xi you fu lao
-攜手	xi shou
-攜手合作	xi shou he zuo
-攜手接武	xi shou jie wu
-攜扶	xi fu
-攜持	xi chi
-攜挾帶	xi jia dai
-攜男抱女	xi nan bao nv
-攜男挈女	xi nan qie nv
-攜眷	xi juan
-攜老扶幼	xi lao fu you
-攜老扶弱	xi lao fu ruo
-攜老挈幼	xi lao qie you
-攜貳	xi er
-攜離	xi li
-攜雲挈雨	xi yun qie yu
-攜雲握雨	xi yun wo yu
+攜挾帶	xie jia dai
 攝大乘論	she da sheng lun
 攝行	she xing
 攢三聚五	cuan san ju wu
@@ -35342,7 +35318,6 @@ use_preset_vocabulary: true
 是長是短	shi chang shi duan
 是非之地	shi fei zhi di
 昳麗	yi li
-時來暫去	shi lai zan qu
 時光似箭	shi guang si jian
 時和歲稔	shi he sui ren
 時曾	shi ceng
@@ -35424,19 +35399,6 @@ use_preset_vocabulary: true
 暢洽	chang xia
 暢行	chang xing
 暢行無阻	chang xing wu zu
-暫且	zan qie
-暫且擱下	zan qie ge xia
-暫停	zan ting
-暫別	zan bie
-暫勞永逸	zan lao yong yi
-暫星	zan xing
-暫時	zan shi
-暫染髮慕絲	zan ran fa mu si
-暫止	zan zhi
-暫緩	zan huan
-暫行規定	zan xing gui ding
-暫行辦法	zan xing ban fa
-暫音	zan yin
 暮去朝來	mu qu zhao lai
 暮四朝三	mu si zhao san
 暮想朝思	mu xiang zhao si
@@ -35476,6 +35438,7 @@ use_preset_vocabulary: true
 暴露出	bao lu chu
 暴露狂	pu lu kuang
 暴面	pu mian
+暴風驟雨	bao feng zhou yu
 暴風驟雨	bao feng zou yu
 暴骨	pu gu
 暴骨原野	pu gu yuan ye
@@ -35678,7 +35641,6 @@ use_preset_vocabulary: true
 有的放矢	you di fang shi
 有着落	you zhuo luo
 有給職	you ji zhi
-有線電視暫行條例	you xian dian shi zan xing tiao li
 有行無市	you hang wu shi
 有誰知道	you shui zhi dao
 有賺頭	you zhuan tou
@@ -36790,7 +36752,6 @@ use_preset_vocabulary: true
 步調	bu diao
 步飛煙傳	bu fei yan zhuan
 步騎	bu ji
-步驟	bu zou
 武城弦歌	wu cheng xian ge
 武弁	wu bian
 武林外傳	wu lin wai zhuan
@@ -37120,7 +37081,6 @@ use_preset_vocabulary: true
 決堤	jue di
 決堤	jue ti
 決癰潰疽	jue yong kui ju
-決驟	jue zou
 汽車租賃	qi che zu lin
 汽車行業	qi che hang ye
 汽輾	qi nian
@@ -37583,7 +37543,6 @@ use_preset_vocabulary: true
 浪漫樂派	lang man yue pai
 浪濤澎湃	lang tao peng pai
 浪蕩乾坤	lang dang qian kun
-浮來暫去	fu lai zan qu
 浮光掠影	fu guang lve ying
 浮動匯率	fu dong hui lv
 浮厝	fu cuo
@@ -38609,7 +38568,6 @@ use_preset_vocabulary: true
 狂且	kuang ju
 狂嗥	kuang hao
 狂恣	kuang zi
-狂風驟雨	kuang feng zou yu
 狄斯奈樂園	di si nai le yuan
 狄斯耐樂園	di si nai le yuan
 狌狌	xing xing
@@ -39239,7 +39197,6 @@ use_preset_vocabulary: true
 疾雷不及塞耳	ji lei bu ji se er
 疾風勁草	ji feng jing cao
 疾風知勁草	ji feng zhi jing cao
-疾風驟雨	ji feng zou yu
 痀僂	ju lou
 痀瘻	ju lv
 痄腮	zha sai
@@ -39886,7 +39843,6 @@ use_preset_vocabulary: true
 矩矱繩尺	ju huo sheng chi
 短不了	duan bu liao
 短嘆長吁	duan tan chang xu
-短暫	duan zan
 短絀	duan chu
 短行	duan xing
 短見薄識	duan jian bo shi
@@ -43312,7 +43268,6 @@ use_preset_vocabulary: true
 褎然	you ran
 褎然舉首	you ran ju shou
 褒彈	bao tan
-褓抱提攜	bao bao ti xi
 褚威格	chu wei ge
 褚少孫	chu shao sun
 褚衣	chu yi
@@ -43552,7 +43507,6 @@ use_preset_vocabulary: true
 解差	jie chai
 解廌	xie zhi
 解弦更張	jie xian geng zhang
-解攜	jie xi
 解析三角法	jie xi san jiao fa
 解池	xie chi
 解決不了	jie jue bu liao
@@ -44157,7 +44111,6 @@ use_preset_vocabulary: true
 負固不悛	fu gu bu quan
 負增長	fu zeng zhang
 負成長	fu cheng zhang
-負老攜幼	fu lao xi you
 負重	fu zhong
 負重涉遠	fu zhong she yuan
 負重致遠	fu zhong zhi yuan
@@ -47384,7 +47337,6 @@ use_preset_vocabulary: true
 風什	feng shi
 風伯	feng bo
 風伯雨師	feng bo yu shi
-風急雨驟	feng ji yu zou
 風掣雷行	feng che lei xing
 風檐寸晷	feng yan cun gui
 風波平地	feng bo ping di
@@ -47417,7 +47369,6 @@ use_preset_vocabulary: true
 風餐水棲	feng can shui qi
 風餐雨宿	feng can yu su
 風餐露宿	feng can lu su
-風馳雨驟	feng chi yu zou
 風馳電掣	feng chi dian che
 風魔九伯	feng mo jiu bo
 颩抹	diu mo
@@ -47432,7 +47383,6 @@ use_preset_vocabulary: true
 飄泊	piao bo
 飄畦	piao xi
 飄薄	piao bo
-飄風驟雨	piao feng zou yu
 飄香屑	piao xiang xie
 飛也似的	fei ye si de
 飛地	fei di
@@ -47625,7 +47575,6 @@ use_preset_vocabulary: true
 馳傳	chi zhuan
 馳檄	chi xi
 馳騁	chi cheng
-馳驟	chi zou
 馴行	xun xing
 駁犖	bo luo
 駁詰	bo jie
@@ -47710,12 +47659,8 @@ use_preset_vocabulary: true
 驚蟄	jing zhe
 驚覺	jing jue
 驚諕	jing xia
-驟然	zou ran
-驟變	zou bian
-驟跌	zou die
+驟降	zhou jiang
 驟降	zou jiang
-驟雨	zou yu
-驟雨狂風	zou yu kuang feng
 驢生戟角	lv sheng ji jiao
 驢生笄角	lv sheng ji jiao
 驩洽	huan qia
@@ -48225,7 +48170,6 @@ use_preset_vocabulary: true
 齊肅	zhai su
 齊莊	zhai zhuang
 齊衰	zi cui
-齊驅並驟	qi qu bing zou
 齋宿	zhai su
 齋長	zhai zhang
 齍盛	zi cheng
