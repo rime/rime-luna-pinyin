@@ -28,12 +28,11 @@
 
 ---
 name: luna_pinyin
-version: "2013.09.03"
+version: "2013.10.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-⿔	gui
 〇	ling
 ㄓ	zhi
 ㄔ	chi
@@ -21599,7 +21598,7 @@ use_preset_vocabulary: true
 逷	ti
 逸	yi
 逹	da
-逺	shuang
+逺	yuan
 逻	luo
 逼	bi
 逽	nuo
@@ -26139,11 +26138,6 @@ use_preset_vocabulary: true
 龤	xie
 龤	yue
 龥	yu
-不	bu
-識	shi
-兀	wu
-嗀	huo
-嗀	que
 𠄌	jue
 𠄌	zhui
 𠅗	die
