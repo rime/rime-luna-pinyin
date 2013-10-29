@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.10.24"
+version: "2013.10.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6937,8 +6937,8 @@ use_preset_vocabulary: true
 乇	tuo	29.47%
 乇	zhe	70.53%
 么	ma	0.04%
-么	me	98.93%
-么	yao	1%
+么	me	1%
+么	yao	98.93%
 义	yi
 乊	xx
 之	zhi
@@ -7030,7 +7030,7 @@ use_preset_vocabulary: true
 亍	yu	0%
 于	xu	0%
 于	yu	100%
-亏	kui
+亏	kui	0%
 亏	xu
 亏	yu
 亐	yu
@@ -7109,8 +7109,8 @@ use_preset_vocabulary: true
 仂	li
 仃	ding
 仄	ze
-仅	fu	0%
-仅	jin	100%
+仅	fu	100%
+仅	jin	0%
 仆	fu
 仆	pu
 仇	chou	83.84%
@@ -7183,8 +7183,8 @@ use_preset_vocabulary: true
 仴	wan
 仵	wu
 件	jian
-价	jia	99.98%
-价	jie	0.02%
+价	jia	0.02%
+价	jie	99.98%
 仸	yao
 仹	feng
 仺	cang
@@ -7301,8 +7301,8 @@ use_preset_vocabulary: true
 佐	zuo
 佑	you
 佒	yang
-体	ben	0%
-体	ti	100%
+体	ben
+体	ti
 佔	zhan
 何	he
 佖	bi
@@ -7911,8 +7911,8 @@ use_preset_vocabulary: true
 儼	yan
 儽	lei
 儾	nang
-儿	er	100%
-儿	ren	0%
+儿	er	0%
+儿	ren	100%
 兀	wu
 允	yun
 兂	zan
@@ -8573,8 +8573,8 @@ use_preset_vocabulary: true
 卛	lv
 卛	shuai
 卛	shuo
-卜	bo	33.56%
-卜	bu	66.44%
+卜	bo	0%
+卜	bu	100%
 卝	gong
 卝	guan
 卝	kuang
@@ -8627,8 +8627,8 @@ use_preset_vocabulary: true
 卿	qing
 厀	xi
 厂	an	0.05%
-厂	chang	99.95%
-厂	han	0.05%
+厂	chang	0.05%
+厂	han	99.95%
 厂	yan	0.05%
 厃	wei
 厃	yan
@@ -8794,12 +8794,12 @@ use_preset_vocabulary: true
 叵	ju	0%
 叵	po	100%
 叵	pou	0%
-叶	xie
-叶	ye	0.5%
+叶	xie	100%
+叶	ye	0%
 号	hao
 司	si
-叹	tan	100%
-叹	you	0%
+叹	tan
+叹	you
 叺	chi
 叻	le
 叻	li
@@ -8859,14 +8859,14 @@ use_preset_vocabulary: true
 否	fou	100%
 否	pi	0%
 吧	ba
-吨	dun	100%
-吨	tun	0%
+吨	dun	50%
+吨	tun	50%
 吩	fen
 吪	e
 含	han	100%
 含	hen	0%
-听	ting	100%
-听	yin	0%
+听	ting	0%
+听	yin	100%
 吭	hang	27.07%
 吭	kang	0%
 吭	keng	72.93%
@@ -9891,8 +9891,8 @@ use_preset_vocabulary: true
 圡	tu
 圢	ting
 圣	guai	0%
-圣	ku	0%
-圣	sheng	100%
+圣	ku	100%
+圣	sheng	0%
 圤	pu
 圥	lu
 圧	ya
@@ -9949,9 +9949,9 @@ use_preset_vocabulary: true
 坍	tan
 坎	kan
 坏	bei	0%
-坏	huai	100%
-坏	pei	0%
-坏	pi	0%
+坏	huai	0%
+坏	pei	100%
+坏	pi	5%
 坐	zuo
 坑	keng
 坒	bi
@@ -10055,8 +10055,8 @@ use_preset_vocabulary: true
 垤	zhi
 垥	qia
 垥	xie
-垦	ken	100%
-垦	yin	0%
+垦	ken	0%
+垦	yin	100%
 垧	jiong
 垧	shang
 垨	shou
@@ -11349,7 +11349,6 @@ use_preset_vocabulary: true
 宬	cheng
 宭	qun
 宮	gong
-宮商角徵羽	gong shang jue zhi yu
 宯	xiao
 宰	zai
 宱	zha
@@ -12237,8 +12236,8 @@ use_preset_vocabulary: true
 幼	you
 幽	you
 幾	ji
-广	guang	99.95%
-广	yan	0.05%
+广	guang	0%
+广	yan	100%
 庀	pi
 庁	ting
 庂	ze
@@ -12759,7 +12758,7 @@ use_preset_vocabulary: true
 怛	da
 怛	dan
 怛	tan
-怜	lian
+怜	lian	0%
 怜	ling
 思	sai	0%
 思	si	100%
@@ -12970,7 +12969,7 @@ use_preset_vocabulary: true
 惈	guo
 惉	chan
 惉	zhan
-惊	jing
+惊	jing	0%
 惊	liang
 惋	wan
 惌	yuan
@@ -14515,7 +14514,7 @@ use_preset_vocabulary: true
 敉	mi
 敊	chu
 敋	ge
-敌	di
+敌	di	0%
 敌	hua
 敌	qi
 敍	xu
@@ -15341,7 +15340,7 @@ use_preset_vocabulary: true
 柞	zuo
 柟	nan
 柠	chu
-柠	ning
+柠	ning	0%
 柡	yong
 柢	di
 柣	die
@@ -16895,7 +16894,7 @@ use_preset_vocabulary: true
 泜	zhi
 泝	su
 泞	chu
-泞	ning
+泞	ning	0%
 泞	zhu
 泟	cheng
 泠	leng
@@ -16938,7 +16937,7 @@ use_preset_vocabulary: true
 泿	yin
 洀	zhou
 洁	ji
-洁	jie
+洁	jie	0%
 洂	ye
 洂	yi
 洃	hui
@@ -27989,7 +27988,7 @@ use_preset_vocabulary: true
 送	song
 适	gua
 适	kuo
-适	shi	99.88%
+适	shi	0%
 逃	tao
 逄	pang
 逅	gou
@@ -30042,7 +30041,7 @@ use_preset_vocabulary: true
 隴	long
 隵	xi
 隶	dai
-隶	li
+隶	li	0%
 隷	li
 隸	li
 隹	zhui
@@ -48848,7 +48847,6 @@ use_preset_vocabulary: true
 不共天地	bu gong tian di
 不分主從	bu fen zhu cong
 不分主從	bu fen zhu zong
-不卜可知	bu bu ke zhi
 不可與共樂	bu ke yu gong le
 不同地區	bu tong di qu
 不吝賜教	bu lin ci jiao
@@ -50364,8 +50362,6 @@ use_preset_vocabulary: true
 光陸離	guang lu li
 克什克騰	ke shi ke teng
 克來汀症	ke lai ting zheng
-克卜勒	ke bu le
-克卜勒定律	ke bu le ding lv
 克敦孝行	ke dun xiao xing
 克羅地亞	ke luo di ya
 兌換率	dui huan lv
@@ -50863,7 +50859,6 @@ use_preset_vocabulary: true
 前車覆	qian che fu
 前車覆	qian ju fu
 前途似錦	qian tu si jin
-前途未卜	qian tu wei bu
 前長後短	qian chang hou duan
 剎帝利	cha di li
 剎時	cha shi
@@ -51249,38 +51244,12 @@ use_preset_vocabulary: true
 博聞彊記	bo wen qiang ji
 博覽五車	bo lan wu che
 博覽五車	bo lan wu ju
-卜人	bu ren
-卜兒	bu er
-卜卜	bu bu
-卜卦	bu gua
-卜吉	bu ji
-卜商	bu shang
-卜夜卜晝	bu ye bu zhou
-卜婿	bu xu
+卜宅	bu zhai
 卜宅	bu zhe
-卜居	bu ju
-卜年	bu nian
 卜度	bu duo
-卜式	bu shi
-卜征	bu zheng
-卜日	bu ri
-卜易	bu yi
-卜晝卜夜	bu zhou bu ye
-卜珓	bu jiao
-卜祝	bu zhu
 卜窀穸	bu zhun xi
-卜筮	bu shi
-卜算	bu suan
-卜築	bu zhu
-卜老	bu lao
-卜者	bu zhe
-卜舫濟	bu fang ji
-卜課	bu ke
-卜辭	bu ci
-卜鄰	bu lin
 占便宜	zhan pian yi
 占便宜的是獃	zhan pian yi de shi dai
-占卜	zhan bu
 占地	zhan di
 占地步	zhan di bu
 占地盤	zhan di pan
@@ -51634,9 +51603,6 @@ use_preset_vocabulary: true
 合纖	he xian
 合著	he zhu
 吉丁疙疸	ji ding ge da
-吉凶未卜	ji xiong wei bu
-吉卜賽人	ji bu sai ren
-吉卜齡	ji bu ling
 吉吉枓枓	ji ji zhu zhu
 吉地	ji di
 吉布地	ji bu di
@@ -51745,7 +51711,6 @@ use_preset_vocabulary: true
 含血噀人	han xue xun ren
 含血噴人	han xie pen ren
 含血噴人	han xue pen ren
-听听	yin yin
 吭哧	keng chi
 吭氣	keng qi
 吭聲	keng sheng
@@ -52098,7 +52063,6 @@ use_preset_vocabulary: true
 商調	shang diao
 商賈	shang gu
 啊喲	a yao
-問卜	wen bu
 問卷調查	wen juan diao cha
 問遺	wen wei
 問長問短	wen chang wen duan
@@ -52873,7 +52837,6 @@ use_preset_vocabulary: true
 圻界	qi jie
 坊隅	fang yu
 坎窞	kan dan
-坏土	pei tu
 坐地	zuo di
 坐地分贓	zuo di fen zang
 坐標軸	zuo biao zhou
@@ -53474,7 +53437,6 @@ use_preset_vocabulary: true
 天高地遠	tian gao di yuan
 天高地闊	tian gao di kuo
 天黥	tian qing
-太卜	tai bu
 太子洗馬	tai zi xian ma
 太平洋盆地	tai ping yang pen di
 太平盛世	tai ping sheng shi
@@ -53838,7 +53800,6 @@ use_preset_vocabulary: true
 字學舉隅	zi xue ju yu
 字挾風霜	zi xie feng shuang
 字裏行間	zi li hang jian
-存亡未卜	cun wang wei bu
 存宿	cun su
 存款利率	cun kuan li lv
 存款準備率	cun kuan zhun bei lv
@@ -54029,6 +53990,7 @@ use_preset_vocabulary: true
 宣傳部長	xuan chuan bu zhang
 宣泄	xuan xie
 室內樂	shi nei yue
+宮商角徵羽	gong shang jue zhi yu
 宮掖	gong ye
 宮本武藏	gong ben wu zang
 宮調	gong diao
@@ -54265,7 +54227,6 @@ use_preset_vocabulary: true
 小乘	xiao sheng
 小乘戒	xiao sheng jie
 小人長戚戚	xiao ren chang qi qi
-小价	xiao jie
 小便宜	xiao pian yi
 小倆口	xiao liang kou
 小傳	xiao zhuan
@@ -55306,7 +55267,7 @@ use_preset_vocabulary: true
 忙不迭地	mang bu die de
 忞忞	min min
 忠告	zhong gao
-忠告	zhong gu
+忠告	zhong gu	0%
 忠言奇謀	zhong yan qi mo
 忨愒	wan kai
 快快樂樂	kuai kuai le le
@@ -56289,11 +56250,9 @@ use_preset_vocabulary: true
 拈輕怕重	nian qing pa zhong
 拉丁美洲音樂	la ding mei zhou yin yue
 拉伯蘭	la bo lan
-拉卜楞	la bu leng
 拉口子要見血	la kou zi yao jian xie
 拉口子要見血	la kou zi yao jian xue
 拉名糧長	la ming liang zhang
-拉坏	la pei
 拉塞福	la se fu
 拉弄	la long
 拉弦子	la xian zi
@@ -56529,7 +56488,6 @@ use_preset_vocabulary: true
 捋袖揎拳	luo xiu xuan quan
 捋采	lv cai
 捎色	shao shai
-捏坏	nie pei
 捏塑	nie su
 捏弄	nie long
 捐血	juan xie
@@ -57508,8 +57466,6 @@ use_preset_vocabulary: true
 昒昕	hu xin
 昒爽	hu shuang
 易傳	yi zhuan
-易卜生	yi bu sheng
-易卜生主義	yi bu sheng zhu yi
 易地	yi di
 易如拾芥	yi ru shi jie
 易簀	yi ze
@@ -58072,7 +58028,6 @@ use_preset_vocabulary: true
 未了因	wei liao yin
 未了情	wei liao qing
 未了緣	wei liao yuan
-未卜先知	wei bu xian zhi
 未曾	wei ceng
 未熟兒	wei shu er
 未省	wei xing
@@ -58229,7 +58184,6 @@ use_preset_vocabulary: true
 林逋	lin bu
 枘圓鑿方	rui yuan zuo fang
 枘鑿	rui zuo
-枚卜	mei bu
 果乾	guo gan
 果勁	guo jing
 果子露	guo zi lu
@@ -59036,7 +58990,6 @@ use_preset_vocabulary: true
 死模活漾	si mu huo yang
 死無葬身之地	si wu zang shen zhi di
 死生契闊	si sheng qie kuo
-死生未卜	si sheng wei bu
 死相枕藉	si xiang zhen jie
 死角	si jiao
 死重泰山	si zhong tai shan
@@ -59073,7 +59026,6 @@ use_preset_vocabulary: true
 殲敵	jian di
 殲滅	jian mie
 殲滅戰	jian mie zhan
-殷墟卜辭	yin xu bu ci
 殷天動地	yin tian dong di
 殷天震地	yin tian zhen di
 殷殷屯屯	yin yin zhun zhun
@@ -59272,7 +59224,6 @@ use_preset_vocabulary: true
 汀線	ting xian
 求償	qiu chang
 求宿	qiu su
-求神問卜	qiu shen wen bu
 求聘	qiu pin
 求降	qiu xiang
 汆丸子湯	cuan wan zi tang
@@ -59544,7 +59495,6 @@ use_preset_vocabulary: true
 油紙捻子	you zhi nian zi
 油腔滑調	you qiang hua diao
 油花伎倆	you hua ji liang
-油花卜	you hua bu
 油藏	you cang
 油行	you hang
 治行	zhi xing
@@ -60127,10 +60077,8 @@ use_preset_vocabulary: true
 滑扢虀	hua xi ji
 滑液	hua ye
 滑熟	hua shu
-滑稽	gu ji
-滑稽大鼓	gu ji da gu
-滑稽戲	gu ji xi
-滑稽突梯	gu ji tu ti
+滑稽	gu ji	0%
+滑稽	hua ji
 滑藉	hua jie
 滑行	hua xing
 滑行道	hua xing dao
@@ -60419,7 +60367,6 @@ use_preset_vocabulary: true
 無他	wu ta
 無他	wu tuo
 無以塞責	wu yi se ze
-無价事	wu jie shi
 無倽	wu sha
 無偏無陂	wu pian wu pi
 無償	wu chang
@@ -60847,7 +60794,6 @@ use_preset_vocabulary: true
 狹長	xia chang
 狹隘	xia ai
 狺狺	yin yin
-狼卜食	lang bu shi
 狼吃幞頭	lang chi pu tou
 狼吞虎咽	lang tun hu yan
 狼嗥	lang hao
@@ -60980,7 +60926,6 @@ use_preset_vocabulary: true
 玉墀	yu chi
 玉屑	yu xie
 玉手纖纖	yu shou xian xian
-玉枝卜壽	yu zhi bu shou
 玉枳	yu zhi
 玉柏	yu bo
 玉液	yu ye
@@ -61675,7 +61620,6 @@ use_preset_vocabulary: true
 盛世	sheng shi
 盛事	sheng shi
 盛京	sheng jing
-盛价	sheng jie
 盛傳	sheng chuan
 盛典	sheng dian
 盛冬	sheng dong
@@ -62505,7 +62449,6 @@ use_preset_vocabulary: true
 窀穸	zhun xi
 突出重點	tu chu zhong dian
 突地	tu di
-突梯滑稽	tu ti gu ji
 突然覺得	tu ran jue de
 突騎	tu ji
 窈娜	yao nuo
@@ -63284,7 +63227,6 @@ use_preset_vocabulary: true
 羈棲	ji qi
 羈泊	ji bo
 羈絏	ji xie
-羊卜	yang bu
 羊撞籬笆	yang zhuang li ba
 羊栖菜	yang xi cai
 羊祜	yang hu
@@ -63438,7 +63380,6 @@ use_preset_vocabulary: true
 老身長子	lao shen zhang zi
 老道長	lao dao zhang
 老都爺	lao du ye
-老醫少卜	lao yi shao bu
 老門檻	lao men kan
 老闆	lao ban
 老闆娘	lao ban niang
@@ -63476,7 +63417,6 @@ use_preset_vocabulary: true
 耗斁	hao du
 耙地	pa di
 耙子	pa zi
-耳卜	er bu
 耳咽管	er yan guan
 耳塞	er sai
 耳熟	er shu
@@ -63981,7 +63921,6 @@ use_preset_vocabulary: true
 艋舺	meng jia
 艦長	jian zhang
 艨艟	meng tong
-良价	liang jie
 良弓藏	liang gong cang
 良田美地	liang tian mei di
 良禽擇木而棲	liang qin ze mu er qi
@@ -66340,7 +66279,6 @@ use_preset_vocabulary: true
 貝婁	bei lou
 貝錦萋菲	bei jin qi fei
 貝類養殖	bei lei yang zhi
-貞卜文字	zhen bu wen zi
 貞白	zhen bai
 貞白	zhen bo
 負乘致寇	fu sheng zhi kou
@@ -66370,7 +66308,6 @@ use_preset_vocabulary: true
 貧血	pin xue
 貧血病	pin xie bing
 貧血病	pin xue bing
-貨卜	huo bu
 貨幣供給額	huo bi gong ji e
 貨殖	huo zhi
 貨賂	huo lu
@@ -66406,7 +66343,6 @@ use_preset_vocabulary: true
 貳臣傳	er chen zhuan
 貳車	er che
 貳車	er ju
-貴价	gui jie
 貴地	gui di
 貴族學校	gui zu xue xiao
 貴重	gui zhong
@@ -66516,8 +66452,6 @@ use_preset_vocabulary: true
 賣俏行姦	mai qiao xing jian
 賣兒鬻女	mai er yu nv
 賣勁	mai jin
-賣卜	mai bu
-賣卜測字	mai bu ce zi
 賣妖嬈	mai yao rao
 賣妻鬻子	mai qi yu zi
 賣官鬻爵	mai guan yu jue
@@ -67657,7 +67591,6 @@ use_preset_vocabulary: true
 醜行	chou xing
 醞釀	yun niang
 醪糟	lao zao
-醫卜星相	yi bu xing xiang
 醫療給付	yi liao ji fu
 醫藥行業	yi yao hang ye
 醯人	xi ren
@@ -69455,7 +69388,6 @@ use_preset_vocabulary: true
 音長	yin chang
 韶光似箭	shao guang si jian
 韶樂	shao yue
-響卜	xiang bu
 響尾蛇飛彈	xiang wei she fei dan
 響屧廊	xiang xie lang
 響泠泠	xiang ling ling
@@ -69481,7 +69413,6 @@ use_preset_vocabulary: true
 頌繫	rong xi
 頍弁	kui bian
 頎長	qi chang
-預卜	yu bu
 預行	yu xing
 頑廉懦立	wan lian nuo li
 頑涎	wan xian
@@ -70079,7 +70010,6 @@ use_preset_vocabulary: true
 鱸鱠	lu kuai
 鳥人	diao ren
 鳥人	niao ren
-鳥卜	niao bu
 鳥散魚潰	niao san yu kui
 鳥爪	niao zhao
 鳥爪	niao zhua
@@ -70453,7 +70383,6 @@ use_preset_vocabulary: true
 龍騰虎躍	long teng hu yue
 龔行天罰	gong xing tian fa
 龔黃滿朝	gong huang man chao
-龜卜	gui bu
 龜手	jun shou
 龜毛兔角	gui mao tu jiao
 龜筴	gui ce
