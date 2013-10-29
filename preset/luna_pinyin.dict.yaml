@@ -27989,7 +27989,7 @@ use_preset_vocabulary: true
 送	song
 适	gua
 适	kuo
-适	shi	99.88%
+适	shi	0%
 逃	tao
 逄	pang
 逅	gou
@@ -55306,7 +55306,7 @@ use_preset_vocabulary: true
 忙不迭地	mang bu die de
 忞忞	min min
 忠告	zhong gao
-忠告	zhong gu
+忠告	zhong gu	0%
 忠言奇謀	zhong yan qi mo
 忨愒	wan kai
 快快樂樂	kuai kuai le le
@@ -60127,10 +60127,8 @@ use_preset_vocabulary: true
 滑扢虀	hua xi ji
 滑液	hua ye
 滑熟	hua shu
-滑稽	gu ji
-滑稽大鼓	gu ji da gu
-滑稽戲	gu ji xi
-滑稽突梯	gu ji tu ti
+滑稽	gu ji	0%
+滑稽	hua ji
 滑藉	hua jie
 滑行	hua xing
 滑行道	hua xing dao
@@ -62505,7 +62503,6 @@ use_preset_vocabulary: true
 窀穸	zhun xi
 突出重點	tu chu zhong dian
 突地	tu di
-突梯滑稽	tu ti gu ji
 突然覺得	tu ran jue de
 突騎	tu ji
 窈娜	yao nuo
