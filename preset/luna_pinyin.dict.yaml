@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.10.24"
+version: "2013.10.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6937,8 +6937,8 @@ use_preset_vocabulary: true
 乇	tuo	29.47%
 乇	zhe	70.53%
 么	ma	0.04%
-么	me	98.93%
-么	yao	1%
+么	me	1%
+么	yao	98.93%
 义	yi
 乊	xx
 之	zhi
@@ -7030,7 +7030,7 @@ use_preset_vocabulary: true
 亍	yu	0%
 于	xu	0%
 于	yu	100%
-亏	kui
+亏	kui	0%
 亏	xu
 亏	yu
 亐	yu
@@ -7109,8 +7109,8 @@ use_preset_vocabulary: true
 仂	li
 仃	ding
 仄	ze
-仅	fu	0%
-仅	jin	100%
+仅	fu	100%
+仅	jin	0%
 仆	fu
 仆	pu
 仇	chou	83.84%
@@ -7183,8 +7183,8 @@ use_preset_vocabulary: true
 仴	wan
 仵	wu
 件	jian
-价	jia	99.98%
-价	jie	0.02%
+价	jia	0.02%
+价	jie	99.98%
 仸	yao
 仹	feng
 仺	cang
@@ -7301,8 +7301,8 @@ use_preset_vocabulary: true
 佐	zuo
 佑	you
 佒	yang
-体	ben	0%
-体	ti	100%
+体	ben
+体	ti
 佔	zhan
 何	he
 佖	bi
@@ -7911,8 +7911,8 @@ use_preset_vocabulary: true
 儼	yan
 儽	lei
 儾	nang
-儿	er	100%
-儿	ren	0%
+儿	er	0%
+儿	ren	100%
 兀	wu
 允	yun
 兂	zan
@@ -8627,8 +8627,8 @@ use_preset_vocabulary: true
 卿	qing
 厀	xi
 厂	an	0.05%
-厂	chang	99.95%
-厂	han	0.05%
+厂	chang	0.05%
+厂	han	99.95%
 厂	yan	0.05%
 厃	wei
 厃	yan
@@ -8794,12 +8794,12 @@ use_preset_vocabulary: true
 叵	ju	0%
 叵	po	100%
 叵	pou	0%
-叶	xie
-叶	ye	0.5%
+叶	xie	100%
+叶	ye	0%
 号	hao
 司	si
-叹	tan	100%
-叹	you	0%
+叹	tan
+叹	you
 叺	chi
 叻	le
 叻	li
@@ -8859,14 +8859,14 @@ use_preset_vocabulary: true
 否	fou	100%
 否	pi	0%
 吧	ba
-吨	dun	100%
-吨	tun	0%
+吨	dun	50%
+吨	tun	50%
 吩	fen
 吪	e
 含	han	100%
 含	hen	0%
-听	ting	100%
-听	yin	0%
+听	ting	0%
+听	yin	100%
 吭	hang	27.07%
 吭	kang	0%
 吭	keng	72.93%
@@ -9891,8 +9891,8 @@ use_preset_vocabulary: true
 圡	tu
 圢	ting
 圣	guai	0%
-圣	ku	0%
-圣	sheng	100%
+圣	ku	100%
+圣	sheng	0%
 圤	pu
 圥	lu
 圧	ya
@@ -9949,9 +9949,9 @@ use_preset_vocabulary: true
 坍	tan
 坎	kan
 坏	bei	0%
-坏	huai	100%
-坏	pei	0%
-坏	pi	0%
+坏	huai	0%
+坏	pei	100%
+坏	pi	5%
 坐	zuo
 坑	keng
 坒	bi
@@ -10055,8 +10055,8 @@ use_preset_vocabulary: true
 垤	zhi
 垥	qia
 垥	xie
-垦	ken	100%
-垦	yin	0%
+垦	ken	0%
+垦	yin	100%
 垧	jiong
 垧	shang
 垨	shou
@@ -11349,7 +11349,6 @@ use_preset_vocabulary: true
 宬	cheng
 宭	qun
 宮	gong
-宮商角徵羽	gong shang jue zhi yu
 宯	xiao
 宰	zai
 宱	zha
@@ -12237,8 +12236,8 @@ use_preset_vocabulary: true
 幼	you
 幽	you
 幾	ji
-广	guang	99.95%
-广	yan	0.05%
+广	guang	0%
+广	yan	100%
 庀	pi
 庁	ting
 庂	ze
@@ -12759,7 +12758,7 @@ use_preset_vocabulary: true
 怛	da
 怛	dan
 怛	tan
-怜	lian
+怜	lian	0%
 怜	ling
 思	sai	0%
 思	si	100%
@@ -12970,7 +12969,7 @@ use_preset_vocabulary: true
 惈	guo
 惉	chan
 惉	zhan
-惊	jing
+惊	jing	0%
 惊	liang
 惋	wan
 惌	yuan
@@ -14515,7 +14514,7 @@ use_preset_vocabulary: true
 敉	mi
 敊	chu
 敋	ge
-敌	di
+敌	di	0%
 敌	hua
 敌	qi
 敍	xu
@@ -15341,7 +15340,7 @@ use_preset_vocabulary: true
 柞	zuo
 柟	nan
 柠	chu
-柠	ning
+柠	ning	0%
 柡	yong
 柢	di
 柣	die
@@ -16895,7 +16894,7 @@ use_preset_vocabulary: true
 泜	zhi
 泝	su
 泞	chu
-泞	ning
+泞	ning	0%
 泞	zhu
 泟	cheng
 泠	leng
@@ -16938,7 +16937,7 @@ use_preset_vocabulary: true
 泿	yin
 洀	zhou
 洁	ji
-洁	jie
+洁	jie	0%
 洂	ye
 洂	yi
 洃	hui
@@ -30042,7 +30041,7 @@ use_preset_vocabulary: true
 隴	long
 隵	xi
 隶	dai
-隶	li
+隶	li	0%
 隷	li
 隸	li
 隹	zhui
@@ -51745,7 +51744,6 @@ use_preset_vocabulary: true
 含血噀人	han xue xun ren
 含血噴人	han xie pen ren
 含血噴人	han xue pen ren
-听听	yin yin
 吭哧	keng chi
 吭氣	keng qi
 吭聲	keng sheng
@@ -52873,7 +52871,6 @@ use_preset_vocabulary: true
 圻界	qi jie
 坊隅	fang yu
 坎窞	kan dan
-坏土	pei tu
 坐地	zuo di
 坐地分贓	zuo di fen zang
 坐標軸	zuo biao zhou
@@ -54029,6 +54026,7 @@ use_preset_vocabulary: true
 宣傳部長	xuan chuan bu zhang
 宣泄	xuan xie
 室內樂	shi nei yue
+宮商角徵羽	gong shang jue zhi yu
 宮掖	gong ye
 宮本武藏	gong ben wu zang
 宮調	gong diao
@@ -54265,7 +54263,6 @@ use_preset_vocabulary: true
 小乘	xiao sheng
 小乘戒	xiao sheng jie
 小人長戚戚	xiao ren chang qi qi
-小价	xiao jie
 小便宜	xiao pian yi
 小倆口	xiao liang kou
 小傳	xiao zhuan
@@ -56293,7 +56290,6 @@ use_preset_vocabulary: true
 拉口子要見血	la kou zi yao jian xie
 拉口子要見血	la kou zi yao jian xue
 拉名糧長	la ming liang zhang
-拉坏	la pei
 拉塞福	la se fu
 拉弄	la long
 拉弦子	la xian zi
@@ -56529,7 +56525,6 @@ use_preset_vocabulary: true
 捋袖揎拳	luo xiu xuan quan
 捋采	lv cai
 捎色	shao shai
-捏坏	nie pei
 捏塑	nie su
 捏弄	nie long
 捐血	juan xie
@@ -60417,7 +60412,6 @@ use_preset_vocabulary: true
 無他	wu ta
 無他	wu tuo
 無以塞責	wu yi se ze
-無价事	wu jie shi
 無倽	wu sha
 無偏無陂	wu pian wu pi
 無償	wu chang
@@ -61673,7 +61667,6 @@ use_preset_vocabulary: true
 盛世	sheng shi
 盛事	sheng shi
 盛京	sheng jing
-盛价	sheng jie
 盛傳	sheng chuan
 盛典	sheng dian
 盛冬	sheng dong
@@ -63978,7 +63971,6 @@ use_preset_vocabulary: true
 艋舺	meng jia
 艦長	jian zhang
 艨艟	meng tong
-良价	liang jie
 良弓藏	liang gong cang
 良田美地	liang tian mei di
 良禽擇木而棲	liang qin ze mu er qi
@@ -66403,7 +66395,6 @@ use_preset_vocabulary: true
 貳臣傳	er chen zhuan
 貳車	er che
 貳車	er ju
-貴价	gui jie
 貴地	gui di
 貴族學校	gui zu xue xiao
 貴重	gui zhong
