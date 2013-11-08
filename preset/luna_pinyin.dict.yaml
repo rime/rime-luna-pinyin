@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.10.29"
+version: "2013.11.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -17178,7 +17178,7 @@ use_preset_vocabulary: true
 淄	zi
 淅	xi
 淆	xiao
-淆	yao
+淆	yao	5%
 淇	qi
 淈	gu
 淈	qu
@@ -54181,6 +54181,8 @@ use_preset_vocabulary: true
 將將	qiang qiang
 將弁	jiang bian
 將校	jiang xiao
+將進酒	jiang jin jiu
+將進酒	qiang jin jiu
 將銳兵驍	jiang rui bing xiao
 專利地圖	zhuan li di tu
 專差	zhuan chai
@@ -64048,11 +64050,16 @@ use_preset_vocabulary: true
 茄酸	qie suan
 茅塞	mao se
 茅塞頓開	mao se dun kai
+茅廁	mao ce
 茅廁	mao ci
 茅廁	mao si
+茅廁坑	mao ce keng
 茅廁坑	mao si keng
+茅廁的磚	mao ce de zhuan
 茅廁的磚	mao si de zhuan
+茅廁磚頭	mao ce zhuan tou
 茅廁磚頭	mao si zhuan tou
+茅廁裏的石頭	mao ce li de shi tou
 茅廁裏的石頭	mao si li de shi tou
 茅椽蓬牖	mao chuan peng you
 茅蜩	mao tiao
