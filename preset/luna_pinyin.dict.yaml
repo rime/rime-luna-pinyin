@@ -24001,7 +24001,9 @@ use_preset_vocabulary: true
 莙	jun
 莚	yan
 莛	ting
+莜	di
 莜	diao
+莜	you
 莝	cuo
 莞	guan	86.47%
 莞	wan	13.53%
@@ -48511,6 +48513,8 @@ use_preset_vocabulary: true
 𫛢	ning
 𫛶	chi
 𫛸	ti
+
+#以下爲詞組
 㓦劃	bo hua
 㔩葉	e ye
 㕷啦	pa la
@@ -64125,6 +64129,8 @@ use_preset_vocabulary: true
 莘莊	xin zhuang
 莘莘	shen shen
 莘莘學子	shen shen xue zi
+莜麥	you mai
+莜麪	you mian
 莞爾	wan er
 莧菜	xian cai
 莨綢	liang chou
