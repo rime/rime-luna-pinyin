@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.12.01"
+version: "2013.12.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -61358,7 +61358,7 @@ use_preset_vocabulary: true
 疙瘩事	ge da shi
 疙瘩湯	ge da tang
 疙瘩腔	ge da qiang
-疙顫顫	ge chan chan
+疙顫顫	ge zhan zhan
 疤痆	ba nie
 疥癬	jie xian
 疥癬蟲	jie xian chong
