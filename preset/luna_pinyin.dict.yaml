@@ -26376,8 +26376,7 @@ use_preset_vocabulary: true
 諤	e
 諥	zhong
 諦	di
-諧	jie	0%
-諧	xie	100%
+諧	xie
 諨	fu
 諩	pu
 諪	ting
@@ -26440,8 +26439,8 @@ use_preset_vocabulary: true
 謒	cang
 謒	qiang
 謓	chen
-謔	nve
-謔	xue
+謔	nve	0%
+謔	xue	100%
 謕	si
 謕	ti
 謖	ji
@@ -50016,7 +50015,6 @@ use_preset_vocabulary: true
 俯角	fu jiao
 俱樂部	ju le bu
 俳佪	pai huai
-俳謔	pai nve
 俶擾	chu rao
 俶爾	chu er
 俶裝	chu zhuang
@@ -51216,7 +51214,7 @@ use_preset_vocabulary: true
 南極地區	nan ji di qu
 南極大陸	nan ji da lu
 南樂	nan yue
-南樓詠謔	nan lou yong nve
+南樓詠謔	nan lou yong xve
 南橘北枳	nan ju bei zhi
 南水北調	nan shui bei diao
 南無	na mo
@@ -52267,7 +52265,7 @@ use_preset_vocabulary: true
 嘬炙	chuai zhi
 嘲哳	zhao zha
 嘲啾	chao jiu
-嘲謔	chao nve
+嘲謔	chao xve
 嘴上抹石灰	zui shang mo shi hui
 嘴吶	zui na
 嘴啃地	zui ken di
@@ -55243,6 +55241,7 @@ use_preset_vocabulary: true
 心頭小鹿撞個不住	xin tou xiao lu zhuang ge bu zhu
 心頭撞小鹿	xin tou zhuang xiao lu
 心餘力絀	xin yu li chu
+心驚肉顫	xin jing rou chan
 心驚肉顫	xin jing rou zhan
 心驚膽懾	xin jing dan zhe
 心驚膽顫	xin jing dan zhan
@@ -55796,7 +55795,7 @@ use_preset_vocabulary: true
 戲戟	hui ji
 戲提調	xi ti diao
 戲行	xi hang
-戲謔	xi nve
+戲謔	xi xve
 戴天之仇	dai tian zhi chou
 戴天履地	dai tian lv di
 戴憑重席	dai ping chong xi
@@ -55971,6 +55970,7 @@ use_preset_vocabulary: true
 打都磨子	da du mo zi
 打野呵	da ye he
 打頦歌	da hai ge
+打顫	da chan
 打顫	da zhan
 打飽咯	da bao ge
 打點行裝	da dian xing zhuang
@@ -56484,6 +56484,7 @@ use_preset_vocabulary: true
 捉襟肘見	zhuo jin zhou xian
 捉襟見肘	zhuo jin xian zhou
 捉迷藏	zhuo mi cang
+捉顫	zhuo chan
 捉顫	zhuo zhan
 捋胳膊	luo ge bo
 捋臂將拳	luo bi jiang quan
@@ -61357,7 +61358,7 @@ use_preset_vocabulary: true
 疙瘩事	ge da shi
 疙瘩湯	ge da tang
 疙瘩腔	ge da qiang
-疙顫顫	ge zhan zhan
+疙顫顫	ge chan chan
 疤痆	ba nie
 疥癬	jie xian
 疥癬蟲	jie xian chong
@@ -61466,6 +61467,7 @@ use_preset_vocabulary: true
 發還	fa huan
 發隱擿伏	fa yin ti fu
 發露	fa lu
+發顫	fa chan
 發顫	fa zhan
 白不呲咧	bai bu ci lie
 白乾	bai gan
@@ -63502,6 +63504,7 @@ use_preset_vocabulary: true
 肉脯	rou fu
 肉角	rou jiao
 肉重千斤	rou zhong qian jin
+肉顫心驚	rou chan xin jing
 肉顫心驚	rou zhan xin jing
 肋條	lei tiao
 肋窩	lei wo
@@ -66017,7 +66020,7 @@ use_preset_vocabulary: true
 調諧	tiao xie
 調諧器	tiao xie qi
 調謊	diao huang
-調謔	tiao nve
+調謔	tiao xve
 調護	tiao hu
 調變	tiao bian
 調貼	tiao tie
@@ -66084,7 +66087,6 @@ use_preset_vocabulary: true
 諢詞小說	hun ci xiao shuo
 諢話	hun hua
 諢語	hun yu
-諧謔	xie nve
 諫而剖腹	jian er pou fu
 諰諰	xi xi
 諱惡不悛	hui e bu quan
@@ -66108,13 +66110,10 @@ use_preset_vocabulary: true
 謐爾	mi er
 謐謐	mi mi
 謐靜	mi jing
-謔浪	nve lang
-謔浪笑敖	nve lang xiao ao
-謔浪話頭	nve lang hua tou
-謔稱	nve cheng
-謔而不虐	nve er bu nve
-謔親	nve qin
-謔謔	nve nve
+謔稱	xve cheng
+謔而不虐	xve er bu nve
+謔親	xve qin
+謔謔	xve xve
 謖爾	su er
 謖謖	su su
 謙洽	qian qia
@@ -69014,7 +69013,6 @@ use_preset_vocabulary: true
 雄勁	xiong jing
 雄長	xiong zhang
 雅樂	ya yue
-雅謔	ya nve
 雅重	ya zhong
 雅魯藏布江	ya lu zang bu jiang
 集散地	ji san di
@@ -69153,6 +69151,7 @@ use_preset_vocabulary: true
 震天駭地	zhen tian hai di
 震懾	zhen zhe
 震撼彈	zhen han dan
+震顫麻痺	zhen chan ma bi
 震顫麻痺	zhen zhan ma bi
 霉乾菜	mei gan cai
 霍地	huo di
@@ -69487,14 +69486,17 @@ use_preset_vocabulary: true
 顧慮重重	gu lv chong chong
 顧盻	gu xi
 顧藉	gu jie
-顫巍巍	zhan wei wei
-顫悠	zhan you
-顫悠悠	zhan you you
+顫巍巍	chan wei wei
+顫悠	chan you
+顫悠悠	chan you you
 顫慄	zhan li
-顫抖抖	zhan dou dou
+顫抖抖	chan dou dou
+顫筆	chan bi
 顫筆	zhan bi
+顫聲	chan sheng
 顫聲	zhan sheng
-顫音	zhan yin
+顫音	chan yin
+顫顫巍巍	chan chan wei wei
 顫顫巍巍	zhan zhan wei wei
 顯像液	xian xiang ye
 顯露	xian lu
