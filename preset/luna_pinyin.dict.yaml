@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.12.11"
+version: "2013.12.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -18254,6 +18254,7 @@ use_preset_vocabulary: true
 焬	xi
 焭	qiong
 焮	xin
+焯	chao
 焯	chuo
 焯	zhuo
 焰	yan
