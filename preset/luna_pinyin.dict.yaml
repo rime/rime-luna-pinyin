@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2013.12.23"
+version: "2014.01.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -53204,7 +53204,7 @@ use_preset_vocabulary: true
 大學院校	da xue yuan xiao
 大安地列斯羣島	da an di lie si qun dao
 大宛	da yuan
-大家	da gu
+大家	da gu	0%
 大家	da jia
 大家樂	da jia le
 大家長	da jia zhang
@@ -63067,8 +63067,11 @@ use_preset_vocabulary: true
 總括	zong kuo
 總行	zong hang
 總覺	zong jue
+總角	zong jiao
 總角	zong jue
+總角之交	zong jiao zhi jiao
 總角之交	zong jue zhi jiao
+總角之好	zong jiao zhi hao
 總角之好	zong jue zhi hao
 總長	zong chang
 績效斐然	ji xiao fei ran
