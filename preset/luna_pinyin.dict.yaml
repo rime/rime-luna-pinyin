@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.01.10"
+version: "2014.01.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -14552,6 +14552,7 @@ use_preset_vocabulary: true
 敨	dou
 敨	tou
 敩	xiao
+敩	xue
 敪	duo
 敫	jiao
 敫	yao
@@ -14598,6 +14599,7 @@ use_preset_vocabulary: true
 斅	xiao
 斅	xue
 斆	xiao
+斆	xue
 文	wen
 斈	xiao
 斈	xue
@@ -28649,7 +28651,7 @@ use_preset_vocabulary: true
 鈟	diao
 鈠	yi
 鈡	zhong
-鈢	nie
+鈢	xi
 鈣	gai
 鈤	ri
 鈥	huo
@@ -36559,6 +36561,7 @@ use_preset_vocabulary: true
 𢽸	chuo
 𢽹	min
 𢽾	xiao
+𢽾	xue
 𢾀	du
 𢾁	wei
 𢾃	can
