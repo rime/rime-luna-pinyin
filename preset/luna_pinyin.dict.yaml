@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.01.14"
+version: "2014.01.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8704,7 +8704,9 @@ use_preset_vocabulary: true
 厴	yan
 厵	yuan
 厶	si
-厷	qu
+厷	gong
+厷	hong
+厷	you	0%
 厸	lin
 厸	mian
 厹	qiu
