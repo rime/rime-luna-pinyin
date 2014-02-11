@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.01.25"
+version: "2014.02.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -13960,6 +13960,7 @@ use_preset_vocabulary: true
 掮	qian
 掯	ken
 掰	bai
+掱	pa
 掱	shou
 掲	jie
 掲	qi
