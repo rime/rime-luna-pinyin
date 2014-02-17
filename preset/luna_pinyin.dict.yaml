@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.02.10"
+version: "2014.02.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9296,6 +9296,7 @@ use_preset_vocabulary: true
 啕	tao
 啖	dan
 啗	dan
+啘	wa
 啘	ye
 啙	zi
 啚	bi
@@ -52675,6 +52676,7 @@ use_preset_vocabulary: true
 地方戲曲	di fang xi qu
 地方政府	di fang zheng fu
 地方新聞	di fang xin wen
+地方時	di fang shi
 地方法院	di fang fa yuan
 地方火甲	di fang huo jia
 地方特色	di fang te se
