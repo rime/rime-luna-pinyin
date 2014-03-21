@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.02.17"
+version: "2014.03.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -57437,7 +57437,8 @@ use_preset_vocabulary: true
 日近長安遠	ri jin chang an yuan
 日長一線	ri chang yi xian
 日長歲久	ri chang sui jiu
-日頭常晌午	ri tou chang shang huo
+日頭常晌午	ri tou chang shang huo	0%
+日頭常晌午	ri tou chang shang wu
 日飲亡何	ri yin wu he
 旦暮朝夕	dan mu zhao xi
 旦角	dan jue
@@ -57536,8 +57537,10 @@ use_preset_vocabulary: true
 時隱時見	shi yin shi xian
 晉乘楚杌	jin sheng chu wu
 晉朝	jin chao
-晌午	shang huo
-晌午歪	shang huo wai
+晌午	shang huo	0%
+晌午	shang wu
+晌午歪	shang huo wai	0%
+晌午歪	shang wu wai
 晌覺	shang jiao
 晌飯	shang fan
 晏朝	yan chao
