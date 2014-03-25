@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.03.21"
+version: "2014.03.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10088,6 +10088,7 @@ use_preset_vocabulary: true
 垼	yi
 垽	yin
 垾	an
+垾	han
 垿	xu
 埀	chui
 埁	cen
@@ -10606,6 +10607,8 @@ use_preset_vocabulary: true
 奢	she
 奣	weng
 奤	po
+奤	ha
+奤	tai
 奥	ao	100%
 奥	yu	0%
 奦	wu
