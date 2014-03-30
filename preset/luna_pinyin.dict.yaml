@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.03.25"
+version: "2014.03.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11081,6 +11081,7 @@ use_preset_vocabulary: true
 嫏	lang
 嫐	nao
 嫑	bao
+嫑	biao
 嫒	ai
 嫓	pi
 嫔	pin
