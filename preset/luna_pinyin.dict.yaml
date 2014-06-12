@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.05.16"
+version: "2014.06.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -28236,6 +28236,7 @@ use_preset_vocabulary: true
 郂	gai
 郃	ge
 郃	he
+郄	qie
 郄	que
 郄	xi
 郅	zhi
