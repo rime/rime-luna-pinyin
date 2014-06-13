@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.06.12"
+version: "2014.06.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -49196,7 +49196,6 @@ use_preset_vocabulary: true
 乳臭	ru xiu
 乳臭小子	ru xiu xiao zi
 乳臭未乾	ru xiu wei gan
-乳酪	ru luo
 乾乾	qian qian
 乾乾淨淨	gan gan jing jing
 乾井	gan jing
@@ -49330,6 +49329,7 @@ use_preset_vocabulary: true
 乾造	qian zao
 乾逼	gan bi
 乾道	qian dao
+乾酪	gan lao
 乾酪	gan luo
 乾量	gan liang
 乾阿嬭	gan a nai
@@ -50300,7 +50300,6 @@ use_preset_vocabulary: true
 優洽	you qia
 優洽	you xia
 優角	you jiao
-優酪乳	you luo ru
 優長	you chang
 儭錢	chen qian
 儱侗	long tong
@@ -53572,7 +53571,6 @@ use_preset_vocabulary: true
 奴顏婢膝	nu yan bi xi
 奶嬤嬤	nai ma ma
 奶膀子	nai pang zi
-奶酪	nai luo
 奸宄	jian gui
 奸慝	jian te
 好不了	hao bu liao
@@ -60709,7 +60707,6 @@ use_preset_vocabulary: true
 牛角尖	niu jiao jian
 牛角掛書	niu jiao gua shu
 牛角書生	niu jiao shu sheng
-牛酪	niu luo
 牛餼退敵	niu xi tui di
 牝朝	pin chao
 牝瘧	pin nve
@@ -67583,22 +67580,10 @@ use_preset_vocabulary: true
 酣醉	han zui
 酣飫	han yu
 酣飲	han yin
-酪乳	luo ru
-酪奴	luo nu
-酪梨	luo li
-酪漿	luo jiang
-酪素	luo su
-酪蛋白	luo dan bai
-酪農	luo nong
-酪農業	luo nong ye
-酪酥	luo su
-酪酸	luo suan
 酬酢	chou zuo
 酷似	ku si
-酸凝酪	suan ning luo
 酸愴	suan chuang
 酸酐	suan gan
-酸酪乳	suan luo ru
 醇朴	chun pu
 醇醪	chun lao
 醋勁	cu jin
