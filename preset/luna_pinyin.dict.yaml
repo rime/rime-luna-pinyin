@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.06.13"
+version: "2014.08.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15269,6 +15269,7 @@ use_preset_vocabulary: true
 枝	qi	0%
 枝	zhi	100%
 枞	cong
+枞	zong
 枟	yun
 枡	dou
 枢	qu
