@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.08.06"
+version: "2014.08.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9754,8 +9754,7 @@ use_preset_vocabulary: true
 嚬	pin
 嚭	pi
 嚮	xiang
-嚯	ju
-嚯	jue
+嚯	huo
 嚯	xue
 嚰	mo
 嚱	xi
