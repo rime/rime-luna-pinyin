@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.08.09"
+version: "2014.08.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10605,8 +10605,8 @@ use_preset_vocabulary: true
 奡	ao
 奢	she
 奣	weng
-奤	po
 奤	ha
+奤	po
 奤	tai
 奥	ao	100%
 奥	yu	0%
@@ -13879,7 +13879,8 @@ use_preset_vocabulary: true
 捬	fu
 捬	wu
 捭	bai
-捭	bei
+捭	bi	1%
+捭	bo
 据	ju
 捯	dao
 捰	guo
@@ -15259,7 +15260,7 @@ use_preset_vocabulary: true
 枕	zhen
 枖	yao
 林	lin
-枘	na
+枘	nen	0%
 枘	rui
 枙	e
 枚	mei
@@ -29764,7 +29765,7 @@ use_preset_vocabulary: true
 闑	nie
 闒	ta
 闓	kai
-闔	gai
+闔	gai	0%
 闔	he
 闕	que
 闖	chen	0%
@@ -49544,6 +49545,7 @@ use_preset_vocabulary: true
 人聲鼎沸	ren sheng ding fei
 人行	ren hang
 人行道	ren xing dao
+人言鑿鑿	ren yan zao zao
 人言鑿鑿	ren yan zuo zuo
 人造纖維	ren zao xian wei
 人間地獄	ren jian di yu
@@ -52481,7 +52483,6 @@ use_preset_vocabulary: true
 圓熟	yuan shu
 圓角	yuan jiao
 圓鍬	yuan qiao
-圓鑿方枘	yuan zuo fang rui
 圖度	tu duo
 圖窮匕見	tu qiong bi xian
 圖窮匕首見	tu qiong bi shou xian
@@ -52494,6 +52495,7 @@ use_preset_vocabulary: true
 圜扉	yuan fei
 圜牆	yuan qiang
 圜鍾	yuan zhong
+圜鑿方枘	yuan zao fang rui
 圜鑿方枘	yuan zuo fang rui
 土中曲蟮	tu zhong qu shan
 土伯特	tu bo te
@@ -53414,7 +53416,6 @@ use_preset_vocabulary: true
 天發神讖碑	tian fa shen chen bei
 天盛	tian sheng
 天真地秀	tian zhen di xiu
-天真未鑿	tian zhen wei zuo
 天知地知	tian zhi di zhi
 天秤	tian ping
 天秤座	tian ping zuo
@@ -53632,7 +53633,6 @@ use_preset_vocabulary: true
 如魚似水	ru yu si shui
 妃匹	pei pi
 妃耦	pei ou
-妄生穿鑿	wang sheng chuan zuo
 妄自菲薄	wang zi fei bo
 妊娠	ren shen
 妊娠毒血症	ren shen du xie zheng
@@ -57321,7 +57321,6 @@ use_preset_vocabulary: true
 斥騎	chi ji
 斧削	fu xue
 斧鑿	fu zao
-斧鑿痕	fu zuo hen
 斫地	zhuo di
 斫蜋	zhuo lang
 斫鱠	zhuo kui
@@ -57362,13 +57361,13 @@ use_preset_vocabulary: true
 斷鶴續鳧	duan he xu fu
 方伯	fang bo
 方寸之地	fang cun zhi di
+方枘圜鑿	fang rui yuan zao
 方枘圜鑿	fang rui yuan zuo
 方正不阿	fang zheng bu e
 方罫	fang hua
 方興日盛	fang xing ri sheng
 方行	fang xing
 方言地圖	fang yan di tu
-方鑿圓枘	fang zuo yuan rui
 方隅	fang yu
 方面兼圻	fang mian jian qi
 於乎	wu hu
@@ -58202,8 +58201,6 @@ use_preset_vocabulary: true
 林薄	lin bo
 林覺民	lin jue min
 林逋	lin bu
-枘圓鑿方	rui yuan zuo fang
-枘鑿	rui zuo
 果乾	guo gan
 果勁	guo jing
 果子露	guo zi lu
@@ -58229,7 +58226,6 @@ use_preset_vocabulary: true
 枵腹	xiao fu
 枵腹從公	xiao fu cong gong
 枵腹重趼	xiao fu chong jian
-架謊鑿空	jia huang zuo kong
 枸杞	gou qi
 枸杞子	gou qi zi
 枸櫞	ju yuan
@@ -58338,7 +58334,6 @@ use_preset_vocabulary: true
 栖息	xi xi
 栖栖	xi xi
 栖身	xi shen
-栗鑿	li zuo
 栟柑	bing gan
 栟櫚	bing lv
 校人	jiao ren
@@ -60349,6 +60344,7 @@ use_preset_vocabulary: true
 炮烙	pao luo
 炮烙之刑	pao luo zhi xing
 炮羊肚	bao yang du
+炳炳鑿鑿	bing bing zao zao
 炳炳鑿鑿	bing bing zuo zuo
 炳著	bing zhu
 炳賁	bing bi
@@ -62131,7 +62127,6 @@ use_preset_vocabulary: true
 碰着	peng zhao
 碰碰和	peng peng hu
 碳纖維	tan xian wei
-確鑿	que zuo
 碼率	ma lv
 磁偏角	ci pian jiao
 磁傾角	ci qing jiao
@@ -62459,8 +62454,6 @@ use_preset_vocabulary: true
 穿着打扮	chuan zhuo da ban
 穿紅着綠	chuan hong zhuo lv
 穿行	chuan xing
-穿鑿	chuan zuo
-穿鑿附會	chuan zuo fu hui
 窀穸	zhun xi
 突出重點	tu chu zhong dian
 突地	tu di
@@ -65726,6 +65719,7 @@ use_preset_vocabulary: true
 觿年	xi nian
 言不踐行	yan bu jian xing
 言不顧行	yan bu gu xing
+言之鑿鑿	yan zhi zao zao
 言之鑿鑿	yan zhi zuo zuo
 言出必行	yan chu bi xing
 言多傷行	yan duo shang xing
@@ -68211,23 +68205,14 @@ use_preset_vocabulary: true
 鑽牛角尖	zuan niu jiao jian
 鑽隙踰牆	zuan xi yu qiang
 鑿井	zao jing
-鑿圓枘方	zuo yuan rui fang
+鑿坏	zao pei
 鑿坏	zuo pei
-鑿壁偷光	zuo bi tou guang
-鑿壁懸梁	zuo bi xuan liang
 鑿子	zao zi
-鑿山破石	zuo shan po shi
-鑿枘	zuo rui
-鑿枘不入	zuo rui bu ru
-鑿渾沌	zuo hun dun
 鑿石穿	zao shi chuan
-鑿空	zuo kong
-鑿空指鹿	zuo kong zhi lu
-鑿竅	zuo qiao
-鑿船蟲	zuo chuan chong
+鑿鑿	zao zao
 鑿鑿	zuo zuo
+鑿鑿有據	zao zao you ju
 鑿鑿有據	zuo zuo you ju
-鑿飲耕食	zuo yin geng shi
 钂鈀	tang ba
 長一智	zhang yi zhi
 長三	chang san
@@ -68621,8 +68606,6 @@ use_preset_vocabulary: true
 開濬	kai jun
 開發銀行	kai fa yin hang
 開行	kai xing
-開鑿	kai zuo
-開闔	kai he
 開靨	kai ye
 閒出	jian chu
 閒地	xian di
@@ -68652,7 +68635,6 @@ use_preset_vocabulary: true
 閬苑	lang yuan
 閬閬	lang lang
 閬風	lang feng
-閶闔	chang he
 閻王也怕拚命鬼	yan wang ye pa pan ming gui
 閻若璩	yan ruo qu
 閼伯	e bo
@@ -68668,17 +68650,6 @@ use_preset_vocabulary: true
 闐然	tian ran
 闐闐	tian tian
 闒懦	ta nuo
-闔上	he shang
-闔國	he guo
-闔家	he jia
-闔府	he fu
-闔廬	he lu
-闔扇	he shan
-闔眼	he yan
-闔第光臨	he di guang lin
-闔門	he men
-闔門卻掃	he men que sao
-闔閭	he lv
 闖天地	chuang tian di
 關係調	guan xi diao
 關卡	guan ka
@@ -69470,7 +69441,6 @@ use_preset_vocabulary: true
 顏杲卿	yan gao qing
 顏色	yan se
 顏色	yan shai
-顏闔鑿培	yan he zuo pei
 顏面角	yan mian jiao
 顑頷	kan han
 顒坐	yong zuo
@@ -69539,7 +69509,6 @@ use_preset_vocabulary: true
 風調雨順	feng tiao yu shun
 風雲叱吒	feng yun chi zha
 風雲月露	feng yun yue lu
-風雲開闔	feng yun kai he
 風飧水宿	feng sun shui su
 風飧露宿	feng sun lu su
 風餐水宿	feng can shui su
