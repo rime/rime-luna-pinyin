@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.08.18"
+version: "2014.08.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -51883,6 +51883,10 @@ use_preset_vocabulary: true
 咎陶	gao yao
 咔嚓	ka cha
 咖哩	ka li
+咖哩汁	ka li zhi
+咖哩粉	ka li fen
+咖哩雞	ka li ji
+咖哩飯	ka li fan
 咖啡	ka fei
 咖啡因	ka fei yin
 咖啡店	ka fei dian
@@ -51892,6 +51896,10 @@ use_preset_vocabulary: true
 咖啡館	ka fei guan
 咖啡鹼	ka fei jian
 咖喱	ga li
+咖喱汁	ga li zhi
+咖喱粉	ga li fen
+咖喱雞	ga li ji
+咖喱飯	ga li fan
 咖嗶丁	ka bi ding
 咨嗟	zi jie
 咫尺	zhi chi
