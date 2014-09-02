@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.08.19"
+version: "2014.09.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25851,7 +25851,6 @@ use_preset_vocabulary: true
 襈	juan
 襈	zhuan
 襉	jian
-襉	xian
 襊	cui
 襊	cuo
 襋	ji
@@ -60748,6 +60747,7 @@ use_preset_vocabulary: true
 犖犖大者	luo luo da zhe
 犖确	luo que
 犛牛	li niu
+犛牛	mao niu
 犢車	du che
 犢車	du ju
 犢鼻褌	du bi kun
@@ -61408,7 +61408,9 @@ use_preset_vocabulary: true
 痙攣派	jing lvan pai
 痛惡	tong wu
 痛覺	tong jue
+痲痹不了	ma bi bu liao
 痲痺	ma bi
+痲痺不了	ma bi bu liao
 痴獃	chi dai
 痴長	chi zhang
 痶腳	dian jiao
@@ -70181,6 +70183,8 @@ use_preset_vocabulary: true
 麻六甲海峽	ma lu jia hai xia
 麻沸	ma fei
 麻沸散	ma fei san
+麻痹不了	ma bi bu liao
+麻痹大意	ma bi da yi
 麻痺	ma bi
 麻痺不了	ma bi bu liao
 麻痺不仁	ma bi bu ren
