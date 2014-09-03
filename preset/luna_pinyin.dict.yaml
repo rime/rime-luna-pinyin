@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.09.02"
+version: "2014.09.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -28795,8 +28795,8 @@ use_preset_vocabulary: true
 銎	qiong
 銏	shan
 銐	wu
-銑	xi
-銑	xian
+銑	xi	77.92%
+銑	xian	22.09%
 銒	jian
 銒	xing
 銒	yan
@@ -29501,6 +29501,7 @@ use_preset_vocabulary: true
 铠	kai
 铡	zha
 铢	zhu
+铣	xi	77.92%
 铣	xian	22.09%
 铤	ding
 铤	ting
