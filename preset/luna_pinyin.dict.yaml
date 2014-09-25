@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.09.03"
+version: "2014.09.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10473,7 +10473,6 @@ use_preset_vocabulary: true
 壹	yi
 壺	hu
 壻	xu
-壼	hu
 壼	kun
 壽	shou
 壾	mang
@@ -31550,7 +31549,6 @@ use_preset_vocabulary: true
 鮌	gun
 鮍	pi
 鮎	nian
-鮎	yan
 鮏	xing
 鮐	tai
 鮑	bao
@@ -49061,7 +49059,6 @@ use_preset_vocabulary: true
 中國銀行	zhong guo yin hang
 中地	zhong di
 中圻	zhong qi
-中壼	zhong kun
 中央空調	zhong yang kong tiao
 中央空調系統	zhong yang kong tiao xi tong
 中央警官學校	zhong yang jing guan xue xiao
@@ -50413,7 +50410,6 @@ use_preset_vocabulary: true
 內地稅	nei di shui
 內地雜居	nei di za ju
 內填琺瑯器	nei tian fa lang qi
-內壼	nei kun
 內姊	nei jie
 內帑	nei tang
 內朝	nei chao
@@ -53098,10 +53094,6 @@ use_preset_vocabulary: true
 壺中天地	hu zhong tian di
 壺漿塞道	hu jiang se dao
 壺裏乾坤	hu li qian kun
-壼奧	kun ao
-壼政	kun zheng
-壼範	kun fan
-壼闈	kun wei
 壽藏	shou zang
 夏丏尊	xia mian zun
 夏威夷音樂	xia wei yi yin yue
@@ -54753,7 +54745,7 @@ use_preset_vocabulary: true
 幹麼	gan ma
 幺絃	yao xian
 幺麼	yao mo
-幺麼小丑	yao mo xiao chou
+幺麼小醜	yao mo xiao chou
 幻覺	huan jue
 幼學壯行	you xue zhuang xing
 幽冥地府	you ming di fu
@@ -55209,6 +55201,7 @@ use_preset_vocabulary: true
 徵地	zheng di
 徵聘	zheng pin
 徵調	zheng diao
+徵調	zhi diao	5%
 徵辟	zheng bi
 德尊望重	de zun wang zhong
 德懋棠蔭	de mao tang yin
