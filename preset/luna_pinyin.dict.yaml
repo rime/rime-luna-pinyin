@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.09.25"
+version: "2014.09.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -16642,7 +16642,6 @@ use_preset_vocabulary: true
 氖	nai
 気	qi
 氘	dao
-氙	shan
 氙	xian
 氚	chuan
 氛	fen
@@ -23774,6 +23773,7 @@ use_preset_vocabulary: true
 苒	ran
 苓	ling
 苔	tai
+苕	shao
 苕	tiao
 苖	di
 苗	miao
@@ -24534,6 +24534,7 @@ use_preset_vocabulary: true
 蔾	li
 蔿	wei
 蕀	ji
+蕁	qian
 蕁	tan
 蕁	xun
 蕂	sheng
@@ -58500,6 +58501,7 @@ use_preset_vocabulary: true
 棽棽	shen shen
 棽麗	shen li
 椅披	yi pi
+椆苕	diao tiao
 植物生長素	zhi wu sheng zhang su
 植物纖維	zhi wu xian wei
 椎心泣血	zhui xin qi xie
@@ -62735,6 +62737,7 @@ use_preset_vocabulary: true
 紅檜	hong kuai
 紅毛番	hong mao fan
 紅線傳	hong xian zhuan
+紅苕	hong shao
 紅茄苳	hong jia dong
 紅血球	hong xie qiu
 紅血球	hong xue qiu
@@ -63338,6 +63341,7 @@ use_preset_vocabulary: true
 翠鈿	cui dian
 翠阜	cui fu
 翠靨	cui ye
+翡翠蘭苕	fei cui lan tiao
 翩躚	pian xian
 翬翟	hui di
 翯翯	he he
@@ -64016,6 +64020,13 @@ use_preset_vocabulary: true
 芻豢	chu huan
 芾芾	fu fu
 苑結	yu jie
+苕之華	tiao zhi hua
+苕子	tiao zi
+苕帚	tiao zhou
+苕果	tiao guo
+苕溪	tiao xi
+苕苕	tiao tiao
+苕華玉	tiao hua yu
 苛慝	ke te
 苛薄	ke bo
 苜蓿	mu su
@@ -64333,6 +64344,7 @@ use_preset_vocabulary: true
 董事長	dong shi zhang
 董事長兼	dong shi zhang jian
 葦箔	wei bo
+葦苕繫巢	wei tiao xi chao
 葧薺	bo qi
 葫蘆裏賣的甚麼藥	hu lu li mai de shen men yao
 葬身之地	zang shen zhi di
@@ -64409,6 +64421,7 @@ use_preset_vocabulary: true
 蔽席	fu xi
 蔽聰塞明	bi cong se ming
 蔽芾	bi fei
+蕁麻	qian ma
 蕁麻	xun ma
 蕁麻疹	xun ma zhen
 蕃侯	fan hou
@@ -68835,6 +68848,7 @@ use_preset_vocabulary: true
 陳蕃一室	chen fan yi shi
 陳蕃下榻	chen fan xia ta
 陵土未乾	ling tu wei gan
+陵苕	ling tiao
 陶塑	tao su
 陶猗	tao yi
 陶猗之富	tao yi zhi fu
