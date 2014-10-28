@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.09.29"
+version: "2014.10.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9809,7 +9809,6 @@ use_preset_vocabulary: true
 囝	jian
 囝	yue
 回	hui
-囟	cong
 囟	xin
 因	yin
 囡	nan
