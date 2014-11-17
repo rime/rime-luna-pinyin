@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.10.28"
+version: "2014.11.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -57915,6 +57915,7 @@ use_preset_vocabulary: true
 朝天宮	chao tian gong
 朝天搗亂	chao tian dao luan
 朝天餛飩	chao tian hun dun
+朝天餛飩	chao tian hun tun
 朝天髻	chao tian ji
 朝奉	chao feng
 朝宗	chao zong
@@ -69642,6 +69643,7 @@ use_preset_vocabulary: true
 餚羞	yao xiu
 餚饌	yao zhuan
 餛飩	hun dun
+餛飩	hun tun
 餜子	guo zi
 餞行	jian xing
 館地	guan di
