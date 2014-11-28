@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.11.17"
+version: "2014.11.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11377,7 +11377,6 @@ use_preset_vocabulary: true
 宿	su	84.69%
 宿	xiu	15.31%
 寀	cai
-寀	shen
 寁	zan
 寂	ji
 寃	yuan
