@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.09.03"
+version: "2014.11.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9809,7 +9809,6 @@ use_preset_vocabulary: true
 囝	jian
 囝	yue
 回	hui
-囟	cong
 囟	xin
 因	yin
 囡	nan
@@ -10473,7 +10472,6 @@ use_preset_vocabulary: true
 壹	yi
 壺	hu
 壻	xu
-壼	hu
 壼	kun
 壽	shou
 壾	mang
@@ -11379,7 +11377,6 @@ use_preset_vocabulary: true
 宿	su	84.69%
 宿	xiu	15.31%
 寀	cai
-寀	shen
 寁	zan
 寂	ji
 寃	yuan
@@ -16643,7 +16640,6 @@ use_preset_vocabulary: true
 氖	nai
 気	qi
 氘	dao
-氙	shan
 氙	xian
 氚	chuan
 氛	fen
@@ -23775,6 +23771,7 @@ use_preset_vocabulary: true
 苒	ran
 苓	ling
 苔	tai
+苕	shao
 苕	tiao
 苖	di
 苗	miao
@@ -24535,6 +24532,7 @@ use_preset_vocabulary: true
 蔾	li
 蔿	wei
 蕀	ji
+蕁	qian
 蕁	tan
 蕁	xun
 蕂	sheng
@@ -31550,7 +31548,6 @@ use_preset_vocabulary: true
 鮌	gun
 鮍	pi
 鮎	nian
-鮎	yan
 鮏	xing
 鮐	tai
 鮑	bao
@@ -49433,7 +49430,6 @@ use_preset_vocabulary: true
 中國銀行	zhong guo yin hang
 中地	zhong di
 中圻	zhong qi
-中壼	zhong kun
 中央空調	zhong yang kong tiao
 中央空調系統	zhong yang kong tiao xi tong
 中央警官學校	zhong yang jing guan xue xiao
@@ -50785,7 +50781,6 @@ use_preset_vocabulary: true
 內地稅	nei di shui
 內地雜居	nei di za ju
 內填琺瑯器	nei tian fa lang qi
-內壼	nei kun
 內姊	nei jie
 內帑	nei tang
 內朝	nei chao
@@ -53470,10 +53465,6 @@ use_preset_vocabulary: true
 壺中天地	hu zhong tian di
 壺漿塞道	hu jiang se dao
 壺裏乾坤	hu li qian kun
-壼奧	kun ao
-壼政	kun zheng
-壼範	kun fan
-壼闈	kun wei
 壽藏	shou zang
 夏丏尊	xia mian zun
 夏威夷音樂	xia wei yi yin yue
@@ -55125,7 +55116,7 @@ use_preset_vocabulary: true
 幹麼	gan ma
 幺絃	yao xian
 幺麼	yao mo
-幺麼小丑	yao mo xiao chou
+幺麼小醜	yao mo xiao chou
 幻覺	huan jue
 幼學壯行	you xue zhuang xing
 幽冥地府	you ming di fu
@@ -55581,6 +55572,7 @@ use_preset_vocabulary: true
 徵地	zheng di
 徵聘	zheng pin
 徵調	zheng diao
+徵調	zhi diao	5%
 徵辟	zheng bi
 德尊望重	de zun wang zhong
 德懋棠蔭	de mao tang yin
@@ -58294,6 +58286,7 @@ use_preset_vocabulary: true
 朝天宮	chao tian gong
 朝天搗亂	chao tian dao luan
 朝天餛飩	chao tian hun dun
+朝天餛飩	chao tian hun tun
 朝天髻	chao tian ji
 朝奉	chao feng
 朝宗	chao zong
@@ -58879,6 +58872,7 @@ use_preset_vocabulary: true
 棽棽	shen shen
 棽麗	shen li
 椅披	yi pi
+椆苕	diao tiao
 植物生長素	zhi wu sheng zhang su
 植物纖維	zhi wu xian wei
 椎心泣血	zhui xin qi xie
@@ -63114,6 +63108,7 @@ use_preset_vocabulary: true
 紅檜	hong kuai
 紅毛番	hong mao fan
 紅線傳	hong xian zhuan
+紅苕	hong shao
 紅茄苳	hong jia dong
 紅血球	hong xie qiu
 紅血球	hong xue qiu
@@ -63717,6 +63712,7 @@ use_preset_vocabulary: true
 翠鈿	cui dian
 翠阜	cui fu
 翠靨	cui ye
+翡翠蘭苕	fei cui lan tiao
 翩躚	pian xian
 翬翟	hui di
 翯翯	he he
@@ -64395,6 +64391,13 @@ use_preset_vocabulary: true
 芻豢	chu huan
 芾芾	fu fu
 苑結	yu jie
+苕之華	tiao zhi hua
+苕子	tiao zi
+苕帚	tiao zhou
+苕果	tiao guo
+苕溪	tiao xi
+苕苕	tiao tiao
+苕華玉	tiao hua yu
 苛慝	ke te
 苛薄	ke bo
 苜蓿	mu su
@@ -64712,6 +64715,7 @@ use_preset_vocabulary: true
 董事長	dong shi zhang
 董事長兼	dong shi zhang jian
 葦箔	wei bo
+葦苕繫巢	wei tiao xi chao
 葧薺	bo qi
 葫蘆裏賣的甚麼藥	hu lu li mai de shen men yao
 葬身之地	zang shen zhi di
@@ -64788,6 +64792,7 @@ use_preset_vocabulary: true
 蔽席	fu xi
 蔽聰塞明	bi cong se ming
 蔽芾	bi fei
+蕁麻	qian ma
 蕁麻	xun ma
 蕁麻疹	xun ma zhen
 蕃侯	fan hou
@@ -69214,6 +69219,7 @@ use_preset_vocabulary: true
 陳蕃一室	chen fan yi shi
 陳蕃下榻	chen fan xia ta
 陵土未乾	ling tu wei gan
+陵苕	ling tiao
 陶塑	tao su
 陶猗	tao yi
 陶猗之富	tao yi zhi fu
@@ -70008,6 +70014,7 @@ use_preset_vocabulary: true
 餚羞	yao xiu
 餚饌	yao zhuan
 餛飩	hun dun
+餛飩	hun tun
 餜子	guo zi
 餞行	jian xing
 館地	guan di
