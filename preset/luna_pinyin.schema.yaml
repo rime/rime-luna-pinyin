@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin
   name: 朙月拼音
-  version: "0.21"
+  version: "0.22"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -98,7 +98,7 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
 
 key_binder:
   import_preset: default
@@ -106,4 +106,8 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
+    # hack: to enable "/fh" style symbols, '/' must be mapped to a [list].
+    # so those who have customized '/' for direct commit won't be affected by
+    # this change.
+    punct: "^/([0-9]+[a-z]*|[a-z]+)$"
     reverse_lookup: "`[a-z]*'?$"
