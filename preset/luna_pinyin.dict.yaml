@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2014.11.28"
+version: "2015.01.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8232,6 +8232,7 @@ use_preset_vocabulary: true
 削	xiao	72.30%
 削	xue	27.70%
 剋	ke
+剋	kei	1%
 剌	la
 前	qian
 剎	cha	7.58%
