@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.01.27"
+version: "2015.01.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6850,7 +6850,7 @@ use_preset_vocabulary: true
 七	qi
 丄	shang
 丅	xia
-丆	xx
+#丆
 万	mo	0.02%
 万	wan	99.98%
 丈	zhang
@@ -6913,7 +6913,6 @@ use_preset_vocabulary: true
 丶	dian	79.67%
 丶	zhu	4.40%
 丷	ba
-丷	xx
 丸	wan
 丹	dan
 为	wei
@@ -6941,7 +6940,7 @@ use_preset_vocabulary: true
 么	me	1%
 么	yao	98.93%
 义	yi
-乊	xx
+#乊
 之	zhi
 乌	wu
 乍	zha
@@ -6976,14 +6975,14 @@ use_preset_vocabulary: true
 乢	ge
 乢	he
 乣	jiu
-乤	xx
-乥	xx
+#乤
+#乥
 书	shu
-乧	xx
+#乧
 乨	shi
 乩	ji
 乪	nang
-乫	xx
+#乫
 乬	ju
 乭	shi
 乮	mao
@@ -6996,13 +6995,13 @@ use_preset_vocabulary: true
 乴	xue
 乵	yan
 乶	fu
-乷	xx
+#乷
 乸	na
 乹	gan
 乹	qian
-乺	xx
+#乺
 乻	yu
-乼	xx
+#乼
 乽	zhe
 乾	gan	21.58%
 乾	qian	78.42%
@@ -7074,7 +7073,7 @@ use_preset_vocabulary: true
 亨	heng	100%
 亨	peng	0%
 亩	mu
-亪	xx
+#亪
 享	xiang
 京	jing	100%
 京	yuan	0%
@@ -7098,7 +7097,6 @@ use_preset_vocabulary: true
 亻	ren
 亼	ji
 亽	ji
-亽	xx
 亾	wang
 亾	wu
 亿	yi
@@ -7131,7 +7129,7 @@ use_preset_vocabulary: true
 仏	fu
 仐	san
 仑	lun
-仒	xx
+#仒
 仓	cang
 仔	zai	55.40%
 仔	zi	44.60%
@@ -8455,7 +8453,7 @@ use_preset_vocabulary: true
 勾	gou
 勿	wu
 匀	yun
-匁	xx
+#匁
 匃	gua
 匄	gai
 包	bao
@@ -8598,7 +8596,6 @@ use_preset_vocabulary: true
 卨	xie
 卩	jie
 卪	jie
-卪	xx
 卫	wei
 卬	ang
 卬	yang
@@ -8714,7 +8711,7 @@ use_preset_vocabulary: true
 厹	rou
 厺	qu
 去	qu
-厼	xx
+#厼
 厽	lei
 厾	diu
 厾	du
@@ -10456,7 +10453,7 @@ use_preset_vocabulary: true
 壪	wan
 士	shi
 壬	ren
-壭	xx
+#壭
 壮	zhuang
 壯	zhuang
 声	sheng
@@ -15124,7 +15121,7 @@ use_preset_vocabulary: true
 朦	meng
 朧	long
 木	mu
-朩	xx
+#朩
 未	wei
 末	mo
 本	ben
@@ -15133,7 +15130,7 @@ use_preset_vocabulary: true
 朮	zhu	100%
 术	shu	99.74%
 术	zhu	0.26%
-朰	xx
+#朰
 朱	shu	0%
 朱	zhu	100%
 朲	ren
@@ -19548,7 +19545,7 @@ use_preset_vocabulary: true
 畐	fu
 畑	tian
 畒	mu
-畓	xx
+#畓
 畔	ban	0%
 畔	pan	100%
 畕	jiang
@@ -22642,7 +22639,7 @@ use_preset_vocabulary: true
 罓	gang
 罔	wang
 罕	han
-罖	xx
+#罖
 罗	luo
 罘	fou
 罘	fu
@@ -27903,7 +27900,7 @@ use_preset_vocabulary: true
 边	bian
 辺	bian
 辻	shi
-込	xx
+#込
 辽	liao
 达	da
 达	ta
