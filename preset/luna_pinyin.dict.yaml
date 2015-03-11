@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.01.29"
+version: "2015.03.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11808,7 +11808,6 @@ use_preset_vocabulary: true
 崝	cheng
 崝	qing
 崞	guo
-崞	xiang
 崟	yin
 崠	dong
 崡	han
@@ -30339,7 +30338,6 @@ use_preset_vocabulary: true
 鞜	ta
 鞝	zhang
 鞞	bing
-鞟	ge
 鞟	guo
 鞟	kuo
 鞠	ju
@@ -54849,8 +54847,6 @@ use_preset_vocabulary: true
 崛崎	jue qi
 崛強	jue jiang
 崛起	jue qi
-崞山	guo shan
-崞縣	guo xian
 崢嶸	zheng rong
 崢嶸歲月	zheng rong sui yue
 崩潰	beng kui
