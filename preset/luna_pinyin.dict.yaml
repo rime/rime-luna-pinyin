@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.03.11"
+version: "2015.04.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8002,8 +8002,8 @@ use_preset_vocabulary: true
 円	yuan
 冇	mao
 冇	mou
-冈	gang	100%
-冈	wang	0%
+冈	gang	0%
+冈	wang
 冉	ran
 冊	ce	100%
 冊	chai	0%
@@ -22635,7 +22635,7 @@ use_preset_vocabulary: true
 罐	guan
 网	wang
 罒	wang
-罓	gang
+罓	wang
 罔	wang
 罕	han
 #罖
