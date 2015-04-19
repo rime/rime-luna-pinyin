@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.04.06"
+version: "2015.04.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -48923,7 +48923,7 @@ use_preset_vocabulary: true
 一了百當	yi liao bai dang
 一代巨擘	yi dai ju bo
 一似	yi si
-一個個要着地	ge ge yao zhuo di
+一個個要着地	yi ge ge yao zhuo di
 一個勁	yi ge jin
 一個獵古調	yi ge lie gu diao
 一個碗內兩張匙	yi ge wan nei liang zhang chi
@@ -49550,7 +49550,7 @@ use_preset_vocabulary: true
 乞乞縮縮	qi qi suo suo
 乞留玎琅	qi liu ding lang
 乞降	qi xiang
-也不攬那磁器傢伙	bu lan na ci qi jia huo
+也不攬那磁器傢伙	ye bu lan na ci qi jia huo
 也得蒸熟吃	ye dei zheng shou chi
 也曾	ye ceng
 也行	ye xing
@@ -50244,7 +50244,7 @@ use_preset_vocabulary: true
 佛手柑	fo shou gan
 佛教音樂	fo jiao yin yue
 佛肸	bi xi
-佛蒙特州	fo meng te
+佛蒙特州	fo meng te zhou
 佛貍	bi li
 佛頭着糞	fo tou zhuo fen
 作倒了行市	zuo dao le hang shi
@@ -53717,7 +53717,7 @@ use_preset_vocabulary: true
 大頭芥	da tou jie
 大頭覺	da tou jiao
 大麯	da qu
-天下危	tian xia wei zhu
+天下危	tian xia wei
 天下鼎沸	tian xia ding fei
 天乾物燥	tian gan wu zao
 天倫之樂	tian lun zhi le
@@ -55297,7 +55297,7 @@ use_preset_vocabulary: true
 強制執行	qiang zhi zhi xing
 強勁	qiang jing
 強嘴	jiang zui
-強如手撥剌	ru shou bo la
+強如手撥剌	qiang ru shou bo la
 強敵環伺	qiang di huan si
 強盛	qiang sheng
 強聒不舍	qiang gua bu she
@@ -57588,7 +57588,7 @@ use_preset_vocabulary: true
 效率	xiao lv
 效率高	xiao lv gao
 敏給	min ji
-救之就要吃人肉	zhi jiu yao chi ren rou
+救之就要吃人肉	jiu zhi jiu yao chi ren rou
 救火揚沸	jiu huo yang fei
 敕賜	chi ci
 敕賜	chi si
@@ -59963,7 +59963,7 @@ use_preset_vocabulary: true
 泥潦	ni lao
 泥濘	ni ning
 注塑	zhu su
-注意將	yi jiang
+注意將	zhu yi jiang
 注重	zhu zhong
 泫沄	xuan yun
 泫泫	xuan xuan
@@ -60719,7 +60719,7 @@ use_preset_vocabulary: true
 炸彈	zha dan
 烈女傳	lie nv zhuan
 烈火乾柴	lie huo gan chai
-烏來	wu lai xiang
+烏來	wu lai
 烏哺	wu bu
 烏天黑地	wu tian hei di
 烏梁海盆地	wu liang hai pen di
@@ -60974,8 +60974,8 @@ use_preset_vocabulary: true
 爪哇國	zhua wa guo
 爪哇島	zhao wa dao
 爪哇島	zhua wa dao
-爪哇族	zhao wa
-爪哇族	zhua wa
+爪哇族	zhao wa zu
+爪哇族	zhua wa zu
 爪士	zhao shi
 爪士	zhua shi
 爪尋	zhao xun
