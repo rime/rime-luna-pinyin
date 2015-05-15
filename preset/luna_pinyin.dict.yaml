@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.05.11"
+version: "2015.05.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2750,7 +2750,7 @@ use_preset_vocabulary: true
 㻋	la
 㻌	tu
 㻍	wu
-㻎	li
+㻎	se
 㻏	ling
 㻑	ji
 㻒	jun
