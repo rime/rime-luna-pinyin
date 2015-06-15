@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.05.15"
+version: "2015.06.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9450,7 +9450,8 @@ use_preset_vocabulary: true
 嗐	xia
 嗑	he	0%
 嗑	ke	100%
-嗒	ta
+嗒	da	99%
+嗒	ta	1%
 嗓	sang
 嗔	chen
 嗕	nou
