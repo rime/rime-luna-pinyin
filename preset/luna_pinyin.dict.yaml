@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2015.06.15"
+version: "2016.04.01"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -26831,8 +26831,8 @@ use_preset_vocabulary: true
 豈	qi	100%
 豉	chi
 豉	shi
-豊	feng
-豊	li
+豊	feng	0%
+豊	li	100%
 豋	deng
 豌	wan
 豍	bi
