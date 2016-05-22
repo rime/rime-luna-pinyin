@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2016.04.01"
+version: "2016.05.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8340,8 +8340,8 @@ use_preset_vocabulary: true
 劣	lie
 劤	jin
 劥	keng
-劦	lie
-劦	xie
+劦	lie	0%
+劦	xie	100%
 劧	zhi
 动	dong
 助	zhu
@@ -16306,7 +16306,7 @@ use_preset_vocabulary: true
 欏	luo
 欐	li
 欑	cuan
-欑	zan
+欑	zuan
 欒	luan
 欓	dang
 欔	jue
@@ -18451,9 +18451,8 @@ use_preset_vocabulary: true
 燂	xun
 燃	ran
 燄	yan
-燅	xian
-燅	xun
-燅	yan
+燅	xian	0%
+燅	xun	100%
 燆	jiao
 燆	qiao
 燇	zun
@@ -25657,7 +25656,8 @@ use_preset_vocabulary: true
 袯	bo
 袰	bo
 袱	fu
-袲	yi
+袲	chi
+袲	nuo
 袳	chi
 袳	duo
 袳	qi
