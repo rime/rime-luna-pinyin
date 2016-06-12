@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2016.05.22"
+version: "2016.06.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8645,7 +8645,7 @@ use_preset_vocabulary: true
 厐	pang
 厑	ya
 厒	ke
-厓	ai
+厓	ai	0%
 厓	ya
 厓	yai
 厔	zhi
@@ -11797,7 +11797,7 @@ use_preset_vocabulary: true
 崕	ai
 崕	ya
 崕	yai
-崖	ai
+崖	ai	0%
 崖	ya
 崖	yai
 崗	gang
@@ -30028,7 +30028,7 @@ use_preset_vocabulary: true
 隗	wei
 隘	ai
 隘	e
-隙	qi
+隙	qi	0%
 隙	xi
 隚	tang
 際	ji
@@ -49352,7 +49352,6 @@ use_preset_vocabulary: true
 不知天高地厚	bu zhi tian gao di hou
 不知覺	bu zhi jue
 不知輕重	bu zhi qing zhong
-不立崖岸	bu li yai an
 不算什麼	bu suan shen me
 不管生癬生瘡	bu guan sheng xian sheng chuang
 不終朝	bu zhong zhao
@@ -51346,7 +51345,6 @@ use_preset_vocabulary: true
 劇地	ju di
 劇校	ju xiao
 劈地價來	pi di ga lai
-劈拉着腿坐崖頭	pi la zhe tui zuo yai tou
 劈着	pi zhao
 劉長卿	liu zhang qing
 劌目鉥心	gui mu shu xin
@@ -51428,7 +51426,6 @@ use_preset_vocabulary: true
 勒緊	lei jin
 勒緊褲帶	lei jin ku dai
 勒里勒得	lei li lei de
-勒馬懸崖	le ma xuan yai
 動不了	dong bu liao
 動中窾要	dong zhong kuan yao
 動人心弦	dong ren xin xian
@@ -51678,8 +51675,6 @@ use_preset_vocabulary: true
 卻做餳糖	que zuo xing tang
 卻行	que xing
 卿大夫	qing dai fu
-厓山	yai shan
-厓谷	yai gu
 厚今薄古	hou jin bo gu
 厚古薄今	hou gu bo jin
 厚彼薄此	hou bi bo ci
@@ -52450,7 +52445,6 @@ use_preset_vocabulary: true
 唾面	tuo mian
 唾面自乾	tuo mian zi gan
 唾餘	tuo yu
-啀喍	yai chai
 啁哳	zhou zha
 啁啾	zhou jiu
 啁噍	zhou jiu
@@ -53285,7 +53279,6 @@ use_preset_vocabulary: true
 埋沒	mai mo
 埋沒人才	mai mo ren cai
 埋藏	mai cang
-城子崖遺跡	cheng zi yai yi ji
 城隅	cheng yu
 埏埴	shan zhi
 埏隧	yan sui
@@ -53448,7 +53441,6 @@ use_preset_vocabulary: true
 墨絰	mo die
 墨翟	mo di
 墮地	duo di
-墮崖	duo yai
 墳地	fen di
 墾地	ken di
 墾殖	ken zhi
@@ -54800,7 +54792,6 @@ use_preset_vocabulary: true
 山地舞	shan di wu
 山坡地	shan po di
 山坡地保育	shan po di bao yu
-山崖	shan yai
 山崩地坼	shan beng di che
 山崩地裂	shan beng di lie
 山崩地陷	shan beng di xian
@@ -54838,11 +54829,9 @@ use_preset_vocabulary: true
 岳伯	yue bo
 峭薄	qiao bo
 峴山碑	xian shan bei
-峻崖	jun yai
 峻阪鹽車	jun ban yan che
 峻阪鹽車	jun ban yan ju
 崆峒山	kong tong shan
-崇崖	chong yai
 崇朝	chong zhao
 崇正黜邪	chong zheng chu xie
 崇阿	chong e
@@ -54851,16 +54840,6 @@ use_preset_vocabulary: true
 崒嵂	zu lv
 崔烈銅臭	cui lie tong xiu
 崔韜	cui tao
-崖山	yai shan
-崖岸	yai an
-崖岸自高	yai an zi gao
-崖檢	yai jian
-崖次	yai ci
-崖涘	yai si
-崖略	yai lve
-崖異	yai yi
-崖縣	yai xian
-崖邊	yai bian
 崛崎	jue qi
 崛強	jue jiang
 崛起	jue qi
@@ -54890,10 +54869,7 @@ use_preset_vocabulary: true
 嶷然	ni ran
 嶸嶸	rong rong
 巃嵷	long zong
-巉崖	chan yai
 巍然屹立	wei ran yi li
-巔崖	dian yai
-巔崖峻谷	dian yai jun gu
 巖徼	yan jiao
 巘巘	yan yan
 川芎	chuan qiong
@@ -56089,10 +56065,6 @@ use_preset_vocabulary: true
 懷惡不悛	huai e bu quan
 懷鉛提槧	huai qian ti qian
 懷鉛握槧	huai qian wo qian
-懸崖	xuan yai
-懸崖勒馬	xuan yai le ma
-懸崖峭壁	xuan yai qiao bi
-懸崖絕壁	xuan yai jue bi
 懸揣	xuan chuan
 懸液劑	xuan ye ji
 懸濁液	xuan zhuo ye
@@ -57230,8 +57202,6 @@ use_preset_vocabulary: true
 摧鋒陷陣	cui feng xian zhen
 摧陷	cui xian
 摧陷廓清	cui xian kuo qing
-摩崖	mo yai
-摩崖石刻	mo yai shi ke
 摩戛	mo jia
 摩挲	ma sa
 摩挲	mo suo
@@ -57733,7 +57703,6 @@ use_preset_vocabulary: true
 新血輪	xin xue lun
 新靚	xin jing
 斲削	zhuo xue
-斷崖	duan yai
 斷弦	duan xian
 斷爛朝報	duan lan chao bao
 斷臂	duan bei
@@ -60154,7 +60123,6 @@ use_preset_vocabulary: true
 海埔新生地	hai pu xin sheng di
 海堤	hai di
 海堤	hai ti
-海崖	hai yai
 海嶠	hai jiao
 海底地震	hai di di zhen
 海沸山搖	hai fei shan yao
@@ -60166,7 +60134,6 @@ use_preset_vocabulary: true
 海爾波普彗星	hai er bo pu hui xing
 海爾波普彗星	hai er po pu hui xing
 海獺	hai ta
-海蝕崖	hai shi yai
 海蝕臺地	hai shi tai di
 海螄	hai si
 海螵蛸	hai piao xiao
@@ -61370,7 +61337,6 @@ use_preset_vocabulary: true
 珍餚	zhen yao
 珍饈佳餚	zhen xiu jia yao
 珠三角	zhu san jiao
-珠崖	zhu yai
 珠江三角洲	zhu jiang san jiao zhou
 珠沉玉沒	zhu chen yu mo
 珠淚偷彈	zhu lei tou tan
@@ -61472,7 +61438,6 @@ use_preset_vocabulary: true
 環行	huan xing
 璿圖	xuan tu
 璿璣	xuan ji
-瓊崖海棠	qiong yai hai tang
 瓊漿玉液	qiong jiang yu ye
 瓊漿金液	qiong jiang jin ye
 瓊葩	qiong pa
@@ -62209,7 +62174,6 @@ use_preset_vocabulary: true
 眠花宿柳	mian hua su liu
 眠鷗宿鷺	mian ou su lu
 眢井	yuan jing
-眥睚	zi yai
 眷念無斁	juan nian wu yi
 眼扎毛	yan zha mao
 眼熟	yan shu
@@ -62321,12 +62285,6 @@ use_preset_vocabulary: true
 睍睍	xian xian
 睏覺	kun jiao
 睒䁑	shan shi
-睚眥	ya zi
-睚眥之嫌	ya zi zhi xian
-睚眥之怨	ya zi zhi yuan
-睚眥之私	ya zi zhi si
-睚眥之隙	ya zi zhi xi
-睚眥必報	ya zi bi bao
 睡不着	shui bu zhao
 睡中覺	shui zhong jiao
 睡午覺	shui wu jiao
@@ -62885,7 +62843,6 @@ use_preset_vocabulary: true
 立地成佛	li di cheng fo
 立地書廚	li di shu chu
 立地金剛	li di jin gang
-立崖岸	li yai an
 立扎	li zha
 立於不敗之地	li yu bu bai zhi di
 立盹行眠	li dun xing mian
@@ -64146,7 +64103,6 @@ use_preset_vocabulary: true
 臧否人物	zang pi ren wu
 臨了	lin liao
 臨危自省	lin wei zi xing
-臨崖勒馬	lin yai le ma
 臨朝	lin chao
 臨死不怯	lin si bu que
 臨江折軸	lin jiang zhe zhu
@@ -64167,7 +64123,6 @@ use_preset_vocabulary: true
 自嗟自嘆	zi jie zi tan
 自墜陷阱	zi zhui xian jing
 自娛自樂	zi yu zi le
-自崖而反	zi yai er fan
 自度	zi duo
 自得其樂	zi de qi le
 自怨自艾	zi yuan zi yi
@@ -65987,6 +65942,7 @@ use_preset_vocabulary: true
 視若草芥	shi ruo cao jie
 視覺	shi jue
 視覺器	shi jue qi
+視覺懸崖	shi jue xuan ya
 視覺懸崖	shi jue xuan yai
 視覺效果	shi jue xiao guo
 視覺空間	shi jue kong jian
@@ -70212,6 +70168,7 @@ use_preset_vocabulary: true
 驢生笄角	lv sheng ji jiao
 驩洽	huan qia
 驩洽	huan xia
+骨崖崖	gu ya ya
 骨崖崖	gu yai yai
 骨殖	gu zhi
 骨殖匣	gu zhi xia
