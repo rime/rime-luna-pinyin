@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2016.06.12"
+version: "2016.06.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -29909,8 +29909,9 @@ use_preset_vocabulary: true
 阿	e	0.11%
 陀	tuo
 陁	tuo
-陂	pi	31.25%
-陂	po	20%
+陂	bei
+陂	pi
+陂	po	5%
 陃	bing
 附	fu
 际	ji
@@ -51562,7 +51563,6 @@ use_preset_vocabulary: true
 千里迢迢	qian li tiao tiao
 千里迢遙	qian li tiao yao
 千鈞重負	qian jun zhong fu
-千頃陂	qian qing pi
 升學率	sheng xue lv
 午覺	wu jiao
 卉翕	hui xi
@@ -60595,7 +60595,6 @@ use_preset_vocabulary: true
 澤深恩重	ze shen en zhong
 澤被	ze bei
 澤被	ze pi
-澤陂	ze pi
 澶淵	chan yuan
 澶淵之盟	chan yuan zhi meng
 澶湉	chan tian
@@ -60735,7 +60734,6 @@ use_preset_vocabulary: true
 無他	wu tuo
 無以塞責	wu yi se ze
 無倽	wu sha
-無偏無陂	wu pian wu pi
 無償	wu chang
 無償契約	wu chang qi yue
 無噍類	wu jiao lei
@@ -69105,8 +69103,6 @@ use_preset_vocabulary: true
 阿魏	e wei
 阿黨	e dang
 阿鼻地獄	a bi di yu
-陂塘	pi tang
-陂池	pi chi
 陂陀	po tuo
 附着	fu zhuo
 附着力	fu zhuo li
