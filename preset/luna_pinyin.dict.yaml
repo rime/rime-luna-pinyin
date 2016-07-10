@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2016.06.12"
+version: "2016.07.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -59710,26 +59710,29 @@ use_preset_vocabulary: true
 沉陷	chen xian
 沏油	qu you
 沐浴露	mu yu lu
-沒下	mo xia
+沒下	mei xia
+沒下	mo xia	1%
 沒不煞	mo bu sha
 沒世	mo shi
 沒世不忘	mo shi bu wang
 沒世難忘	mo shi nan wang
 沒乾沒淨	mei gan mei jing
 沒乾淨	mei gan jing
+沒亂	mei luan	5%
 沒亂	mo luan
 沒亂死	mo luan si
 沒亂殺	mo luan sha
 沒亂煞	mo luan sha
 沒亂裏	mo luan li
-沒了	mo le
+沒了	mei le
+沒了	mo le	1%
 沒了期	mei liao qi
 沒了當	mei liao dang
 沒了結處	mei liao jie chu
 沒了落	mei liao luo
 沒事哏	mei shi hen
 沒人	mei ren
-沒人	mo ren
+沒人	mo ren	1%
 沒什麼	mei shen me
 沒什麼要緊	mei shen me yao jin
 沒入	mo ru
@@ -59739,6 +59742,7 @@ use_preset_vocabulary: true
 沒命似的	mei ming si de
 沒嚼頭	mei jue tou
 沒地	mei de
+沒地	mei di
 沒地	mo di
 沒地裏巡檢	mei di li xun jian
 沒地里	mei de li
@@ -59756,6 +59760,7 @@ use_preset_vocabulary: true
 沒揣的	mo chuai di
 沒撩沒亂	mei liao mo luan
 沒撻煞	mei ta sha
+沒收	mei shou	5%
 沒收	mo shou
 沒是哏	mei shi hen
 沒有什麼	mei you shen me
@@ -59764,7 +59769,8 @@ use_preset_vocabulary: true
 沒有長羽毛就忘了根本	mei you zhang yu mao jiu wang le gen ben
 沒查沒利	mei zha mei li
 沒死以聞	mo si yi wen
-沒水	mo shui
+沒水	mei shui
+沒水	mo shui	5%
 沒沒	mo mo
 沒沒無聞	mo mo wu wen
 沒海履地	mo hai lv di
