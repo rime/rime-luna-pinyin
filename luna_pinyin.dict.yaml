@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2016.07.10"
+version: "2017.01.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
