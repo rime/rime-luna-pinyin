@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2017.01.07"
+version: "2017.03.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -383,6 +383,8 @@ use_preset_vocabulary: true
 㕵	guo
 㕶	fu
 㕷	huo
+㕷	pa
+㕷	pia
 㕸	li
 㕹	fa
 㕺	xiao
@@ -9313,6 +9315,7 @@ use_preset_vocabulary: true
 啩	gua
 啪	pa	100%
 啪	pai	0%
+啪	pia	10%
 啫	zhe
 啬	se
 啭	zhuan
