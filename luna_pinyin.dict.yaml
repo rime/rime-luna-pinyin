@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2017.03.09"
+version: "2018.04.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19604,7 +19604,6 @@ use_preset_vocabulary: true
 異	yi
 畱	liu
 畲	she
-畲	yu
 畳	die
 畴	chou
 畵	hua
@@ -55462,6 +55461,7 @@ use_preset_vocabulary: true
 後車戒	hou che jie
 後車戒	hou ju jie
 後重	hou zhong
+徐繼畬	xu ji yu
 徐行	xu xing
 徐鉉	xu xuan
 徑行	jing xing
@@ -57676,6 +57676,7 @@ use_preset_vocabulary: true
 斧削	fu xue
 斧鑿	fu zao
 斫地	zhuo di
+斫畬	zhuo she
 斫蜋	zhuo lang
 斫鱠	zhuo kui
 斬衰	zhan cui
@@ -57916,6 +57917,8 @@ use_preset_vocabulary: true
 普天率土	pu tian shuai tu
 普通地圖	pu tong di tu
 普陀洛伽山	pu tuo luo qie shan
+景寧畬族自治縣	jing ning she zu zi zhi xian
+景寧畬鄉	jing ning she xiang
 景差	jing cuo
 景從	ying cong
 景從雲合	ying cong yun he
@@ -61660,7 +61663,8 @@ use_preset_vocabulary: true
 畬丁	yu ding
 畬族	she zu
 畬民	she min
-畬田	yu tian
+畬田	she tian
+畬鄉	she xiang
 異國情調	yi guo qing diao
 異地	yi di
 異地相逢	yi di xiang feng
