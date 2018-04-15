@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2018.04.10"
+version: "2018.04.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -17760,7 +17760,7 @@ use_preset_vocabulary: true
 澜	lan
 澞	yu
 澟	lin
-澠	min
+澠	mian
 澠	sheng
 澡	zao
 澢	dang
@@ -60599,10 +60599,10 @@ use_preset_vocabulary: true
 澗壑	jian he
 澗壑	jian huo
 澠水	sheng shui
-澠池	min chi
-澠池之功	min chi zhi gong
-澠池會	min chi hui
-澠池縣	min chi xian
+澠池	mian chi
+澠池之功	mian chi zhi gong
+澠池會	mian chi hui
+澠池縣	mian chi xian
 澤深恩重	ze shen en zhong
 澤被	ze bei
 澤被	ze pi
