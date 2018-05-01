@@ -7078,9 +7078,10 @@ use_preset_vocabulary: true
 亰	jing	100%
 亰	yuan	0%
 亱	ye
-亲	qin	0.1%
-亲	qing	0.1%
-亲	zhen	98%
+亲	qin	0%
+亲	qing	0%
+亲	xin	10%
+亲	zhen	90%
 亳	bo
 亴	you
 亵	xie
