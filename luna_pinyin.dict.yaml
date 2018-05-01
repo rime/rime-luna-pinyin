@@ -19506,8 +19506,7 @@ use_preset_vocabulary: true
 甩	shuai
 甪	lu
 甫	fu
-甬	tong	0%
-甬	yong	100%
+甬	yong
 甭	beng
 甮	beng
 甮	fong
@@ -20871,7 +20870,6 @@ use_preset_vocabulary: true
 祫	xia
 祬	zhi
 祭	ji	100%
-祭	zha	0%
 祭	zhai	0%
 祮	gao
 祯	zhen
