@@ -2,7 +2,7 @@
 
 配方： ℞ **luna-pinyin**
 
-[Rime](http://rime.im) 拼音輸入方案
+[Rime](https://rime.im) 拼音輸入方案
 
 致敬 [昇陽拼音](https://github.com/sunpinyin/sunpinyin)
 
