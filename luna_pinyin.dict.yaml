@@ -49281,7 +49281,6 @@ use_preset_vocabulary: true
 不忘溝壑	bu wang gou he
 不忘溝壑	bu wang gou huo
 不快樂	bu kuai le
-不怯氣	bu que qi
 不恁麼	bu nen me
 不恁麼	bu ren me
 不愆	bu qian
@@ -51388,7 +51387,6 @@ use_preset_vocabulary: true
 加里波的	jia li bo di
 加重	jia zhong
 加長	jia chang
-劣怯	lie que
 劣行	lie xing
 劣角	lie jiao
 劣跡昭著	lie ji zhao zhu
@@ -51453,7 +51451,6 @@ use_preset_vocabulary: true
 勞什子	lao shi zi
 勞什骨子	lao shi gu zi
 勞尊重	lao zun zhong
-勞怯	lao que
 勞臺重	lao tai zhong
 勢傾朝野	shi qing chao ye
 勢力並行	shi li bing xing
@@ -51581,7 +51578,6 @@ use_preset_vocabulary: true
 半生半熟	ban sheng ban shu
 半角	ban jiao
 半酣	ban han
-卑怯	bei que
 卑薄	bei bo
 卒中	cu zhong
 卒乍	cu zha
@@ -52177,9 +52173,12 @@ use_preset_vocabulary: true
 呫呫	che che
 呫嚅	che ru
 呫囁	che zhe
+呱呱	gu gu
 呱呱	gua gua
 呱呱	wa wa
+呱呱墜地	gu gu zhui di
 呱呱墜地	wa wa zhui di
+呱呱墮地	gu gu duo di
 呱呱墮地	wa wa duo di
 呲牙	ci ya
 呲牙裂嘴	ci ya lie zui
@@ -52562,6 +52561,7 @@ use_preset_vocabulary: true
 喬志	jiao zhi
 喬志	qiao zhi
 喬怯	jiao qie
+喬怯	qiao qie
 喬怯	qiao que
 喬模喬樣	qiao mu qiao yang
 喬詰	qiao jie
@@ -53566,7 +53566,6 @@ use_preset_vocabulary: true
 大剛來	dai gang lai
 大剛喒	dai gang zan
 大功率	da gong lv
-大勇若怯	da yong ruo que
 大古	dai gu
 大古裏彩	dai gu li cai
 大吃大嚼	da chi da jiao
@@ -54153,8 +54152,6 @@ use_preset_vocabulary: true
 嬌娜	jiao nuo
 嬌嫩	jiao nen
 嬌嬈	jiao rao
-嬌怯	jiao que
-嬌怯怯	jiao que que
 嬌皮嫩肉	jiao pi nen rou
 嬛佞	xuan ning
 嬛嬛	qiong qiong
@@ -54498,7 +54495,6 @@ use_preset_vocabulary: true
 富彊	fu qiang
 富貴草頭露	fu gui cao tou lu
 寒地訓練	han di xun lian
-寒怯	han que
 寒燠	han ao
 寒畯	han jun
 寒痹	han bi
@@ -54633,7 +54629,6 @@ use_preset_vocabulary: true
 小年朝	xiao nian zhao
 小底	xiao de
 小弁	xiao pan
-小怯大勇	xiao que da yong
 小憩	xiao qi
 小扒頭	xiao pa tou
 小時了了	xiao shi liao liao
@@ -55272,7 +55267,6 @@ use_preset_vocabulary: true
 弩箭離絃	nu jian li xian
 弭棹	mi zhao
 弭節徘徊	mi jie pai huai
-弱怯怯	ruo que que
 張僧繇	zhang seng you
 張家長李家短	zhang jia chang li jia duan
 張弓挾矢	zhang gong xie shi
@@ -55596,7 +55590,6 @@ use_preset_vocabulary: true
 心廣體胖	xin guang ti pan
 心弦	xin xian
 心律調節器	xin lv tiao jie qi
-心怯	xin que
 心懸兩地	xin xuan liang di
 心旌搖曳	xin jing yao ye
 心旌搖曳	xin jing yao yi
@@ -55731,34 +55724,12 @@ use_preset_vocabulary: true
 怫然變色	fu ran bian se
 怫異	bei yi
 怫鬱	fu yu
-怯上	que shang
-怯口	que kou
-怯場	que chang
-怯夫	que fu
-怯弱	que ruo
-怯怯	que que
-怯怯喬喬	que que qiao qiao
-怯怯的	qie qie de
-怯怯羞羞	que que xiu xiu
-怯憐戶	que lian hu
-怯懦	que nuo
-怯死	que si
-怯牀	que chuang
-怯生	que sheng
-怯生生	que sheng sheng
-怯症	que zheng
-怯禮	que li
-怯聲怯氣	que sheng que qi
-怯話	que hua
-怯陣	que zhen
-怯頭怯惱	que tou que nao
 恁地	nen de
 恁地	ren de
 恁的	nen de
 恁的	ren de
 恁麼	nen me
 恁麼	ren me
-恇怯	kuang que
 恐嚇	kong he
 恐嚇信	kong he xin
 恐嚇性	kong he xing
@@ -55851,7 +55822,6 @@ use_preset_vocabulary: true
 悽愴	qi chuang
 惄如調饑	ni ru tiao ji
 情仇	qing chou
-情怯	qing que
 情感天地	qing gan tian di
 情投意洽	qing tou yi qia
 情投意洽	qing tou yi xia
@@ -56082,7 +56052,6 @@ use_preset_vocabulary: true
 懸車致仕	xuan che zhi shi
 懸車致仕	xuan ju zhi shi
 懸針垂露	xuan zhen chui lou
-懼怯	ju que
 懽喜	huan xi
 懽悰	huan cong
 懾人	zhe ren
@@ -61564,7 +61533,6 @@ use_preset_vocabulary: true
 町畽	ting tuan
 畋獵	tian lie
 畏影惡跡	wei ying wu ji
-畏怯	wei que
 畏葸	wei xi
 畏葸不前	wei xi bu qian
 留宿	liu su
@@ -61781,7 +61749,6 @@ use_preset_vocabulary: true
 瘢痆	ban nie
 瘦削	shou xue
 瘦小枯乾	shou xiao ku gan
-瘦怯怯	shou qie qie
 瘦括括	shou gua gua
 瘦長	shou chang
 瘧原蟲	nve yuan chong
@@ -63614,8 +63581,6 @@ use_preset_vocabulary: true
 美酒佳肴	mei jiu jia yao
 美饌佳餚	mei zhuan jia yao
 羚羊掛角	ling yang gua jiao
-羞怯	xiu que
-羞怯怯	xiu que que
 羞惡	xiu wu
 羞惡之心	xiu wu zhi xin
 羞與噲伍	xiu yu kuai wu
@@ -64088,7 +64053,6 @@ use_preset_vocabulary: true
 膴仕	wu shi
 膴膴	wu wu
 膻中	dan zhong
-膽怯	dan que
 膽懾	dan zhe
 膽顫心寒	dan zhan xin han
 膽顫心驚	dan zhan xin jing
@@ -64114,7 +64078,6 @@ use_preset_vocabulary: true
 臨了	lin liao
 臨危自省	lin wei zi xing
 臨朝	lin chao
-臨死不怯	lin si bu que
 臨江折軸	lin jiang zhe zhu
 臨深履薄	lin shen lv bo
 臨淵履薄	lin yuan lv bo
@@ -64825,7 +64788,9 @@ use_preset_vocabulary: true
 薄弱	bo ruo
 薄弱環節	bo ruo huan jie
 薄待	bo dai
+薄怯	bo qie
 薄怯	bo que
+薄怯怯	bo qie qie
 薄怯怯	bo que que
 薄情	bo qing
 薄情無義	bo qing wu yi
@@ -64878,6 +64843,7 @@ use_preset_vocabulary: true
 薄荷腦	bo he nao
 薄落	bo luo
 薄薄	bo bo
+薄薄怯怯	bo bo qie qie
 薄薄怯怯	bo bo que que
 薄薄的	bao bao de
 薄藍	bo lan
@@ -65067,7 +65033,6 @@ use_preset_vocabulary: true
 處處長	chu chu zhang
 處長	chu zhang
 虛囂	xu xiao
-虛怯	xu que
 虛憍恃氣	xu jiao shi qi
 虛給	xu ji
 虛聲恫嚇	xu sheng dong he
@@ -67219,7 +67184,6 @@ use_preset_vocabulary: true
 軒裳	xuan chang
 軒騫	xuan qian
 軟和	ruan huo
-軟怯怯	ruan que que
 軟木塞	ruan mu sai
 軟熟	ruan shu
 軟瞇𥉐	ruan mi xi
@@ -67405,7 +67369,6 @@ use_preset_vocabulary: true
 近在咫尺	jin zai zhi chi
 近火先燋	jin huo xian jiao
 近畿	jin ji
-近鄉情怯	jin xiang qing que
 返哺	fan bu
 返景	fan ying
 返本還原	fan ben huan yuan
@@ -67436,8 +67399,6 @@ use_preset_vocabulary: true
 追蹤躡跡	zhui zong nie ji
 追風躡影	zhui feng nie ying
 退佃	tui dian
-退怯怯	tui qie qie
-退怯怯	tui que que
 退省	tui xing
 退耕還林	tui geng huan lin
 退藏於密	tui cang yu mi
@@ -69526,6 +69487,7 @@ use_preset_vocabulary: true
 露布	lu bu
 露底	lou di
 露形	lou xing
+露怯	lou qie
 露怯	lou que
 露才揚己	lu cai yang ji
 露板	lu ban
@@ -69967,7 +69929,6 @@ use_preset_vocabulary: true
 餐風宿露	can feng su lu
 餐風露宿	can feng lu su
 餐風飲露	can feng yin lu
-餒怯	nei que
 餓殍枕藉	e piao zhen jie
 餓莩	e piao
 餓莩載道	e piao zai dao
