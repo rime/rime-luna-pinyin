@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2018.04.15"
+version: "2019.06.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9102,9 +9102,7 @@ use_preset_vocabulary: true
 哉	zai
 哊	yu
 哋	di
-哌	gu
-哌	gua
-哌	wa
+哌	pai
 响	xiang
 哎	ai
 哏	gen
