@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2019.06.27"
+version: "2019.07.24"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -14952,6 +14952,7 @@ use_preset_vocabulary: true
 暟	kai
 暟	qi
 暠	gao
+暠	hao
 暡	weng
 暢	chang
 暣	qi
