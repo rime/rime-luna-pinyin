@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2019.07.24"
+version: "2019.12.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15510,7 +15510,8 @@ use_preset_vocabulary: true
 桤	qi
 桥	qiao
 桦	hua
-桧	gui	59.62%
+桧	gui
+桧	hui
 桨	jiang
 桩	zhuang
 桪	xun
@@ -16172,6 +16173,7 @@ use_preset_vocabulary: true
 檛	guo
 檛	zhua
 檜	gui
+檜	hui
 檜	kuai
 檝	ji
 檞	jie
@@ -59142,7 +59144,9 @@ use_preset_vocabulary: true
 檄糴	xi di
 檉柏	cheng bo
 檉柳	cheng liu
+檜木	gui mu
 檜木	kuai mu
+檜柏	gui bai
 檜柏	kuai bo
 檠天架海	qing tian jia hai
 檢察長	jian cha zhang
@@ -63045,6 +63049,7 @@ use_preset_vocabulary: true
 紅女	gong nv
 紅尾伯勞	hong wei bo lao
 紅榜	hong bang
+紅檜	hong gui
 紅檜	hong kuai
 紅毛番	hong mao fan
 紅線傳	hong xian zhuan
