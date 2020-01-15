@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2019.12.13"
+version: "2020.01.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19137,7 +19137,7 @@ use_preset_vocabulary: true
 珮	pei
 珰	dang
 珲	hui
-珲	hun	13.79%
+珲	hun
 珳	wen
 珴	e
 珵	cheng
@@ -61417,10 +61417,6 @@ use_preset_vocabulary: true
 璚枝	qiong zhi
 璚漿	qiong jiang
 璣琲	ji bei
-璦琿	ai hui
-璦琿區	ai hui qu
-璦琿條約	ai hui tiao yue
-璦琿縣	ai hui xian
 璧還	bi huan
 環伺	huan si
 環境地質學	huan jing di zhi xue
