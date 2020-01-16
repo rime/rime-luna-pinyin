@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2019.12.13"
+version: "2020.01.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19136,7 +19136,8 @@ use_preset_vocabulary: true
 班	ban
 珮	pei
 珰	dang
-珲	hun	13.79%
+珲	hui
+珲	hun
 珳	wen
 珴	e
 珵	cheng
@@ -19225,6 +19226,7 @@ use_preset_vocabulary: true
 琼	qiong
 琽	du
 琾	jie
+琿	hui
 琿	hun
 瑀	yu
 瑁	mao
@@ -61377,6 +61379,10 @@ use_preset_vocabulary: true
 琺瑯	fa lang
 琺瑯彩	fa lang cai
 琺瑯質	fa lang zhi
+琿春	hun chun
+琿春市	hun chun shi
+琿春河	hun chun he
+琿春縣	hun chun xian
 瑕玷	xia dian
 瑕瑜互見	xia yu hu xian
 瑕謫	xia zhe
