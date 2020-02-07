@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2020.01.15"
+version: "2020.02.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8227,7 +8227,7 @@ use_preset_vocabulary: true
 削	xiao	72.30%
 削	xue	27.70%
 剋	ke
-剋	kei	1%
+剋	kei
 剌	la
 前	qian
 剎	cha	7.58%
@@ -8811,8 +8811,8 @@ use_preset_vocabulary: true
 吁	xu	90.45%
 吁	yu	4.55%
 吂	mang
-吃	chi	100%
-吃	ji	0%
+吃	chi
+吃	ji
 各	ge
 吅	lin
 吅	song
@@ -49573,7 +49573,7 @@ use_preset_vocabulary: true
 乞留玎琅	qi liu ding lang
 乞降	qi xiang
 也不攬那磁器傢伙	ye bu lan na ci qi jia huo
-也得蒸熟吃	ye dei zheng shou chi
+也得蒸熟喫	ye dei zheng shou chi
 也曾	ye ceng
 也行	ye xing
 也麼哥	ye mo ge
@@ -49818,7 +49818,7 @@ use_preset_vocabulary: true
 二重性	er chong xing
 二陸	er lu
 二面角	er mian jiao
-二韃子吃螺螄	er da zi chi luo si
+二韃子喫螺螄	er da zi chi luo si
 于嗟	xu jie
 于思	yu sai
 于闐	yu tian
@@ -51951,21 +51951,8 @@ use_preset_vocabulary: true
 吁嗟	xu jie
 吁噓	xu xu
 吁氣	xu qi
-吃不了	chi bu liao
-吃不了兜着走	chi bu liao dou zhe zou
-吃乾醋	chi gan cu
-吃什麼	chi shen me
-吃勁	chi jin
 吃口令	ji kou ling
-吃喝玩樂	chi he wan le
-吃地面	chi di mian
 吃子	ji zi
-吃幾碗乾飯	chi ji wan gan fan
-吃得了	chi de liao
-吃虧就是占便宜	chi kui jiu shi zhan pian yi
-吃裏扒外	chi li pa wai
-吃角子老虎	chi jiao zi lao hu
-吃重	chi zhong
 各地	ge di
 各展其長	ge zhan qi chang
 各抱一角	ge bao yi jiao
@@ -52559,7 +52546,20 @@ use_preset_vocabulary: true
 喧囂	xuan xiao
 喧闐	xuan tian
 喪榜	sang bang
+喫不了	chi bu liao
+喫不了兜着走	chi bu liao dou zhe zou
+喫乾醋	chi gan cu
+喫什麼	chi shen me
+喫勁	chi jin
+喫喝玩樂	chi he wan le
+喫地面	chi di mian
+喫幾碗乾飯	chi ji wan gan fan
+喫得了	chi de liao
 喫着不盡	chi zhuo bu jin
+喫虧就是占便宜	chi kui jiu shi zhan pian yi
+喫裏扒外	chi li pa wai
+喫角子老虎	chi jiao zi lao hu
+喫重	chi zhong
 喬志	jiao zhi
 喬志	qiao zhi
 喬怯	jiao qie
@@ -53569,11 +53569,11 @@ use_preset_vocabulary: true
 大功率	da gong lv
 大古	dai gu
 大古裏彩	dai gu li cai
-大吃大嚼	da chi da jiao
 大品般若	da pin bo re
 大唐三藏取經詩話	da tang san zang qu jing shi hua
 大啖一番	da dan yi fan
 大喏	da re
+大喫大嚼	da chi da jiao
 大單于	da chan yu
 大回朝	da hui chao
 大圈仔	da quan zi
@@ -54652,7 +54652,7 @@ use_preset_vocabulary: true
 少不了	shao bu liao
 少不更事	shao bu geng shi
 少不更事	shao bu jing shi
-少吃無着	shao chi wu zhuo
+少喫無着	shao chi wu zhuo
 少女嫩婦	shao nv nen fu
 少差	shao chai
 少憩	shao qi
@@ -54693,7 +54693,7 @@ use_preset_vocabulary: true
 局局長	ju ju zhang
 局部地區	ju bu di qu
 局長	ju zhang
-屁股裏吃人參	pi gu li chi ren shen
+屁股裏喫人參	pi gu li chi ren shen
 屁鳥人	pi diao ren
 居不重席	ju bu chong xi
 居不重茵	ju bu chong yin
@@ -56194,7 +56194,7 @@ use_preset_vocabulary: true
 手足重繭	shou zu chong jian
 手長的	shou chang de
 手長衣袖短	shou chang yi xiu duan
-手面賺吃	shou mian zhuan chi
+手面賺喫	shou mian zhuan chi
 才疏德薄	cai shu de bo
 才行	cai xing
 才調	cai diao
@@ -56529,7 +56529,7 @@ use_preset_vocabulary: true
 抹了	mo le
 抹去	mo qu
 抹嘴	mo zui
-抹嘴吃	mo zui chi
+抹嘴喫	mo zui chi
 抹土搽灰	mo tu cha hui
 抹媚	mo mei
 抹子	mo zi
@@ -56697,7 +56697,7 @@ use_preset_vocabulary: true
 拚命	pan ming
 拚捨	pan she
 拚棄	pan qi
-拚死吃河豚	pan si chi he tun
+拚死喫河豚	pan si chi he tun
 拚生盡死	pan sheng jin si
 拚絕	pan jue
 拚老命	pan lao ming
@@ -57305,7 +57305,7 @@ use_preset_vocabulary: true
 撦鼓奪旗	che gu duo qi
 撩東劄西	liao dong zha xi
 撩東撾西	liao dong zhua xi
-撩蜂吃螫	liao feng chi zhe
+撩蜂喫螫	liao feng chi zhe
 撫尸慟哭	fu shi tong ku
 撫膺大慟	fu ying da tong
 撫髀	fu bi
@@ -57549,7 +57549,7 @@ use_preset_vocabulary: true
 效率	xiao lv
 效率高	xiao lv gao
 敏給	min ji
-救之就要吃人肉	jiu zhi jiu yao chi ren rou
+救之就要喫人肉	jiu zhi jiu yao chi ren rou
 救火揚沸	jiu huo yang fei
 敕賜	chi ci
 敕賜	chi si
@@ -59325,7 +59325,7 @@ use_preset_vocabulary: true
 死亡給付	si wang ji fu
 死亦瞑目	si yi ming mu
 死傷相藉	si shang xiang jie
-死吃死嚼	si chi si jiao
+死喫死嚼	si chi si jiao
 死地	si di
 死地求生	si di qiu sheng
 死心倒地	si xin dao di
@@ -61116,7 +61116,7 @@ use_preset_vocabulary: true
 狗仔隊	gou zai dui
 狗屠角牴	gou tu jiao di
 狗心狗行	gou xin gou xing
-狗改不了吃屎	gou gai bu liao chi shi
+狗改不了喫屎	gou gai bu liao chi shi
 狗血噴臉	gou xie pen lian
 狗血噴臉	gou xue pen lian
 狗血噴頭	gou xie pen tou
@@ -61139,8 +61139,8 @@ use_preset_vocabulary: true
 狹長	xia chang
 狹隘	xia ai
 狺狺	yin yin
-狼吃幞頭	lang chi pu tou
 狼吞虎咽	lang tun hu yan
+狼喫幞頭	lang chi pu tou
 狼嗥	lang hao
 狼嗥鬼叫	lang hao gui jiao
 狼心狗行	lang xin gou xing
@@ -61202,7 +61202,7 @@ use_preset_vocabulary: true
 獏猺	mu yao
 獑胡	chan hu
 獝狂	xu kuang
-獨吃自痾	du chi zi e
+獨喫自痾	du chi zi e
 獨宿	du su
 獨弦哀歌	du xian ai ge
 獨斷專行	du duan zhuan xing
@@ -61766,7 +61766,7 @@ use_preset_vocabulary: true
 癆瘵	lao zhai
 癉瘧	dan nve
 癩蝦蟆	lai ha ma
-癩蝦蟆想吃天鵝肉	lai ha ma xiang chi tian e rou
+癩蝦蟆想喫天鵝肉	lai ha ma xiang chi tian e rou
 癬疥	xian jie
 癰疽	yong ju
 登山驀嶺	deng shan mo ling
@@ -62820,7 +62820,7 @@ use_preset_vocabulary: true
 窺覬	kui ji
 竈下婢	zao xia bi
 竈地	zao di
-立吃地陷	li chi di xian
+立喫地陷	li chi di xian
 立地	li di
 立地成佛	li di cheng fo
 立地書廚	li di shu chu
@@ -66609,7 +66609,7 @@ use_preset_vocabulary: true
 豪釐千里	hao li qian li
 豫西山地	yu xi shan di
 豬仔	zhu zai
-豬八戒吃人參果	zhu ba jie chi ren shen guo
+豬八戒喫人參果	zhu ba jie chi ren shen guo
 豬圈	zhu juan
 豬肉乾	zhu rou gan
 豺狼塞路	chai lang se lu
