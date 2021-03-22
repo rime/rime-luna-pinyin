@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2020.02.08"
+version: "2021.03.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -17121,8 +17121,7 @@ use_preset_vocabulary: true
 涉	she
 涊	nian
 涋	tu
-涌	chong	0%
-涌	yong
+涌	chong
 涍	xiao
 涎	xian
 涎	yan
@@ -59989,7 +59988,7 @@ use_preset_vocabulary: true
 洲際飛彈	zhou ji fei dan
 洴澼絖	ping pi kuang
 洴澼藥	ping pi yao
-洶涌澎湃	xiong yong peng pai
+洶湧澎湃	xiong yong peng pai
 洸洋	guang yang
 洸洸	guang guang
 洸洸	huang huang
