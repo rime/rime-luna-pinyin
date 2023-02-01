@@ -9921,6 +9921,7 @@ use_preset_vocabulary: true
 在	zai
 圩	wei
 圩	yu
+圩	xu
 圪	ge
 圪	yi
 圫	ao
@@ -17150,8 +17151,8 @@ use_preset_vocabulary: true
 涉	she
 涊	nian
 涋	tu
-涌	chong	0%
-涌	yong
+涌	chong
+涌	yong  0%
 涍	xiao
 涎	xian
 涎	yan
@@ -19306,7 +19307,7 @@ use_preset_vocabulary: true
 瑥	wen
 瑦	wu
 瑧	jin
-瑧	qin
+瑧	zhen
 瑨	jin
 瑩	ying
 瑪	ma
@@ -25969,7 +25970,7 @@ use_preset_vocabulary: true
 覂	feng
 覃	qin	80%
 覃	tan	10%
-覃	xun	10%
+覃	yan	10%
 覅	fiao
 覆	fu
 覇	ba
@@ -28568,7 +28569,6 @@ use_preset_vocabulary: true
 醭	bu
 醭	pu
 醮	jiao
-醯	hai
 醯	xi
 醰	tan
 醱	po
@@ -49621,6 +49621,7 @@ use_preset_vocabulary: true
 之重	zhi zhong
 之長	zhi chang
 乍入蘆圩	zha ru lu yu
+乍入蘆圩	zha ru lu wei
 乍暖還寒	zha nuan huan han
 乍熟	zha shu
 乏地	fa di
@@ -53022,9 +53023,13 @@ use_preset_vocabulary: true
 在莒	zai ju
 在行	zai hang
 圩堤	yu di
+圩堤	wei di
 圩堤	yu ti
+圩堤	wei ti
 圩子	yu zi
+圩子	wei zi
 圩田	yu tian
+圩田	wei tian
 圭臬	gui nie
 圭角	gui jiao
 圮剝	pi bo
@@ -60073,7 +60078,7 @@ use_preset_vocabulary: true
 洲際飛彈	zhou ji fei dan
 洴澼絖	ping pi kuang
 洴澼藥	ping pi yao
-洶涌澎湃	xiong yong peng pai
+洶湧澎湃	xiong yong peng pai
 洸洋	guang yang
 洸洸	guang guang
 洸洸	huang huang
@@ -63327,6 +63332,7 @@ use_preset_vocabulary: true
 綜括	zong kuo
 綝纚	lin shi
 綠地	lv di
+綠林	lu lin
 綠耳	lu er
 綠色行銷	lv se xing xiao
 綠螘	lu yi
