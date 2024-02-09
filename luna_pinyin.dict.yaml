@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2020.08.03"
+version: "2024.02.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -66982,6 +66982,7 @@ use_preset_vocabulary: true
 起高調	qi gao diao
 趁熟	chen shou
 趄趄	ju ju
+趄趄	qie qie
 超感覺	chao gan jue
 超詣	chao yi
 超重	chao zhong
@@ -66996,7 +66997,9 @@ use_preset_vocabulary: true
 趑趄不前	zi ju bu qian
 趑趄卻顧	zi ju que gu
 趔趄	lie ju
+趔趄	lie qie
 趔趔趄趄	lie lie ju ju
+趔趔趄趄	lie lie qie qie
 趕着增福神着棍打	gan zhe zeng fu shen zhao gun da
 趙令畤	zhao ling zhi
 趙伯駒	zhao bo ju
