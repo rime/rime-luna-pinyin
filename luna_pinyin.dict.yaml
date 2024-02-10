@@ -28,7 +28,7 @@
 
 ---
 name: luna_pinyin
-version: "2024.02.09"
+version: "2024.02.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -66995,8 +66995,6 @@ use_preset_vocabulary: true
 趑趄	zi ju
 趑趄不前	zi ju bu qian
 趑趄卻顧	zi ju que gu
-趔趄	lie ju
-趔趄	lie qie
 趔趔趄趄	lie lie ju ju
 趔趔趄趄	lie lie qie qie
 趕着增福神着棍打	gan zhe zeng fu shen zhao gun da
