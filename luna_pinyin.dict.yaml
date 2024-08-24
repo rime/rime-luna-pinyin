@@ -22418,8 +22418,8 @@ use_preset_vocabulary: true
 繨	da
 繩	sheng
 繪	hui
-繫	ji	0.30%
-繫	xi	99.70%
+繫	ji	10%
+繫	xi	90%
 繬	se
 繭	jian
 繮	gang
@@ -49456,7 +49456,11 @@ use_preset_vocabulary: true
 不給	bu gei
 不給	bu ji
 不繆	bu miu
+不繫	bu ji
+不繫	bu xi
+不繫舟	bu xi zhou
 不老長生	bu lao chang sheng
+不聯繫	bu lian xi
 不能自給	bu neng zi ji
 不腆	bu tian
 不自覺	bu zi jue
@@ -49916,6 +49920,7 @@ use_preset_vocabulary: true
 于思	yu sai
 于闐	yu tian
 于飛之樂	yu fei zhi le
+互相聯繫	hu xiang lian xi
 互調	hu diao
 五一長假	wu yi chang jia
 五伯	wu ba
@@ -50473,6 +50478,7 @@ use_preset_vocabulary: true
 俛首聽命	fu shou ting ming
 俛首自招	fu shou zi zhao
 保俶塔	bao chu ta
+保持聯繫	bao chi lian xi
 保留地	bao liu di
 保藏	bao cang
 保重	bao zhong
@@ -50888,6 +50894,7 @@ use_preset_vocabulary: true
 內出血	nei chu xie
 內出血	nei chu xue
 內參	nei can
+內在聯繫	nei zai lian xi
 內地	nei di
 內地稅	nei di shui
 內地雜居	nei di za ju
@@ -50905,6 +50912,7 @@ use_preset_vocabulary: true
 內角	nei jiao
 內角球	nei jiao qiu
 內調	nei diao
+內部聯繫	nei bu lian xi
 內錯角	nei cuo jiao
 內長城	nei chang cheng
 內陸	nei lu
@@ -51915,6 +51923,7 @@ use_preset_vocabulary: true
 叔伯	shu bo
 叔梁紇	shu liang he
 取償	qu chang
+取得聯繫	qu de lian xi
 取樂	qu le
 取給	qu ji
 取長補短	qu chang bu duan
@@ -52878,6 +52887,7 @@ use_preset_vocabulary: true
 囊括	nang gua
 囊括	nang kuo
 囚攮的	qiu nang de
+囚繫	qiu xi
 四不拗六	si bu ao liu
 四加行	si jia xing
 四塞	si sai
@@ -53649,6 +53659,7 @@ use_preset_vocabulary: true
 夜靜更長	ye jing geng chang
 夠勁	gou jin
 夠情調	gou qing diao
+夢繫	meng xi
 夢蘭叶吉	meng lan xie ji
 夢行症	meng xing zheng
 夢覺黃粱	meng jue huang liang
@@ -54585,6 +54596,7 @@ use_preset_vocabulary: true
 寄宿生	ji su sheng
 寄還	ji huan
 寄還給	ji huan gei
+密切聯繫	mi qie lian xi
 密地	mi di
 密斯忒	mi si te
 密點地圖	mi dian di tu
@@ -55551,6 +55563,7 @@ use_preset_vocabulary: true
 後傳	hou zhuan
 後半晌	hou ban shang
 後天失調	hou tian shi tiao
+後座繫	hou zuo xi
 後掠角	hou lve jiao
 後晌	hou shang
 後知後覺	hou zhi hou jue
@@ -55701,6 +55714,8 @@ use_preset_vocabulary: true
 心率	xin lv
 心病還得心藥醫	xin bing hai dei xin yao yi
 心癢難撾	xin yang nan zhua
+心相繫	xin xiang xi
+心繫	xin xi
 心肌梗塞	xin ji geng se
 心腹重患	xin fu zhong huan
 心膂爪牙	xin lv zhao ya
@@ -55934,6 +55949,7 @@ use_preset_vocabulary: true
 情深義重	qing shen yi zhong
 情熟	qing shu
 情節嚴重	qing jie yan zhong
+情繫	qing xi
 情見乎言	qing xian hu yan
 情見乎辭	qing xian hu ci
 情見力屈	qing xian li qu
@@ -56210,6 +56226,7 @@ use_preset_vocabulary: true
 戕敗	qiang bai
 戕賊	qiang ze
 或然率	huo ran lv
+或繫之牛	huo xi zhi niu
 戛戛	jia jia
 戛然	jia ran
 戛然而止	jia ran er zhi
@@ -56272,6 +56289,7 @@ use_preset_vocabulary: true
 所得彈性	suo de tan xing
 所所長	suo suo chang
 所着	suo zhuo
+所繫	suo xi
 所著	suo zhu
 扁柏	bian bo
 扁毛畜生	bian mao chu sheng
@@ -56798,6 +56816,7 @@ use_preset_vocabulary: true
 拗體詩	ao ti shi
 拘攣	ju lvan
 拘攣補衲	ju lvan bu na
+拘繫	ju xi
 拙著	zhuo zhu
 拚卻	pan que
 拚命	pan ming
@@ -56945,9 +56964,11 @@ use_preset_vocabulary: true
 捏弄	nie long
 捐血	juan xie
 捐血	juan xue
+捕影繫風	bu ying xi feng
 捕捉畋獵	bu zhuo tian lie
 捕緝	bu ji
 捕緝	bu qi
+捕風繫影	bu feng xi ying
 捧哏	peng gen
 捧檄	peng xi
 捧角	peng jue
@@ -57459,6 +57480,7 @@ use_preset_vocabulary: true
 操奇計贏	cao ji ji ying
 操行	cao xing
 擐甲披袍	huan jia pi pao
+擐繫	huan xi
 擒奸摘伏	qin jian ti fu
 擒姦擿伏	qin jian ti fu
 擔仔麪	dan zi mian
@@ -58281,6 +58303,7 @@ use_preset_vocabulary: true
 有的放矢	you di fang shi
 有着落	you zhuo luo
 有給職	you ji zhi
+有聯繫	you lian xi
 有行無市	you hang wu shi
 有誰知道	you shui zhi dao
 有賺頭	you zhuan tou
@@ -58583,6 +58606,7 @@ use_preset_vocabulary: true
 東瓜茄子	dong gua qie zi
 東碰西撞	dong peng xi zhuang
 東穿西撞	dong chuan xi zhuang
+東芝醫療繫	dong zhi yi liao xi
 東莞	dong guan
 東莞市	dong guan shi
 東莞縣	dong guan xian
@@ -59847,6 +59871,7 @@ use_preset_vocabulary: true
 沒有什麼	mei you shen me
 沒有什麼道理	mei you shen me dao li
 沒有感覺	mei you gan jue
+沒有聯繫	mei you lian xi
 沒有長羽毛就忘了根本	mei you zhang yu mao jiu wang le gen ben
 沒查沒利	mei zha mei li
 沒死以聞	mo si yi wen
@@ -61018,6 +61043,8 @@ use_preset_vocabulary: true
 燕樂考源	yan yue kao yuan
 燕歌行	yan ge xing
 燕語呢喃	yan yu ni nan
+燕足繫書	yan zu xi shu
+燕足繫詩	yan zu xi shi
 燕雀安知鴻鵠志	yan que an zhi hong hu zhi
 燕雀豈知鴻鵠志	yan que qi zhi hong hu zhi
 營地	ying di
@@ -61168,6 +61195,7 @@ use_preset_vocabulary: true
 特長	te chang
 特高頻率	te gao pin lv
 牽掣	qian che
+牽繫	qian xi
 牽裳	qian chang
 犀牛角	xi niu jiao
 犀角	xi jiao
@@ -61452,6 +61480,7 @@ use_preset_vocabulary: true
 理事長	li shi zhang
 理塞	li se
 理番通事	li fan tong shi
+理論聯繫實際	li lun lian xi shi ji
 琛板	chen ban
 琛貢	chen gong
 琛賮	chen jin
@@ -62029,6 +62058,7 @@ use_preset_vocabulary: true
 的確良	di que liang
 的篤戲	di du xi
 的耗	di hao
+的聯繫	de lian xi
 的見	di jian
 的黎波里	di li bo li
 皇帝不差餓兵	huang di bu chai e bing
@@ -62068,6 +62098,7 @@ use_preset_vocabulary: true
 益者三樂	yi zhe san yao
 盍簪	he zan
 盎格魯撒克遜人	ang ge lu sa ke sun ren
+盎盂相繫	ang yu xiang xi
 盛不忘衰	sheng bu wang shuai
 盛世	sheng shi
 盛事	sheng shi
@@ -62139,6 +62170,7 @@ use_preset_vocabulary: true
 盡其所長	jin qi suo chang
 盡展所長	jin zhan suo chang
 盡情吐露	jin qing tu lu
+監繫	jian xi
 盤亙	pan gen
 盤古大陸	pan gu da lu
 盤底朝天	pan di chao tian
@@ -62181,6 +62213,7 @@ use_preset_vocabulary: true
 直率	zhi shuai
 直着	zhi zhuo
 直節勁氣	zhi jie jing qi
+直繫	zhi xi
 直行	zhi xing
 直裰	zhi duo
 直覺	zhi jue
@@ -62209,6 +62242,7 @@ use_preset_vocabulary: true
 相稱	xiang chen
 相稱	xiang cheng
 相簿	xiang bu
+相聯繫	xiang lian xi
 相輔而行	xiang fu er xing
 相須而行	xiang xu er xing
 相驚伯有	xiang jing bo you
@@ -63159,7 +63193,9 @@ use_preset_vocabulary: true
 紅檜	hong gui
 紅檜	hong kuai
 紅毛番	hong mao fan
+紅絲暗繫	hong si an xi
 紅線傳	hong xian zhuan
+紅繩繫足	hong sheng xi zu
 紅苕	hong shao
 紅茄苳	hong jia dong
 紅血球	hong xie qiu
@@ -63353,6 +63389,8 @@ use_preset_vocabulary: true
 綦重	qi zhong
 維德角共和國	wei de jiao gong he guo
 維摩詰	wei mo jie
+維繫	wei xi
+維繫人心	wei xi ren xin
 綱常掃地	gang chang sao di
 綱紀廢弛	gang ji fei shi
 網上銀行	wang shang yin hang
@@ -63381,8 +63419,10 @@ use_preset_vocabulary: true
 緄帶	gun dai
 緄邊	gun bian
 緊仔	jin zi
+緊密聯繫	jin mi lian xi
 緊差緊做	jin chai jin zuo
 緊急避難行爲	jin ji bi nan xing wei
+緊繫	jin xi
 緊行無好步	jin xing wu hao bu
 緙絲	ke si
 線坯子	xian pei zi
@@ -63443,6 +63483,7 @@ use_preset_vocabulary: true
 練習簿	lian xi bu
 練裳	lian chang
 緹騎	ti ji
+縈繫	ying xi
 縑帛	jian bo
 縑素	jian su
 縑緗	jian xiang
@@ -63501,6 +63542,7 @@ use_preset_vocabulary: true
 縱軸	zong zhou
 縲紲	lei xie
 縲絏	lei xie
+縻繫	mi xi
 總丱	zong guan
 總得	zong dei
 總括	zong gua
@@ -63545,15 +63587,59 @@ use_preset_vocabulary: true
 繡閣長春	xiu ge chang chun
 繩愆糾謬	sheng qian jiu miu
 繩樞之士	sheng shu zhi shi
+繫	xi
+繫一線	xi yi xian
 繫上	ji shang
+繫世	xi shi
+繫了	xi le
+繫住	xi zhu
+繫個	xi ge
 繫到	ji dao
+繫命	xi ming
+繫囚	xi qiu
 繫好	ji hao
+繫帶	xi dai
+繫心	xi xin
+繫念	xi nian
+繫懷	xi huai
+繫戀	xi lian
+繫捻兒	xi nian er
+繫於	xi yu
+繫於一髮	xi yu yi fa
+繫有	xi you
+繫條	xi tiao
+繫泊	xi bo
 繫爪	xi zhao
 繫爪	xi zhua
+繫牢	ji lao
+繫獄	xi yu
+繫留	xi liu
+繫着	xi zhe
+繫系	xi xi
+繫累	xi lei
+繫結	xi jie
+繫絲帶	xi si dai
 繫緊	ji jin
+繫縛	xi fu
 繫繩	ji sheng
+繫纜	ji lan
+繫而不食	xi er bu shi
+繫腰	xi yao
+繫臂之寵	xi bi zhi chong
+繫船樁	xi chuan zhuang
+繫裹	xi guo
+繫褲子	ji ku zi
+繫趾	xi zhi
+繫辭	xi ci
+繫鈴人	xi ling ren
+繫鈴解鈴	xi ling jie ling
 繫鞋帶	ji xie dai
+繫頭巾	ji tou jin
+繫頸	xi jing
+繫風捕影	xi feng bu ying
 繫風捕景	xi feng bu ying
+繫馬	xi ma
+繫髮帶	ji fa dai
 繭纖維	jian xian wei
 繳械	jiao xie
 繳還	jiao huan
@@ -63671,6 +63757,7 @@ use_preset_vocabulary: true
 羈棲	ji qi
 羈泊	ji bo
 羈絏	ji xie
+羈繫	ji xi
 羊撞籬笆	yang zhuang li ba
 羊栖菜	yang xi cai
 羊祜	yang hu
@@ -63871,6 +63958,7 @@ use_preset_vocabulary: true
 耶穌基督	ye su ji du
 耶穌教	ye su jiao
 耶穌會	ye su hui
+耽干繫	dan gan xi
 耽樂	dan le
 聆樂	ling yue
 聊以塞責	liao yi se ze
@@ -63927,6 +64015,22 @@ use_preset_vocabulary: true
 聯合參謀	lian he can mou
 聯彈	lian tan
 聯絡簿	lian luo bu
+聯繫	lian xi
+聯繫上	lian xi shang
+聯繫人	lian xi ren
+聯繫你	lian xi ni
+聯繫到	lian xi dao
+聯繫匯率	lian xi hui lv
+聯繫國	lian xi guo
+聯繫實際	lian xi shi ji
+聯繫我	lian xi wo
+聯繫方式	lian xi fang shi
+聯繫業務	lian xi ye wu
+聯繫羣衆	lian xi qun zhong
+聯繫起來	lian xi qi lai
+聯繫過	lian xi guo
+聯繫電話	lian xi dian hua
+聯繫點	lian xi dian
 聯調	lian tiao
 聯軸器	lian zhou qi
 聰了	cong liao
@@ -64127,6 +64231,8 @@ use_preset_vocabulary: true
 腦貧血	nao pin xue
 腦鑿子	nao zao zi
 腫噲	zhong kuai
+腰繫	yao ji
+腰間繫	yao jian ji
 腳不沾地	jiao bu zhan di
 腳不點地	jiao bu dian di
 腳勁	jiao jin
@@ -64138,6 +64244,7 @@ use_preset_vocabulary: true
 腳踏實地	jiao ta shi di
 腸液	chang ye
 腸粘連	chang nian lian
+腸繫膜	chang xi mo
 腸肥腦滿	chang fei man nao
 腸阻塞	chang zu se
 腹便便	fu pian pian
@@ -66160,6 +66267,10 @@ use_preset_vocabulary: true
 解縣	xie xian
 解聘	jie pin
 解調器	jie tiao qi
+解鈴仍須繫鈴人	jie ling reng xu xi ling ren
+解鈴繫鈴	jie ling xi ling
+解鈴還是繫鈴人	jie ling hai shi xi ling ren
+解鈴還須繫鈴人	jie ling hai xu xi ling ren
 解開疙瘩	jie kai ge da
 觭夢	ji meng
 觭輪	ji lun
@@ -66535,6 +66646,7 @@ use_preset_vocabulary: true
 請參考	qing can kao
 請參閱	qing can yue
 請給	qing ji
+請聯繫	qing lian xi
 請自行	qing zi xing
 諒陰	liang an
 諓諓	jian jian
@@ -66982,6 +67094,7 @@ use_preset_vocabulary: true
 赤地千里	chi di qian li
 赤墀	chi chi
 赤嵌樓	chi kan lou
+赤繩繫足	chi sheng xi zu
 赤血丹心	chi xie dan xin
 赤血丹心	chi xue dan xin
 赤血鹽	chi xie yan
@@ -67226,6 +67339,7 @@ use_preset_vocabulary: true
 身無擇行	shen wu ze xing
 身無長物	shen wu zhang wu
 身着	shen zhuo
+身繫囹圄	shen xi ling yu
 身長	shen chang
 身陷縲絏	shen xian lei xie
 身體力行	shen ti li xing
@@ -67616,9 +67730,13 @@ use_preset_vocabulary: true
 連朝接夕	lian zhao jie xi
 連營畫角	lian ying hua jue
 連番	lian fan
+連繫	lian xi
+連繫詞	lian xi ci
+連繫起來	lian xi qi lai
 連蜷	lian quan
 連長	lian zhang
 逭暑	huan shu
+逮繫	dai xi
 逮逮	di di
 進不了	jin bu liao
 進剿	jin jiao
@@ -69570,6 +69688,7 @@ use_preset_vocabulary: true
 電視遊樂器	dian shi you le qi
 電話祕書	dian hua mi shu
 電話簿	dian hua bu
+電話聯繫	dian hua lian xi
 需要什麼	xu yao shen me
 震天價響	zhen tian ga xiang
 震天動地	zhen tian dong di
@@ -70385,6 +70504,7 @@ use_preset_vocabulary: true
 鬼飯疙瘩	gui fan ge da
 鬼魅伎倆	gui mei ji liang
 魂消氣泄	hun xiao qi xie
+魂牽夢繫	hun qian meng xi
 魆地	xu di
 魆魆	xu xu
 魆黑	xu hei
