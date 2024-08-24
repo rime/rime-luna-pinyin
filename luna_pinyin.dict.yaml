@@ -27830,7 +27830,8 @@ use_preset_vocabulary: true
 轆	lu
 轇	jiu
 轈	chao
-轉	zhuan
+轉	zhuai	0.1%
+轉	zhuan	99.9%
 轊	wei
 轋	hun
 轋	lian
@@ -67524,6 +67525,8 @@ use_preset_vocabulary: true
 轉圜	zhuan huan
 轉彎抹角	zhuan wan mo jiao
 轉捩點	zhuan lie dian
+轉文	zhuai wen
+轉文	zhuan wen
 轉死溝壑	zhuan si gou he
 轉死溝壑	zhuan si gou huo
 轉灣抹角	zhuan wan mo jiao
