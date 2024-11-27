@@ -19947,6 +19947,7 @@ use_preset_vocabulary: true
 癱	tan
 癲	dian
 癳	luo
+癴	luan
 癴	lvan
 癵	luan
 癵	lvan
@@ -24907,6 +24908,7 @@ use_preset_vocabulary: true
 虇	quan
 虈	xiao
 虉	yi
+虊	luan
 虊	lvan
 虋	men
 虌	bie
@@ -54184,7 +54186,6 @@ use_preset_vocabulary: true
 婆藪槃豆法師傳	po sou pan dou fa shi zhuan
 婆那娑	po nuo suo
 婉娩	wan wan
-婉孌	wan lvan
 婐㛂	e nuo
 婑媠	wo tuo
 婚姻失調	hun yin shi tiao
@@ -56103,7 +56104,6 @@ use_preset_vocabulary: true
 憑藉	ping jie
 憔悴	qiao cui
 憔慮	qiao lv
-憤怒痙攣	fen nu jing lvan
 憤愾	fen kai
 憤懣	fen men
 憤薄	fen bo
@@ -56796,8 +56796,6 @@ use_preset_vocabulary: true
 拗蠻	ao man
 拗體	ao ti
 拗體詩	ao ti shi
-拘攣	ju lvan
-拘攣補衲	ju lvan bu na
 拙著	zhuo zhu
 拚卻	pan que
 拚命	pan ming
@@ -56843,7 +56841,6 @@ use_preset_vocabulary: true
 拱手垂裳	gong shou chui chang
 拱手投降	gong shou tou xiang
 拱手而降	gong shou er xiang
-拳攣	quan lvan
 拴搐豔段	shuan chu yan duan
 拴着	shuan zhe
 拶子	zan zi
@@ -57540,10 +57537,8 @@ use_preset_vocabulary: true
 攢蹄	cuan ti
 攢蹙	cuan cu
 攢露	cuan lou
-攣弱	lvan ruo
+攣攣	luan luan
 攣攣	lvan lvan
-攣踠	lvan wan
-攣躄	lvan bi
 攤薄	tan bo
 攤還	tan huan
 攧攧仆仆	dian dian pu pu
@@ -60991,7 +60986,6 @@ use_preset_vocabulary: true
 熱火朝天	re huo chao tian
 熱爪哇	re zhao wa
 熱爪哇	re zhua wa
-熱痙攣	re jing lvan
 熱血	re xie
 熱血	re xue
 熱血沸騰	re xue fei teng
@@ -61837,8 +61831,6 @@ use_preset_vocabulary: true
 病理解剖	bing li jie pou
 病重	bing zhong
 病革	bing ji
-痙攣	jing lvan
-痙攣派	jing lvan pai
 痛惡	tong wu
 痛覺	tong jue
 痲痹不了	ma bi bu liao
@@ -64858,6 +64850,7 @@ use_preset_vocabulary: true
 蕁麻疹	xun ma zhen
 蕃侯	fan hou
 蕃坊	fan fang
+蕃孌	fan luan
 蕃孌	fan lvan
 蕃帽	fan mao
 蕃庶	fan shu
