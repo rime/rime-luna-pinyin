@@ -51170,6 +51170,7 @@ use_preset_vocabulary: true
 出糗	chu qiu
 出紅差	chu hong chai
 出芽生殖	chu ya sheng zhi
+出蟄	chu zhe
 出蟄	chu zhi
 出血	chu xie
 出血	chu xue
@@ -52553,6 +52554,7 @@ use_preset_vocabulary: true
 啑血	jie xue
 啓白	qi bai
 啓白	qi bo
+啓蟄	qi zhe
 啓蟄	qi zhi
 啓行	qi xing
 啜賺	chuo zuan
@@ -65289,12 +65291,19 @@ use_preset_vocabulary: true
 螵蛸	piao xiao
 螺螄	luo si
 螺鈿	luo dian
+蟄伏	zhe fu
 蟄伏	zhi fu
+蟄居	zhe ju
 蟄居	zhi ju
+蟄獸	zhe shou
 蟄獸	zhi shou
+蟄蟄	zhe zhe
 蟄蟄	zhi zhi
+蟄蟲	zhe chong
 蟄蟲	zhi chong
+蟄陷	zhe xian
 蟄陷	zhi xian
+蟄雷	zhe lei
 蟄雷	zhi lei
 蟊賊	mao ze
 蟋蟀	xi shuai
@@ -69034,6 +69043,7 @@ use_preset_vocabulary: true
 閉戹	bi e
 閉明塞聰	bi ming se cong
 閉目塞聽	bi mu se ting
+閉蟄	bi zhe
 閉蟄	bi zhi
 閉門塞竇	bi men se dou
 閉門造車	bi men zao che
