@@ -13393,7 +13393,7 @@ use_preset_vocabulary: true
 懼	ju
 懽	guan
 懽	huan
-懾	nie
+懾	nie	0%
 懾	she
 懾	zhe
 懿	yi
@@ -55718,6 +55718,7 @@ use_preset_vocabulary: true
 心餘力絀	xin yu li chu
 心驚肉顫	xin jing rou chan
 心驚肉顫	xin jing rou zhan
+心驚膽懾	xin jing dan she
 心驚膽懾	xin jing dan zhe
 心驚膽顫	xin jing dan zhan
 必得	bi dei
@@ -56161,10 +56162,14 @@ use_preset_vocabulary: true
 懸針垂露	xuan zhen chui lou
 懽喜	huan xi
 懽悰	huan cong
+懾人	she ren
 懾人	zhe ren
+懾人心魄	she ren xin po
 懾人心魄	zhe ren xin po
+懾息	she xi
 懾息	zhe xi
 懾慴	zhe zhe
+懾服	she fu
 懾服	zhe fu
 懿濞	yi pi
 懿範長昭	yi fan chang zhao
@@ -64169,6 +64174,7 @@ use_preset_vocabulary: true
 膴仕	wu shi
 膴膴	wu wu
 膻中	dan zhong
+膽懾	dan she
 膽懾	dan zhe
 膽顫心寒	dan zhan xin han
 膽顫心驚	dan zhan xin jing
@@ -64198,7 +64204,9 @@ use_preset_vocabulary: true
 臨深履薄	lin shen lv bo
 臨淵履薄	lin yuan lv bo
 臨行	lin xing
+臨難不懾	lin nan bu she
 臨難不懾	lin nan bu zhe
+臨難無懾	lin nan wu she
 臨難無懾	lin nan wu zhe
 臨風搖曳	lin feng yao ye
 臨風搖曳	lin feng yao yi
@@ -68600,6 +68608,7 @@ use_preset_vocabulary: true
 鎬鎬	hao hao
 鎬頭	gao tou
 鎮嚇	zhen he
+鎮懾	zhen she
 鎮懾	zhen zhe
 鎮長	zhen zhang
 鏈接地址	lian jie di zhi
@@ -69389,6 +69398,7 @@ use_preset_vocabulary: true
 隘口	ai kou
 隘害	ai hai
 隘巷	ai xiang
+隘懾	ai she
 隘懾	ai zhe
 隘窘	ai jiong
 隘路	ai lu
@@ -69578,6 +69588,7 @@ use_preset_vocabulary: true
 震天價響	zhen tian ga xiang
 震天動地	zhen tian dong di
 震天駭地	zhen tian hai di
+震懾	zhen she
 震懾	zhen zhe
 震撼彈	zhen han dan
 震顫麻痺	zhen chan ma bi
