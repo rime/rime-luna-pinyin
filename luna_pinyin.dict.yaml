@@ -21071,8 +21071,8 @@ use_preset_vocabulary: true
 秵	yin
 秶	zi
 秷	zhi
-秸	ji
-秸	jia
+秸	ji	0%
+秸	jia	0%
 秸	jie
 秹	ren
 秺	du
@@ -21133,8 +21133,9 @@ use_preset_vocabulary: true
 稪	fu
 稫	bi
 稬	nuo
-稭	ji
-稭	jia
+稭	ji	0%
+稭	jia	0%
+稭	jie
 種	zhong
 稯	zong
 稰	xu
