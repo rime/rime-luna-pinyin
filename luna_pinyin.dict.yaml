@@ -14991,8 +14991,8 @@ use_preset_vocabulary: true
 暩	gui
 暩	ji
 暪	men
-暫	zan
-暫	zhan	0%
+暫	zan	100%
+暫	zhan	5%
 暬	nie
 暬	xie
 暭	gao
@@ -27728,8 +27728,8 @@ use_preset_vocabulary: true
 軶	e
 軷	ba
 軷	bo
-軸	zhou
-軸	zhu
+軸	zhou	100%
+軸	zhu	4%
 軹	zhi
 軺	yao
 軻	ke
