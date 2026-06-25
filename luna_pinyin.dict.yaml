@@ -8320,7 +8320,6 @@ use_preset_vocabulary: true
 劁	qiao
 劂	jue
 劃	hua	99.94%
-劄	da
 劄	zha
 劅	zhuo
 劆	lian
@@ -13489,8 +13488,8 @@ use_preset_vocabulary: true
 戾	lei
 戾	li
 戾	lie
-房	fang	100%
-房	pang	0%
+房	fang	98%
+房	pang	2%
 所	suo
 扁	bian	99.37%
 扁	pian	0.63%
@@ -52943,6 +52942,7 @@ use_preset_vocabulary: true
 圈地	quan di
 圈檻	juan jian
 圈肥	juan fei
+圈養	juan yang
 圈馬	juan ma
 圊圂	qing hun
 國之楨榦	guo zhi zhen gan
@@ -61133,6 +61133,8 @@ use_preset_vocabulary: true
 牙籤錦軸	ya qian jin zhou
 牙行	ya hang
 牙齦	ya yin
+牛丼	niu dan
+牛丼	niu dong
 牛仔布	niu zi bu
 牛仔裝	niu zi zhuang
 牛勁	niu jin
@@ -63348,6 +63350,8 @@ use_preset_vocabulary: true
 綝纚	lin shi
 綠地	lv di
 綠林	lu lin
+綠營	lu ying
+綠營	lv ying
 綠耳	lu er
 綠色行銷	lv se xing xiao
 綠螘	lu yi
@@ -69182,8 +69186,12 @@ use_preset_vocabulary: true
 阿彌陀經	e mi tuo jing
 阿意曲從	e yi qu cong
 阿意順旨	e yi shun zhi
+阿房	e fang
+阿房	e pang
 阿房宮	e fang gong
+阿房宮	e pang gong
 阿房宮賦	e fang gong fu
+阿房宮賦	e pang gong fu
 阿拉伯	a la bo
 阿拉伯人	a la bo ren
 阿拉伯勞倫斯	a la bo lao lun si
@@ -70843,7 +70851,6 @@ use_preset_vocabulary: true
 龜行	gui xing
 龜裂	jun lie
 龜趺	gui fu
-𠀤音	bing yin
 𣘨橠	e nuo
 𣝓弧	yan hu
 𣝓絲	yan si
