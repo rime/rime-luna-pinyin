@@ -16696,8 +16696,8 @@ use_preset_vocabulary: true
 氬	ya
 氭	dong
 氮	dan
-氯	lu
-氯	lv
+氯	lu	1%
+氯	lv	99%
 氰	qing
 氱	yang
 氲	yun
@@ -24829,8 +24829,8 @@ use_preset_vocabulary: true
 蘇	su
 蘈	tui
 蘉	mang
-蘊	wen	9.64%
-蘊	yun	90.36%
+蘊	wen	0%
+蘊	yun	100%
 蘋	pin	1%
 蘋	ping	99%
 蘌	yu
@@ -49201,8 +49201,6 @@ use_preset_vocabulary: true
 三朝元老	san chao yuan lao
 三樂	san le
 三樂	san yao
-三氯乙烯	san lv yi xi
-三氯乙烷	san lv yi wan
 三番	san fan
 三番五次	san fan wu ci
 三番兩次	san fan liang ci
@@ -49928,7 +49926,6 @@ use_preset_vocabulary: true
 五百	wu bo	0%
 五穀豐稔	wu gu feng ren
 五經掃地	wu jing sao di
-五蘊	wu yun
 五行	wu xing
 五行並下	wu hang bing xia
 五行俱下	wu hang ju xia
@@ -50900,7 +50897,6 @@ use_preset_vocabulary: true
 內省	nei xing
 內省不疚	nei xing bu jiu
 內省法	nei xing fa
-內蘊	nei yun
 內行人	nei hang ren
 內行看門道	nei hang kan men dao
 內角	nei jiao
@@ -51483,7 +51479,6 @@ use_preset_vocabulary: true
 加勒比海盆地方案	jia le bi hai pen di fang an
 加德滿都	jia de man du
 加把勁	jia ba jin
-加氯量	jia lv liang
 加給	jia ji
 加里波的	jia li bo di
 加重	jia zhong
@@ -52183,7 +52178,6 @@ use_preset_vocabulary: true
 含英咀華	han ying ju hua
 含葩	han pa
 含蓼問疾	han liao wen ji
-含蘊	han yun
 含血噀人	han xie xun ren
 含血噀人	han xue xun ren
 含血噴人	han xie pen ren
@@ -53627,7 +53621,6 @@ use_preset_vocabulary: true
 夙願以償	su yuan yi chang
 多了	duo le
 多了	duo liao
-多氯聯苯	duo lv lian ben
 多藏厚亡	duo cang hou wang
 多行不義必自斃	duo xing bu yi bi zi bi
 多角化	duo jiao hua
@@ -55234,7 +55227,6 @@ use_preset_vocabulary: true
 庋藏	ji cang
 底下奏樂	di xia zou yue
 底棲生物	di qi sheng wu
-底蘊	di yun
 店都知	dian du zhi
 店長	dian zhang
 府宅	fu zhe
@@ -57719,7 +57711,6 @@ use_preset_vocabulary: true
 斂戢	lian ji
 斂聲屏氣	lian sheng bing qi
 斂藏	lian cang
-文化底蘊	wen hua di yun
 文姬入塞	wen ji ru sai
 文攻武嚇	wen gong wu he
 文樂傀儡	wen yue kui lei
@@ -59581,7 +59572,6 @@ use_preset_vocabulary: true
 民調	min diao
 氓隸	mang li
 氟塑料	fu su liao
-氟氯碳化物	fu lv tan hua wu
 氟碳塑膠	fu tan su jiao
 氣丕丕	qi pi pi
 氣充文見	qi chong wen xian
@@ -59603,29 +59593,7 @@ use_preset_vocabulary: true
 氫彈	qing dan
 氮血症	dan xie zheng
 氮血症	dan xue zheng
-氯丁橡膠	lv ding xiang jiao
-氯丹	lv dan
-氯乙烯	lv yi xi
-氯仿	lv fang
-氯化	lv hua
-氯化氫	lv hua qing
-氯化消毒法	lv hua xiao du fa
-氯化物	lv hua wu
-氯化鈉	lv hua na
-氯化鈣	lv hua gai
-氯化鉀	lv hua jia
-氯化銀	lv hua yin
-氯化銨	lv hua an
-氯化鋅	lv hua xin
-氯化鎂	lv hua mei
-氯氣	lv qi
-氯氣中毒	lv qi zhong du
-氯水	lv shui
-氯絲菌素	lv si jun su
 氯綸	lv lun
-氯酸	lv suan
-氯醛	lv quan
-氯黴素	lv mei su
 水利樞紐	shui li shu niu
 水勺	shui shao
 水宿	shui xiu
@@ -59649,7 +59617,6 @@ use_preset_vocabulary: true
 水稗	shui bai
 水筆仔	shui bi zi
 水蓼	shui liao
-水蘊草	shui yun cao
 水過地皮溼	shui guo di pi shi
 水遠山長	shui yuan shan chang
 水都	shui du
@@ -65118,15 +65085,9 @@ use_preset_vocabulary: true
 蘇轍	su zhe
 蘇門長嘯	su men chang xiao
 蘇隄	su ti
-蘊含	yun han
-蘊奇待價	yun qi dai jia
-蘊涵	yun han
-蘊結	yun jie
-蘊蓄	yun xu
 蘊藉	yun jie
 蘊藉含蓄	yun jie han xu
 蘊藏	yun cang
-蘊藹	yun ai
 蘋葉	pin ye
 蘋風	pin feng
 蘗米	bo mi
